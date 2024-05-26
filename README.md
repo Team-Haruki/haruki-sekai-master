@@ -1,2 +1,2 @@
-# sekai-version
-プロジェクトセカイ　カラフルステージ　feat. 初音ミク's version data archive
+# kng-sekai-master
+A real-time master data and version data collection repository for Project Sekai: Colorful Stage feat. Hatsune Miku (Japanese Server)
