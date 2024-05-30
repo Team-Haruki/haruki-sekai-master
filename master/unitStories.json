@@ -1,0 +1,1842 @@
+[
+    {
+        "unit": "idol",
+        "seq": 3,
+        "chapters": [
+            {
+                "id": 3,
+                "unit": "idol",
+                "chapterNo": 1,
+                "title": "MORE MORE JUMP\uff01\u30b9\u30c8\u30fc\u30ea\u30fc \u7b2c1\u7ae0",
+                "assetbundleName": "idol-story-chapter",
+                "episodes": [
+                    {
+                        "id": 30000,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 1,
+                        "episodeNoLabel": "\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0",
+                        "title": "\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0",
+                        "assetbundleName": "story_ts_01_00",
+                        "scenarioId": "mmj_01_00",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            6
+                        ]
+                    },
+                    {
+                        "id": 30001,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 2,
+                        "episodeNoLabel": "\u7b2c1\u8a71",
+                        "title": "\u3042\u3053\u304c\u308c\u306e\u30a2\u30a4\u30c9\u30eb\uff01",
+                        "assetbundleName": "story_ts_01_01",
+                        "scenarioId": "mmj_01_01",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30002,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 3,
+                        "episodeNoLabel": "\u7b2c2\u8a71",
+                        "title": "\u306f\u3063\u304d\u308a\u3057\u306a\u3055\u3044\uff01",
+                        "assetbundleName": "story_ts_01_02",
+                        "scenarioId": "mmj_01_02",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30003,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 4,
+                        "episodeNoLabel": "\u7b2c3\u8a71",
+                        "title": "\u304c\u3093\u3070\u308c\u3070\u304d\u3063\u3068",
+                        "assetbundleName": "story_ts_01_03",
+                        "scenarioId": "mmj_01_03",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30004,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 5,
+                        "episodeNoLabel": "\u7b2c4\u8a71",
+                        "title": "\u30a2\u30a4\u30c9\u30eb\u3060\u304b\u3089\u3053\u305d",
+                        "assetbundleName": "story_ts_01_04",
+                        "scenarioId": "mmj_01_04",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30005,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 6,
+                        "episodeNoLabel": "\u7b2c5\u8a71",
+                        "title": "\u30e9\u30a4\u30d6\u306b\u6765\u3066\u306d\uff01",
+                        "assetbundleName": "story_ts_01_05",
+                        "scenarioId": "mmj_01_05",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30006,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 7,
+                        "episodeNoLabel": "\u7b2c6\u8a71",
+                        "title": "\u30b9\u30c6\u30fc\u30b8\u306e\u30bb\u30ab\u30a4",
+                        "assetbundleName": "story_ts_01_06",
+                        "scenarioId": "mmj_01_06",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30007,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 8,
+                        "episodeNoLabel": "\u7b2c7\u8a71",
+                        "title": "\u30a2\u30a4\u30c9\u30eb\u9054\u306e\u845b\u85e4",
+                        "assetbundleName": "story_ts_01_07",
+                        "scenarioId": "mmj_01_07",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30008,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 9,
+                        "episodeNoLabel": "\u7b2c8\u8a71",
+                        "title": "\u805e\u304d\u305f\u304f\u306a\u304b\u3063\u305f\u8a00\u8449",
+                        "assetbundleName": "story_ts_01_08",
+                        "scenarioId": "mmj_01_08",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30009,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 10,
+                        "episodeNoLabel": "\u7b2c9\u8a71",
+                        "title": "\u30ea\u30f3\u3063\u3068\u5143\u6c17\u306b\uff01",
+                        "assetbundleName": "story_ts_01_09",
+                        "scenarioId": "mmj_01_09",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30010,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 11,
+                        "episodeNoLabel": "\u7b2c10\u8a71",
+                        "title": "\u5f15\u9000",
+                        "assetbundleName": "story_ts_01_10",
+                        "scenarioId": "mmj_01_10",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30011,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 12,
+                        "episodeNoLabel": "\u7b2c11\u8a71",
+                        "title": "\u3044\u307e\u307e\u3067\u3001\u3042\u308a\u304c\u3068\u3046",
+                        "assetbundleName": "story_ts_01_11",
+                        "scenarioId": "mmj_01_11",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30012,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 13,
+                        "episodeNoLabel": "\u7b2c12\u8a71",
+                        "title": "\u30a2\u30a4\u30c9\u30eb\u306e\u8cc7\u683c",
+                        "assetbundleName": "story_ts_01_12",
+                        "scenarioId": "mmj_01_12",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30013,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 14,
+                        "episodeNoLabel": "\u7b2c13\u8a71",
+                        "title": "\u5618\u3064\u304d",
+                        "assetbundleName": "story_ts_01_13",
+                        "scenarioId": "mmj_01_13",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30014,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 15,
+                        "episodeNoLabel": "\u7b2c14\u8a71",
+                        "title": "\u5c4a\u3051\u3089\u308c\u308b\u3082\u306e\u306f",
+                        "assetbundleName": "story_ts_01_14",
+                        "scenarioId": "mmj_01_14",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30015,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 16,
+                        "episodeNoLabel": "\u7b2c15\u8a71",
+                        "title": "\u8fd1\u304f\u3066\u9060\u3044\u30b9\u30c6\u30fc\u30b8",
+                        "assetbundleName": "story_ts_01_15",
+                        "scenarioId": "mmj_01_15",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30016,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 17,
+                        "episodeNoLabel": "\u7b2c16\u8a71",
+                        "title": "\u9752\u8272\u306e\u666f\u8272",
+                        "assetbundleName": "story_ts_01_16",
+                        "scenarioId": "mmj_01_16",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30017,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 18,
+                        "episodeNoLabel": "\u7b2c17\u8a71",
+                        "title": "\u3082\u3046\u4e00\u5ea6\u3042\u306e\u666f\u8272\u3092",
+                        "assetbundleName": "story_ts_01_17",
+                        "scenarioId": "mmj_01_17",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30018,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 19,
+                        "episodeNoLabel": "\u7b2c18\u8a71",
+                        "title": "\u3042\u306e\u65e5\u898b\u305f\u5e0c\u671b",
+                        "assetbundleName": "story_ts_01_18",
+                        "scenarioId": "mmj_01_18",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30019,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 20,
+                        "episodeNoLabel": "\u7b2c19\u8a71",
+                        "title": "\u30a2\u30a4\u30c9\u30eb\u65b0\u92ed\u968a",
+                        "assetbundleName": "story_ts_01_19",
+                        "scenarioId": "mmj_01_19",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 30020,
+                        "unitStoryEpisodeGroupId": 7,
+                        "chapterNo": 1,
+                        "episodeNo": 21,
+                        "episodeNoLabel": "\u7b2c20\u8a71",
+                        "title": "MORE MORE JUMP\uff01",
+                        "assetbundleName": "story_ts_01_20",
+                        "scenarioId": "mmj_01_20",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "unit": "light_sound",
+        "seq": 2,
+        "chapters": [
+            {
+                "id": 5,
+                "unit": "light_sound",
+                "chapterNo": 1,
+                "title": "Leo\/need\u30b9\u30c8\u30fc\u30ea\u30fc \u7b2c1\u7ae0",
+                "assetbundleName": "light-sound-story-chapter",
+                "episodes": [
+                    {
+                        "id": 50000,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 1,
+                        "episodeNoLabel": "\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0",
+                        "title": "\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0",
+                        "assetbundleName": "story_ts_02_00",
+                        "scenarioId": "leo_01_00",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            8
+                        ]
+                    },
+                    {
+                        "id": 50001,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 2,
+                        "episodeNoLabel": "\u7b2c1\u8a71",
+                        "title": "\uff14\u4eba\u76ee\u306e\u5e7c\u99b4\u67d3\u307f",
+                        "assetbundleName": "story_ts_02_01",
+                        "scenarioId": "leo_01_01",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50002,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 3,
+                        "episodeNoLabel": "\u7b2c2\u8a71",
+                        "title": "\u305b\u3081\u3066\u3001\u79c1\u306f",
+                        "assetbundleName": "story_ts_02_02",
+                        "scenarioId": "leo_01_02",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50003,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 4,
+                        "episodeNoLabel": "\u7b2c3\u8a71",
+                        "title": "\u3075\u305f\u308a\u3060\u3051\u3060\u3068\u3055\u3073\u3057\u3044\u306d",
+                        "assetbundleName": "story_ts_02_03",
+                        "scenarioId": "leo_01_03",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50004,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 5,
+                        "episodeNoLabel": "\u7b2c4\u8a71",
+                        "title": "\u6559\u5ba4\u306e\u30bb\u30ab\u30a4",
+                        "assetbundleName": "story_ts_02_04",
+                        "scenarioId": "leo_01_04",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50005,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 6,
+                        "episodeNoLabel": "\u7b2c5\u8a71",
+                        "title": "\u30d0\u30f3\u30c9\u3001\u3084\u3063\u3066\u307f\u306a\u3044\uff1f",
+                        "assetbundleName": "story_ts_02_05",
+                        "scenarioId": "leo_01_05",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50006,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 7,
+                        "episodeNoLabel": "\u7b2c6\u8a71",
+                        "title": "\u6700\u521d\u306e\u4e00\u6b69",
+                        "assetbundleName": "story_ts_02_06",
+                        "scenarioId": "leo_01_06",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50007,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 8,
+                        "episodeNoLabel": "\u7b2c7\u8a71",
+                        "title": "\u304a\u3057\u3048\u3066\u30eb\u30ab\u3055\u3093\uff01",
+                        "assetbundleName": "story_ts_02_07",
+                        "scenarioId": "leo_01_07",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50008,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 9,
+                        "episodeNoLabel": "\u7b2c8\u8a71",
+                        "title": "\u898b\u3048\u306a\u3044\u661f",
+                        "assetbundleName": "story_ts_02_08",
+                        "scenarioId": "leo_01_08",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50009,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 10,
+                        "episodeNoLabel": "\u7b2c9\u8a71",
+                        "title": "\uff13\u4eba\u3067\u30bb\u30c3\u30b7\u30e7\u30f3\uff01\uff1f",
+                        "assetbundleName": "story_ts_02_09",
+                        "scenarioId": "leo_01_09",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50010,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 11,
+                        "episodeNoLabel": "\u7b2c10\u8a71",
+                        "title": "\u30b8\u30e3\u30f3\u30b0\u30eb\u30b8\u30e0\u3068\u6d41\u661f\u7fa4",
+                        "assetbundleName": "story_ts_02_10",
+                        "scenarioId": "leo_01_10",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50011,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 12,
+                        "episodeNoLabel": "\u7b2c11\u8a71",
+                        "title": "\u8b66\u544a\u3057\u305f\u304b\u3089",
+                        "assetbundleName": "story_ts_02_11",
+                        "scenarioId": "leo_01_11",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50012,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 13,
+                        "episodeNoLabel": "\u7b2c12\u8a71",
+                        "title": "\u300c\u8ab0\u306e\u5473\u65b9\u306a\u306e\uff1f\u300d",
+                        "assetbundleName": "story_ts_02_12",
+                        "scenarioId": "leo_01_12",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50013,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 14,
+                        "episodeNoLabel": "\u7b2c13\u8a71",
+                        "title": "\u54b2\u5e0c\u306e\u6c7a\u610f",
+                        "assetbundleName": "story_ts_02_13",
+                        "scenarioId": "leo_01_13",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50014,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 15,
+                        "episodeNoLabel": "\u7b2c14\u8a71",
+                        "title": "\u5927\u5207\u3060\u304b\u3089",
+                        "assetbundleName": "story_ts_02_14",
+                        "scenarioId": "leo_01_14",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50015,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 16,
+                        "episodeNoLabel": "\u7b2c15\u8a71",
+                        "title": "\u3054\u307e\u304b\u3055\u306a\u3044\u3067",
+                        "assetbundleName": "story_ts_02_15",
+                        "scenarioId": "leo_01_15",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50016,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 17,
+                        "episodeNoLabel": "\u7b2c16\u8a71",
+                        "title": "\u300c\u305a\u3063\u3068\u4e00\u7dd2\u306b\u300d",
+                        "assetbundleName": "story_ts_02_16",
+                        "scenarioId": "leo_01_16",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50017,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 18,
+                        "episodeNoLabel": "\u7b2c17\u8a71",
+                        "title": "\u7a42\u6ce2\u306e\u60f3\u3044",
+                        "assetbundleName": "story_ts_02_17",
+                        "scenarioId": "leo_01_17",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50018,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 19,
+                        "episodeNoLabel": "\u7b2c18\u8a71",
+                        "title": "\uff14\u4eba\u306e\u661f\u7a7a",
+                        "assetbundleName": "story_ts_02_18",
+                        "scenarioId": "leo_01_18",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50019,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 20,
+                        "episodeNoLabel": "\u7b2c19\u8a71",
+                        "title": "needLe",
+                        "assetbundleName": "story_ts_02_19",
+                        "scenarioId": "leo_01_19",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 50020,
+                        "unitStoryEpisodeGroupId": 6,
+                        "chapterNo": 1,
+                        "episodeNo": 21,
+                        "episodeNoLabel": "\u7b2c20\u8a71",
+                        "title": "Leo\/need",
+                        "assetbundleName": "story_ts_02_20",
+                        "scenarioId": "leo_01_20",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "unit": "piapro",
+        "seq": 1,
+        "chapters": [
+            {
+                "id": 1,
+                "unit": "piapro",
+                "chapterNo": 1,
+                "title": "piapro\u30b9\u30c8\u30fc\u30ea\u30fc \u7b2c1\u7ae0",
+                "assetbundleName": "piapro-story-chapter",
+                "episodes": [
+                    {
+                        "id": 4,
+                        "unitStoryEpisodeGroupId": 1,
+                        "chapterNo": 1,
+                        "episodeNo": 4,
+                        "episodeNoLabel": "\u7b2c1\u8a71",
+                        "title": "\u79d8\u5bc6\u306e\u7df4\u7fd2",
+                        "assetbundleName": "story_ts_06_01",
+                        "scenarioId": "vsleo_01_01",
+                        "releaseConditionId": 50002,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "unitStoryEpisodeGroupId": 1,
+                        "chapterNo": 1,
+                        "episodeNo": 5,
+                        "episodeNoLabel": "\u7b2c2\u8a71",
+                        "title": "\u5148\u8f29\u3060\u304b\u3089\u3067\u304d\u308b\u3053\u3068",
+                        "assetbundleName": "story_ts_06_02",
+                        "scenarioId": "vsleo_01_02",
+                        "releaseConditionId": 50003,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "unitStoryEpisodeGroupId": 1,
+                        "chapterNo": 1,
+                        "episodeNo": 6,
+                        "episodeNoLabel": "\u7b2c3\u8a71",
+                        "title": "\u610f\u5916\u306a\u4e00\u9762",
+                        "assetbundleName": "story_ts_06_03",
+                        "scenarioId": "vsleo_01_03",
+                        "releaseConditionId": 50004,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "unitStoryEpisodeGroupId": 1,
+                        "chapterNo": 1,
+                        "episodeNo": 7,
+                        "episodeNoLabel": "\u7b2c4\u8a71",
+                        "title": "\u30ad\u30e9\u30ad\u30e9\u306e\u6bce\u65e5",
+                        "assetbundleName": "story_ts_06_04",
+                        "scenarioId": "vsleo_01_04",
+                        "releaseConditionId": 50005,
+                        "rewardResourceBoxIds": [
+                            10
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "unitStoryEpisodeGroupId": 2,
+                        "chapterNo": 1,
+                        "episodeNo": 8,
+                        "episodeNoLabel": "\u7b2c1\u8a71",
+                        "title": "\u5168\u529b\u30e9\u30a4\u30d6\uff01",
+                        "assetbundleName": "story_ts_06_05",
+                        "scenarioId": "vsmmj_01_01",
+                        "releaseConditionId": 50006,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 9,
+                        "unitStoryEpisodeGroupId": 2,
+                        "chapterNo": 1,
+                        "episodeNo": 9,
+                        "episodeNoLabel": "\u7b2c2\u8a71",
+                        "title": "\u5143\u6c17\u3092\u51fa\u3057\u3066",
+                        "assetbundleName": "story_ts_06_06",
+                        "scenarioId": "vsmmj_01_02",
+                        "releaseConditionId": 50007,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "unitStoryEpisodeGroupId": 2,
+                        "chapterNo": 1,
+                        "episodeNo": 10,
+                        "episodeNoLabel": "\u7b2c3\u8a71",
+                        "title": "\u9752\u306e\u30b9\u30c6\u30fc\u30b8",
+                        "assetbundleName": "story_ts_06_07",
+                        "scenarioId": "vsmmj_01_03",
+                        "releaseConditionId": 50008,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "unitStoryEpisodeGroupId": 2,
+                        "chapterNo": 1,
+                        "episodeNo": 11,
+                        "episodeNoLabel": "\u7b2c4\u8a71",
+                        "title": "\u307f\u3093\u306a\u3067\u30e9\u30a4\u30d6\uff01",
+                        "assetbundleName": "story_ts_06_08",
+                        "scenarioId": "vsmmj_01_04",
+                        "releaseConditionId": 50009,
+                        "rewardResourceBoxIds": [
+                            11
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "unitStoryEpisodeGroupId": 3,
+                        "chapterNo": 1,
+                        "episodeNo": 12,
+                        "episodeNoLabel": "\u7b2c1\u8a71",
+                        "title": "\u30e1\u30a4\u30b3\u306e\u65b0\u4f5c\u30e1\u30cb\u30e5\u30fc",
+                        "assetbundleName": "story_ts_06_09",
+                        "scenarioId": "vsstreet_01_01",
+                        "releaseConditionId": 50010,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "unitStoryEpisodeGroupId": 3,
+                        "chapterNo": 1,
+                        "episodeNo": 13,
+                        "episodeNoLabel": "\u7b2c2\u8a71",
+                        "title": "\u5927\u4eba\u306e\u5473",
+                        "assetbundleName": "story_ts_06_10",
+                        "scenarioId": "vsstreet_01_02",
+                        "releaseConditionId": 50011,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 14,
+                        "unitStoryEpisodeGroupId": 3,
+                        "chapterNo": 1,
+                        "episodeNo": 14,
+                        "episodeNoLabel": "\u7b2c3\u8a71",
+                        "title": "\u4ef2\u76f4\u308a\u306e\u4e00\u6b69",
+                        "assetbundleName": "story_ts_06_11",
+                        "scenarioId": "vsstreet_01_03",
+                        "releaseConditionId": 50012,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 15,
+                        "unitStoryEpisodeGroupId": 3,
+                        "chapterNo": 1,
+                        "episodeNo": 15,
+                        "episodeNoLabel": "\u7b2c4\u8a71",
+                        "title": "\u307f\u3093\u306a\u3067\u6b4c\u304a\u3046\uff01",
+                        "assetbundleName": "story_ts_06_12",
+                        "scenarioId": "vsstreet_01_04",
+                        "releaseConditionId": 50013,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 16,
+                        "unitStoryEpisodeGroupId": 4,
+                        "chapterNo": 1,
+                        "episodeNo": 16,
+                        "episodeNoLabel": "\u7b2c1\u8a71",
+                        "title": "\u7740\u3050\u308b\u307f\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9",
+                        "assetbundleName": "story_ts_06_13",
+                        "scenarioId": "vswonder_01_01",
+                        "releaseConditionId": 50014,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 17,
+                        "unitStoryEpisodeGroupId": 4,
+                        "chapterNo": 1,
+                        "episodeNo": 17,
+                        "episodeNoLabel": "\u7b2c2\u8a71",
+                        "title": "\u7d42\u308f\u308b\u304b\u3089\u59cb\u307e\u308b\u3082\u306e",
+                        "assetbundleName": "story_ts_06_14",
+                        "scenarioId": "vswonder_01_02",
+                        "releaseConditionId": 50015,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 18,
+                        "unitStoryEpisodeGroupId": 4,
+                        "chapterNo": 1,
+                        "episodeNo": 18,
+                        "episodeNoLabel": "\u7b2c3\u8a71",
+                        "title": "\u541b\u304c\u7b11\u9854\u306b\u306a\u308b\u30b7\u30e7\u30fc\u3092",
+                        "assetbundleName": "story_ts_06_15",
+                        "scenarioId": "vswonder_01_03",
+                        "releaseConditionId": 50016,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "unitStoryEpisodeGroupId": 4,
+                        "chapterNo": 1,
+                        "episodeNo": 19,
+                        "episodeNoLabel": "\u7b2c4\u8a71",
+                        "title": "\u7a7a\u98db\u3076\u30b7\u30e7\u30fc\u30b9\u30c6\u30fc\u30b8\uff01\uff1f",
+                        "assetbundleName": "story_ts_06_16",
+                        "scenarioId": "vswonder_01_04",
+                        "releaseConditionId": 50017,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20,
+                        "unitStoryEpisodeGroupId": 5,
+                        "chapterNo": 1,
+                        "episodeNo": 20,
+                        "episodeNoLabel": "\u7b2c1\u8a71",
+                        "title": "\u6700\u521d\u304b\u3089\u3042\u3063\u305f\u6b4c",
+                        "assetbundleName": "story_ts_06_17",
+                        "scenarioId": "vsnightcode_01_01",
+                        "releaseConditionId": 50018,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 21,
+                        "unitStoryEpisodeGroupId": 5,
+                        "chapterNo": 1,
+                        "episodeNo": 21,
+                        "episodeNoLabel": "\u7b2c2\u8a71",
+                        "title": "\u75db\u305d\u3046\u306a\u97f3\u7b26",
+                        "assetbundleName": "story_ts_06_18",
+                        "scenarioId": "vsnightcode_01_02",
+                        "releaseConditionId": 50019,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 22,
+                        "unitStoryEpisodeGroupId": 5,
+                        "chapterNo": 1,
+                        "episodeNo": 22,
+                        "episodeNoLabel": "\u7b2c3\u8a71",
+                        "title": "\u96a3\u306b\u3044\u308b\u304b\u3089",
+                        "assetbundleName": "story_ts_06_19",
+                        "scenarioId": "vsnightcode_01_03",
+                        "releaseConditionId": 50020,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 23,
+                        "unitStoryEpisodeGroupId": 5,
+                        "chapterNo": 1,
+                        "episodeNo": 23,
+                        "episodeNoLabel": "\u7b2c4\u8a71",
+                        "title": "\u3042\u306a\u305f\u306e\u97f3\u697d",
+                        "assetbundleName": "story_ts_06_20",
+                        "scenarioId": "vsnightcode_01_04",
+                        "releaseConditionId": 50021,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "unit": "school_refusal",
+        "seq": 6,
+        "chapters": [
+            {
+                "id": 6,
+                "unit": "school_refusal",
+                "chapterNo": 1,
+                "title": "25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002\u30b9\u30c8\u30fc\u30ea\u30fc \u7b2c1\u7ae0",
+                "assetbundleName": "school-refusal-story-chapter",
+                "episodes": [
+                    {
+                        "id": 60000,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 1,
+                        "episodeNoLabel": "\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0",
+                        "title": "\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0",
+                        "assetbundleName": "story_ts_05_00",
+                        "scenarioId": "nightcode_01_00",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            9
+                        ]
+                    },
+                    {
+                        "id": 60001,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 2,
+                        "episodeNoLabel": "\u7b2c1\u8a71",
+                        "title": "\u771f\u591c\u4e2d\u306e\u30b5\u30fc\u30af\u30eb",
+                        "assetbundleName": "story_ts_05_01",
+                        "scenarioId": "nightcode_01_01",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60002,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 3,
+                        "episodeNoLabel": "\u7b2c2\u8a71",
+                        "title": "\u767d\u3044\u30df\u30af",
+                        "assetbundleName": "story_ts_05_02",
+                        "scenarioId": "nightcode_01_02",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60003,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 4,
+                        "episodeNoLabel": "\u7b2c3\u8a71",
+                        "title": "OWN",
+                        "assetbundleName": "story_ts_05_03",
+                        "scenarioId": "nightcode_01_03",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60004,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 5,
+                        "episodeNoLabel": "\u7b2c4\u8a71",
+                        "title": "\u79c1\u306f\u3044\u3044\u5b50",
+                        "assetbundleName": "story_ts_05_04",
+                        "scenarioId": "nightcode_01_04",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60005,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 6,
+                        "episodeNoLabel": "\u7b2c5\u8a71",
+                        "title": "\u6d88\u3048\u305f\u96ea",
+                        "assetbundleName": "story_ts_05_05",
+                        "scenarioId": "nightcode_01_05",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60006,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 7,
+                        "episodeNoLabel": "\u7b2c6\u8a71",
+                        "title": "\u8ab0\u3082\u3044\u306a\u3044\u30bb\u30ab\u30a4",
+                        "assetbundleName": "story_ts_05_06",
+                        "scenarioId": "nightcode_01_06",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60007,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 8,
+                        "episodeNoLabel": "\u7b2c7\u8a71",
+                        "title": "\u6d88\u3048\u305f\u304c\u3063\u3066\u308b\u304f\u305b\u306b",
+                        "assetbundleName": "story_ts_05_07",
+                        "scenarioId": "nightcode_01_07",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60008,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 9,
+                        "episodeNoLabel": "\u7b2c8\u8a71",
+                        "title": "\u51e1\u4eba\u306e\u7d75",
+                        "assetbundleName": "story_ts_05_08",
+                        "scenarioId": "nightcode_01_08",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60009,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 10,
+                        "episodeNoLabel": "\u7b2c9\u8a71",
+                        "title": "\u30dc\u30af\u306f\u30dc\u30af\u3067\u3044\u305f\u3044\u306e\u306b",
+                        "assetbundleName": "story_ts_05_09",
+                        "scenarioId": "nightcode_01_09",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60010,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 11,
+                        "episodeNoLabel": "\u7b2c10\u8a71",
+                        "title": "\u8db3\u308a\u306a\u3044\u97f3",
+                        "assetbundleName": "story_ts_05_10",
+                        "scenarioId": "nightcode_01_10",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60011,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 12,
+                        "episodeNoLabel": "\u7b2c11\u8a71",
+                        "title": "\u5e78\u305b\u306b\u306a\u308b\u97f3\u697d\u3092",
+                        "assetbundleName": "story_ts_05_11",
+                        "scenarioId": "nightcode_01_11",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60012,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 13,
+                        "episodeNoLabel": "\u7b2c12\u8a71",
+                        "title": "\u305f\u3060\u3072\u3068\u3064\u306e\u6b4c",
+                        "assetbundleName": "story_ts_05_12",
+                        "scenarioId": "nightcode_01_12",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60013,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 14,
+                        "episodeNoLabel": "\u7b2c13\u8a71",
+                        "title": "\u3069\u3053\u306b\u3082\u3044\u306a\u3044\u201c\u79c1\u201d",
+                        "assetbundleName": "story_ts_05_13",
+                        "scenarioId": "nightcode_01_13",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60014,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 15,
+                        "episodeNoLabel": "\u7b2c14\u8a71",
+                        "title": "\u5bc2\u3057\u3044\u306a\u3041\u3001\u3063\u3066",
+                        "assetbundleName": "story_ts_05_14",
+                        "scenarioId": "nightcode_01_14",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60015,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 16,
+                        "episodeNoLabel": "\u7b2c15\u8a71",
+                        "title": "\u6d88\u3048\u3066\u3057\u307e\u3046\u524d\u306b",
+                        "assetbundleName": "story_ts_05_15",
+                        "scenarioId": "nightcode_01_15",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60016,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 17,
+                        "episodeNoLabel": "\u7b2c16\u8a71",
+                        "title": "\u5d29\u58ca",
+                        "assetbundleName": "story_ts_05_16",
+                        "scenarioId": "nightcode_01_16",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60017,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 18,
+                        "episodeNoLabel": "\u7b2c17\u8a71",
+                        "title": "\u3075\u305f\u308a\u306e\u546a\u3044",
+                        "assetbundleName": "story_ts_05_17",
+                        "scenarioId": "nightcode_01_17",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60018,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 19,
+                        "episodeNoLabel": "\u7b2c18\u8a71",
+                        "title": "\u305d\u308c\u3067\u3082\u6551\u3044\u305f\u3044\u304b\u3089",
+                        "assetbundleName": "story_ts_05_18",
+                        "scenarioId": "nightcode_01_18",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60019,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 20,
+                        "episodeNoLabel": "\u7b2c19\u8a71",
+                        "title": "\u6094\u3084\u3080\u3068\u66f8\u3044\u3066\u30df\u30e9\u30a4",
+                        "assetbundleName": "story_ts_05_19",
+                        "scenarioId": "nightcode_01_19",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 60020,
+                        "unitStoryEpisodeGroupId": 10,
+                        "chapterNo": 1,
+                        "episodeNo": 21,
+                        "episodeNoLabel": "\u7b2c20\u8a71",
+                        "title": "25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002",
+                        "assetbundleName": "story_ts_05_20",
+                        "scenarioId": "nightcode_01_20",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "unit": "street",
+        "seq": 4,
+        "chapters": [
+            {
+                "id": 4,
+                "unit": "street",
+                "chapterNo": 1,
+                "title": "Vivid BAD SQUAD\u30b9\u30c8\u30fc\u30ea\u30fc \u7b2c1\u7ae0",
+                "assetbundleName": "street-story-chapter",
+                "episodes": [
+                    {
+                        "id": 40000,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 1,
+                        "episodeNoLabel": "\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0",
+                        "title": "\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0",
+                        "assetbundleName": "story_ts_03_00",
+                        "scenarioId": "street_01_00",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            7
+                        ]
+                    },
+                    {
+                        "id": 40001,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 2,
+                        "episodeNoLabel": "\u7b2c1\u8a71",
+                        "title": "\u843d\u66f8\u304d\u3060\u3089\u3051\u306e\u30b9\u30c8\u30ea\u30fc\u30c8",
+                        "assetbundleName": "story_ts_03_01",
+                        "scenarioId": "street_01_01",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40002,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 3,
+                        "episodeNoLabel": "\u7b2c2\u8a71",
+                        "title": "\u4e00\u756a\u30c9\u30ad\u30c9\u30ad\u3059\u308b\u6b4c",
+                        "assetbundleName": "story_ts_03_02",
+                        "scenarioId": "street_01_02",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40003,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 4,
+                        "episodeNoLabel": "\u7b2c3\u8a71",
+                        "title": "WEEKEND GARAGE",
+                        "assetbundleName": "story_ts_03_03",
+                        "scenarioId": "street_01_03",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40004,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 5,
+                        "episodeNoLabel": "\u7b2c4\u8a71",
+                        "title": "BAD DOGS",
+                        "assetbundleName": "story_ts_03_04",
+                        "scenarioId": "street_01_04",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40005,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 6,
+                        "episodeNoLabel": "\u7b2c5\u8a71",
+                        "title": "\u30b9\u30c8\u30ea\u30fc\u30c8\u306e\u30bb\u30ab\u30a4",
+                        "assetbundleName": "story_ts_03_05",
+                        "scenarioId": "street_01_05",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40006,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 7,
+                        "episodeNoLabel": "\u7b2c6\u8a71",
+                        "title": "\u4e0d\u601d\u8b70\u306a\u30ab\u30d5\u30a7",
+                        "assetbundleName": "story_ts_03_06",
+                        "scenarioId": "street_01_06",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40007,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 8,
+                        "episodeNoLabel": "\u7b2c7\u8a71",
+                        "title": "\u3068\u3063\u3066\u304a\u304d\u306e\u7df4\u7fd2\u5834\u6240",
+                        "assetbundleName": "story_ts_03_07",
+                        "scenarioId": "street_01_07",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40008,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 9,
+                        "episodeNoLabel": "\u7b2c8\u8a71",
+                        "title": "\u601d\u3063\u3066\u308b\u3063\u3066\u601d\u3044\u305f\u3044",
+                        "assetbundleName": "story_ts_03_08",
+                        "scenarioId": "street_01_08",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40009,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 10,
+                        "episodeNoLabel": "\u7b2c9\u8a71",
+                        "title": "\u521d\u3081\u3066\u306e\u30a4\u30d9\u30f3\u30c8",
+                        "assetbundleName": "story_ts_03_09",
+                        "scenarioId": "street_01_09",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40010,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 11,
+                        "episodeNoLabel": "\u7b2c10\u8a71",
+                        "title": "\u554f\u308f\u308c\u305f\u899a\u609f",
+                        "assetbundleName": "story_ts_03_10",
+                        "scenarioId": "street_01_10",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40011,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 12,
+                        "episodeNoLabel": "\u7b2c11\u8a71",
+                        "title": "\u6249\u3092\u958b\u304f\u52c7\u6c17\u3092",
+                        "assetbundleName": "story_ts_03_11",
+                        "scenarioId": "street_01_11",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40012,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 13,
+                        "episodeNoLabel": "\u7b2c12\u8a71",
+                        "title": "\u7d76\u5bfe\u3001\u9003\u3052\u306a\u3044\uff01",
+                        "assetbundleName": "story_ts_03_12",
+                        "scenarioId": "street_01_12",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40013,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 14,
+                        "episodeNoLabel": "\u7b2c13\u8a71",
+                        "title": "Vivids\uff01",
+                        "assetbundleName": "story_ts_03_13",
+                        "scenarioId": "street_01_13",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40014,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 15,
+                        "episodeNoLabel": "\u7b2c14\u8a71",
+                        "title": "\u672c\u6c17\u3067\u8a00\u3063\u3066\u3093\u306e\u304b",
+                        "assetbundleName": "story_ts_03_14",
+                        "scenarioId": "street_01_14",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40015,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 16,
+                        "episodeNoLabel": "\u7b2c15\u8a71",
+                        "title": "\u8a8d\u3081\u3066\u304f\u308c\u305f\u304b\u3089",
+                        "assetbundleName": "story_ts_03_15",
+                        "scenarioId": "street_01_15",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40016,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 17,
+                        "episodeNoLabel": "\u7b2c16\u8a71",
+                        "title": "\uff13\u4eba\u76ee",
+                        "assetbundleName": "story_ts_03_16",
+                        "scenarioId": "street_01_16",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40017,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 18,
+                        "episodeNoLabel": "\u7b2c17\u8a71",
+                        "title": "\u30ec\u30f3\u3068MEIKO\u3068\u3068\u3063\u3066\u304a\u304d",
+                        "assetbundleName": "story_ts_03_17",
+                        "scenarioId": "street_01_17",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40018,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 19,
+                        "episodeNoLabel": "\u7b2c18\u8a71",
+                        "title": "\u3051\u3058\u3081",
+                        "assetbundleName": "story_ts_03_18",
+                        "scenarioId": "street_01_18",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40019,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 20,
+                        "episodeNoLabel": "\u7b2c19\u8a71",
+                        "title": "Ready Steady",
+                        "assetbundleName": "story_ts_03_19",
+                        "scenarioId": "street_01_19",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 40020,
+                        "unitStoryEpisodeGroupId": 8,
+                        "chapterNo": 1,
+                        "episodeNo": 21,
+                        "episodeNoLabel": "\u7b2c20\u8a71",
+                        "title": "Vivid BAD SQUAD",
+                        "assetbundleName": "story_ts_03_20",
+                        "scenarioId": "street_01_20",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "unit": "theme_park",
+        "seq": 5,
+        "chapters": [
+            {
+                "id": 2,
+                "unit": "theme_park",
+                "chapterNo": 1,
+                "title": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0\u30b9\u30c8\u30fc\u30ea\u30fc \u7b2c1\u7ae0",
+                "assetbundleName": "theme-park-story-chapter",
+                "episodes": [
+                    {
+                        "id": 20000,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 1,
+                        "episodeNoLabel": "\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0",
+                        "title": "\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0",
+                        "assetbundleName": "story_ts_04_00",
+                        "scenarioId": "wonder_01_00",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            5
+                        ]
+                    },
+                    {
+                        "id": 20001,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 2,
+                        "episodeNoLabel": "\u7b2c1\u8a71",
+                        "title": "\u3088\u3046\u3053\u305d\u30ef\u30f3\u30c0\u30fc\u30b9\u30c6\u30fc\u30b8\u3078\uff01",
+                        "assetbundleName": "story_ts_04_01",
+                        "scenarioId": "wonder_01_01",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20002,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 3,
+                        "episodeNoLabel": "\u7b2c2\u8a71",
+                        "title": "\u672a\u6765\u306e\u30b9\u30bf\u30fc\u3068\u308f\u3093\u3060\u307b\u3044",
+                        "assetbundleName": "story_ts_04_02",
+                        "scenarioId": "wonder_01_02",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20003,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 4,
+                        "episodeNoLabel": "\u7b2c3\u8a71",
+                        "title": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9\u306e\u30bb\u30ab\u30a4",
+                        "assetbundleName": "story_ts_04_03",
+                        "scenarioId": "wonder_01_03",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20004,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 5,
+                        "episodeNoLabel": "\u7b2c4\u8a71",
+                        "title": "\u30e1\u30f3\u30d0\u30fc\u3092\u63a2\u305d\u3046\uff01",
+                        "assetbundleName": "story_ts_04_04",
+                        "scenarioId": "wonder_01_04",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20005,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 6,
+                        "episodeNoLabel": "\u7b2c5\u8a71",
+                        "title": "\u5947\u5999\u306a\u6f14\u51fa\u5bb6",
+                        "assetbundleName": "story_ts_04_05",
+                        "scenarioId": "wonder_01_05",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20006,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 7,
+                        "episodeNoLabel": "\u7b2c6\u8a71",
+                        "title": "\uff14\u4eba\u76ee\u306e\u30e1\u30f3\u30d0\u30fc\uff1f",
+                        "assetbundleName": "story_ts_04_06",
+                        "scenarioId": "wonder_01_06",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20007,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 8,
+                        "episodeNoLabel": "\u7b2c7\u8a71",
+                        "title": "\u30cd\u30cd\u30ed\u30dc\u30fb\u30aa\u30f3\u30b9\u30c6\u30fc\u30b8\uff01\uff1f",
+                        "assetbundleName": "story_ts_04_07",
+                        "scenarioId": "wonder_01_07",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20008,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 9,
+                        "episodeNoLabel": "\u7b2c8\u8a71",
+                        "title": "\u7d50\u6210\uff01\u30b7\u30e7\u30fc\u30e6\u30cb\u30c3\u30c8\uff01",
+                        "assetbundleName": "story_ts_04_08",
+                        "scenarioId": "wonder_01_08",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20009,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 10,
+                        "episodeNoLabel": "\u7b2c9\u8a71",
+                        "title": "\u5909\u4eba\u3001\u672c\u9818\u767a\u63ee",
+                        "assetbundleName": "story_ts_04_09",
+                        "scenarioId": "wonder_01_09",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20010,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 11,
+                        "episodeNoLabel": "\u7b2c10\u8a71",
+                        "title": "KAITO\u306e\u30d2\u30f3\u30c8",
+                        "assetbundleName": "story_ts_04_10",
+                        "scenarioId": "wonder_01_10",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20011,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 12,
+                        "episodeNoLabel": "\u7b2c11\u8a71",
+                        "title": "\u3048\u3080\u306e\u5922",
+                        "assetbundleName": "story_ts_04_11",
+                        "scenarioId": "wonder_01_11",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20012,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 13,
+                        "episodeNoLabel": "\u7b2c12\u8a71",
+                        "title": "\u516c\u6f14\u30b9\u30bf\u30fc\u30c8\uff01",
+                        "assetbundleName": "story_ts_04_12",
+                        "scenarioId": "wonder_01_12",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20013,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 14,
+                        "episodeNoLabel": "\u7b2c13\u8a71",
+                        "title": "\u5931\u3063\u305f\u7b11\u9854",
+                        "assetbundleName": "story_ts_04_13",
+                        "scenarioId": "wonder_01_13",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20014,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 15,
+                        "episodeNoLabel": "\u7b2c14\u8a71",
+                        "title": "\u3042\u306e\u65e5\u306e\u60f3\u3044",
+                        "assetbundleName": "story_ts_04_14",
+                        "scenarioId": "wonder_01_14",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20015,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 16,
+                        "episodeNoLabel": "\u7b2c15\u8a71",
+                        "title": "\u304a\u3058\u3044\u3061\u3083\u3093\u306e\u30b9\u30c6\u30fc\u30b8",
+                        "assetbundleName": "story_ts_04_15",
+                        "scenarioId": "wonder_01_15",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20016,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 17,
+                        "episodeNoLabel": "\u7b2c16\u8a71",
+                        "title": "\u7d76\u5bfe\u306b\u5931\u6557\u3057\u306a\u3044\u65b9\u6cd5",
+                        "assetbundleName": "story_ts_04_16",
+                        "scenarioId": "wonder_01_16",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20017,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 18,
+                        "episodeNoLabel": "\u7b2c17\u8a71",
+                        "title": "\u3072\u3068\u308a\u307c\u3063\u3061\u306e\u932c\u91d1\u8853\u5e2b",
+                        "assetbundleName": "story_ts_04_17",
+                        "scenarioId": "wonder_01_17",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20018,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 19,
+                        "episodeNoLabel": "\u7b2c18\u8a71",
+                        "title": "\u201c\u6700\u9ad8\u306e\u30b7\u30e7\u30fc\"\u306e\u7b54\u3048",
+                        "assetbundleName": "story_ts_04_18",
+                        "scenarioId": "wonder_01_18",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20019,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 20,
+                        "episodeNoLabel": "\u7b2c19\u8a71",
+                        "title": "\u30bb\u30ab\u30a4\u306f\u307e\u3060\u59cb\u307e\u3063\u3066\u3059\u3089\u3044\u306a\u3044",
+                        "assetbundleName": "story_ts_04_19",
+                        "scenarioId": "wonder_01_19",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
+                        "id": 20020,
+                        "unitStoryEpisodeGroupId": 9,
+                        "chapterNo": 1,
+                        "episodeNo": 21,
+                        "episodeNoLabel": "\u7b2c20\u8a71",
+                        "title": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0",
+                        "assetbundleName": "story_ts_04_20",
+                        "scenarioId": "wonder_01_20",
+                        "releaseConditionId": 1,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

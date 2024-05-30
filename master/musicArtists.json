@@ -1,0 +1,1222 @@
+[
+    {
+        "id": 1,
+        "name": "livetune",
+        "pronunciation": "\u3089\u3044\u3076\u3061\u3085\u30fc\u3093"
+    },
+    {
+        "id": 2,
+        "name": "\u307f\u304d\u3068P",
+        "pronunciation": "\u307f\u304d\u3068\u3074\u30fc"
+    },
+    {
+        "id": 3,
+        "name": "Omoi",
+        "pronunciation": "\u304a\u3082\u3044"
+    },
+    {
+        "id": 4,
+        "name": "DECO*27",
+        "pronunciation": "\u3067\u3053\u306b\u30fc\u306a"
+    },
+    {
+        "id": 5,
+        "name": "1640mP\uff08164\u00d740mP\uff09",
+        "pronunciation": "\u305b\u3093\u308d\u3063\u3074\u3083\u304f\u3088\u3093\u3058\u3085\u3046\u3081\u30fc\u3068\u308b\u3074\u30fc\u3000\u3044\u3061\u308d\u304f\u3088\u3093\u3000\u3088\u3093\u3058\u3085\u3046\u3081\u30fc\u3068\u308b\u3074\u30fc"
+    },
+    {
+        "id": 6,
+        "name": "EasyPop",
+        "pronunciation": "\u3044\u30fc\u3058\u30fc\u307d\u3063\u3077"
+    },
+    {
+        "id": 7,
+        "name": "Mitchie M",
+        "pronunciation": "\u307f\u3063\u3061\u30fc\u3048\u3080"
+    },
+    {
+        "id": 8,
+        "name": "yuukiss",
+        "pronunciation": "\u3086\u30fc\u304d\u3059"
+    },
+    {
+        "id": 9,
+        "name": "GigaReol",
+        "pronunciation": "\u304e\u304c\u308c\u3092\u308b"
+    },
+    {
+        "id": 10,
+        "name": "Orangestar",
+        "pronunciation": "\u304a\u308c\u3093\u3058\u3059\u305f\u30fc"
+    },
+    {
+        "id": 11,
+        "name": "\u30d0\u30eb\u30fc\u30f3",
+        "pronunciation": "\u3070\u308b\u30fc\u3093"
+    },
+    {
+        "id": 12,
+        "name": "Neru",
+        "pronunciation": "\u306d\u308b"
+    },
+    {
+        "id": 13,
+        "name": "\u30ab\u30f3\u30b6\u30ad\u30a4\u30aa\u30ea",
+        "pronunciation": "\u304b\u3093\u3056\u304d\u3044\u304a\u308a"
+    },
+    {
+        "id": 14,
+        "name": "Giga",
+        "pronunciation": "\u304e\u304c"
+    },
+    {
+        "id": 15,
+        "name": "Dixie Flatline",
+        "pronunciation": "\u3067\u3043\u304f\u3057\u30fc\u3075\u3089\u3063\u3068\u3089\u3044\u3093"
+    },
+    {
+        "id": 16,
+        "name": "nyanyannya\uff08\u5927\u5929\u624dP\uff09",
+        "pronunciation": "\u306b\u3083\u306b\u3083\u3093\u306b\u3083\u3000\u3060\u3044\u3066\u3093\u3055\u3044\u3074\u30fc"
+    },
+    {
+        "id": 17,
+        "name": "OSTER project feat. \u521d\u97f3\u30df\u30af",
+        "pronunciation": "\u304a\u3059\u305f\u30fc\u3077\u308d\u3058\u3047\u304f\u3068\u3000\u3075\u3085\u30fc\u3061\u3083\u308a\u3093\u3050\u3000\u306f\u3064\u306d\u307f\u304f"
+    },
+    {
+        "id": 18,
+        "name": "\u65e5\u5411\u96fb\u5de5",
+        "pronunciation": "\u3072\u306a\u305f\u3067\u3093\u3053\u3046"
+    },
+    {
+        "id": 19,
+        "name": "Junky",
+        "pronunciation": "\u3058\u3083\u3093\u304d\u30fc"
+    },
+    {
+        "id": 20,
+        "name": "\u3055\u3064\u304d \u304c \u3066\u3093\u3053\u3082\u308a feat. \u521d\u97f3\u30df\u30af",
+        "pronunciation": "\u3055\u3064\u304d\u304c\u3066\u3093\u3053\u3082\u308a\u3000\u3075\u3085\u30fc\u3061\u3083\u308a\u3093\u3050\u3000\u306f\u3064\u306d\u307f\u304f"
+    },
+    {
+        "id": 21,
+        "name": "Omoi feat. \u521d\u97f3\u30df\u30af",
+        "pronunciation": "\u304a\u3082\u3044\u3000\u3075\u3085\u30fc\u3061\u3083\u308a\u3093\u3050\u3000\u306f\u3064\u306d\u307f\u304f"
+    },
+    {
+        "id": 22,
+        "name": "ryo  (supercell)",
+        "pronunciation": "\u308a\u3087\u3046\u3000\u3059\u30fc\u3071\u30fc\u305b\u308b"
+    },
+    {
+        "id": 23,
+        "name": "cosMo@\u66b4\u8d70P",
+        "pronunciation": "\u3053\u3059\u3082\u3042\u3063\u3068\u307c\u3046\u305d\u3046\u3074\u30fc"
+    },
+    {
+        "id": 24,
+        "name": "halyosy feat. VOCALOIDS",
+        "pronunciation": "\u306f\u308b\u3088\u3057\u3000\u3075\u3085\u30fc\u3061\u3083\u308a\u3093\u3050\u3000\u307c\u30fc\u304b\u308d\u3044\u305a"
+    },
+    {
+        "id": 25,
+        "name": "\u30d4\u30ce\u30ad\u30aa\u30d4\u30fc",
+        "pronunciation": "\u3074\u306e\u304d\u304a\u3074\u30fc"
+    },
+    {
+        "id": 26,
+        "name": "R Sound Design",
+        "pronunciation": "\u3042\u30fc\u308b\u3055\u3046\u3093\u3069\u3067\u3056\u3044\u3093"
+    },
+    {
+        "id": 27,
+        "name": "\u307e\u3075\u307e\u3075",
+        "pronunciation": "\u307e\u3075\u307e\u3075"
+    },
+    {
+        "id": 28,
+        "name": "syudou",
+        "pronunciation": "\u3057\u3085\u3069\u3046"
+    },
+    {
+        "id": 29,
+        "name": "\u3058\u3093",
+        "pronunciation": "\u3058\u3093"
+    },
+    {
+        "id": 30,
+        "name": "\u30ca\u30ce\u30a6",
+        "pronunciation": "\u306a\u306e\u3046"
+    },
+    {
+        "id": 31,
+        "name": "\u30b5\u30b5\u30ce\u30de\u30ea\u30a4",
+        "pronunciation": "\u3055\u3055\u306e\u307e\u308a\u3044"
+    },
+    {
+        "id": 32,
+        "name": "\u30ca\u30e6\u30bf\u30f3\u661f\u4eba",
+        "pronunciation": "\u306a\u3086\u305f\u3093\u305b\u3044\u3058\u3093"
+    },
+    {
+        "id": 33,
+        "name": "\u306c\u3086\u308a",
+        "pronunciation": "\u306c\u3086\u308a"
+    },
+    {
+        "id": 34,
+        "name": "\u306f\u308b\u307e\u304d\u3054\u306f\u3093",
+        "pronunciation": "\u306f\u308b\u307e\u304d\u3054\u306f\u3093"
+    },
+    {
+        "id": 35,
+        "name": "\u3068\u3042",
+        "pronunciation": "\u3068\u3042"
+    },
+    {
+        "id": 36,
+        "name": "\u548c\u7530\u305f\u3051\u3042\u304d",
+        "pronunciation": "\u308f\u3060\u305f\u3051\u3042\u304d"
+    },
+    {
+        "id": 37,
+        "name": "\u590f\u4ee3\u5b5d\u660e",
+        "pronunciation": "\u306a\u3064\u3057\u308d\u305f\u304b\u3042\u304d"
+    },
+    {
+        "id": 38,
+        "name": "koyori\uff08\u96fb\u30dd\u30ebP\uff09",
+        "pronunciation": "\u3053\u3088\u308a\u3000\u3067\u3093\u307d\u308b\u3074\u30fc"
+    },
+    {
+        "id": 39,
+        "name": "n-buna",
+        "pronunciation": "\u306a\u3076\u306a"
+    },
+    {
+        "id": 40,
+        "name": "DECO*27 & \u5800\u6c5f\u6676\u592a(kemu)",
+        "pronunciation": "\u3067\u3053\u306b\u30fc\u306a\u3000\u307b\u308a\u3048\u3057\u3087\u3046\u305f\u3000\u3051\u3080"
+    },
+    {
+        "id": 41,
+        "name": "Giga\uff06Mitchie M",
+        "pronunciation": "\u304e\u304c\u3000\u307f\u3063\u3061\u30fc\u3048\u3080"
+    },
+    {
+        "id": 42,
+        "name": "\u30ef\u30f3\u30c0\u30d5\u30eb\u2606\u30aa\u30dd\u30c1\u30e5\u30cb\u30c6\u30a3\uff01",
+        "pronunciation": "\u308f\u3093\u3060\u3075\u308b\u304a\u307d\u3061\u3085\u306b\u3066\u3043"
+    },
+    {
+        "id": 43,
+        "name": "\u5e02\u702c\u308b\u307d",
+        "pronunciation": "\u3044\u3061\u306e\u305b\u308b\u307d"
+    },
+    {
+        "id": 44,
+        "name": "\u516b\u738b\u5b50P \u00d7 Giga",
+        "pronunciation": "\u306f\u3061\u304a\u3046\u3058\u3074\u30fc\u3000\u304e\u304c"
+    },
+    {
+        "id": 45,
+        "name": "\u3059\u308a\u3043",
+        "pronunciation": "\u3059\u308a\u3043"
+    },
+    {
+        "id": 46,
+        "name": "\u3086\u3088\u3086\u3063\u307a",
+        "pronunciation": "\u3086\u3088\u3086\u3063\u307a"
+    },
+    {
+        "id": 47,
+        "name": "OSTER project",
+        "pronunciation": "\u304a\u3059\u305f\u30fc\u3077\u308d\u3058\u3047\u304f\u3068"
+    },
+    {
+        "id": 48,
+        "name": "40mP",
+        "pronunciation": "\u3088\u3093\u3058\u3085\u3046\u3081\u30fc\u3068\u308b\u3074\u30fc"
+    },
+    {
+        "id": 49,
+        "name": "\u548c\u7530\u305f\u3051\u3042\u304d(\u304f\u3089\u3052P)",
+        "pronunciation": "\u308f\u3060\u305f\u3051\u3042\u304d\u3000\u304f\u3089\u3052\u3074\u30fc"
+    },
+    {
+        "id": 50,
+        "name": "Eve",
+        "pronunciation": "\u3044\u3076"
+    },
+    {
+        "id": 51,
+        "name": "\u307e\u3089\u3057\u3043",
+        "pronunciation": "\u307e\u3089\u3057\u3043"
+    },
+    {
+        "id": 52,
+        "name": "EZFG",
+        "pronunciation": "\u3044\u30fc\u305c\u3063\u3068\u3048\u3075\u3058\u30fc"
+    },
+    {
+        "id": 53,
+        "name": "\u6885\u3068\u3089",
+        "pronunciation": "\u3046\u3081\u3068\u3089"
+    },
+    {
+        "id": 54,
+        "name": "\u30b8\u30df\u30fc\u30b5\u30e0P",
+        "pronunciation": "\u3058\u307f\u30fc\u3055\u3080\u3074\u30fc"
+    },
+    {
+        "id": 55,
+        "name": "Crusher P",
+        "pronunciation": "\u304f\u3089\u3063\u3057\u3083\u30fc\u3074\u30fc"
+    },
+    {
+        "id": 56,
+        "name": "\u516b\u738b\u5b50P",
+        "pronunciation": "\u306f\u3061\u304a\u3046\u3058\u3074\u30fc"
+    },
+    {
+        "id": 57,
+        "name": "Ayase",
+        "pronunciation": "\u3042\u3084\u305b"
+    },
+    {
+        "id": 58,
+        "name": "Dios\/\u30b7\u30b0\u30ca\u30ebP",
+        "pronunciation": "\u3067\u3043\u304a\u3059\u3000\u3057\u3050\u306a\u308b\u3074\u30fc"
+    },
+    {
+        "id": 59,
+        "name": "YASUHIRO(\u5eb7\u5bdb)",
+        "pronunciation": "\u3084\u3059\u3072\u308d"
+    },
+    {
+        "id": 60,
+        "name": "\u30e6\u30b8\u30fc",
+        "pronunciation": "\u3086\u3058\u30fc"
+    },
+    {
+        "id": 61,
+        "name": "\u9ed2\u3046\u3055P",
+        "pronunciation": "\u304f\u308d\u3046\u3055\u3074\u30fc"
+    },
+    {
+        "id": 62,
+        "name": "\u6709\u6a5f\u9178",
+        "pronunciation": "\u3086\u3046\u304d\u3055\u3093"
+    },
+    {
+        "id": 63,
+        "name": "DIVELA",
+        "pronunciation": "\u3067\u3043\u30f4\u3047\u3089"
+    },
+    {
+        "id": 64,
+        "name": "wowaka",
+        "pronunciation": "\u3092\u308f\u304b"
+    },
+    {
+        "id": 65,
+        "name": "sasakure.UK",
+        "pronunciation": "\u3055\u3055\u304f\u308c\u3086\u30fc\u3051\u30fc"
+    },
+    {
+        "id": 66,
+        "name": "\u60f3\u592a",
+        "pronunciation": "\u305d\u3046\u305f"
+    },
+    {
+        "id": 67,
+        "name": "doriko",
+        "pronunciation": "\u3069\u308a\u3053"
+    },
+    {
+        "id": 68,
+        "name": "\u30ad\u30ce\u30b7\u30bf",
+        "pronunciation": "\u304d\u306e\u3057\u305f"
+    },
+    {
+        "id": 69,
+        "name": "emon(Tes.)",
+        "pronunciation": "\u3048\u3082\u3093\u3000\u3066\u3059"
+    },
+    {
+        "id": 70,
+        "name": "ika",
+        "pronunciation": "\u3044\u304b"
+    },
+    {
+        "id": 71,
+        "name": "\u67ca\u30ad\u30e9\u30a4",
+        "pronunciation": "\u3072\u3044\u3089\u304e\u304d\u3089\u3044"
+    },
+    {
+        "id": 72,
+        "name": "\u3044\u308b\u304b\u30a2\u30a4\u30b9",
+        "pronunciation": "\u3044\u308b\u304b\u3042\u3044\u3059"
+    },
+    {
+        "id": 73,
+        "name": "164",
+        "pronunciation": "\u3044\u3061\u308d\u304f\u3088\u3093"
+    },
+    {
+        "id": 74,
+        "name": "\u30ad\u30bf\u30cb\u30bf\u30c4\u30e4",
+        "pronunciation": "\u304d\u305f\u306b\u305f\u3064\u3084"
+    },
+    {
+        "id": 75,
+        "name": "kemu",
+        "pronunciation": "\u3051\u3080"
+    },
+    {
+        "id": 76,
+        "name": "\u30b7\u30ce",
+        "pronunciation": "\u3057\u306e"
+    },
+    {
+        "id": 77,
+        "name": "Kanaria",
+        "pronunciation": "\u304b\u306a\u308a\u3042"
+    },
+    {
+        "id": 78,
+        "name": "aqu3ra",
+        "pronunciation": "\u3042\u304f\u3048\u3089"
+    },
+    {
+        "id": 79,
+        "name": "\u30d4\u30b3\u30f3",
+        "pronunciation": "\u3074\u3053\u3093"
+    },
+    {
+        "id": 80,
+        "name": "\u716e\u30eb\u679c\u5b9f",
+        "pronunciation": "\u306b\u308b\u304b\u3058\u3064"
+    },
+    {
+        "id": 81,
+        "name": "\u304b\u3044\u308a\u304d\u30d9\u30a2",
+        "pronunciation": "\u304b\u3044\u308a\u304d\u3079\u3042"
+    },
+    {
+        "id": 82,
+        "name": "\u4f5c\u8a5e\u4f5c\u66f2\uff1a\u85e4\u539f \u57fa\u592e",
+        "pronunciation": "\u3075\u3058\u308f\u3089\u3082\u3068\u304a"
+    },
+    {
+        "id": 83,
+        "name": "takamatt",
+        "pronunciation": "\u305f\u304b\u307e\u3063\u3068"
+    },
+    {
+        "id": 84,
+        "name": "\u52a0\u8cc0\uff08\u30cd\u30ae\u30b7\u30e3\u30ef\u30fc\uff30\uff09",
+        "pronunciation": "\u304b\u304c\u3000\u306d\u304e\u3057\u3083\u308f\u30fc\u3074\u30fc"
+    },
+    {
+        "id": 85,
+        "name": "\u30e6\u30ea\u30a4\u30fb\u30ab\u30ce\u30f3\uff08\u6708\u8a60\u307f\uff09",
+        "pronunciation": "\u3086\u308a\u3044\u304b\u306e\u3093\u3000\u3064\u304f\u3088\u307f"
+    },
+    {
+        "id": 86,
+        "name": "Anamanaguchi",
+        "pronunciation": "\u3042\u306a\u307e\u306a\u3050\u3061"
+    },
+    {
+        "id": 87,
+        "name": "\u8776\u3005P",
+        "pronunciation": "\u3061\u3087\u3046\u3061\u3087\u3046\u3074\u30fc"
+    },
+    {
+        "id": 88,
+        "name": "\u30dd\u30ea\u30b9\u30d4\u30ab\u30c7\u30ea\u30fc",
+        "pronunciation": "\u307d\u308a\u3059\u3074\u304b\u3067\u308a\u30fc"
+    },
+    {
+        "id": 89,
+        "name": "MIMI",
+        "pronunciation": "\u307f\u307f"
+    },
+    {
+        "id": 90,
+        "name": "\u91dd\u539f\u7ffc\uff08\u306f\u308a\u30fcP\uff09",
+        "pronunciation": "\u306f\u308a\u306f\u3089\u3064\u3070\u3055\u3000\u306f\u308a\u30fc\u3074\u30fc"
+    },
+    {
+        "id": 91,
+        "name": "\u30ab\u30e9\u30b9\u30e4\u30b5\u30dc\u30a6",
+        "pronunciation": "\u304b\u3089\u3059\u3084\u3055\u307c\u3046"
+    },
+    {
+        "id": 92,
+        "name": "\u4f0a\u6771 \u5065\u4eba",
+        "pronunciation": "\u3044\u3068\u3046\u3051\u3093\u3068"
+    },
+    {
+        "id": 93,
+        "name": "cosMo\uff20\u66b4\u8d70P",
+        "pronunciation": "\u3053\u3059\u3082\u3042\u3063\u3068\u307c\u3046\u305d\u3046\u3074\u30fc"
+    },
+    {
+        "id": 94,
+        "name": "sasakure.UK",
+        "pronunciation": "\u3055\u3055\u304f\u308c\u3086\u30fc\u3051\u30fc"
+    },
+    {
+        "id": 95,
+        "name": "\u9ed2\u9b54",
+        "pronunciation": "\u304f\u308d\u307e"
+    },
+    {
+        "id": 96,
+        "name": "\u30bf\u30b1\u30ce\u30b3\u5c11\u5e74",
+        "pronunciation": "\u305f\u3051\u306e\u3053\u3057\u3087\u3046\u306d\u3093"
+    },
+    {
+        "id": 97,
+        "name": "Misumi",
+        "pronunciation": "\u307f\u3059\u307f"
+    },
+    {
+        "id": 98,
+        "name": "\u3066\u306b\u3092\u306f",
+        "pronunciation": "\u3066\u306b\u3092\u306f"
+    },
+    {
+        "id": 99,
+        "name": "*Luna",
+        "pronunciation": "\u308b\u306a"
+    },
+    {
+        "id": 100,
+        "name": "\u306e\u308a\u3074\u30fc",
+        "pronunciation": "\u306e\u308a\u3074\u30fc"
+    },
+    {
+        "id": 101,
+        "name": "iroha\uff08sasaki\uff09",
+        "pronunciation": "\u3044\u308d\u306f\u3000\u3055\u3055\u304d"
+    },
+    {
+        "id": 102,
+        "name": "\u304d\u304f\u304a",
+        "pronunciation": "\u304d\u304f\u304a"
+    },
+    {
+        "id": 103,
+        "name": "Chinozo",
+        "pronunciation": "\u3061\u306e\u305e\u30fc"
+    },
+    {
+        "id": 104,
+        "name": "\u30aa\u30be\u30f3",
+        "pronunciation": "\u304a\u305e\u3093"
+    },
+    {
+        "id": 105,
+        "name": "mothy",
+        "pronunciation": "\u3082\u3063\u3061\u30fc"
+    },
+    {
+        "id": 106,
+        "name": "TOKOTOKO(\u897f\u6ca2\u3055\u3093P)",
+        "pronunciation": "\u3068\u3053\u3068\u3053\u3000\u306b\u3057\u3056\u308f\u3055\u3093\u3074\u30fc"
+    },
+    {
+        "id": 107,
+        "name": "\u96c4\u4e4b\u52a9",
+        "pronunciation": "\u3086\u3046\u306e\u3059\u3051"
+    },
+    {
+        "id": 108,
+        "name": "\u5098\u6751\u30c8\u30fc\u30bf",
+        "pronunciation": "\u304b\u3055\u3080\u3089\u3068\u30fc\u305f"
+    },
+    {
+        "id": 109,
+        "name": "\u305b\u304d\u3053\u307f\u3054\u306f\u3093",
+        "pronunciation": "\u305b\u304d\u3053\u307f\u3054\u306f\u3093"
+    },
+    {
+        "id": 110,
+        "name": "\u308c\u308b\u308a\u308a",
+        "pronunciation": "\u308c\u308b\u308a\u308a"
+    },
+    {
+        "id": 111,
+        "name": "\u690e\u540d\u3082\u305f",
+        "pronunciation": "\u3057\u3044\u306a\u3082\u305f"
+    },
+    {
+        "id": 112,
+        "name": "Ado\u00d7syudou",
+        "pronunciation": "\u3042\u3069\u3000\u3057\u3085\u3069\u3046"
+    },
+    {
+        "id": 113,
+        "name": "Ado\u00d7Giga\u3001TeddyLoid & DECO*27",
+        "pronunciation": "\u3042\u3069\u3000\u304e\u304c\u3000\u3066\u3067\u3043\u308d\u3044\u3069\u3000\u3067\u3053\u306b\u30fc\u306a"
+    },
+    {
+        "id": 114,
+        "name": "\u30ab\u30eb\u30ed\u30b9\u88b4\u7530(\u30b5\u30a4\u30bcP)",
+        "pronunciation": "\u304b\u308b\u308d\u3059\u306f\u304b\u307e\u3060\u3000\u3055\u3044\u305c\u3074\u30fc"
+    },
+    {
+        "id": 115,
+        "name": "\u307f\u304d\u3068\uff30",
+        "pronunciation": "\u307f\u304d\u3068\u3074\u30fc"
+    },
+    {
+        "id": 116,
+        "name": "\u307d\u308a\u3075\u3049",
+        "pronunciation": "\u307d\u308a\u3075\u3049"
+    },
+    {
+        "id": 117,
+        "name": "\u3059\u3053\u3084\u304b\u5927\u8056\u5802",
+        "pronunciation": "\u3059\u3053\u3084\u304b\u3060\u3044\u305b\u3044\u3069\u3046"
+    },
+    {
+        "id": 118,
+        "name": "SAM\uff08samfree\uff09",
+        "pronunciation": "\u3055\u3080\u3000\u3055\u3080\u3075\u308a\u30fc"
+    },
+    {
+        "id": 119,
+        "name": "jon-YAKITORY",
+        "pronunciation": "\u3058\u3087\u3093\u3084\u304d\u3068\u308a"
+    },
+    {
+        "id": 120,
+        "name": "\u30cf\u30c1",
+        "pronunciation": "\u306f\u3061"
+    },
+    {
+        "id": 121,
+        "name": "yanagi",
+        "pronunciation": "\u3084\u306a\u304e"
+    },
+    {
+        "id": 122,
+        "name": "\u307e\u3089\u3057\u3043 \u00d7 \u5800\u6c5f\u6676\u592a(kemu)",
+        "pronunciation": "\u307e\u3089\u3057\u3043\u3000\u307b\u308a\u3048\u3057\u3087\u3046\u305f\u3000\u3051\u3080"
+    },
+    {
+        "id": 123,
+        "name": "Twinfield",
+        "pronunciation": "\u3064\u3044\u3093\u3075\u3043\u30fc\u308b\u3069"
+    },
+    {
+        "id": 124,
+        "name": "CircusP",
+        "pronunciation": "\u3055\u30fc\u304b\u3059\u3074\u30fc"
+    },
+    {
+        "id": 125,
+        "name": "\u304f\u3058\u3089",
+        "pronunciation": "\u304f\u3058\u3089"
+    },
+    {
+        "id": 126,
+        "name": "\u3086\u3088\u3086\u3063\u307a\u3000",
+        "pronunciation": "\u3086\u3088\u3086\u3063\u307a\u3000"
+    },
+    {
+        "id": 127,
+        "name": "\u53e4\u5ddd\u672c\u8217",
+        "pronunciation": "\u3075\u308b\u304b\u308f\u307b\u3093\u307d"
+    },
+    {
+        "id": 128,
+        "name": "\u30ad\u30bf\u30cb\u30bf\u30c4\u30e4\u00d7\u306f\u308b\u307e\u304d\u3054\u306f\u3093",
+        "pronunciation": "\u304d\u305f\u306b\u305f\u3064\u3084\u3000\u306f\u308b\u307e\u304d\u3054\u306f\u3093"
+    },
+    {
+        "id": 129,
+        "name": "\u3077\u3059(from\u30c4\u30e6)",
+        "pronunciation": "\u3077\u3059\u3000\u3075\u308d\u3080\u3064\u3086"
+    },
+    {
+        "id": 130,
+        "name": "\u7fbd\u751f\u307e\u3090\u3054",
+        "pronunciation": "\u306f\u306b\u3085\u3046\u307e\u3044\u3054"
+    },
+    {
+        "id": 131,
+        "name": "\u3057\u3083\u3044\u3068",
+        "pronunciation": "\u3057\u3083\u3044\u3068"
+    },
+    {
+        "id": 132,
+        "name": "\u30a2\u30b4\u30a2\u30cb\u30ad",
+        "pronunciation": "\u3042\u3054\u3042\u306b\u304d"
+    },
+    {
+        "id": 133,
+        "name": "\u3086\u3046\u3086",
+        "pronunciation": "\u3086\u3046\u3086"
+    },
+    {
+        "id": 134,
+        "name": "buzzG",
+        "pronunciation": "\u3070\u305a\u3058\u30fc"
+    },
+    {
+        "id": 135,
+        "name": "otetsu",
+        "pronunciation": "\u304a\u3066\u3064"
+    },
+    {
+        "id": 136,
+        "name": "KIRA",
+        "pronunciation": "\u304d\u3089"
+    },
+    {
+        "id": 137,
+        "name": "\u30ca\u30ca\u30db\u30b7\u7ba1\u5f26\u697d\u56e3",
+        "pronunciation": "\u306a\u306a\u307b\u3057\u304b\u3093\u3052\u3093\u304c\u304f\u3060\u3093"
+    },
+    {
+        "id": 138,
+        "name": "shu-t",
+        "pronunciation": "\u3057\u3085\u30fc\u3066\u3043\u30fc"
+    },
+    {
+        "id": 139,
+        "name": "23.exe",
+        "pronunciation": "\u306b\u3055\u3093\u3069\u3063\u3068\u3048\u3050\u305c"
+    },
+    {
+        "id": 140,
+        "name": "\u907c\u907c",
+        "pronunciation": "\u306f\u308b\u304b\u308a\u3087\u3046"
+    },
+    {
+        "id": 141,
+        "name": "halyosy",
+        "pronunciation": "\u306f\u308b\u3088\u3057"
+    },
+    {
+        "id": 142,
+        "name": "wotaku",
+        "pronunciation": "\u3092\u305f\u304f"
+    },
+    {
+        "id": 143,
+        "name": "Ponchi\u266a",
+        "pronunciation": "\u307d\u3093\u3061"
+    },
+    {
+        "id": 144,
+        "name": "\u30ac\u30eb\u30ca\uff08\u30aa\u30ef\u30bfP\uff09",
+        "pronunciation": "\u304c\u308b\u306a\u3000\u304a\u308f\u305f\u3074\u30fc"
+    },
+    {
+        "id": 145,
+        "name": "\u30c4\u30df\u30ad",
+        "pronunciation": "\u3064\u307f\u304d"
+    },
+    {
+        "id": 146,
+        "name": "\u3072\u3068\u3057\u305a\u304f\u00d7\u3084\u307e\u25b3",
+        "pronunciation": "\u3072\u3068\u3057\u305a\u304f\u3000\u3084\u307e\u3055\u3093\u304b\u3063\u3051\u3044"
+    },
+    {
+        "id": 147,
+        "name": "\u3046\u305f\u305fP",
+        "pronunciation": "\u3046\u305f\u305f\u3074\u30fc"
+    },
+    {
+        "id": 148,
+        "name": "\u7345\u5b50\u5fd7\u53f8",
+        "pronunciation": "\u3057\u3057\u3057\u3057"
+    },
+    {
+        "id": 149,
+        "name": "\u6c34\u91ce\u3042\u3064",
+        "pronunciation": "\u307f\u305a\u306e\u3042\u3064"
+    },
+    {
+        "id": 150,
+        "name": "Re:nG",
+        "pronunciation": "\u308c\u3093\u3058"
+    },
+    {
+        "id": 151,
+        "name": "KEI ",
+        "pronunciation": "\u3051\u3044"
+    },
+    {
+        "id": 152,
+        "name": "Guiano",
+        "pronunciation": "\u3050\u3044\u3042\u306e"
+    },
+    {
+        "id": 153,
+        "name": "\u30c4\u30e6",
+        "pronunciation": "\u3064\u3086"
+    },
+    {
+        "id": 154,
+        "name": "\u6817\u5c71\u5915\u7483\uff08\u8702\u5c4b\u306a\u306a\u3057\uff09",
+        "pronunciation": "\u304f\u308a\u3084\u307e\u3086\u3046\u308a\u3000\u306f\u3061\u3084\u306a\u306a\u3057"
+    },
+    {
+        "id": 155,
+        "name": "nogumi",
+        "pronunciation": "\u306e\u3050\u307f"
+    },
+    {
+        "id": 156,
+        "name": "\u3059\u3053\u3063\u3077",
+        "pronunciation": "\u3059\u3053\u3063\u3077"
+    },
+    {
+        "id": 157,
+        "name": "Heavenz",
+        "pronunciation": "\u3078\u3076\u3093\u305a"
+    },
+    {
+        "id": 158,
+        "name": "\u9ed2\u3046\u3055\uff30 (WhiteFlame)",
+        "pronunciation": "\u304f\u308d\u3046\u3055\u3074\u30fc\u3000\u307b\u308f\u3044\u3068\u3075\u308c\u3044\u3080"
+    },
+    {
+        "id": 159,
+        "name": "SEVENTHLINKS",
+        "pronunciation": "\u305b\u3076\u3093\u3059\u308a\u3093\u304f\u3059"
+    },
+    {
+        "id": 160,
+        "name": "\u3055\u3064\u304d \u304c \u3066\u3093\u3053\u3082\u308a",
+        "pronunciation": "\u3055\u3064\u304d\u304c\u3066\u3093\u3053\u3082\u308a"
+    },
+    {
+        "id": 161,
+        "name": "\u5927\u6cbc\u30d1\u30bb\u30ea",
+        "pronunciation": "\u304a\u304a\u306c\u307e\u3071\u305b\u308a"
+    },
+    {
+        "id": 162,
+        "name": "SLAVE.V-V-R",
+        "pronunciation": "\u3059\u308c\u3044\u3076\u3076\u3044\u3076\u3044\u3042\u30fc\u308b"
+    },
+    {
+        "id": 163,
+        "name": "HoneyWorks",
+        "pronunciation": "\u306f\u306b\u30fc\u308f\u30fc\u304f\u3059"
+    },
+    {
+        "id": 164,
+        "name": "T-POCKET",
+        "pronunciation": "\u3066\u3043\u30fc\u307d\u3051\u3063\u3068"
+    },
+    {
+        "id": 165,
+        "name": "\u30ae\u30ac",
+        "pronunciation": "\u304e\u304c"
+    },
+    {
+        "id": 167,
+        "name": "\u3044\u3088\u308f",
+        "pronunciation": "\u3044\u3088\u308f"
+    },
+    {
+        "id": 168,
+        "name": "\u30c8\u30e9\u30dc\u30eb\u30bf",
+        "pronunciation": "\u3068\u3089\u307c\u308b\u305f"
+    },
+    {
+        "id": 169,
+        "name": "\u8d64\u4e43\u308f\u3044",
+        "pronunciation": "\u3042\u304b\u306e\u308f\u3044"
+    },
+    {
+        "id": 170,
+        "name": "Capchii",
+        "pronunciation": "\u304b\u3077\u3061\u30fc"
+    },
+    {
+        "id": 171,
+        "name": "Peg",
+        "pronunciation": "\u307a\u3050"
+    },
+    {
+        "id": 172,
+        "name": "BIGHEAD",
+        "pronunciation": "\u3073\u3063\u3050\u3078\u3063\u3069"
+    },
+    {
+        "id": 173,
+        "name": "TOKOTOKO\uff08\u897f\u6ca2\u3055\u3093P\uff09",
+        "pronunciation": "\u3068\u3053\u3068\u3053\u3000\u306b\u3057\u3056\u308f\u3055\u3093\u3074\u30fc"
+    },
+    {
+        "id": 174,
+        "name": "koyori",
+        "pronunciation": "\u3053\u3088\u308a"
+    },
+    {
+        "id": 175,
+        "name": "A4\u3002",
+        "pronunciation": "\u3048\u30fc\u3075\u3049\u30fc"
+    },
+    {
+        "id": 176,
+        "name": "\u5357\u30ce\u5357",
+        "pronunciation": "\u307f\u306a\u307f\u306e\u307f\u306a\u307f"
+    },
+    {
+        "id": 177,
+        "name": "\u30af\u30ef\u30ac\u30bfP",
+        "pronunciation": "\u304f\u308f\u304c\u305f\u3074\u30fc"
+    },
+    {
+        "id": 178,
+        "name": "sasakure.UK\u00d7DECO*27",
+        "pronunciation": "\u3055\u3055\u304f\u308c\u3086\u30fc\u3051\u30fc\u3000\u3067\u3053\u306b\u30fc\u306a"
+    },
+    {
+        "id": 179,
+        "name": "\u4f50\u85e4\u539f\u6750\u6599",
+        "pronunciation": "\u3055\u3068\u3046\u3052\u3093\u3056\u3044\u308a\u3087\u3046"
+    },
+    {
+        "id": 180,
+        "name": "\u3081\u308d\u304f\u308b",
+        "pronunciation": "\u3081\u308d\u304f\u308b"
+    },
+    {
+        "id": 181,
+        "name": "keeno",
+        "pronunciation": "\u304d\u30fc\u306e"
+    },
+    {
+        "id": 182,
+        "name": "Eight",
+        "pronunciation": "\u3048\u3044\u3068"
+    },
+    {
+        "id": 183,
+        "name": "MARETU",
+        "pronunciation": "\u307e\u308c\u3064"
+    },
+    {
+        "id": 184,
+        "name": "Nem",
+        "pronunciation": "\u306d\u3080"
+    },
+    {
+        "id": 185,
+        "name": "\u3084\u3044\u308a",
+        "pronunciation": "\u3084\u3044\u308a"
+    },
+    {
+        "id": 186,
+        "name": "Last Note.",
+        "pronunciation": "\u3089\u3059\u3068\u306e\u30fc\u3068"
+    },
+    {
+        "id": 187,
+        "name": "\u306e\u307c\u308b\u2191",
+        "pronunciation": "\u306e\u307c\u308b"
+    },
+    {
+        "id": 188,
+        "name": "\u67ca\u30de\u30b0\u30cd\u30bf\u30a4\u30c8",
+        "pronunciation": "\u3072\u3044\u3089\u304e\u307e\u3050\u306d\u305f\u3044\u3068"
+    },
+    {
+        "id": 189,
+        "name": "\u30b7\u30a2\u30f3\u30fb\u30ad\u30ce",
+        "pronunciation": "\u3057\u3042\u3093\u304d\u306e"
+    },
+    {
+        "id": 190,
+        "name": "colate",
+        "pronunciation": "\u3053\u308c\u30fc\u3068"
+    },
+    {
+        "id": 191,
+        "name": "Hylen",
+        "pronunciation": "\u306f\u3044\u308c\u3093"
+    },
+    {
+        "id": 192,
+        "name": "Adeliae",
+        "pronunciation": "\u3042\u3067\u308a\u30fc"
+    },
+    {
+        "id": 193,
+        "name": "ryo",
+        "pronunciation": "\u308a\u3087\u3046"
+    },
+    {
+        "id": 194,
+        "name": "gcmstyle\uff08\u30a2\u30f3\u30e1\u30eb\u30c4P\uff09",
+        "pronunciation": "\u3058\u30fc\u3057\u30fc\u3048\u3080\u3059\u305f\u3044\u308b\u3000\u3042\u3093\u3081\u308b\u3064\u3074\u30fc"
+    },
+    {
+        "id": 195,
+        "name": "40mP \u00d7 \u4e00\u4e8c\u4e09 (12340mP)",
+        "pronunciation": "\u3088\u3093\u3058\u3085\u3046\u3081\u30fc\u3068\u308b\u3074\u30fc\u3000\u3072\u3075\u307f\u3000\u3044\u3061\u307e\u3093\u306b\u305b\u3093\u3055\u3093\u3073\u3083\u304f\u3088\u3093\u3058\u3085\u3046\u3081\u30fc\u3068\u308b\u3074\u30fc"
+    },
+    {
+        "id": 196,
+        "name": "\u306a\u307f\u3050\u308b",
+        "pronunciation": "\u306a\u307f\u3050\u308b"
+    },
+    {
+        "id": 197,
+        "name": "\u304d\u3055\u3089",
+        "pronunciation": "\u304d\u3055\u3089"
+    },
+    {
+        "id": 198,
+        "name": "\u307e\u3089\u3057\u3043\u00d7\u3058\u3093\u00d7\u5800\u6c5f\u6676\u592a(kemu)",
+        "pronunciation": "\u307e\u3089\u3057\u3043\u3000\u3058\u3093\u3000\u307b\u308a\u3048\u3057\u3087\u3046\u305f\u3000\u3051\u3080"
+    },
+    {
+        "id": 199,
+        "name": "\u96ea\u4e43\u30a4\u30c8",
+        "pronunciation": "\u3086\u304d\u306e\u3044\u3068"
+    },
+    {
+        "id": 200,
+        "name": "19's Sound Factory",
+        "pronunciation": "\u3044\u304f\u305a\u3055\u3046\u3093\u3069\u3075\u3041\u304f\u3068\u308a\u30fc"
+    },
+    {
+        "id": 201,
+        "name": "\u7121\u529bP",
+        "pronunciation": "\u3080\u308a\u3087\u304f\u3074\u30fc"
+    },
+    {
+        "id": 202,
+        "name": "\u30e9\u30a4\u30d6P",
+        "pronunciation": "\u3089\u3044\u3076\u3074\u30fc"
+    },
+    {
+        "id": 203,
+        "name": "Rulmry.",
+        "pronunciation": "\u308b\u308a\u307e\u308b"
+    },
+    {
+        "id": 204,
+        "name": "\u771f\u5cf6\u3086\u308d",
+        "pronunciation": "\u307e\u3057\u307e\u3086\u308d"
+    },
+    {
+        "id": 205,
+        "name": "r-906",
+        "pronunciation": "\u3042\u30fc\u308b\u304d\u3085\u3046\u307e\u308b\u308d\u304f"
+    },
+    {
+        "id": 206,
+        "name": "hinayukki@\u4ed5\u4e8b\u3057\u3066P",
+        "pronunciation": "\u3072\u306a\u3086\u304d\u3042\u3063\u3068\u3057\u3054\u3068\u3057\u3066\u3074\u30fc"
+    },
+    {
+        "id": 207,
+        "name": "\u30b5\u30c4\u30ad",
+        "pronunciation": "\u3055\u3064\u304d"
+    },
+    {
+        "id": 208,
+        "name": "DECO*27 x \u30d4\u30ce\u30ad\u30aa\u30d4\u30fc",
+        "pronunciation": "\u3067\u3053\u306b\u30fc\u306a\u3000\u3074\u306e\u304d\u304a\u3074\u30fc"
+    },
+    {
+        "id": 209,
+        "name": "Mwk",
+        "pronunciation": "\u307f\u308f\u304f"
+    },
+    {
+        "id": 210,
+        "name": "\u3075\u3058\u3092",
+        "pronunciation": "\u3075\u3058\u3092"
+    },
+    {
+        "id": 211,
+        "name": "john",
+        "pronunciation": "\u3058\u3087\u3093"
+    },
+    {
+        "id": 212,
+        "name": "Sohbana",
+        "pronunciation": "\u305d\u3046\u3070\u306a"
+    },
+    {
+        "id": 213,
+        "name": "\u6817\u5c71\u5915\u7483",
+        "pronunciation": "\u304f\u308a\u3084\u307e\u3086\u3046\u308a"
+    },
+    {
+        "id": 214,
+        "name": "Kai",
+        "pronunciation": "\u304b\u3044"
+    },
+    {
+        "id": 215,
+        "name": "\u702c\u540d\u822a",
+        "pronunciation": "\u305b\u306a\u308f\u305f\u308b"
+    },
+    {
+        "id": 216,
+        "name": "\u30e9\u30de\u30fc\u30ba\uff30",
+        "pronunciation": "\u3089\u307e\u30fc\u305a\u3074\u30fc"
+    },
+    {
+        "id": 217,
+        "name": "\u3044\u3048\u306c",
+        "pronunciation": "\u3044\u3048\u306c"
+    },
+    {
+        "id": 218,
+        "name": "\u308d\u304f\u308d",
+        "pronunciation": "\u308d\u304f\u308d"
+    },
+    {
+        "id": 219,
+        "name": "\u3086\u3053\u3074",
+        "pronunciation": "\u3086\u3053\u3074"
+    },
+    {
+        "id": 220,
+        "name": "\u304b\u3081\u308a\u3042",
+        "pronunciation": "\u304b\u3081\u308a\u3042"
+    },
+    {
+        "id": 221,
+        "name": "\u5bae\u5b88\u6587\u5b66",
+        "pronunciation": "\u307f\u3084\u3082\u308a\u3076\u3093\u304c\u304f"
+    },
+    {
+        "id": 222,
+        "name": "\u30de\u30a4\u30adP",
+        "pronunciation": "\u307e\u3044\u304d\u3074\u30fc"
+    },
+    {
+        "id": 223,
+        "name": "MisoilePunch\u266a",
+        "pronunciation": "\u307f\u305d\u3044\u308b\u3071\u3093\u3061"
+    },
+    {
+        "id": 224,
+        "name": "\u7a32\u8449\u66c7",
+        "pronunciation": "\u3044\u306a\u3070\u304f\u3082\u308a"
+    },
+    {
+        "id": 225,
+        "name": "\u6d77\u8336",
+        "pronunciation": "\u3046\u307f\u3061\u3083"
+    },
+    {
+        "id": 226,
+        "name": "TakoyakiKZY",
+        "pronunciation": "\u305f\u3053\u3084\u304d\u304b\u305a\u3084"
+    },
+    {
+        "id": 227,
+        "name": "\u690e\u4e43\u5473\u9182",
+        "pronunciation": "\u3057\u3044\u306e\u307f\u308a\u3093"
+    },
+    {
+        "id": 228,
+        "name": "\u306a\u304d\u305d",
+        "pronunciation": "\u306a\u304d\u305d"
+    },
+    {
+        "id": 229,
+        "name": "\u65c5\u8def",
+        "pronunciation": "\u305f\u3073\u3058"
+    },
+    {
+        "id": 230,
+        "name": "\u539f\u53e3\u6c99\u8f14",
+        "pronunciation": "\u306f\u3089\u3050\u3061 \u3055\u3059\u3051"
+    },
+    {
+        "id": 231,
+        "name": "\u536f\u82b1\u30ed\u30af",
+        "pronunciation": "\u3046\u304b\u308d\u304f"
+    },
+    {
+        "id": 232,
+        "name": "malo",
+        "pronunciation": "\u307e\u308d"
+    },
+    {
+        "id": 233,
+        "name": "\u306a\u304d\u3083\u3080\u308a\u3083",
+        "pronunciation": "\u306a\u304d\u3083\u3080\u308a\u3083"
+    },
+    {
+        "id": 234,
+        "name": "\u3053\u3081\u3060\u308f\u3089\u00d7R Sound Design",
+        "pronunciation": "\u3053\u3081\u3060\u308f\u3089\u3000\u3042\u30fc\u308b\u3055\u3046\u3093\u3069\u3067\u3056\u3044\u3093"
+    },
+    {
+        "id": 235,
+        "name": "\u30e4\u30b9\u30aa",
+        "pronunciation": "\u3084\u3059\u304a"
+    },
+    {
+        "id": 236,
+        "name": "\u5927\u6f20\u6ce2\u65b0",
+        "pronunciation": "\u3060\u3044\u3070\u304f\u306f\u3057\u3093"
+    },
+    {
+        "id": 237,
+        "name": "\u9999\u690e\u30e2\u30a4\u30df",
+        "pronunciation": "\u304b\u3057\u3044 \u3082\u3044\u307f"
+    },
+    {
+        "id": 238,
+        "name": "Shu",
+        "pronunciation": "\u3057\u3085\u30fc"
+    },
+    {
+        "id": 239,
+        "name": "niki",
+        "pronunciation": "\u306b\u304d"
+    },
+    {
+        "id": 240,
+        "name": "\u30d3\u30fc\u30c8\u307e\u308a\u304a\u00d7\u307e\u308d\u3093",
+        "pronunciation": "\u3073\u30fc\u3068\u307e\u308a\u304a\u3000\u307e\u308d\u3093"
+    },
+    {
+        "id": 241,
+        "name": "\u30d3\u30fc\u30c8\u307e\u308a\u304a\u00d7\u307e\u308d\u3093\u00d7\u307e\u3089\u3057\u3043",
+        "pronunciation": "\u3073\u30fc\u3068\u307e\u308a\u304a\u3000\u307e\u308d\u3093\u3000\u307e\u3089\u3057\u3043"
+    },
+    {
+        "id": 242,
+        "name": "\u30b4\u30b8\u30de\u30b8\uff30",
+        "pronunciation": "\u3054\u3058\u307e\u3058\u3074\u30fc"
+    },
+    {
+        "id": 243,
+        "name": "picco",
+        "pronunciation": "\u3074\u3063\u3053"
+    },
+    {
+        "id": 244,
+        "name": "\u5409\u7530\u591c\u4e16",
+        "pronunciation": "\u3088\u3057\u3060\u3084\u305b\u3044"
+    },
+    {
+        "id": 245,
+        "name": "\u8584\u5869\u6307\u6570",
+        "pronunciation": "\u3046\u3059\u3057\u304a\u3057\u3059\u3046"
+    }
+]

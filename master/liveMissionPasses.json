@@ -1,0 +1,416 @@
+[
+    {
+        "id": 1,
+        "liveMissionPeriodId": 1,
+        "costumeName": "\u30b5\u30d6\u30ab\u30eb\u30dc\u30fc\u30a4\u30b9\u30bf\u30a4\u30eb",
+        "character3dId1": 32,
+        "character3dId2": 33,
+        "maleAssetbundleName": "cos0012_body",
+        "femaleAssetbundleName": "cos0011_body"
+    },
+    {
+        "id": 2,
+        "liveMissionPeriodId": 2,
+        "costumeName": "\u30b5\u30d6\u30ab\u30eb\u30dc\u30fc\u30a4\u30b9\u30bf\u30a4\u30eb",
+        "character3dId1": 32,
+        "character3dId2": 33,
+        "maleAssetbundleName": "cos0012_body",
+        "femaleAssetbundleName": "cos0011_body"
+    },
+    {
+        "id": 3,
+        "liveMissionPeriodId": 3,
+        "costumeName": "\u30b5\u30d6\u30ab\u30eb\u30dc\u30fc\u30a4\u30b9\u30bf\u30a4\u30eb",
+        "character3dId1": 32,
+        "character3dId2": 33,
+        "maleAssetbundleName": "cos0012_body",
+        "femaleAssetbundleName": "cos0011_body"
+    },
+    {
+        "id": 4,
+        "liveMissionPeriodId": 4,
+        "costumeName": "\u3082\u3053\u3082\u3053\u30b9\u30ce\u30fc\u30b3\u30fc\u30c8",
+        "character3dId1": 47,
+        "character3dId2": 48,
+        "maleAssetbundleName": "cos0041_body",
+        "femaleAssetbundleName": "cos0040_body"
+    },
+    {
+        "id": 5,
+        "liveMissionPeriodId": 5,
+        "costumeName": "\u30e1\u30a4\u30c9 \/ \u30d0\u30c8\u30e9\u30fc",
+        "character3dId1": 68,
+        "character3dId2": 69,
+        "maleAssetbundleName": "cos0049_body",
+        "femaleAssetbundleName": "cos0048_body"
+    },
+    {
+        "id": 6,
+        "liveMissionPeriodId": 6,
+        "costumeName": "\u30e2\u30fc\u30e2\u30fc\u2606\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc",
+        "character3dId1": 86,
+        "character3dId2": 87,
+        "maleAssetbundleName": "cos0059_body",
+        "femaleAssetbundleName": "cos0058_body"
+    },
+    {
+        "id": 7,
+        "liveMissionPeriodId": 7,
+        "costumeName": "\u300c\u30b9\u30a4\u30fc\u30c4\u300d\u8863\u88c5",
+        "character3dId1": 144,
+        "character3dId2": 145,
+        "maleAssetbundleName": "cos0069_body",
+        "femaleAssetbundleName": "cos0068_body"
+    },
+    {
+        "id": 8,
+        "liveMissionPeriodId": 8,
+        "costumeName": "\u300c\u8fd1\u672a\u6765\u300d\u8863\u88c5",
+        "character3dId1": 167,
+        "character3dId2": 168,
+        "maleAssetbundleName": "cos0077_body",
+        "femaleAssetbundleName": "cos0076_body"
+    },
+    {
+        "id": 9,
+        "liveMissionPeriodId": 9,
+        "costumeName": "\u300c\u602a\u76d7\u300d\u8863\u88c5",
+        "character3dId1": 188,
+        "character3dId2": 189,
+        "maleAssetbundleName": "cos0087_body",
+        "femaleAssetbundleName": "cos0086_body"
+    },
+    {
+        "id": 10,
+        "liveMissionPeriodId": 10,
+        "costumeName": "\u300c\u9b54\u6cd5\u300d\u8863\u88c5",
+        "character3dId1": 207,
+        "character3dId2": 208,
+        "maleAssetbundleName": "cos0097_body",
+        "femaleAssetbundleName": "cos0096_body"
+    },
+    {
+        "id": 11,
+        "liveMissionPeriodId": 11,
+        "costumeName": "\u300c\u30ec\u30b9\u30c8\u30e9\u30f3\u300d\u8863\u88c5",
+        "character3dId1": 227,
+        "character3dId2": 228,
+        "maleAssetbundleName": "cos0105_body",
+        "femaleAssetbundleName": "cos0104_body"
+    },
+    {
+        "id": 12,
+        "liveMissionPeriodId": 12,
+        "costumeName": "\u300c\u6d77\u8cca\u300d\u8863\u88c5",
+        "character3dId1": 254,
+        "character3dId2": 255,
+        "maleAssetbundleName": "cos0115_body",
+        "femaleAssetbundleName": "cos0114_body"
+    },
+    {
+        "id": 13,
+        "liveMissionPeriodId": 13,
+        "costumeName": "\u300c\u30a2\u30cb\u30de\u30eb\u300d\u8863\u88c5",
+        "character3dId1": 277,
+        "character3dId2": 278,
+        "maleAssetbundleName": "cos0123_body",
+        "femaleAssetbundleName": "cos0122_body"
+    },
+    {
+        "id": 14,
+        "liveMissionPeriodId": 14,
+        "costumeName": "\u300c\u30d1\u30b8\u30e3\u30de\u300d\u8863\u88c5",
+        "character3dId1": 306,
+        "character3dId2": 307,
+        "maleAssetbundleName": "cos0131_body",
+        "femaleAssetbundleName": "cos0130_body"
+    },
+    {
+        "id": 15,
+        "liveMissionPeriodId": 15,
+        "costumeName": "\u300c\u30b4\u30fc\u30b9\u30c8\u300d\u8863\u88c5",
+        "character3dId1": 354,
+        "character3dId2": 355,
+        "maleAssetbundleName": "cos0139_body",
+        "femaleAssetbundleName": "cos0138_body"
+    },
+    {
+        "id": 16,
+        "liveMissionPeriodId": 16,
+        "costumeName": "\u300c\u30b4\u30b7\u30c3\u30af\u300d\u8863\u88c5",
+        "character3dId1": 384,
+        "character3dId2": 385,
+        "maleAssetbundleName": "cos0163_body",
+        "femaleAssetbundleName": "cos0162_body"
+    },
+    {
+        "id": 17,
+        "liveMissionPeriodId": 17,
+        "costumeName": "\u300c\u30c1\u30a7\u30c3\u30af\u67c4\u300d\u8863\u88c5",
+        "character3dId1": 422,
+        "character3dId2": 423,
+        "maleAssetbundleName": "cos0171_body",
+        "femaleAssetbundleName": "cos0170_body"
+    },
+    {
+        "id": 18,
+        "liveMissionPeriodId": 18,
+        "costumeName": "\u300c\u5b87\u5b99\u300d\u8863\u88c5",
+        "character3dId1": 469,
+        "character3dId2": 470,
+        "maleAssetbundleName": "cos0189_body",
+        "femaleAssetbundleName": "cos0188_body"
+    },
+    {
+        "id": 19,
+        "liveMissionPeriodId": 19,
+        "costumeName": "\u300c\u30d5\u30eb\u30fc\u30c4\u300d\u8863\u88c5",
+        "character3dId1": 488,
+        "character3dId2": 489,
+        "maleAssetbundleName": "cos0200_body",
+        "femaleAssetbundleName": "cos0199_body"
+    },
+    {
+        "id": 20,
+        "liveMissionPeriodId": 20,
+        "costumeName": "\u300c\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u300d\u8863\u88c5",
+        "character3dId1": 528,
+        "character3dId2": 529,
+        "maleAssetbundleName": "cos0217_body",
+        "femaleAssetbundleName": "cos0216_body"
+    },
+    {
+        "id": 21,
+        "liveMissionPeriodId": 21,
+        "costumeName": "\u300c\u30a4\u30fc\u30b9\u30bf\u30fc\u300d\u8863\u88c5",
+        "character3dId1": 543,
+        "character3dId2": 544,
+        "maleAssetbundleName": "cos0235_body",
+        "femaleAssetbundleName": "cos0234_body"
+    },
+    {
+        "id": 22,
+        "liveMissionPeriodId": 22,
+        "costumeName": "\u300c\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u300d\u8863\u88c5",
+        "character3dId1": 566,
+        "character3dId2": 567,
+        "maleAssetbundleName": "cos0246_body",
+        "femaleAssetbundleName": "cos0245_body"
+    },
+    {
+        "id": 23,
+        "liveMissionPeriodId": 23,
+        "costumeName": "\u300c\u30b9\u30dd\u30fc\u30c4\u300d\u8863\u88c5",
+        "character3dId1": 587,
+        "character3dId2": 588,
+        "maleAssetbundleName": "cos0257_body",
+        "femaleAssetbundleName": "cos0256_body"
+    },
+    {
+        "id": 24,
+        "liveMissionPeriodId": 24,
+        "costumeName": "\u300c\u30d0\u30ab\u30f3\u30b9\u300d\u8863\u88c5",
+        "character3dId1": 623,
+        "character3dId2": 624,
+        "maleAssetbundleName": "cos0270_body",
+        "femaleAssetbundleName": "cos0269_body"
+    },
+    {
+        "id": 25,
+        "liveMissionPeriodId": 25,
+        "costumeName": "\u300c\u304a\u51fa\u304b\u3051\u670d\u300d\u8863\u88c5",
+        "character3dId1": 639,
+        "character3dId2": 640,
+        "maleAssetbundleName": "cos0281_body",
+        "femaleAssetbundleName": "cos0280_body"
+    },
+    {
+        "id": 26,
+        "liveMissionPeriodId": 26,
+        "costumeName": "\u300c\u30ec\u30c8\u30ed\u300d\u8863\u88c5",
+        "character3dId1": 669,
+        "character3dId2": 670,
+        "maleAssetbundleName": "cos0292_body",
+        "femaleAssetbundleName": "cos0291_body"
+    },
+    {
+        "id": 27,
+        "liveMissionPeriodId": 27,
+        "costumeName": "\u300c\u30c9\u30ec\u30b9\u30fb\u6b63\u88c5\u300d\u8863\u88c5",
+        "character3dId1": 702,
+        "character3dId2": 703,
+        "maleAssetbundleName": "cos0315_body",
+        "femaleAssetbundleName": "cos0314_body"
+    },
+    {
+        "id": 28,
+        "liveMissionPeriodId": 28,
+        "costumeName": "\u300c\u5996\u602a\u300d\u8863\u88c5",
+        "character3dId1": 732,
+        "character3dId2": 733,
+        "maleAssetbundleName": "cos0328_body",
+        "femaleAssetbundleName": "cos0327_body"
+    },
+    {
+        "id": 29,
+        "liveMissionPeriodId": 29,
+        "costumeName": "\u300c\u304a\u3082\u3061\u3083\u300d\u8863\u88c5",
+        "character3dId1": 771,
+        "character3dId2": 772,
+        "maleAssetbundleName": "cos0339_body",
+        "femaleAssetbundleName": "cos0338_body"
+    },
+    {
+        "id": 30,
+        "liveMissionPeriodId": 30,
+        "costumeName": "\u300c\u30a6\u30a3\u30f3\u30bf\u30fc\u30b9\u30dd\u30fc\u30c4\u300d\u8863\u88c5",
+        "character3dId1": 861,
+        "character3dId2": 862,
+        "maleAssetbundleName": "cos0356_body",
+        "femaleAssetbundleName": "cos0355_body"
+    },
+    {
+        "id": 31,
+        "liveMissionPeriodId": 31,
+        "costumeName": "\u300c\u5fcd\u8005\u300d\u8863\u88c5",
+        "character3dId1": 895,
+        "character3dId2": 896,
+        "maleAssetbundleName": "cos0369_body",
+        "femaleAssetbundleName": "cos0368_body"
+    },
+    {
+        "id": 32,
+        "liveMissionPeriodId": 32,
+        "costumeName": "\u300c\u30a6\u30a8\u30b9\u30bf\u30f3\u300d\u8863\u88c5",
+        "character3dId1": 929,
+        "character3dId2": 930,
+        "maleAssetbundleName": "cos0380_body",
+        "femaleAssetbundleName": "cos0379_body"
+    },
+    {
+        "id": 33,
+        "liveMissionPeriodId": 33,
+        "costumeName": "\u300c\u6625\u670d\u300d\u8863\u88c5",
+        "character3dId1": 976,
+        "character3dId2": 977,
+        "maleAssetbundleName": "cos0398_body",
+        "femaleAssetbundleName": "cos0397_body"
+    },
+    {
+        "id": 34,
+        "liveMissionPeriodId": 34,
+        "costumeName": "\u300c\u30d5\u30ed\u30fc\u30e9\u30eb\u300d\u8863\u88c5",
+        "character3dId1": 1000,
+        "character3dId2": 1001,
+        "maleAssetbundleName": "cos0413_body",
+        "femaleAssetbundleName": "cos0412_body"
+    },
+    {
+        "id": 35,
+        "liveMissionPeriodId": 35,
+        "costumeName": "\u300c\u30d1\u30b9\u30c6\u30eb\u30ab\u30e9\u30fc\u300d\u8863\u88c5",
+        "character3dId1": 1033,
+        "character3dId2": 1034,
+        "maleAssetbundleName": "cos0424_body",
+        "femaleAssetbundleName": "cos0423_body"
+    },
+    {
+        "id": 36,
+        "liveMissionPeriodId": 36,
+        "costumeName": "\u300c\u590f\u670d\u300d\u8863\u88c5",
+        "character3dId1": 1075,
+        "character3dId2": 1076,
+        "maleAssetbundleName": "cos0437_body",
+        "femaleAssetbundleName": "cos0436_body"
+    },
+    {
+        "id": 37,
+        "liveMissionPeriodId": 37,
+        "costumeName": "\u300c\u30d5\u30ea\u30fc\u300d\u8863\u88c5",
+        "character3dId1": 1103,
+        "character3dId2": 1104,
+        "maleAssetbundleName": "cos0448_body",
+        "femaleAssetbundleName": "cos0447_body"
+    },
+    {
+        "id": 38,
+        "liveMissionPeriodId": 38,
+        "costumeName": "\u300c\u30a2\u30e1\u30ab\u30b8\u300d\u8863\u88c5",
+        "character3dId1": 1124,
+        "character3dId2": 1125,
+        "maleAssetbundleName": "cos0460_body",
+        "femaleAssetbundleName": "cos0459_body"
+    },
+    {
+        "id": 39,
+        "liveMissionPeriodId": 39,
+        "costumeName": "\u300c\u79cb\u670d\u300d\u8863\u88c5",
+        "character3dId1": 1150,
+        "character3dId2": 1151,
+        "maleAssetbundleName": "cos0486_body",
+        "femaleAssetbundleName": "cos0485_body"
+    },
+    {
+        "id": 40,
+        "liveMissionPeriodId": 40,
+        "costumeName": "\u300c\u30b4\u30fc\u30b8\u30e3\u30b9\u300d\u8863\u88c5",
+        "character3dId1": 1234,
+        "character3dId2": 1235,
+        "maleAssetbundleName": "cos0499_body",
+        "femaleAssetbundleName": "cos0498_body"
+    },
+    {
+        "id": 41,
+        "liveMissionPeriodId": 41,
+        "costumeName": "\u300c\u30c7\u30cb\u30e0\u300d\u8863\u88c5",
+        "character3dId1": 1257,
+        "character3dId2": 1258,
+        "maleAssetbundleName": "cos0511_body",
+        "femaleAssetbundleName": "cos0510_body"
+    },
+    {
+        "id": 42,
+        "liveMissionPeriodId": 42,
+        "costumeName": "\u300c\u51ac\u670d\u300d\u8863\u88c5",
+        "character3dId1": 1334,
+        "character3dId2": 1335,
+        "maleAssetbundleName": "cos0534_body",
+        "femaleAssetbundleName": "cos0533_body"
+    },
+    {
+        "id": 43,
+        "liveMissionPeriodId": 43,
+        "costumeName": "\u300c\u30aa\u30da\u30e9\u5ea7\u300d\u8863\u88c5",
+        "character3dId1": 1369,
+        "character3dId2": 1370,
+        "maleAssetbundleName": "cos0546_body",
+        "femaleAssetbundleName": "cos0545_body"
+    },
+    {
+        "id": 44,
+        "liveMissionPeriodId": 44,
+        "costumeName": "\u300c\u30c6\u30a3\u30fc\u30d1\u30fc\u30c6\u30a3\u30fc\u300d\u8863\u88c5",
+        "character3dId1": 1421,
+        "character3dId2": 1422,
+        "maleAssetbundleName": "cos0557_body",
+        "femaleAssetbundleName": "cos0556_body"
+    },
+    {
+        "id": 45,
+        "liveMissionPeriodId": 45,
+        "costumeName": "\u300c\u685c\u300d\u8863\u88c5",
+        "character3dId1": 1458,
+        "character3dId2": 1459,
+        "maleAssetbundleName": "cos0576_body",
+        "femaleAssetbundleName": "cos0575_body"
+    },
+    {
+        "id": 46,
+        "liveMissionPeriodId": 46,
+        "costumeName": "\u300c\u63a2\u5075\u300d\u8863\u88c5",
+        "character3dId1": 1476,
+        "character3dId2": 1477,
+        "maleAssetbundleName": "cos0591_body",
+        "femaleAssetbundleName": "cos0590_body"
+    }
+]

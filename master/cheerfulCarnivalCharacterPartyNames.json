@@ -1,0 +1,1152 @@
+[
+    {
+        "id": 1,
+        "characterPartyName": "\u307f\u3093\u306a\u3059\u3054\u3044",
+        "gameCharacterUnitId": 1
+    },
+    {
+        "id": 2,
+        "characterPartyName": "\u30df\u30af\u5927\u597d\u304d",
+        "gameCharacterUnitId": 1
+    },
+    {
+        "id": 3,
+        "characterPartyName": "\u5e7c\u99b4\u67d3\u307f\u5927\u5207",
+        "gameCharacterUnitId": 2
+    },
+    {
+        "id": 4,
+        "characterPartyName": "\u9752\u6625\u3057\u3088\u3046\uff01",
+        "gameCharacterUnitId": 2
+    },
+    {
+        "id": 5,
+        "characterPartyName": "\u3057\u3070\u304a\u30e9\u30d6",
+        "gameCharacterUnitId": 3
+    },
+    {
+        "id": 6,
+        "characterPartyName": "\u661f\u597d\u304d",
+        "gameCharacterUnitId": 3
+    },
+    {
+        "id": 7,
+        "characterPartyName": "\u3072\u3068\u308a\u304c\u597d\u304d",
+        "gameCharacterUnitId": 4
+    },
+    {
+        "id": 8,
+        "characterPartyName": "\u30e9\u30fc\u30e1\u30f3\u597d\u304d",
+        "gameCharacterUnitId": 4
+    },
+    {
+        "id": 9,
+        "characterPartyName": "\u63a8\u3057\u304c\u5c0a\u3044",
+        "gameCharacterUnitId": 5
+    },
+    {
+        "id": 10,
+        "characterPartyName": "\u30b5\u30fc\u30e2\u30f3\u597d\u304d",
+        "gameCharacterUnitId": 5
+    },
+    {
+        "id": 11,
+        "characterPartyName": "\u3068\u3063\u3066\u3082\u7518\u515a",
+        "gameCharacterUnitId": 6
+    },
+    {
+        "id": 12,
+        "characterPartyName": "\u30da\u30f3\u30ae\u30f3\u597d\u304d",
+        "gameCharacterUnitId": 6
+    },
+    {
+        "id": 13,
+        "characterPartyName": "\u732b\u597d\u304d",
+        "gameCharacterUnitId": 7
+    },
+    {
+        "id": 14,
+        "characterPartyName": "\u30a2\u30a4\u30c9\u30eb\u597d\u304d",
+        "gameCharacterUnitId": 7
+    },
+    {
+        "id": 15,
+        "characterPartyName": "\u65b9\u5411\u97f3\u75f4",
+        "gameCharacterUnitId": 8
+    },
+    {
+        "id": 16,
+        "characterPartyName": "\u59b9\u30e9\u30d6",
+        "gameCharacterUnitId": 8
+    },
+    {
+        "id": 17,
+        "characterPartyName": "\u8da3\u5473\u306f\u30ab\u30e1\u30e9",
+        "gameCharacterUnitId": 9
+    },
+    {
+        "id": 18,
+        "characterPartyName": "\u30b1\u30e2\u30ce\u306e\u95d8\u5fd7",
+        "gameCharacterUnitId": 9
+    },
+    {
+        "id": 19,
+        "characterPartyName": "\u98a8\u7d00\u59d4\u54e1",
+        "gameCharacterUnitId": 10
+    },
+    {
+        "id": 20,
+        "characterPartyName": "\u30ab\u30d5\u30a7\u770b\u677f\u5a18",
+        "gameCharacterUnitId": 10
+    },
+    {
+        "id": 21,
+        "characterPartyName": "\u5b9f\u306f\u7518\u515a",
+        "gameCharacterUnitId": 11
+    },
+    {
+        "id": 22,
+        "characterPartyName": "\u72ac\u306f\u5929\u6575",
+        "gameCharacterUnitId": 11
+    },
+    {
+        "id": 23,
+        "characterPartyName": "\u56f3\u66f8\u59d4\u54e1",
+        "gameCharacterUnitId": 12
+    },
+    {
+        "id": 24,
+        "characterPartyName": "\u30b3\u30fc\u30d2\u30fc\u597d\u304d",
+        "gameCharacterUnitId": 12
+    },
+    {
+        "id": 25,
+        "characterPartyName": "\u672a\u6765\u306e\u30b9\u30bf\u30fc",
+        "gameCharacterUnitId": 13
+    },
+    {
+        "id": 26,
+        "characterPartyName": "\u81ea\u79f0\u5ea7\u9577",
+        "gameCharacterUnitId": 13
+    },
+    {
+        "id": 27,
+        "characterPartyName": "\u308f\u3093\u3060\u307b\u30fc\u3044",
+        "gameCharacterUnitId": 14
+    },
+    {
+        "id": 28,
+        "characterPartyName": "\u305f\u3044\u713c\u304d\u30e9\u30d6",
+        "gameCharacterUnitId": 14
+    },
+    {
+        "id": 29,
+        "characterPartyName": "\u4eba\u898b\u77e5\u308a",
+        "gameCharacterUnitId": 15
+    },
+    {
+        "id": 30,
+        "characterPartyName": "\u30b2\u30fc\u30de\u30fc",
+        "gameCharacterUnitId": 15
+    },
+    {
+        "id": 31,
+        "characterPartyName": "\u5929\u624d\u6f14\u51fa\u5bb6",
+        "gameCharacterUnitId": 16
+    },
+    {
+        "id": 32,
+        "characterPartyName": "\u767a\u660e\u304c\u5f97\u610f",
+        "gameCharacterUnitId": 16
+    },
+    {
+        "id": 33,
+        "characterPartyName": "\u30ab\u30c3\u30d7\u9eba\u751f\u6d3b",
+        "gameCharacterUnitId": 17
+    },
+    {
+        "id": 34,
+        "characterPartyName": "\u30b8\u30e3\u30fc\u30b8\u5e38\u5099",
+        "gameCharacterUnitId": 17
+    },
+    {
+        "id": 35,
+        "characterPartyName": "\u300c\u512a\u7b49\u751f\u300d",
+        "gameCharacterUnitId": 18
+    },
+    {
+        "id": 36,
+        "characterPartyName": "\u3072\u3068\u308a\u306b\u3057\u3066",
+        "gameCharacterUnitId": 18
+    },
+    {
+        "id": 37,
+        "characterPartyName": "\u81ea\u64ae\u308a\u4e0a\u624b",
+        "gameCharacterUnitId": 19
+    },
+    {
+        "id": 38,
+        "characterPartyName": "\u6620\u3048\u4e3b\u7fa9",
+        "gameCharacterUnitId": 19
+    },
+    {
+        "id": 39,
+        "characterPartyName": "\u88c1\u7e2b\u4e0a\u624b",
+        "gameCharacterUnitId": 20
+    },
+    {
+        "id": 40,
+        "characterPartyName": "\u732b\u820c",
+        "gameCharacterUnitId": 20
+    },
+    {
+        "id": 41,
+        "characterPartyName": "\u30bb\u30ab\u30a4\u306e\u6b4c\u59eb",
+        "gameCharacterUnitId": 21
+    },
+    {
+        "id": 42,
+        "characterPartyName": "\u30d0\u30f3\u30c9\u306e\u5148\u8f29",
+        "gameCharacterUnitId": 27
+    },
+    {
+        "id": 43,
+        "characterPartyName": "\u30b9\u30c6\u30fc\u30b8\u306e\u82b1",
+        "gameCharacterUnitId": 28
+    },
+    {
+        "id": 44,
+        "characterPartyName": "\u30ab\u30d5\u30a7\u624b\u4f1d\u3044",
+        "gameCharacterUnitId": 29
+    },
+    {
+        "id": 45,
+        "characterPartyName": "\u732b\u8033",
+        "gameCharacterUnitId": 30
+    },
+    {
+        "id": 46,
+        "characterPartyName": "\u3044\u3064\u3082\u96a3\u306b",
+        "gameCharacterUnitId": 31
+    },
+    {
+        "id": 47,
+        "characterPartyName": "\u5143\u6c17\u306a\u6b4c\u59eb",
+        "gameCharacterUnitId": 22
+    },
+    {
+        "id": 48,
+        "characterPartyName": "\u5143\u6c17\u306a\u6b4c\u59eb",
+        "gameCharacterUnitId": 32
+    },
+    {
+        "id": 49,
+        "characterPartyName": "\u5143\u6c17\u306a\u6b4c\u59eb",
+        "gameCharacterUnitId": 33
+    },
+    {
+        "id": 50,
+        "characterPartyName": "\u5143\u6c17\u306a\u6b4c\u59eb",
+        "gameCharacterUnitId": 34
+    },
+    {
+        "id": 51,
+        "characterPartyName": "\u5143\u6c17\u306a\u6b4c\u59eb",
+        "gameCharacterUnitId": 35
+    },
+    {
+        "id": 52,
+        "characterPartyName": "\u5143\u6c17\u306a\u6b4c\u59eb",
+        "gameCharacterUnitId": 36
+    },
+    {
+        "id": 53,
+        "characterPartyName": "\u5143\u6c17\u306a\u6b4c\u59eb",
+        "gameCharacterUnitId": 37
+    },
+    {
+        "id": 54,
+        "characterPartyName": "\u6d3b\u767a\u30b7\u30f3\u30ac\u30fc",
+        "gameCharacterUnitId": 23
+    },
+    {
+        "id": 55,
+        "characterPartyName": "\u6d3b\u767a\u30b7\u30f3\u30ac\u30fc",
+        "gameCharacterUnitId": 37
+    },
+    {
+        "id": 56,
+        "characterPartyName": "\u6d3b\u767a\u30b7\u30f3\u30ac\u30fc",
+        "gameCharacterUnitId": 38
+    },
+    {
+        "id": 57,
+        "characterPartyName": "\u6d3b\u767a\u30b7\u30f3\u30ac\u30fc",
+        "gameCharacterUnitId": 39
+    },
+    {
+        "id": 58,
+        "characterPartyName": "\u6d3b\u767a\u30b7\u30f3\u30ac\u30fc",
+        "gameCharacterUnitId": 40
+    },
+    {
+        "id": 59,
+        "characterPartyName": "\u6d3b\u767a\u30b7\u30f3\u30ac\u30fc",
+        "gameCharacterUnitId": 41
+    },
+    {
+        "id": 60,
+        "characterPartyName": "\u7a4f\u3084\u304b\u306a\u6b4c\u59eb",
+        "gameCharacterUnitId": 24
+    },
+    {
+        "id": 61,
+        "characterPartyName": "\u7a4f\u3084\u304b\u306a\u6b4c\u59eb",
+        "gameCharacterUnitId": 42
+    },
+    {
+        "id": 62,
+        "characterPartyName": "\u7a4f\u3084\u304b\u306a\u6b4c\u59eb",
+        "gameCharacterUnitId": 43
+    },
+    {
+        "id": 63,
+        "characterPartyName": "\u7a4f\u3084\u304b\u306a\u6b4c\u59eb",
+        "gameCharacterUnitId": 44
+    },
+    {
+        "id": 64,
+        "characterPartyName": "\u7a4f\u3084\u304b\u306a\u6b4c\u59eb",
+        "gameCharacterUnitId": 45
+    },
+    {
+        "id": 65,
+        "characterPartyName": "\u7a4f\u3084\u304b\u306a\u6b4c\u59eb",
+        "gameCharacterUnitId": 46
+    },
+    {
+        "id": 66,
+        "characterPartyName": "\u529b\u5f37\u3044\u6b4c\u59eb",
+        "gameCharacterUnitId": 25
+    },
+    {
+        "id": 67,
+        "characterPartyName": "\u529b\u5f37\u3044\u6b4c\u59eb",
+        "gameCharacterUnitId": 47
+    },
+    {
+        "id": 68,
+        "characterPartyName": "\u529b\u5f37\u3044\u6b4c\u59eb",
+        "gameCharacterUnitId": 48
+    },
+    {
+        "id": 69,
+        "characterPartyName": "\u529b\u5f37\u3044\u6b4c\u59eb",
+        "gameCharacterUnitId": 49
+    },
+    {
+        "id": 70,
+        "characterPartyName": "\u529b\u5f37\u3044\u6b4c\u59eb",
+        "gameCharacterUnitId": 50
+    },
+    {
+        "id": 71,
+        "characterPartyName": "\u529b\u5f37\u3044\u6b4c\u59eb",
+        "gameCharacterUnitId": 51
+    },
+    {
+        "id": 72,
+        "characterPartyName": "\u6e05\u6dbc\u30b7\u30f3\u30ac\u30fc",
+        "gameCharacterUnitId": 26
+    },
+    {
+        "id": 73,
+        "characterPartyName": "\u6e05\u6dbc\u30b7\u30f3\u30ac\u30fc",
+        "gameCharacterUnitId": 52
+    },
+    {
+        "id": 74,
+        "characterPartyName": "\u6e05\u6dbc\u30b7\u30f3\u30ac\u30fc",
+        "gameCharacterUnitId": 53
+    },
+    {
+        "id": 75,
+        "characterPartyName": "\u6e05\u6dbc\u30b7\u30f3\u30ac\u30fc",
+        "gameCharacterUnitId": 54
+    },
+    {
+        "id": 76,
+        "characterPartyName": "\u6e05\u6dbc\u30b7\u30f3\u30ac\u30fc",
+        "gameCharacterUnitId": 55
+    },
+    {
+        "id": 77,
+        "characterPartyName": "\u6e05\u6dbc\u30b7\u30f3\u30ac\u30fc",
+        "gameCharacterUnitId": 56
+    },
+    {
+        "id": 78,
+        "characterPartyName": "\u713c\u304d\u305d\u3070\u30d1\u30f3",
+        "gameCharacterUnitId": 1
+    },
+    {
+        "id": 79,
+        "characterPartyName": "\u53cb\u9054\u601d\u3044",
+        "gameCharacterUnitId": 1
+    },
+    {
+        "id": 80,
+        "characterPartyName": "\u7dba\u9e97\u306a\u9ed2\u3044\u9aea",
+        "gameCharacterUnitId": 1
+    },
+    {
+        "id": 81,
+        "characterPartyName": "\u898b\u305f\u76ee\u30ae\u30e3\u30eb",
+        "gameCharacterUnitId": 2
+    },
+    {
+        "id": 82,
+        "characterPartyName": "\u30c4\u30a4\u30f3\u30c6\u30fc\u30eb",
+        "gameCharacterUnitId": 2
+    },
+    {
+        "id": 83,
+        "characterPartyName": "\u660e\u308b\u304f\u5065\u6c17",
+        "gameCharacterUnitId": 2
+    },
+    {
+        "id": 84,
+        "characterPartyName": "\u30a2\u30c3\u30d7\u30eb\u30d1\u30a4",
+        "gameCharacterUnitId": 3
+    },
+    {
+        "id": 85,
+        "characterPartyName": "\u30b9\u30cb\u30fc\u30ab\u30fc\u597d\u304d",
+        "gameCharacterUnitId": 3
+    },
+    {
+        "id": 86,
+        "characterPartyName": "\u753b\u4f2f\u3067\u3059",
+        "gameCharacterUnitId": 3
+    },
+    {
+        "id": 87,
+        "characterPartyName": "\u4e00\u5339\u72fc",
+        "gameCharacterUnitId": 4
+    },
+    {
+        "id": 88,
+        "characterPartyName": "\u6fc3\u3044\u5473\u304c\u597d\u304d",
+        "gameCharacterUnitId": 4
+    },
+    {
+        "id": 89,
+        "characterPartyName": "\u6b63\u76f4\u8005",
+        "gameCharacterUnitId": 4
+    },
+    {
+        "id": 90,
+        "characterPartyName": "\u30e9\u30c3\u30b3\uff34",
+        "gameCharacterUnitId": 5
+    },
+    {
+        "id": 91,
+        "characterPartyName": "\u3053\u305f\u3064",
+        "gameCharacterUnitId": 5
+    },
+    {
+        "id": 92,
+        "characterPartyName": "\u3082\u3063\u3068\u3082\u3063\u3068",
+        "gameCharacterUnitId": 5
+    },
+    {
+        "id": 93,
+        "characterPartyName": "\u5922\u306f\u5b8c\u5168\u5357\u6975",
+        "gameCharacterUnitId": 6
+    },
+    {
+        "id": 94,
+        "characterPartyName": "\u5168\u90e8\uff12\u500b\u305a\u3064",
+        "gameCharacterUnitId": 6
+    },
+    {
+        "id": 95,
+        "characterPartyName": "\u30b9\u30c8\u30a4\u30c3\u30af",
+        "gameCharacterUnitId": 6
+    },
+    {
+        "id": 96,
+        "characterPartyName": "\u516b\u91cd\u6b6f\u30ad\u30e9\u30f3",
+        "gameCharacterUnitId": 7
+    },
+    {
+        "id": 97,
+        "characterPartyName": "\u3057\u3063\u304b\u308a\u8005",
+        "gameCharacterUnitId": 7
+    },
+    {
+        "id": 98,
+        "characterPartyName": "\u4e0d\u5c48\u306e\u7cbe\u795e",
+        "gameCharacterUnitId": 7
+    },
+    {
+        "id": 99,
+        "characterPartyName": "\u3057\u3043\u3061\u3083\u3093",
+        "gameCharacterUnitId": 8
+    },
+    {
+        "id": 100,
+        "characterPartyName": "\u7f8e\u3057\u307b\u304f\u308d",
+        "gameCharacterUnitId": 8
+    },
+    {
+        "id": 101,
+        "characterPartyName": "\u5929\u7136\u304a\u59c9\u3055\u3093",
+        "gameCharacterUnitId": 8
+    },
+    {
+        "id": 102,
+        "characterPartyName": "\u30cf\u30e0\u30cf\u30e0",
+        "gameCharacterUnitId": 9
+    },
+    {
+        "id": 103,
+        "characterPartyName": "\u30da\u30c3\u30c8\u306f\u30d8\u30d3",
+        "gameCharacterUnitId": 9
+    },
+    {
+        "id": 104,
+        "characterPartyName": "\u3082\u3046\u9003\u3052\u306a\u3044",
+        "gameCharacterUnitId": 9
+    },
+    {
+        "id": 105,
+        "characterPartyName": "\u76f8\u68d2\u5927\u597d\u304d",
+        "gameCharacterUnitId": 10
+    },
+    {
+        "id": 106,
+        "characterPartyName": "\u30c8\u30de\u30c8NG",
+        "gameCharacterUnitId": 10
+    },
+    {
+        "id": 107,
+        "characterPartyName": "\u30b5\u30d0\u30b5\u30d0",
+        "gameCharacterUnitId": 10
+    },
+    {
+        "id": 108,
+        "characterPartyName": "\u306b\u3093\u3058\u3093NG",
+        "gameCharacterUnitId": 11
+    },
+    {
+        "id": 109,
+        "characterPartyName": "\u4eba\u5f53\u305f\u308a\u826f\u3057",
+        "gameCharacterUnitId": 11
+    },
+    {
+        "id": 110,
+        "characterPartyName": "\u5e38\u306b\u9ad8\u307f\u3078",
+        "gameCharacterUnitId": 11
+    },
+    {
+        "id": 111,
+        "characterPartyName": "\u6ce3\u304d\u307c\u304f\u308d",
+        "gameCharacterUnitId": 12
+    },
+    {
+        "id": 112,
+        "characterPartyName": "\u53e3\u4e0b\u624b",
+        "gameCharacterUnitId": 12
+    },
+    {
+        "id": 113,
+        "characterPartyName": "\u8868\u60c5\u7b4b\u304c\u56fa\u3044",
+        "gameCharacterUnitId": 12
+    },
+    {
+        "id": 114,
+        "characterPartyName": "\u304a\u9b5a\u30b7\u30e3\u30c4",
+        "gameCharacterUnitId": 13
+    },
+    {
+        "id": 115,
+        "characterPartyName": "\u6f14\u51faNG\u306a\u3057",
+        "gameCharacterUnitId": 13
+    },
+    {
+        "id": 116,
+        "characterPartyName": "\u30aa\u30ec\u3060\uff01",
+        "gameCharacterUnitId": 13
+    },
+    {
+        "id": 117,
+        "characterPartyName": "\u305f\u3044\u713c\u304d\u30e9\u30d6",
+        "gameCharacterUnitId": 14
+    },
+    {
+        "id": 118,
+        "characterPartyName": "\u4f55\u3067\u3082\u98df\u3079\u308b",
+        "gameCharacterUnitId": 14
+    },
+    {
+        "id": 119,
+        "characterPartyName": "\u306f\u3061\u3083\u3081\u3061\u3083",
+        "gameCharacterUnitId": 14
+    },
+    {
+        "id": 120,
+        "characterPartyName": "\u6bd2\u820c",
+        "gameCharacterUnitId": 15
+    },
+    {
+        "id": 121,
+        "characterPartyName": "\u629c\u7fa4\u306e\u6b4c\u58f0",
+        "gameCharacterUnitId": 15
+    },
+    {
+        "id": 122,
+        "characterPartyName": "\u30df\u30f3\u30c8\u7cfbNG",
+        "gameCharacterUnitId": 15
+    },
+    {
+        "id": 123,
+        "characterPartyName": "\u91ce\u83dcNG",
+        "gameCharacterUnitId": 16
+    },
+    {
+        "id": 125,
+        "characterPartyName": "\u30ab\u30e2\u30ce\u30cf\u30b7",
+        "gameCharacterUnitId": 16
+    },
+    {
+        "id": 126,
+        "characterPartyName": "\u65e5\u5149\u82e6\u624b",
+        "gameCharacterUnitId": 17
+    },
+    {
+        "id": 127,
+        "characterPartyName": "\u4f53\u5185\u6642\u8a08",
+        "gameCharacterUnitId": 17
+    },
+    {
+        "id": 128,
+        "characterPartyName": "\u4f5c\u3089\u306a\u304f\u3061\u3083",
+        "gameCharacterUnitId": 17
+    },
+    {
+        "id": 129,
+        "characterPartyName": "\uff2b",
+        "gameCharacterUnitId": 17
+    },
+    {
+        "id": 130,
+        "characterPartyName": "\u308f\u304b\u3089\u306a\u3044",
+        "gameCharacterUnitId": 18
+    },
+    {
+        "id": 131,
+        "characterPartyName": "\u30dd\u30cb\u30fc\u30c6\u30fc\u30eb",
+        "gameCharacterUnitId": 18
+    },
+    {
+        "id": 132,
+        "characterPartyName": "\u30a2\u30af\u30a2\u30ea\u30a6\u30e0",
+        "gameCharacterUnitId": 18
+    },
+    {
+        "id": 133,
+        "characterPartyName": "\u96ea",
+        "gameCharacterUnitId": 18
+    },
+    {
+        "id": 134,
+        "characterPartyName": "\u3044\u3044\u306d\u6b32\u3057\u3044",
+        "gameCharacterUnitId": 19
+    },
+    {
+        "id": 135,
+        "characterPartyName": "\u8cb7\u3063\u3066\u304d\u3066",
+        "gameCharacterUnitId": 19
+    },
+    {
+        "id": 136,
+        "characterPartyName": "\u4eca\u65e5\u306e\u30bf\u30b0\u306f",
+        "gameCharacterUnitId": 19
+    },
+    {
+        "id": 137,
+        "characterPartyName": "\u3048\u306a\u306a\u3093",
+        "gameCharacterUnitId": 19
+    },
+    {
+        "id": 138,
+        "characterPartyName": "\u3075\u30fc\u3075\u30fc\u3057\u3088",
+        "gameCharacterUnitId": 20
+    },
+    {
+        "id": 139,
+        "characterPartyName": "\u30ab\u30ef\u30a4\u30a4\u6700\u9ad8",
+        "gameCharacterUnitId": 20
+    },
+    {
+        "id": 140,
+        "characterPartyName": "\u30a2\u30cb\u30e1\u597d\u304d",
+        "gameCharacterUnitId": 20
+    },
+    {
+        "id": 141,
+        "characterPartyName": "Amia",
+        "gameCharacterUnitId": 20
+    },
+    {
+        "id": 142,
+        "characterPartyName": "\u307f\u3093\u306a\u306e\u6b4c\u59eb",
+        "gameCharacterUnitId": 21
+    },
+    {
+        "id": 143,
+        "characterPartyName": "\u30cd\u30ae\u3063\u3066\u4f55",
+        "gameCharacterUnitId": 21
+    },
+    {
+        "id": 144,
+        "characterPartyName": "\u5143\u6c17\u3044\u3063\u3071\u3044",
+        "gameCharacterUnitId": 22
+    },
+    {
+        "id": 145,
+        "characterPartyName": "\u5927\u304d\u3044\u30ea\u30dc\u30f3",
+        "gameCharacterUnitId": 22
+    },
+    {
+        "id": 146,
+        "characterPartyName": "\u306f\u3064\u3089\u3064",
+        "gameCharacterUnitId": 23
+    },
+    {
+        "id": 147,
+        "characterPartyName": "\u30df\u30b9\u30c6\u30ea\u30a2\u30b9",
+        "gameCharacterUnitId": 24
+    },
+    {
+        "id": 148,
+        "characterPartyName": "\u304a\u59c9\u3055\u307e",
+        "gameCharacterUnitId": 24
+    },
+    {
+        "id": 149,
+        "characterPartyName": "\u59c9\u5fa1\u808c",
+        "gameCharacterUnitId": 25
+    },
+    {
+        "id": 150,
+        "characterPartyName": "\u30d1\u30ef\u30d5\u30eb",
+        "gameCharacterUnitId": 25
+    },
+    {
+        "id": 151,
+        "characterPartyName": "\u9752\u30de\u30d5\u30e9\u30fc",
+        "gameCharacterUnitId": 26
+    },
+    {
+        "id": 152,
+        "characterPartyName": "\u6642\u3005\u3078\u305f\u308c\u308b",
+        "gameCharacterUnitId": 26
+    },
+    {
+        "id": 153,
+        "characterPartyName": "\u5b89\u5168\u30d4\u30f3",
+        "gameCharacterUnitId": 27
+    },
+    {
+        "id": 154,
+        "characterPartyName": "\u5b9f\u306f\u30cf\u30cd\u3063\u6bdb",
+        "gameCharacterUnitId": 27
+    },
+    {
+        "id": 155,
+        "characterPartyName": "\u8863\u88c5\u3044\u308d\u3044\u308d",
+        "gameCharacterUnitId": 28
+    },
+    {
+        "id": 156,
+        "characterPartyName": "\u304a\u56e3\u5b50\u7d50\u3073",
+        "gameCharacterUnitId": 29
+    },
+    {
+        "id": 157,
+        "characterPartyName": "\u4f59\u88d5\u306e\u7b11\u307f",
+        "gameCharacterUnitId": 29
+    },
+    {
+        "id": 159,
+        "characterPartyName": "\u304a\u307b\u3057\u3055\u307e",
+        "gameCharacterUnitId": 30
+    },
+    {
+        "id": 160,
+        "characterPartyName": "\u30aa\u30c3\u30c9\u30a2\u30a4",
+        "gameCharacterUnitId": 31
+    },
+    {
+        "id": 161,
+        "characterPartyName": "\u30db\u30ef\u30a4\u30c8\u30d8\u30a2",
+        "gameCharacterUnitId": 31
+    },
+    {
+        "id": 162,
+        "characterPartyName": "\u307f\u3093\u306a\u306e\u5148\u8f29",
+        "gameCharacterUnitId": 42
+    },
+    {
+        "id": 163,
+        "characterPartyName": "\u30b6\u30fb\u304a\u59c9\u3055\u307e",
+        "gameCharacterUnitId": 42
+    },
+    {
+        "id": 164,
+        "characterPartyName": "\u983c\u308a\u304c\u3044\u306e\u584a",
+        "gameCharacterUnitId": 47
+    },
+    {
+        "id": 165,
+        "characterPartyName": "\u30a4\u30b1\u30e1\u30f3\u90e8\u9577",
+        "gameCharacterUnitId": 47
+    },
+    {
+        "id": 166,
+        "characterPartyName": "\u30ad\u30e9\u30ad\u30e9\u7b11\u9854",
+        "gameCharacterUnitId": 33
+    },
+    {
+        "id": 167,
+        "characterPartyName": "\u65b0\u7c73\u30a2\u30a4\u30c9\u30eb",
+        "gameCharacterUnitId": 33
+    },
+    {
+        "id": 168,
+        "characterPartyName": "\u683c\u5b50\u67c4\u30ea\u30dc\u30f3",
+        "gameCharacterUnitId": 33
+    },
+    {
+        "id": 169,
+        "characterPartyName": "\u307b\u3063\u307a\u67d4\u3089\u304b",
+        "gameCharacterUnitId": 43
+    },
+    {
+        "id": 170,
+        "characterPartyName": "\u30ab\u30ea\u30b9\u30de",
+        "gameCharacterUnitId": 43
+    },
+    {
+        "id": 171,
+        "characterPartyName": "\u5b9f\u306f\u304a\u3061\u3083\u3081",
+        "gameCharacterUnitId": 43
+    },
+    {
+        "id": 172,
+        "characterPartyName": "\u3084\u3093\u3061\u3083\u5c11\u5973",
+        "gameCharacterUnitId": 34
+    },
+    {
+        "id": 173,
+        "characterPartyName": "DJ\u30ac\u30fc\u30eb",
+        "gameCharacterUnitId": 34
+    },
+    {
+        "id": 174,
+        "characterPartyName": "\u30af\u30fc\u30eb\u30ea\u30dc\u30f3",
+        "gameCharacterUnitId": 34
+    },
+    {
+        "id": 175,
+        "characterPartyName": "\u3084\u3093\u3061\u3083\u5c11\u5e74",
+        "gameCharacterUnitId": 39
+    },
+    {
+        "id": 176,
+        "characterPartyName": "DJ\u30dc\u30fc\u30a4",
+        "gameCharacterUnitId": 39
+    },
+    {
+        "id": 177,
+        "characterPartyName": "\u80cc\u4f38\u3073\u3057\u305f\u3044",
+        "gameCharacterUnitId": 39
+    },
+    {
+        "id": 178,
+        "characterPartyName": "\u3044\u3089\u3063\u3057\u3083\u3044",
+        "gameCharacterUnitId": 49
+    },
+    {
+        "id": 179,
+        "characterPartyName": "\u30de\u30b9\u30bf\u30fc\u3055\u3093",
+        "gameCharacterUnitId": 49
+    },
+    {
+        "id": 180,
+        "characterPartyName": "\u3046\u3055\u8033\u30ea\u30dc\u30f3",
+        "gameCharacterUnitId": 35
+    },
+    {
+        "id": 181,
+        "characterPartyName": "\u3075\u308f\u3075\u308f\u7b11\u9854",
+        "gameCharacterUnitId": 35
+    },
+    {
+        "id": 182,
+        "characterPartyName": "\u7206\u5f3e\u30ac\u30fc\u30eb",
+        "gameCharacterUnitId": 35
+    },
+    {
+        "id": 183,
+        "characterPartyName": "\u30b7\u30e7\u30fc\u5927\u597d\u304d",
+        "gameCharacterUnitId": 40
+    },
+    {
+        "id": 184,
+        "characterPartyName": "\u307f\u3093\u306a\u306e\u59c9\u5fa1",
+        "gameCharacterUnitId": 50
+    },
+    {
+        "id": 185,
+        "characterPartyName": "\u30c9\u30ab\u30f3\u3068\u8c6a\u5feb",
+        "gameCharacterUnitId": 50
+    },
+    {
+        "id": 186,
+        "characterPartyName": "\u8d64\u3044\u7adc\u5dfb",
+        "gameCharacterUnitId": 50
+    },
+    {
+        "id": 187,
+        "characterPartyName": "\u738b\u5b50\u306e\u98a8\u683c",
+        "gameCharacterUnitId": 55
+    },
+    {
+        "id": 188,
+        "characterPartyName": "\u632f\u308a\u56de\u3055\u308c\u5f79",
+        "gameCharacterUnitId": 55
+    },
+    {
+        "id": 189,
+        "characterPartyName": "\u30bb\u30ab\u30a4\u306e\u5ea7\u9577",
+        "gameCharacterUnitId": 55
+    },
+    {
+        "id": 190,
+        "characterPartyName": "\u3055\u307f\u3057\u304c\u308a",
+        "gameCharacterUnitId": 36
+    },
+    {
+        "id": 191,
+        "characterPartyName": "\u7d20\u76f4\u3058\u3083\u306a\u3044",
+        "gameCharacterUnitId": 36
+    },
+    {
+        "id": 192,
+        "characterPartyName": "\u304f\u3059\u307f\u30ea\u30dc\u30f3",
+        "gameCharacterUnitId": 36
+    },
+    {
+        "id": 193,
+        "characterPartyName": "\u3059\u3084\u3059\u3084\u3050\u30fc",
+        "gameCharacterUnitId": 45
+    },
+    {
+        "id": 194,
+        "characterPartyName": "\u5bdd\u308b\u306e\u5927\u597d\u304d",
+        "gameCharacterUnitId": 45
+    },
+    {
+        "id": 195,
+        "characterPartyName": "\u3072\u3064\u3058\u3055\u3093",
+        "gameCharacterUnitId": 45
+    },
+    {
+        "id": 196,
+        "characterPartyName": "\u5fc5\u8981\u306a\u8ddd\u96e2",
+        "gameCharacterUnitId": 51
+    },
+    {
+        "id": 197,
+        "characterPartyName": "\u898b\u5b88\u308b\u76ee",
+        "gameCharacterUnitId": 51
+    },
+    {
+        "id": 198,
+        "characterPartyName": "\u7070\u8272\u30c9\u30ec\u30b9",
+        "gameCharacterUnitId": 51
+    },
+    {
+        "id": 199,
+        "characterPartyName": "DJ\u306e\u5e2b\u5320",
+        "gameCharacterUnitId": 54
+    },
+    {
+        "id": 200,
+        "characterPartyName": "\u967d\u6c17",
+        "gameCharacterUnitId": 54
+    },
+    {
+        "id": 201,
+        "characterPartyName": "\u30de\u30cb\u30a2\u30c3\u30af",
+        "gameCharacterUnitId": 54
+    },
+    {
+        "id": 202,
+        "characterPartyName": "\u7d20\u6575\u306a\u8d64\u8272",
+        "gameCharacterUnitId": 48
+    },
+    {
+        "id": 203,
+        "characterPartyName": "So cute\u266a",
+        "gameCharacterUnitId": 48
+    },
+    {
+        "id": 204,
+        "characterPartyName": "\u306f\u3058\u3051\u308b\u5143\u6c17",
+        "gameCharacterUnitId": 48
+    },
+    {
+        "id": 205,
+        "characterPartyName": "\u602a\u3057\u3044\u5fae\u7b11",
+        "gameCharacterUnitId": 46
+    },
+    {
+        "id": 206,
+        "characterPartyName": "\u8b0e\u3081\u3044\u305f\u8a00\u52d5",
+        "gameCharacterUnitId": 46
+    },
+    {
+        "id": 207,
+        "characterPartyName": "\u624b\u6bb5\u306f\u554f\u308f\u305a",
+        "gameCharacterUnitId": 46
+    },
+    {
+        "id": 208,
+        "characterPartyName": "\u30ae\u30e3\u30eb\u7cfb",
+        "gameCharacterUnitId": 32
+    },
+    {
+        "id": 209,
+        "characterPartyName": "\u304a\u8abf\u5b50\u8005",
+        "gameCharacterUnitId": 32
+    },
+    {
+        "id": 210,
+        "characterPartyName": "\u840c\u3048\u8896",
+        "gameCharacterUnitId": 32
+    },
+    {
+        "id": 211,
+        "characterPartyName": "\u79c1\u306f\u6b4c\u3048\u308b\uff01",
+        "gameCharacterUnitId": 9
+    },
+    {
+        "id": 212,
+        "characterPartyName": "\u30ad\u30e9\u30ad\u30e9\u738b\u5b50",
+        "gameCharacterUnitId": 38
+    },
+    {
+        "id": 213,
+        "characterPartyName": "\u6027\u683c\u3082\u30a4\u30b1\u30e1\u30f3",
+        "gameCharacterUnitId": 38
+    },
+    {
+        "id": 214,
+        "characterPartyName": "\u57fa\u672c\u795e\u5bfe\u5fdc",
+        "gameCharacterUnitId": 38
+    },
+    {
+        "id": 215,
+        "characterPartyName": "\u30b7\u30e3\u30a4",
+        "gameCharacterUnitId": 52
+    },
+    {
+        "id": 216,
+        "characterPartyName": "\u97f3\u3067\u8a9e\u308b",
+        "gameCharacterUnitId": 52
+    },
+    {
+        "id": 217,
+        "characterPartyName": "\u30e1\u30ac\u30cd\u7537\u5b50",
+        "gameCharacterUnitId": 52
+    },
+    {
+        "id": 218,
+        "characterPartyName": "\u610f\u5916\u3068\u51b7\u9759",
+        "gameCharacterUnitId": 37
+    },
+    {
+        "id": 219,
+        "characterPartyName": "\u4e0a\u6607\u5fd7\u5411",
+        "gameCharacterUnitId": 37
+    },
+    {
+        "id": 220,
+        "characterPartyName": "\u307e\u3063\u3059\u3050\u7537\u5b50",
+        "gameCharacterUnitId": 37
+    },
+    {
+        "id": 221,
+        "characterPartyName": "\u30de\u30cd\u30fc\u30b8\u30e3\u30fc",
+        "gameCharacterUnitId": 53
+    },
+    {
+        "id": 222,
+        "characterPartyName": "\u30a2\u30a4\u30c9\u30eb\u597d\u304d",
+        "gameCharacterUnitId": 53
+    },
+    {
+        "id": 223,
+        "characterPartyName": "\u8868\u3067\u3082\u88cf\u3067\u3082",
+        "gameCharacterUnitId": 53
+    },
+    {
+        "id": 224,
+        "characterPartyName": "\u81ea\u7531\u4eba",
+        "gameCharacterUnitId": 44
+    },
+    {
+        "id": 225,
+        "characterPartyName": "\u6717\u3089\u304b",
+        "gameCharacterUnitId": 44
+    },
+    {
+        "id": 226,
+        "characterPartyName": "\u3078\u305d\u51fa\u3057",
+        "gameCharacterUnitId": 44
+    },
+    {
+        "id": 227,
+        "characterPartyName": "\u81c6\u75c5\u306a\u5c11\u5e74",
+        "gameCharacterUnitId": 41
+    },
+    {
+        "id": 228,
+        "characterPartyName": "\u80cc\u306b\u96a0\u308c\u304c\u3061",
+        "gameCharacterUnitId": 41
+    },
+    {
+        "id": 229,
+        "characterPartyName": "\u5171\u611f\u529b\u304c\u9ad8\u3044",
+        "gameCharacterUnitId": 41
+    },
+    {
+        "id": 230,
+        "characterPartyName": "\u5e38\u306b\u30a4\u30e9\u30a4\u30e9",
+        "gameCharacterUnitId": 56
+    },
+    {
+        "id": 231,
+        "characterPartyName": "\u8996\u7dda\u304c\u92ed\u3044",
+        "gameCharacterUnitId": 56
+    },
+    {
+        "id": 232,
+        "characterPartyName": "\u5a01\u5727\u7684\u306a\u53e3\u8abf",
+        "gameCharacterUnitId": 56
+    }
+]

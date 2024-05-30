@@ -1,0 +1,330 @@
+[
+    {
+        "id": 1,
+        "seq": 35,
+        "name": "\u5f85\u6a5f",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_idle"
+    },
+    {
+        "id": 2,
+        "seq": 33,
+        "name": "\u3050\u308b\u3050\u308b\u56de\u3059",
+        "syncMusicFlg": true,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_01"
+    },
+    {
+        "id": 3,
+        "seq": 5,
+        "name": "PPPH",
+        "syncMusicFlg": true,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_02"
+    },
+    {
+        "id": 4,
+        "seq": 34,
+        "name": "8\u306e\u5b57\u30af\u30e9\u30c3\u30d7",
+        "syncMusicFlg": true,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_03"
+    },
+    {
+        "id": 5,
+        "seq": 2,
+        "name": "\u4e21\u624b\u3092\u632f\u308b",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_04"
+    },
+    {
+        "id": 6,
+        "seq": 6,
+        "name": "\u697d\u3057\u304f\u30b8\u30e3\u30f3\u30d7",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_05"
+    },
+    {
+        "id": 7,
+        "seq": 7,
+        "name": "\u624b\u3092\u632f\u308b",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_06"
+    },
+    {
+        "id": 8,
+        "seq": 8,
+        "name": "\u5de6\u53f3\u306b\u5927\u304d\u304f\u632f\u308b",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_07"
+    },
+    {
+        "id": 9,
+        "seq": 9,
+        "name": "\u5c0a\u3044",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_08"
+    },
+    {
+        "id": 10,
+        "seq": 10,
+        "name": "\u5927\u559c\u3073",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_09"
+    },
+    {
+        "id": 11,
+        "seq": 11,
+        "name": "\u30ac\u30c3\u30c4\u30dd\u30fc\u30ba",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_10"
+    },
+    {
+        "id": 12,
+        "seq": 12,
+        "name": "\u30cf\u30fc\u30c8\u3092\u66f8\u304f",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_11"
+    },
+    {
+        "id": 13,
+        "seq": 13,
+        "name": "\u661f\u3092\u66f8\u304f",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_12"
+    },
+    {
+        "id": 14,
+        "seq": 14,
+        "name": "\u632b\u6298",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_13"
+    },
+    {
+        "id": 15,
+        "seq": 15,
+        "name": "\u304a\u8f9e\u5100",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_14"
+    },
+    {
+        "id": 16,
+        "seq": 16,
+        "name": "\u6328\u62f6",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_15"
+    },
+    {
+        "id": 17,
+        "seq": 17,
+        "name": "\u9837\u304f",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_16"
+    },
+    {
+        "id": 18,
+        "seq": 18,
+        "name": "\u982d\u3092\u6a2a\u306b\u632f\u308b",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_17"
+    },
+    {
+        "id": 19,
+        "seq": 19,
+        "name": "\u5ea7\u308b",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_18"
+    },
+    {
+        "id": 20,
+        "seq": 20,
+        "name": "\u3057\u3083\u304c\u3080",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_19"
+    },
+    {
+        "id": 21,
+        "seq": 21,
+        "name": "\u30c0\u30f3\u30b9",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_20"
+    },
+    {
+        "id": 22,
+        "seq": 22,
+        "name": "\u656c\u793c",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_21"
+    },
+    {
+        "id": 23,
+        "seq": 23,
+        "name": "\u307f\u3063\u304f\u307f\u304f",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_22"
+    },
+    {
+        "id": 24,
+        "seq": 24,
+        "name": "\u30bf\u30fc\u30f3",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_23"
+    },
+    {
+        "id": 25,
+        "seq": 25,
+        "name": "\u614c\u3066\u308b",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_24"
+    },
+    {
+        "id": 26,
+        "seq": 26,
+        "name": "\u5012\u308c\u308b",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_25"
+    },
+    {
+        "id": 27,
+        "seq": 27,
+        "name": "\u30d0\u30af\u5b99",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_26"
+    },
+    {
+        "id": 28,
+        "seq": 28,
+        "name": "\u308f\u3093\u3060\u307b\u30fc\u3044",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_27"
+    },
+    {
+        "id": 29,
+        "seq": 29,
+        "name": "\u62dd\u3080",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_28"
+    },
+    {
+        "id": 30,
+        "seq": 30,
+        "name": "\u6012\u308b",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_29"
+    },
+    {
+        "id": 31,
+        "seq": 31,
+        "name": "\u30a4\u30e4\u30a4\u30e4",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_30"
+    },
+    {
+        "id": 32,
+        "seq": 32,
+        "name": "\u524d\u632f\u308a",
+        "syncMusicFlg": true,
+        "repeatCount": 2,
+        "assetbundleName": "motion_avatar_31"
+    },
+    {
+        "id": 33,
+        "seq": 3,
+        "name": "\u5de6\u53f3\u632f\u308a",
+        "syncMusicFlg": true,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_32"
+    },
+    {
+        "id": 34,
+        "seq": 4,
+        "name": "\u6367\u3052\u632f\u308a",
+        "syncMusicFlg": true,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_33"
+    },
+    {
+        "id": 35,
+        "seq": 1,
+        "name": "\u62cd\u624b",
+        "syncMusicFlg": true,
+        "repeatCount": 2,
+        "assetbundleName": "motion_avatar_34"
+    },
+    {
+        "id": 36,
+        "seq": 36,
+        "name": "\u6b69\u304f",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_walk"
+    },
+    {
+        "id": 37,
+        "seq": 37,
+        "name": "\u6b69\u304d2",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_run"
+    },
+    {
+        "id": 38,
+        "seq": 38,
+        "name": "\u62cd\u624b\uff08\u5358\u767a\uff09",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_clap"
+    },
+    {
+        "id": 39,
+        "seq": 39,
+        "name": "\u62cd\u624b\uff081\u56de\uff09",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_35"
+    },
+    {
+        "id": 40,
+        "seq": 40,
+        "name": "\u793c",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_36"
+    },
+    {
+        "id": 41,
+        "seq": 41,
+        "name": "Journey",
+        "syncMusicFlg": false,
+        "repeatCount": 1,
+        "assetbundleName": "motion_avatar_37"
+    }
+]

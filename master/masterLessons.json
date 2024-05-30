@@ -1,0 +1,547 @@
+[
+    {
+        "cardRarityType": "rarity_1",
+        "masterRank": 1,
+        "power1BonusFixed": 50,
+        "power2BonusFixed": 50,
+        "power3BonusFixed": 50,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 1,
+                "cardRarityType": "rarity_1",
+                "masterRank": 1,
+                "seq": 1,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 1
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_1",
+        "masterRank": 2,
+        "power1BonusFixed": 50,
+        "power2BonusFixed": 50,
+        "power3BonusFixed": 50,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 2,
+                "cardRarityType": "rarity_1",
+                "masterRank": 2,
+                "seq": 2,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 1
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_1",
+        "masterRank": 3,
+        "power1BonusFixed": 50,
+        "power2BonusFixed": 50,
+        "power3BonusFixed": 50,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 3,
+                "cardRarityType": "rarity_1",
+                "masterRank": 3,
+                "seq": 3,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 1
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_1",
+        "masterRank": 4,
+        "power1BonusFixed": 50,
+        "power2BonusFixed": 50,
+        "power3BonusFixed": 50,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 4,
+                "cardRarityType": "rarity_1",
+                "masterRank": 4,
+                "seq": 4,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 1
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_1",
+        "masterRank": 5,
+        "power1BonusFixed": 50,
+        "power2BonusFixed": 50,
+        "power3BonusFixed": 50,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 5,
+                "cardRarityType": "rarity_1",
+                "masterRank": 5,
+                "seq": 5,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 1
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_2",
+        "masterRank": 1,
+        "power1BonusFixed": 100,
+        "power2BonusFixed": 100,
+        "power3BonusFixed": 100,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 6,
+                "cardRarityType": "rarity_2",
+                "masterRank": 1,
+                "seq": 6,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 5
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_2",
+        "masterRank": 2,
+        "power1BonusFixed": 100,
+        "power2BonusFixed": 100,
+        "power3BonusFixed": 100,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 7,
+                "cardRarityType": "rarity_2",
+                "masterRank": 2,
+                "seq": 7,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 5
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_2",
+        "masterRank": 3,
+        "power1BonusFixed": 100,
+        "power2BonusFixed": 100,
+        "power3BonusFixed": 100,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 8,
+                "cardRarityType": "rarity_2",
+                "masterRank": 3,
+                "seq": 8,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 5
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_2",
+        "masterRank": 4,
+        "power1BonusFixed": 100,
+        "power2BonusFixed": 100,
+        "power3BonusFixed": 100,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 9,
+                "cardRarityType": "rarity_2",
+                "masterRank": 4,
+                "seq": 9,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 5
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_2",
+        "masterRank": 5,
+        "power1BonusFixed": 100,
+        "power2BonusFixed": 100,
+        "power3BonusFixed": 100,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 10,
+                "cardRarityType": "rarity_2",
+                "masterRank": 5,
+                "seq": 10,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 5
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_3",
+        "masterRank": 1,
+        "power1BonusFixed": 150,
+        "power2BonusFixed": 150,
+        "power3BonusFixed": 150,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 11,
+                "cardRarityType": "rarity_3",
+                "masterRank": 1,
+                "seq": 11,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 50
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_3",
+        "masterRank": 2,
+        "power1BonusFixed": 150,
+        "power2BonusFixed": 150,
+        "power3BonusFixed": 150,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 12,
+                "cardRarityType": "rarity_3",
+                "masterRank": 2,
+                "seq": 12,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 50
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_3",
+        "masterRank": 3,
+        "power1BonusFixed": 150,
+        "power2BonusFixed": 150,
+        "power3BonusFixed": 150,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 13,
+                "cardRarityType": "rarity_3",
+                "masterRank": 3,
+                "seq": 13,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 50
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_3",
+        "masterRank": 4,
+        "power1BonusFixed": 150,
+        "power2BonusFixed": 150,
+        "power3BonusFixed": 150,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 14,
+                "cardRarityType": "rarity_3",
+                "masterRank": 4,
+                "seq": 14,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 50
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_3",
+        "masterRank": 5,
+        "power1BonusFixed": 150,
+        "power2BonusFixed": 150,
+        "power3BonusFixed": 150,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 15,
+                "cardRarityType": "rarity_3",
+                "masterRank": 5,
+                "seq": 15,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 50
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_4",
+        "masterRank": 1,
+        "power1BonusFixed": 200,
+        "power2BonusFixed": 200,
+        "power3BonusFixed": 200,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 16,
+                "cardRarityType": "rarity_4",
+                "masterRank": 1,
+                "seq": 16,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 2000
+            },
+            {
+                "id": 21,
+                "cardRarityType": "rarity_4",
+                "masterRank": 1,
+                "seq": 21,
+                "resourceType": "material",
+                "resourceId": 16,
+                "quantity": 1
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_4",
+        "masterRank": 2,
+        "power1BonusFixed": 200,
+        "power2BonusFixed": 200,
+        "power3BonusFixed": 200,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 17,
+                "cardRarityType": "rarity_4",
+                "masterRank": 2,
+                "seq": 17,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 2000
+            },
+            {
+                "id": 22,
+                "cardRarityType": "rarity_4",
+                "masterRank": 2,
+                "seq": 22,
+                "resourceType": "material",
+                "resourceId": 16,
+                "quantity": 1
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_4",
+        "masterRank": 3,
+        "power1BonusFixed": 200,
+        "power2BonusFixed": 200,
+        "power3BonusFixed": 200,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 18,
+                "cardRarityType": "rarity_4",
+                "masterRank": 3,
+                "seq": 18,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 2000
+            },
+            {
+                "id": 23,
+                "cardRarityType": "rarity_4",
+                "masterRank": 3,
+                "seq": 23,
+                "resourceType": "material",
+                "resourceId": 16,
+                "quantity": 1
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_4",
+        "masterRank": 4,
+        "power1BonusFixed": 200,
+        "power2BonusFixed": 200,
+        "power3BonusFixed": 200,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 19,
+                "cardRarityType": "rarity_4",
+                "masterRank": 4,
+                "seq": 19,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 2000
+            },
+            {
+                "id": 24,
+                "cardRarityType": "rarity_4",
+                "masterRank": 4,
+                "seq": 24,
+                "resourceType": "material",
+                "resourceId": 16,
+                "quantity": 1
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_4",
+        "masterRank": 5,
+        "power1BonusFixed": 200,
+        "power2BonusFixed": 200,
+        "power3BonusFixed": 200,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 20,
+                "cardRarityType": "rarity_4",
+                "masterRank": 5,
+                "seq": 20,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 2000
+            },
+            {
+                "id": 25,
+                "cardRarityType": "rarity_4",
+                "masterRank": 5,
+                "seq": 25,
+                "resourceType": "material",
+                "resourceId": 16,
+                "quantity": 1
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_birthday",
+        "masterRank": 1,
+        "power1BonusFixed": 180,
+        "power2BonusFixed": 180,
+        "power3BonusFixed": 180,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 26,
+                "cardRarityType": "rarity_birthday",
+                "masterRank": 1,
+                "seq": 26,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 1000
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_birthday",
+        "masterRank": 2,
+        "power1BonusFixed": 180,
+        "power2BonusFixed": 180,
+        "power3BonusFixed": 180,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 27,
+                "cardRarityType": "rarity_birthday",
+                "masterRank": 2,
+                "seq": 27,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 1000
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_birthday",
+        "masterRank": 3,
+        "power1BonusFixed": 180,
+        "power2BonusFixed": 180,
+        "power3BonusFixed": 180,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 28,
+                "cardRarityType": "rarity_birthday",
+                "masterRank": 3,
+                "seq": 28,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 1000
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_birthday",
+        "masterRank": 4,
+        "power1BonusFixed": 180,
+        "power2BonusFixed": 180,
+        "power3BonusFixed": 180,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 29,
+                "cardRarityType": "rarity_birthday",
+                "masterRank": 4,
+                "seq": 29,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 1000
+            }
+        ],
+        "rewards": []
+    },
+    {
+        "cardRarityType": "rarity_birthday",
+        "masterRank": 5,
+        "power1BonusFixed": 180,
+        "power2BonusFixed": 180,
+        "power3BonusFixed": 180,
+        "characterRankExp": 0,
+        "costs": [
+            {
+                "id": 30,
+                "cardRarityType": "rarity_birthday",
+                "masterRank": 5,
+                "seq": 30,
+                "resourceType": "material",
+                "resourceId": 15,
+                "quantity": 1000
+            }
+        ],
+        "rewards": []
+    }
+]

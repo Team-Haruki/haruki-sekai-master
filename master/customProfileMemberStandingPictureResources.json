@@ -1,0 +1,722 @@
+[
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 1,
+        "seq": 1,
+        "name": "\u30df\u30af",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_miku_0001",
+        "characterId": 21
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 2,
+        "seq": 2,
+        "name": "\u6559\u5ba4\u306e\u30bb\u30ab\u30a4\u306e\u30df\u30af",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_miku_0002",
+        "characterId": 21
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 3,
+        "seq": 3,
+        "name": "\u30b9\u30c6\u30fc\u30b8\u306e\u30bb\u30ab\u30a4\u306e\u30df\u30af",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_miku_0003",
+        "characterId": 21
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 4,
+        "seq": 4,
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u306e\u30bb\u30ab\u30a4\u306e\u30df\u30af",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_miku_0004",
+        "characterId": 21
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 5,
+        "seq": 5,
+        "name": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9\u306e\u30bb\u30ab\u30a4\u306e\u30df\u30af",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_miku_0005",
+        "characterId": 21
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 6,
+        "seq": 6,
+        "name": "\u8ab0\u3082\u3044\u306a\u3044\u30bb\u30ab\u30a4\u306e\u30df\u30af",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_miku_0006",
+        "characterId": 21
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 7,
+        "seq": 7,
+        "name": "\u30ea\u30f3",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_rin_0001",
+        "characterId": 22
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 8,
+        "seq": 8,
+        "name": "\u30b9\u30c6\u30fc\u30b8\u306e\u30bb\u30ab\u30a4\u306e\u30ea\u30f3",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_rin_0002",
+        "characterId": 22
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 9,
+        "seq": 9,
+        "name": "\u30ec\u30f3",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_len_0001",
+        "characterId": 23
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 10,
+        "seq": 10,
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u306e\u30bb\u30ab\u30a4\u306e\u30ec\u30f3",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_len_0002",
+        "characterId": 23
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 11,
+        "seq": 11,
+        "name": "\u30eb\u30ab",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_luka_0001",
+        "characterId": 24
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 12,
+        "seq": 12,
+        "name": "\u6559\u5ba4\u306e\u30bb\u30ab\u30a4\u306e\u30eb\u30ab",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_luka_0002",
+        "characterId": 24
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 13,
+        "seq": 13,
+        "name": "MEIKO",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_meiko_0001",
+        "characterId": 25
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 14,
+        "seq": 14,
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u306e\u30bb\u30ab\u30a4\u306eMEIKO",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_meiko_0002",
+        "characterId": 25
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 15,
+        "seq": 15,
+        "name": "KAITO",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_kaito_0001",
+        "characterId": 26
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 16,
+        "seq": 16,
+        "name": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9\u306e\u30bb\u30ab\u30a4\u306eKAITO",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_kaito_0002",
+        "characterId": 26
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 18,
+        "seq": 18,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u4e00\u6b4c",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_ichika_0002",
+        "characterId": 1
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 20,
+        "seq": 20,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u54b2\u5e0c",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_saki_0002",
+        "characterId": 2
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 22,
+        "seq": 22,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u7a42\u6ce2",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_honami_0002",
+        "characterId": 3
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 24,
+        "seq": 24,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u5fd7\u6b69",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_shiho_0002",
+        "characterId": 4
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 26,
+        "seq": 26,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u307f\u306e\u308a",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_minori_0002",
+        "characterId": 5
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 28,
+        "seq": 28,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u9065",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_haruka_0002",
+        "characterId": 6
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 30,
+        "seq": 30,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u611b\u8389",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_airi_0002",
+        "characterId": 7
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 32,
+        "seq": 32,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u96eb",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_shizuku_0002",
+        "characterId": 8
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 34,
+        "seq": 34,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u3053\u306f\u306d",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_kohane_0002",
+        "characterId": 9
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 36,
+        "seq": 36,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u674f",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_an_0002",
+        "characterId": 10
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 38,
+        "seq": 38,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u5f70\u4eba",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_akito_0002",
+        "characterId": 11
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 40,
+        "seq": 40,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u51ac\u5f25",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_toya_0002",
+        "characterId": 12
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 42,
+        "seq": 42,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u53f8",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_tsukasa_0002",
+        "characterId": 13
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 44,
+        "seq": 44,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u3048\u3080",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_emu_0002",
+        "characterId": 14
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 46,
+        "seq": 46,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u5be7\u3005",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_nene_0002",
+        "characterId": 15
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 48,
+        "seq": 48,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u985e",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_rui_0002",
+        "characterId": 16
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 50,
+        "seq": 50,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u594f",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_kanade_0002",
+        "characterId": 17
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 52,
+        "seq": 52,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u307e\u3075\u3086",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_mafuyu_0002",
+        "characterId": 18
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 54,
+        "seq": 54,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u7d75\u540d",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_ena_0002",
+        "characterId": 19
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 56,
+        "seq": 56,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u745e\u5e0c",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_mizuki_0002",
+        "characterId": 20
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 57,
+        "seq": 57,
+        "name": "\u30df\u30af [Origin Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_miku_0007",
+        "characterId": 21
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 58,
+        "seq": 58,
+        "name": "\u6559\u5ba4\u306e\u30bb\u30ab\u30a4\u306e\u30df\u30af [Brand New Classroom]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_miku_0008",
+        "characterId": 21
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 59,
+        "seq": 59,
+        "name": "\u30b9\u30c6\u30fc\u30b8\u306e\u30bb\u30ab\u30a4\u306e\u30df\u30af [Brand New Stage]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_miku_0009",
+        "characterId": 21
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 60,
+        "seq": 60,
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u306e\u30bb\u30ab\u30a4\u306e\u30df\u30af [Brand New Street]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_miku_0010",
+        "characterId": 21
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 61,
+        "seq": 61,
+        "name": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9\u306e\u30bb\u30ab\u30a4\u306e\u30df\u30af [Brand New Wonderland]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_miku_0011",
+        "characterId": 21
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 62,
+        "seq": 62,
+        "name": "\u8ab0\u3082\u3044\u306a\u3044\u30bb\u30ab\u30a4\u306e\u30df\u30af [Brand New Empty]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_miku_0012",
+        "characterId": 21
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 63,
+        "seq": 63,
+        "name": "\u30ea\u30f3 [Origin Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_rin_0003",
+        "characterId": 22
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 64,
+        "seq": 64,
+        "name": "\u30b9\u30c6\u30fc\u30b8\u306e\u30bb\u30ab\u30a4\u306e\u30ea\u30f3 [Brand New Stage]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_rin_0004",
+        "characterId": 22
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 65,
+        "seq": 65,
+        "name": "\u30ec\u30f3 [Origin Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_len_0003",
+        "characterId": 23
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 66,
+        "seq": 66,
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u306e\u30bb\u30ab\u30a4\u306e\u30ec\u30f3 [Brand New Street]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_len_0004",
+        "characterId": 23
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 67,
+        "seq": 67,
+        "name": "\u30eb\u30ab [Origin Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_luka_0003",
+        "characterId": 24
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 68,
+        "seq": 68,
+        "name": "\u6559\u5ba4\u306e\u30bb\u30ab\u30a4\u306e\u30eb\u30ab [Brand New Classroom]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_luka_0004",
+        "characterId": 24
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 69,
+        "seq": 69,
+        "name": "MEIKO [Origin Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_meiko_0003",
+        "characterId": 25
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 70,
+        "seq": 70,
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u306e\u30bb\u30ab\u30a4\u306eMEIKO [Brand New Street]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_meiko_0004",
+        "characterId": 25
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 71,
+        "seq": 71,
+        "name": "KAITO [Origin Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_kaito_0003",
+        "characterId": 26
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 72,
+        "seq": 72,
+        "name": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9\u306e\u30bb\u30ab\u30a4\u306eKAITO [Brand New Wonderland]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_kaito_0004",
+        "characterId": 26
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 73,
+        "seq": 73,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u4e00\u6b4c [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_ichika_0003",
+        "characterId": 1
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 74,
+        "seq": 74,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u54b2\u5e0c [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_saki_0003",
+        "characterId": 2
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 75,
+        "seq": 75,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u7a42\u6ce2 [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_honami_0003",
+        "characterId": 3
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 76,
+        "seq": 76,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u5fd7\u6b69 [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_shiho_0003",
+        "characterId": 4
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 77,
+        "seq": 77,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u307f\u306e\u308a [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_minori_0003",
+        "characterId": 5
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 78,
+        "seq": 78,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u9065 [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_haruka_0003",
+        "characterId": 6
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 79,
+        "seq": 79,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u611b\u8389 [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_airi_0003",
+        "characterId": 7
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 80,
+        "seq": 80,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u96eb [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_shizuku_0003",
+        "characterId": 8
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 81,
+        "seq": 81,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u3053\u306f\u306d [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_kohane_0003",
+        "characterId": 9
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 82,
+        "seq": 82,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u674f [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_an_0003",
+        "characterId": 10
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 83,
+        "seq": 83,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u5f70\u4eba [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_akito_0003",
+        "characterId": 11
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 84,
+        "seq": 84,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u51ac\u5f25 [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_toya_0003",
+        "characterId": 12
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 85,
+        "seq": 85,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u53f8 [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_tsukasa_0003",
+        "characterId": 13
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 86,
+        "seq": 86,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u3048\u3080 [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_emu_0003",
+        "characterId": 14
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 87,
+        "seq": 87,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u5be7\u3005 [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_nene_0003",
+        "characterId": 15
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 88,
+        "seq": 88,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u985e [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_rui_0003",
+        "characterId": 16
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 89,
+        "seq": 89,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u594f [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_kanade_0003",
+        "characterId": 17
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 90,
+        "seq": 90,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u307e\u3075\u3086 [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_mafuyu_0003",
+        "characterId": 18
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 91,
+        "seq": 91,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u7d75\u540d [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_ena_0003",
+        "characterId": 19
+    },
+    {
+        "customProfileResourceType": "member_standing_picture",
+        "id": 92,
+        "seq": 92,
+        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5\u745e\u5e0c [Brand New Style]",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/character",
+        "fileName": "profile_chr_mizuki_0003",
+        "characterId": 20
+    }
+]

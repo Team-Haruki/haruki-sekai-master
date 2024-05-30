@@ -1,0 +1,283 @@
+[
+    {
+        "id": 1,
+        "seq": 1,
+        "name": "\u767d",
+        "description": "\u767d",
+        "colorCode": "#ffffff"
+    },
+    {
+        "id": 2,
+        "seq": 9,
+        "name": "\u661f\u4e43\u4e00\u6b4c\u30ab\u30e9\u30fc",
+        "description": "\u661f\u4e43\u4e00\u6b4c\u30ab\u30e9\u30fc",
+        "colorCode": "#33aaee",
+        "characterId": 1,
+        "unit": "light_sound"
+    },
+    {
+        "id": 3,
+        "seq": 10,
+        "name": "\u5929\u99ac\u54b2\u5e0c\u30ab\u30e9\u30fc",
+        "description": "\u5929\u99ac\u54b2\u5e0c\u30ab\u30e9\u30fc",
+        "colorCode": "#ffdd44",
+        "characterId": 2,
+        "unit": "light_sound"
+    },
+    {
+        "id": 4,
+        "seq": 11,
+        "name": "\u671b\u6708\u7a42\u6ce2\u30ab\u30e9\u30fc",
+        "description": "\u671b\u6708\u7a42\u6ce2\u30ab\u30e9\u30fc",
+        "colorCode": "#ee6666",
+        "characterId": 3,
+        "unit": "light_sound"
+    },
+    {
+        "id": 5,
+        "seq": 12,
+        "name": "\u65e5\u91ce\u68ee\u5fd7\u6b69\u30ab\u30e9\u30fc",
+        "description": "\u65e5\u91ce\u68ee\u5fd7\u6b69\u30ab\u30e9\u30fc",
+        "colorCode": "#bbdd22",
+        "characterId": 4,
+        "unit": "light_sound"
+    },
+    {
+        "id": 6,
+        "seq": 14,
+        "name": "\u82b1\u91cc\u307f\u306e\u308a\u30ab\u30e9\u30fc",
+        "description": "\u82b1\u91cc\u307f\u306e\u308a\u30ab\u30e9\u30fc",
+        "colorCode": "#ffccaa",
+        "characterId": 5,
+        "unit": "idol"
+    },
+    {
+        "id": 7,
+        "seq": 15,
+        "name": "\u6850\u8c37\u9065\u30ab\u30e9\u30fc",
+        "description": "\u6850\u8c37\u9065\u30ab\u30e9\u30fc",
+        "colorCode": "#99ccff",
+        "characterId": 6,
+        "unit": "idol"
+    },
+    {
+        "id": 8,
+        "seq": 16,
+        "name": "\u6843\u4e95\u611b\u8389\u30ab\u30e9\u30fc",
+        "description": "\u6843\u4e95\u611b\u8389\u30ab\u30e9\u30fc",
+        "colorCode": "#ffaacc",
+        "characterId": 7,
+        "unit": "idol"
+    },
+    {
+        "id": 9,
+        "seq": 17,
+        "name": "\u65e5\u91ce\u68ee\u96eb\u30ab\u30e9\u30fc",
+        "description": "\u65e5\u91ce\u68ee\u96eb\u30ab\u30e9\u30fc",
+        "colorCode": "#99eedd",
+        "characterId": 8,
+        "unit": "idol"
+    },
+    {
+        "id": 10,
+        "seq": 19,
+        "name": "\u5c0f\u8c46\u6ca2\u3053\u306f\u306d\u30ab\u30e9\u30fc",
+        "description": "\u5c0f\u8c46\u6ca2\u3053\u306f\u306d\u30ab\u30e9\u30fc",
+        "colorCode": "#ff6699",
+        "characterId": 9,
+        "unit": "street"
+    },
+    {
+        "id": 11,
+        "seq": 20,
+        "name": "\u767d\u77f3\u674f\u30ab\u30e9\u30fc",
+        "description": "\u767d\u77f3\u674f\u30ab\u30e9\u30fc",
+        "colorCode": "#00bbdd",
+        "characterId": 10,
+        "unit": "street"
+    },
+    {
+        "id": 12,
+        "seq": 21,
+        "name": "\u6771\u96f2\u5f70\u4eba\u30ab\u30e9\u30fc",
+        "description": "\u6771\u96f2\u5f70\u4eba\u30ab\u30e9\u30fc",
+        "colorCode": "#ff7722",
+        "characterId": 11,
+        "unit": "street"
+    },
+    {
+        "id": 13,
+        "seq": 22,
+        "name": "\u9752\u67f3\u51ac\u5f25\u30ab\u30e9\u30fc",
+        "description": "\u9752\u67f3\u51ac\u5f25\u30ab\u30e9\u30fc",
+        "colorCode": "#0077dd",
+        "characterId": 12,
+        "unit": "street"
+    },
+    {
+        "id": 14,
+        "seq": 24,
+        "name": "\u5929\u99ac\u53f8\u30ab\u30e9\u30fc",
+        "description": "\u5929\u99ac\u53f8\u30ab\u30e9\u30fc",
+        "colorCode": "#ffbb00",
+        "characterId": 13,
+        "unit": "theme_park"
+    },
+    {
+        "id": 15,
+        "seq": 25,
+        "name": "\u9cf3\u3048\u3080\u30ab\u30e9\u30fc",
+        "description": "\u9cf3\u3048\u3080\u30ab\u30e9\u30fc",
+        "colorCode": "#ff66bb",
+        "characterId": 14,
+        "unit": "theme_park"
+    },
+    {
+        "id": 16,
+        "seq": 26,
+        "name": "\u8349\u8599\u5be7\u3005\u30ab\u30e9\u30fc",
+        "description": "\u8349\u8599\u5be7\u3005\u30ab\u30e9\u30fc",
+        "colorCode": "#33dd99",
+        "characterId": 15,
+        "unit": "theme_park"
+    },
+    {
+        "id": 17,
+        "seq": 27,
+        "name": "\u795e\u4ee3\u985e\u30ab\u30e9\u30fc",
+        "description": "\u795e\u4ee3\u985e\u30ab\u30e9\u30fc",
+        "colorCode": "#bb88ee",
+        "characterId": 16,
+        "unit": "theme_park"
+    },
+    {
+        "id": 18,
+        "seq": 29,
+        "name": "\u5bb5\u5d0e\u594f\u30ab\u30e9\u30fc",
+        "description": "\u5bb5\u5d0e\u594f\u30ab\u30e9\u30fc",
+        "colorCode": "#bb6688",
+        "characterId": 17,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 19,
+        "seq": 30,
+        "name": "\u671d\u6bd4\u5948\u307e\u3075\u3086\u30ab\u30e9\u30fc",
+        "description": "\u671d\u6bd4\u5948\u307e\u3075\u3086\u30ab\u30e9\u30fc",
+        "colorCode": "#8888cc",
+        "characterId": 18,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 20,
+        "seq": 31,
+        "name": "\u6771\u96f2\u7d75\u540d\u30ab\u30e9\u30fc",
+        "description": "\u6771\u96f2\u7d75\u540d\u30ab\u30e9\u30fc",
+        "colorCode": "#ccaa88",
+        "characterId": 19,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 21,
+        "seq": 32,
+        "name": "\u6681\u5c71\u745e\u5e0c\u30ab\u30e9\u30fc",
+        "description": "\u6681\u5c71\u745e\u5e0c\u30ab\u30e9\u30fc",
+        "colorCode": "#ddaacc",
+        "characterId": 20,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 22,
+        "seq": 2,
+        "name": "\u521d\u97f3\u30df\u30af\u30ab\u30e9\u30fc",
+        "description": "\u521d\u97f3\u30df\u30af\u30ab\u30e9\u30fc",
+        "colorCode": "#33ccbb",
+        "characterId": 21,
+        "unit": "piapro"
+    },
+    {
+        "id": 23,
+        "seq": 3,
+        "name": "\u93e1\u97f3\u30ea\u30f3\u30ab\u30e9\u30fc",
+        "description": "\u93e1\u97f3\u30ea\u30f3\u30ab\u30e9\u30fc",
+        "colorCode": "#ffcc11",
+        "characterId": 22,
+        "unit": "piapro"
+    },
+    {
+        "id": 24,
+        "seq": 4,
+        "name": "\u93e1\u97f3\u30ec\u30f3\u30ab\u30e9\u30fc",
+        "description": "\u93e1\u97f3\u30ec\u30f3\u30ab\u30e9\u30fc",
+        "colorCode": "#ffee11",
+        "characterId": 23,
+        "unit": "piapro"
+    },
+    {
+        "id": 25,
+        "seq": 5,
+        "name": "\u5de1\u97f3\u30eb\u30ab\u30ab\u30e9\u30fc",
+        "description": "\u5de1\u97f3\u30eb\u30ab\u30ab\u30e9\u30fc",
+        "colorCode": "#ffbbcc",
+        "characterId": 24,
+        "unit": "piapro"
+    },
+    {
+        "id": 26,
+        "seq": 6,
+        "name": "MEIKO\u30ab\u30e9\u30fc",
+        "description": "MEIKO\u30ab\u30e9\u30fc",
+        "colorCode": "#dd4444",
+        "characterId": 25,
+        "unit": "piapro"
+    },
+    {
+        "id": 27,
+        "seq": 7,
+        "name": "KAITO\u30ab\u30e9\u30fc",
+        "description": "KAITO\u30ab\u30e9\u30fc",
+        "colorCode": "#3366cc",
+        "characterId": 26,
+        "unit": "piapro"
+    },
+    {
+        "id": 28,
+        "seq": 8,
+        "name": "Leo\/need\u30ab\u30e9\u30fc",
+        "description": "Leo\/need\u30ab\u30e9\u30fc",
+        "colorCode": "#4455dd",
+        "unit": "light_sound"
+    },
+    {
+        "id": 29,
+        "seq": 13,
+        "name": "MORE MORE JUMP\uff01\u30ab\u30e9\u30fc",
+        "description": "MORE MORE JUMP\uff01\u30ab\u30e9\u30fc",
+        "colorCode": "#88dd44",
+        "unit": "idol"
+    },
+    {
+        "id": 30,
+        "seq": 18,
+        "name": "Vivid BAD SQUAD\u30ab\u30e9\u30fc",
+        "description": "Vivid BAD SQUAD\u30ab\u30e9\u30fc",
+        "colorCode": "#ee1166",
+        "unit": "street"
+    },
+    {
+        "id": 31,
+        "seq": 23,
+        "name": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0\u30ab\u30e9\u30fc",
+        "description": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0\u30ab\u30e9\u30fc",
+        "colorCode": "#ff9900",
+        "unit": "theme_park"
+    },
+    {
+        "id": 32,
+        "seq": 28,
+        "name": "25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002\u30ab\u30e9\u30fc",
+        "description": "25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002\u30ab\u30e9\u30fc",
+        "colorCode": "#884499",
+        "unit": "school_refusal"
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "customProfileResourceType": "story_background",
+        "id": 1,
+        "seq": 1,
+        "name": "\u6559\u5ba4\u306e\u30bb\u30ab\u30a4",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0001"
+    },
+    {
+        "customProfileResourceType": "story_background",
+        "id": 2,
+        "seq": 2,
+        "name": "\u30b9\u30c6\u30fc\u30b8\u306e\u30bb\u30ab\u30a4",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0002"
+    },
+    {
+        "customProfileResourceType": "story_background",
+        "id": 3,
+        "seq": 3,
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u306e\u30bb\u30ab\u30a4",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0003"
+    },
+    {
+        "customProfileResourceType": "story_background",
+        "id": 4,
+        "seq": 4,
+        "name": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9\u306e\u30bb\u30ab\u30a4",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0004"
+    },
+    {
+        "customProfileResourceType": "story_background",
+        "id": 5,
+        "seq": 5,
+        "name": "\u8ab0\u3082\u3044\u306a\u3044\u30bb\u30ab\u30a4",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0005"
+    },
+    {
+        "customProfileResourceType": "story_background",
+        "id": 6,
+        "seq": 6,
+        "name": "\u5bae\u76ca\u5742\u5973\u5b50\u5b66\u5712\u306e\u4e2d\u5ead",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0006"
+    },
+    {
+        "customProfileResourceType": "story_background",
+        "id": 7,
+        "seq": 7,
+        "name": "\u5bae\u76ca\u5742\u5973\u5b50\u5b66\u5712\u306e\u6559\u5ba4",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0007"
+    },
+    {
+        "customProfileResourceType": "story_background",
+        "id": 8,
+        "seq": 8,
+        "name": "\u5bae\u76ca\u5742\u5973\u5b50\u5b66\u5712\u306e\u5c4b\u4e0a",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0008"
+    },
+    {
+        "customProfileResourceType": "story_background",
+        "id": 9,
+        "seq": 9,
+        "name": "\u795e\u5c71\u9ad8\u6821\u306e\u6821\u9580",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0009"
+    },
+    {
+        "customProfileResourceType": "story_background",
+        "id": 10,
+        "seq": 10,
+        "name": "\u795e\u5c71\u9ad8\u6821\u306e\u6559\u5ba4",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0010"
+    },
+    {
+        "customProfileResourceType": "story_background",
+        "id": 11,
+        "seq": 11,
+        "name": "\u795e\u5c71\u9ad8\u6821\u306e\u5c4b\u4e0a",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0011"
+    },
+    {
+        "customProfileResourceType": "story_background",
+        "id": 12,
+        "seq": 12,
+        "name": "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb\u4ea4\u5dee\u70b9",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0012"
+    },
+    {
+        "customProfileResourceType": "story_background",
+        "id": 13,
+        "seq": 13,
+        "name": "\u97f3\u697d\u30b7\u30e7\u30c3\u30d7",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0013"
+    },
+    {
+        "customProfileResourceType": "story_background",
+        "id": 14,
+        "seq": 14,
+        "name": "WEEKEND GARAGE",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0014"
+    },
+    {
+        "customProfileResourceType": "story_background",
+        "id": 15,
+        "seq": 15,
+        "name": "\u30d5\u30a7\u30cb\u30c3\u30af\u30b9\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0015"
+    },
+    {
+        "customProfileResourceType": "story_background",
+        "id": 16,
+        "seq": 16,
+        "name": "\u30ef\u30f3\u30c0\u30fc\u30b9\u30c6\u30fc\u30b8",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0016"
+    },
+    {
+        "customProfileResourceType": "story_background",
+        "id": 17,
+        "seq": 17,
+        "name": "\u30d5\u30a1\u30df\u30ea\u30fc\u30ec\u30b9\u30c8\u30e9\u30f3",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/bg",
+        "fileName": "profile_bg_story_0017"
+    }
+]

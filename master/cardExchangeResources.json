@@ -1,0 +1,22 @@
+[
+    {
+        "cardRarityType": "rarity_2",
+        "seq": 1,
+        "resourceBoxId": 1
+    },
+    {
+        "cardRarityType": "rarity_3",
+        "seq": 1,
+        "resourceBoxId": 2
+    },
+    {
+        "cardRarityType": "rarity_4",
+        "seq": 1,
+        "resourceBoxId": 3
+    },
+    {
+        "cardRarityType": "rarity_birthday",
+        "seq": 1,
+        "resourceBoxId": 4
+    }
+]

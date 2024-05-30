@@ -1,0 +1,418 @@
+[
+    {
+        "id": 1,
+        "name": "\u300c\u30b5\u30d6\u30ab\u30eb\u30dc\u30fc\u30a4\u30b9\u30bf\u30a4\u30eb\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300000",
+        "seq": 300000,
+        "billingShopItemIds": [
+            300000,
+            300001,
+            300002,
+            300003,
+            300004
+        ]
+    },
+    {
+        "id": 2,
+        "name": "\u300c\u3082\u3053\u3082\u3053\u30b9\u30ce\u30fc\u30b3\u30fc\u30c8\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300010",
+        "seq": 300010,
+        "billingShopItemIds": [
+            300010,
+            300011,
+            300012,
+            300013,
+            300014
+        ]
+    },
+    {
+        "id": 3,
+        "name": "\u300c\u30e1\u30a4\u30c9\u30fb\u30d0\u30c8\u30e9\u30fc\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300020",
+        "seq": 300020,
+        "billingShopItemIds": [
+            300020,
+            300021,
+            300022,
+            300023,
+            300024
+        ]
+    },
+    {
+        "id": 4,
+        "name": "\u300c\u30e2\u30fc\u30e2\u30fc\u2606\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300050",
+        "seq": 300050,
+        "billingShopItemIds": [
+            300050,
+            300051,
+            300052,
+            300053,
+            300054
+        ]
+    },
+    {
+        "id": 5,
+        "name": "\u300c\u30b9\u30a4\u30fc\u30c4\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300060",
+        "seq": 300060,
+        "billingShopItemIds": [
+            300060,
+            300061,
+            300062,
+            300063,
+            300064
+        ]
+    },
+    {
+        "id": 6,
+        "name": "\u300c\u8fd1\u672a\u6765\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300070",
+        "seq": 300070,
+        "billingShopItemIds": [
+            300070,
+            300071,
+            300072,
+            300073,
+            300074
+        ]
+    },
+    {
+        "id": 7,
+        "name": "\u300c\u602a\u76d7\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300090",
+        "seq": 300090,
+        "billingShopItemIds": [
+            300090,
+            300091,
+            300092,
+            300093,
+            300094
+        ]
+    },
+    {
+        "id": 8,
+        "name": "\u300c\u9b54\u6cd5\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300100",
+        "seq": 300100,
+        "billingShopItemIds": [
+            300100,
+            300101,
+            300102,
+            300103,
+            300104
+        ]
+    },
+    {
+        "id": 9,
+        "name": "\u300c\u30ec\u30b9\u30c8\u30e9\u30f3\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300110",
+        "seq": 300110,
+        "billingShopItemIds": [
+            300110,
+            300111,
+            300112,
+            300113,
+            300114
+        ]
+    },
+    {
+        "id": 10,
+        "name": "\u300c\u6d77\u8cca\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300120",
+        "seq": 300120,
+        "billingShopItemIds": [
+            300120,
+            300121,
+            300122,
+            300123,
+            300124
+        ]
+    },
+    {
+        "id": 11,
+        "name": "\u300c\u30a2\u30cb\u30de\u30eb\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300130",
+        "seq": 300130,
+        "billingShopItemIds": [
+            300130,
+            300131,
+            300132,
+            300133,
+            300134
+        ]
+    },
+    {
+        "id": 12,
+        "name": "\u300c\u30d1\u30b8\u30e3\u30de\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300140",
+        "seq": 300140,
+        "billingShopItemIds": [
+            300140,
+            300141,
+            300142,
+            300143,
+            300144
+        ]
+    },
+    {
+        "id": 13,
+        "name": "\u300c\u30b4\u30fc\u30b9\u30c8\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300220",
+        "seq": 300220,
+        "billingShopItemIds": [
+            300220,
+            300221,
+            300222,
+            300223,
+            300224
+        ]
+    },
+    {
+        "id": 14,
+        "name": "\u300c\u30b4\u30b7\u30c3\u30af\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300230",
+        "seq": 300230,
+        "billingShopItemIds": [
+            300230,
+            300231,
+            300232,
+            300233,
+            300234
+        ]
+    },
+    {
+        "id": 15,
+        "name": "\u300c\u30c1\u30a7\u30c3\u30af\u67c4\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300240",
+        "seq": 300240,
+        "billingShopItemIds": [
+            300240,
+            300241,
+            300242,
+            300243,
+            300244
+        ]
+    },
+    {
+        "id": 16,
+        "name": "\u300c\u5b87\u5b99\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300260",
+        "seq": 300260,
+        "billingShopItemIds": [
+            300260,
+            300261,
+            300262,
+            300263,
+            300264
+        ]
+    },
+    {
+        "id": 17,
+        "name": "\u300c\u30d5\u30eb\u30fc\u30c4\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300270",
+        "seq": 300270,
+        "billingShopItemIds": [
+            300270,
+            300271,
+            300272,
+            300273,
+            300274
+        ]
+    },
+    {
+        "id": 18,
+        "name": "\u300c\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300280",
+        "seq": 300280,
+        "billingShopItemIds": [
+            300280,
+            300281,
+            300282,
+            300283,
+            300284
+        ]
+    },
+    {
+        "id": 19,
+        "name": "\u300c\u30a4\u30fc\u30b9\u30bf\u30fc\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300320",
+        "seq": 300320,
+        "billingShopItemIds": [
+            300320,
+            300321,
+            300322,
+            300323,
+            300324
+        ]
+    },
+    {
+        "id": 20,
+        "name": "\u300c\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300330",
+        "seq": 300330,
+        "billingShopItemIds": [
+            300330,
+            300331,
+            300332,
+            300333,
+            300334
+        ]
+    },
+    {
+        "id": 21,
+        "name": "\u300c\u30b9\u30dd\u30fc\u30c4\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300340",
+        "seq": 300340,
+        "billingShopItemIds": [
+            300340,
+            300341,
+            300342,
+            300343,
+            300344
+        ]
+    },
+    {
+        "id": 22,
+        "name": "\u300c\u30d0\u30ab\u30f3\u30b9\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300350",
+        "seq": 300350,
+        "billingShopItemIds": [
+            300350,
+            300351,
+            300352,
+            300353,
+            300354
+        ]
+    },
+    {
+        "id": 23,
+        "name": "\u300c\u304a\u51fa\u304b\u3051\u670d\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300360",
+        "seq": 300360,
+        "billingShopItemIds": [
+            300360,
+            300361,
+            300362,
+            300363,
+            300364
+        ]
+    },
+    {
+        "id": 24,
+        "name": "\u300c\u30ec\u30c8\u30ed\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300370",
+        "seq": 300370,
+        "billingShopItemIds": [
+            300370,
+            300371,
+            300372,
+            300373,
+            300374
+        ]
+    },
+    {
+        "id": 25,
+        "name": "\u300c\u30c9\u30ec\u30b9\u30fb\u6b63\u88c5\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300380",
+        "seq": 300380,
+        "billingShopItemIds": [
+            300380,
+            300381,
+            300382,
+            300383,
+            300384
+        ]
+    },
+    {
+        "id": 26,
+        "name": "\u300c\u5996\u602a\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300450",
+        "seq": 300450,
+        "billingShopItemIds": [
+            300450,
+            300451,
+            300452,
+            300453,
+            300454
+        ]
+    },
+    {
+        "id": 27,
+        "name": "\u300c\u304a\u3082\u3061\u3083\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300470",
+        "seq": 300470,
+        "billingShopItemIds": [
+            300470,
+            300471,
+            300472,
+            300473,
+            300474
+        ]
+    },
+    {
+        "id": 28,
+        "name": "\u300c\u30a6\u30a3\u30f3\u30bf\u30fc\u30b9\u30dd\u30fc\u30c4\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300490",
+        "seq": 300490,
+        "billingShopItemIds": [
+            300490,
+            300491,
+            300492,
+            300493,
+            300494
+        ]
+    },
+    {
+        "id": 29,
+        "name": "\u300c\u5fcd\u8005\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300510",
+        "seq": 300510,
+        "billingShopItemIds": [
+            300510,
+            300511,
+            300512,
+            300513,
+            300514
+        ]
+    },
+    {
+        "id": 30,
+        "name": "\u300c\u30a6\u30a8\u30b9\u30bf\u30f3\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300520",
+        "seq": 300520,
+        "billingShopItemIds": [
+            300520,
+            300521,
+            300522,
+            300523,
+            300524
+        ]
+    },
+    {
+        "id": 31,
+        "name": "\u300c\u6625\u670d\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300530",
+        "seq": 300530,
+        "billingShopItemIds": [
+            300530,
+            300531,
+            300532,
+            300533,
+            300534
+        ]
+    },
+    {
+        "id": 32,
+        "name": "\u300c\u30d5\u30ed\u30fc\u30e9\u30eb\u300d\u8863\u88c5",
+        "assetbundleName": "shop_300550",
+        "seq": 300550,
+        "billingShopItemIds": [
+            300550,
+            300551,
+            300552,
+            300553,
+            300554
+        ]
+    }
+]

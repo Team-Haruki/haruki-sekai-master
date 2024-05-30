@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1,
+        "seq": 1,
+        "sentence": "\u30e9\u30a4\u30d6\u30923\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "any_live_clear",
+        "beginnerMissionV2Category": "normal",
+        "requirement": 3,
+        "rewards": [
+            {
+                "id": 6952,
+                "missionType": "beginner_mission_v2",
+                "missionId": 1,
+                "seq": 1,
+                "resourceBoxId": 1464
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "seq": 2,
+        "sentence": "\u300c\u307f\u3093\u306a\u3067\u30e9\u30a4\u30d6\u300d\u304b\u300c\u30c1\u30a2\u30d5\u30eb\u30e9\u30a4\u30d6\u300d\u30921\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "multi_live_clear",
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6953,
+                "missionType": "beginner_mission_v2",
+                "missionId": 2,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "seq": 3,
+        "sentence": "\u97f3\u697d\u30b7\u30e7\u30c3\u30d7\u3067\u697d\u66f2\u3092\u4ea4\u63db\u3057\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "exchange_any_music",
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6954,
+                "missionType": "beginner_mission_v2",
+                "missionId": 3,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "seq": 4,
+        "sentence": "\u8863\u88c5\u30b7\u30e7\u30c3\u30d7\u3067\u30e9\u30a4\u30d6\u8863\u88c5\u3092\u88fd\u4f5c\u3057\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "make_any_costume",
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6955,
+                "missionType": "beginner_mission_v2",
+                "missionId": 4,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "seq": 5,
+        "sentence": "\u30e9\u30a4\u30d6\u8863\u88c5\u3092\u5909\u66f4\u3057\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "change_any_character_costume",
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6956,
+                "missionType": "beginner_mission_v2",
+                "missionId": 5,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "seq": 6,
+        "sentence": "\u7df4\u7fd2\u3067\u30e1\u30f3\u30d0\u30fc\u306e\u30ec\u30d9\u30eb\u3092\u4e0a\u3052\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "any_card_level_up",
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6957,
+                "missionType": "beginner_mission_v2",
+                "missionId": 6,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "seq": 7,
+        "sentence": "\u30e1\u30f3\u30d0\u30fc\u306e\u30b5\u30a4\u30c9\u30b9\u30c8\u30fc\u30ea\u30fc[\u524d\u7de8][\u5f8c\u7de8]\u3092\u305d\u308c\u305e\u308c\u898b\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "read_both_of_card_story",
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6958,
+                "missionType": "beginner_mission_v2",
+                "missionId": 7,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "seq": 8,
+        "sentence": "\u30a8\u30ea\u30a2\u30a2\u30a4\u30c6\u30e0\u3092\u4ea4\u63db\u3057\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "exchange_any_area_item",
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6959,
+                "missionType": "beginner_mission_v2",
+                "missionId": 8,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "seq": 9,
+        "sentence": "\u30d0\u30fc\u30c1\u30e3\u30eb\u30e9\u30a4\u30d6\u306b1\u56de\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "join_any_virtual_live",
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6960,
+                "missionType": "beginner_mission_v2",
+                "missionId": 9,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "seq": 10,
+        "sentence": "\u30d0\u30fc\u30c1\u30e3\u30eb\u30e9\u30a4\u30d6\u3067\u30d0\u30fc\u30c1\u30e3\u30eb\u30a2\u30a4\u30c6\u30e0\u30921\u56de\u4f7f\u304a\u3046\u3002",
+        "beginnerMissionV2Type": "use_any_virtual_item",
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6961,
+                "missionType": "beginner_mission_v2",
+                "missionId": 10,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "seq": 11,
+        "sentence": "MV\u8996\u8074\u3067MV\u3092\u6700\u5f8c\u307e\u3067\u898b\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "watch_any_music_video_full",
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6962,
+                "missionType": "beginner_mission_v2",
+                "missionId": 11,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "seq": 12,
+        "sentence": "\u30d7\u30ed\u30d5\u30a3\u30fc\u30eb\u3067\u79f0\u53f7\u30923\u3064\u8a2d\u5b9a\u3057\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "set_profile_honors_full",
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6963,
+                "missionType": "beginner_mission_v2",
+                "missionId": 12,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "seq": 13,
+        "sentence": "\u30c1\u30e3\u30ec\u30f3\u30b8\u30e9\u30a4\u30d6\u30921\u56de\u30d7\u30ec\u30a4\u3057\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "challenge_live_clear",
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6964,
+                "missionType": "beginner_mission_v2",
+                "missionId": 13,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "seq": 14,
+        "sentence": "\u30d5\u30ec\u30f3\u30c9\u30921\u4eba\u3064\u304f\u308d\u3046\u3002",
+        "beginnerMissionV2Type": "make_new_friend",
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6965,
+                "missionType": "beginner_mission_v2",
+                "missionId": 14,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "seq": 15,
+        "sentence": "\u30d1\u30b9\u30ef\u30fc\u30c9\u4ee5\u5916\u3067\u30c7\u30fc\u30bf\u5f15\u304d\u7d99\u304e\u8a2d\u5b9a\u3092\u3057\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "set_inherit_platform",
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6966,
+                "missionType": "beginner_mission_v2",
+                "missionId": 15,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "seq": 16,
+        "sentence": "Leo\/need\u306e\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u3092\u898b\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "read_unit_story",
+        "conditionValue": 1,
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6967,
+                "missionType": "beginner_mission_v2",
+                "missionId": 16,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "seq": 17,
+        "sentence": "MORE MORE JUMP\uff01\u306e\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u3092\u898b\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "read_unit_story",
+        "conditionValue": 2,
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6968,
+                "missionType": "beginner_mission_v2",
+                "missionId": 17,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "seq": 18,
+        "sentence": "Vivid BAD SQUAD\u306e\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u3092\u898b\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "read_unit_story",
+        "conditionValue": 3,
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6969,
+                "missionType": "beginner_mission_v2",
+                "missionId": 18,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "seq": 19,
+        "sentence": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0\u306e\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u3092\u898b\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "read_unit_story",
+        "conditionValue": 4,
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6970,
+                "missionType": "beginner_mission_v2",
+                "missionId": 19,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "seq": 20,
+        "sentence": "25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002\u306e\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u3092\u898b\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "read_unit_story",
+        "conditionValue": 5,
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6971,
+                "missionType": "beginner_mission_v2",
+                "missionId": 20,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "seq": 21,
+        "sentence": "\u30d0\u30fc\u30c1\u30e3\u30eb\u30fb\u30b7\u30f3\u30ac\u30fc\u306e\u30b9\u30c8\u30fc\u30ea\u30fc\u3092\u898b\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "read_unit_story",
+        "conditionValue": 6,
+        "beginnerMissionV2Category": "normal",
+        "requirement": 1,
+        "rewards": [
+            {
+                "id": 6972,
+                "missionType": "beginner_mission_v2",
+                "missionId": 21,
+                "seq": 1,
+                "resourceBoxId": 14
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "seq": 22,
+        "sentence": "\u30b9\u30bf\u30fc\u30c8\u30c0\u30c3\u30b7\u30e5\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u3059\u3079\u3066\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "beginnerMissionV2Type": "achieve_all_missions",
+        "beginnerMissionV2Category": "complete",
+        "requirement": 21,
+        "rewards": [
+            {
+                "id": 6973,
+                "missionType": "beginner_mission_v2",
+                "missionId": 22,
+                "seq": 1,
+                "resourceBoxId": 15
+            }
+        ]
+    }
+]

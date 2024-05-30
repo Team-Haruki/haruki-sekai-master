@@ -1,0 +1,1014 @@
+[
+    {
+        "id": 1,
+        "eventId": 1,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 2,
+        "eventId": 2,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 3,
+        "eventId": 3,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 4,
+        "eventId": 4,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 5,
+        "eventId": 5,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 6,
+        "eventId": 6,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 7,
+        "eventId": 7,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 8,
+        "eventId": 8,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 9,
+        "eventId": 9,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 10,
+        "eventId": 10,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 11,
+        "eventId": 11,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 12,
+        "eventId": 12,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 13,
+        "eventId": 13,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 14,
+        "eventId": 14,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 15,
+        "eventId": 15,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 16,
+        "eventId": 16,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 17,
+        "eventId": 17,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 18,
+        "eventId": 18,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 19,
+        "eventId": 19,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 20,
+        "eventId": 20,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 21,
+        "eventId": 21,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 22,
+        "eventId": 22,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 23,
+        "eventId": 23,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 24,
+        "eventId": 24,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 25,
+        "eventId": 25,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 26,
+        "eventId": 26,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 27,
+        "eventId": 27,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 28,
+        "eventId": 28,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 29,
+        "eventId": 29,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 30,
+        "eventId": 30,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 31,
+        "eventId": 31,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 32,
+        "eventId": 32,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 33,
+        "eventId": 33,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002"
+    },
+    {
+        "id": 34,
+        "eventId": 34,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 35,
+        "eventId": 35,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 36,
+        "eventId": 36,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 37,
+        "eventId": 37,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 38,
+        "eventId": 38,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 39,
+        "eventId": 39,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 40,
+        "eventId": 40,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 41,
+        "eventId": 41,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 42,
+        "eventId": 42,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 43,
+        "eventId": 43,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 44,
+        "eventId": 44,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 45,
+        "eventId": 45,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 46,
+        "eventId": 46,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 47,
+        "eventId": 47,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 48,
+        "eventId": 48,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 49,
+        "eventId": 49,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 50,
+        "eventId": 50,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 51,
+        "eventId": 51,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 52,
+        "eventId": 52,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 53,
+        "eventId": 53,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 54,
+        "eventId": 54,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 55,
+        "eventId": 55,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 56,
+        "eventId": 56,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 57,
+        "eventId": 57,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 58,
+        "eventId": 58,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 59,
+        "eventId": 59,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 60,
+        "eventId": 60,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 61,
+        "eventId": 61,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 62,
+        "eventId": 62,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 63,
+        "eventId": 63,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 64,
+        "eventId": 64,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 65,
+        "eventId": 65,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 66,
+        "eventId": 66,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 67,
+        "eventId": 67,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 68,
+        "eventId": 68,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 69,
+        "eventId": 69,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 70,
+        "eventId": 70,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 71,
+        "eventId": 71,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 72,
+        "eventId": 72,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 73,
+        "eventId": 73,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 74,
+        "eventId": 74,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 75,
+        "eventId": 75,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 76,
+        "eventId": 76,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 77,
+        "eventId": 77,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 78,
+        "eventId": 78,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 79,
+        "eventId": 79,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 80,
+        "eventId": 80,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 81,
+        "eventId": 81,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 82,
+        "eventId": 82,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 83,
+        "eventId": 83,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 84,
+        "eventId": 84,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 85,
+        "eventId": 85,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 86,
+        "eventId": 86,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 87,
+        "eventId": 87,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 88,
+        "eventId": 88,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 89,
+        "eventId": 89,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 90,
+        "eventId": 90,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 91,
+        "eventId": 91,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 92,
+        "eventId": 92,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 93,
+        "eventId": 93,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 94,
+        "eventId": 94,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 95,
+        "eventId": 95,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 96,
+        "eventId": 96,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 97,
+        "eventId": 97,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 98,
+        "eventId": 98,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 99,
+        "eventId": 99,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 100,
+        "eventId": 100,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 101,
+        "eventId": 101,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 102,
+        "eventId": 102,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 103,
+        "eventId": 103,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 104,
+        "eventId": 104,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 105,
+        "eventId": 105,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 106,
+        "eventId": 106,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 107,
+        "eventId": 107,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 108,
+        "eventId": 108,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 109,
+        "eventId": 109,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 110,
+        "eventId": 110,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 111,
+        "eventId": 111,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 112,
+        "eventId": 112,
+        "name": "\u30ef\u30fc\u30eb\u30c9\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_school_refusal"
+    },
+    {
+        "id": 113,
+        "eventId": 112,
+        "gameCharacterId": 18,
+        "name": "\u30c1\u30e3\u30d7\u30bf\u30fc1\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mafuyu"
+    },
+    {
+        "id": 114,
+        "eventId": 112,
+        "gameCharacterId": 20,
+        "name": "\u30c1\u30e3\u30d7\u30bf\u30fc2\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mizuki"
+    },
+    {
+        "id": 115,
+        "eventId": 112,
+        "gameCharacterId": 19,
+        "name": "\u30c1\u30e3\u30d7\u30bf\u30fc3\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_ena"
+    },
+    {
+        "id": 116,
+        "eventId": 112,
+        "gameCharacterId": 17,
+        "name": "\u30c1\u30e3\u30d7\u30bf\u30fc4\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_kanade"
+    },
+    {
+        "id": 117,
+        "eventId": 113,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 118,
+        "eventId": 114,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 119,
+        "eventId": 115,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 120,
+        "eventId": 116,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 121,
+        "eventId": 117,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 122,
+        "eventId": 118,
+        "name": "\u30ef\u30fc\u30eb\u30c9\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_street"
+    },
+    {
+        "id": 123,
+        "eventId": 118,
+        "gameCharacterId": 11,
+        "name": "\u30c1\u30e3\u30d7\u30bf\u30fc1\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_akito"
+    },
+    {
+        "id": 124,
+        "eventId": 118,
+        "gameCharacterId": 12,
+        "name": "\u30c1\u30e3\u30d7\u30bf\u30fc2\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_touya"
+    },
+    {
+        "id": 125,
+        "eventId": 118,
+        "gameCharacterId": 10,
+        "name": "\u30c1\u30e3\u30d7\u30bf\u30fc3\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_an"
+    },
+    {
+        "id": 126,
+        "eventId": 118,
+        "gameCharacterId": 9,
+        "name": "\u30c1\u30e3\u30d7\u30bf\u30fc4\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_kohane"
+    },
+    {
+        "id": 127,
+        "eventId": 119,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 128,
+        "eventId": 120,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 129,
+        "eventId": 121,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 130,
+        "eventId": 122,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 131,
+        "eventId": 123,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 132,
+        "eventId": 124,
+        "name": "\u30ef\u30fc\u30eb\u30c9\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_theme_park"
+    },
+    {
+        "id": 133,
+        "eventId": 124,
+        "gameCharacterId": 16,
+        "name": "\u30c1\u30e3\u30d7\u30bf\u30fc1\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_rui"
+    },
+    {
+        "id": 134,
+        "eventId": 124,
+        "gameCharacterId": 15,
+        "name": "\u30c1\u30e3\u30d7\u30bf\u30fc2\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_nene"
+    },
+    {
+        "id": 135,
+        "eventId": 124,
+        "gameCharacterId": 14,
+        "name": "\u30c1\u30e3\u30d7\u30bf\u30fc3\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_emu"
+    },
+    {
+        "id": 136,
+        "eventId": 124,
+        "gameCharacterId": 13,
+        "name": "\u30c1\u30e3\u30d7\u30bf\u30fc4\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_tsukasa"
+    },
+    {
+        "id": 137,
+        "eventId": 125,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 138,
+        "eventId": 126,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 139,
+        "eventId": 127,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 140,
+        "eventId": 128,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 141,
+        "eventId": 129,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 151,
+        "eventId": 130,
+        "name": "\u30ef\u30fc\u30eb\u30c9\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_idol"
+    },
+    {
+        "id": 152,
+        "eventId": 130,
+        "gameCharacterId": 7,
+        "name": "\u30c1\u30e3\u30d7\u30bf\u30fc1\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_airi"
+    },
+    {
+        "id": 153,
+        "eventId": 130,
+        "gameCharacterId": 6,
+        "name": "\u30c1\u30e3\u30d7\u30bf\u30fc2\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_haruka"
+    },
+    {
+        "id": 154,
+        "eventId": 130,
+        "gameCharacterId": 8,
+        "name": "\u30c1\u30e3\u30d7\u30bf\u30fc3\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_shizuku"
+    },
+    {
+        "id": 155,
+        "eventId": 130,
+        "gameCharacterId": 5,
+        "name": "\u30c1\u30e3\u30d7\u30bf\u30fc4\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_minori"
+    },
+    {
+        "id": 156,
+        "eventId": 131,
+        "name": "\u30a4\u30d9\u30f3\u30c8\u30d0\u30c3\u30b8",
+        "flavorText": "\u30a4\u30d9\u30f3\u30c8\u4ea4\u63db\u6240\u3067\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3067\u304d\u307e\u3059\u3002",
+        "assetbundleName": "badge_cute"
+    }
+]

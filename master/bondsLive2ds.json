@@ -1,0 +1,2242 @@
+[
+    {
+        "id": 1,
+        "characterId": 1,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_1",
+        "motion": "w-cool02-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 2,
+        "characterId": 2,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_2",
+        "motion": "w-normal15-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 3,
+        "characterId": 3,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_3",
+        "motion": "w-adult12-pose",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 4,
+        "characterId": 4,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_4",
+        "motion": "w-cool13-pose",
+        "expression": "face_smallmouth_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 5,
+        "characterId": 5,
+        "unit": "idol",
+        "assetbundleName": "voicepack_5",
+        "motion": "w-cute11-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 6,
+        "characterId": 6,
+        "unit": "idol",
+        "assetbundleName": "voicepack_6",
+        "motion": "w-cool06-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 7,
+        "characterId": 7,
+        "unit": "idol",
+        "assetbundleName": "voicepack_7",
+        "motion": "w-happy14-pose",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 8,
+        "characterId": 8,
+        "unit": "idol",
+        "assetbundleName": "voicepack_8",
+        "motion": "w-adult01-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 9,
+        "characterId": 9,
+        "unit": "street",
+        "assetbundleName": "voicepack_9",
+        "motion": "w-cute12-pose",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 10,
+        "characterId": 10,
+        "unit": "street",
+        "assetbundleName": "voicepack_10",
+        "motion": "w-cool02-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 11,
+        "characterId": 11,
+        "unit": "street",
+        "assetbundleName": "voicepack_11",
+        "motion": "m-cool01-pose",
+        "expression": "face_smallmouth_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 12,
+        "characterId": 12,
+        "unit": "street",
+        "assetbundleName": "voicepack_12",
+        "motion": "m-adult16-pose",
+        "expression": "face_normal_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 13,
+        "characterId": 13,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_13",
+        "motion": "m-normal13-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 14,
+        "characterId": 14,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_14",
+        "motion": "w-happy14-pose",
+        "expression": "face_ncsmile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 15,
+        "characterId": 15,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_15",
+        "motion": "w-normal03-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 16,
+        "characterId": 16,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_16",
+        "motion": "m-normal14-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 17,
+        "characterId": 17,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_17",
+        "motion": "w-normal15-pose",
+        "expression": "face_normal_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 18,
+        "characterId": 18,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_18",
+        "motion": "w-normal15-pose",
+        "expression": "face_normal_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 19,
+        "characterId": 19,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_19",
+        "motion": "w-cute02-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 20,
+        "characterId": 20,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_20",
+        "motion": "w-cool10-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 21,
+        "characterId": 21,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_21_piapro",
+        "motion": "w-normal03-pose",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 22,
+        "characterId": 21,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_21_light_sound",
+        "motion": "w-cool10-pose",
+        "expression": "face_band_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 23,
+        "characterId": 21,
+        "unit": "idol",
+        "assetbundleName": "voicepack_21_idol",
+        "motion": "w-cute12-pose",
+        "expression": "face_idol_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 24,
+        "characterId": 21,
+        "unit": "street",
+        "assetbundleName": "voicepack_21_street",
+        "motion": "w-cool09-pose",
+        "expression": "face_street_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 25,
+        "characterId": 21,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_21_theme_park",
+        "motion": "w-normal01-pose",
+        "expression": "face_wonder_normal_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 26,
+        "characterId": 21,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_21_school_refusal",
+        "motion": "w-normal15-pose",
+        "expression": "face_night_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 27,
+        "characterId": 22,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cool10-pose",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 28,
+        "characterId": 22,
+        "unit": "idol",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cute12-pose",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 29,
+        "characterId": 23,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-normal14-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 30,
+        "characterId": 23,
+        "unit": "street",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-proud07-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 31,
+        "characterId": 24,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-adult12-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 32,
+        "characterId": 24,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-adult12-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 33,
+        "characterId": 25,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-cool13-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 34,
+        "characterId": 25,
+        "unit": "street",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-adult01-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 35,
+        "characterId": 26,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-normal17-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 36,
+        "characterId": 26,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-normal13-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 37,
+        "characterId": 1,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_1",
+        "motion": "w-cool06-nod",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 38,
+        "characterId": 1,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_1",
+        "motion": "w-cool02-tilthead",
+        "expression": "face_smallmouth_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 39,
+        "characterId": 1,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_1",
+        "motion": "w-cute02-tilthead",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 40,
+        "characterId": 2,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_2",
+        "motion": "w-cute11-forward",
+        "expression": "face_sparkling_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 41,
+        "characterId": 2,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_2",
+        "motion": "w-cute11-tilthead",
+        "expression": "face_ncsmile_04",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 42,
+        "characterId": 2,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_2",
+        "motion": "w-cute02-forward",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 43,
+        "characterId": 3,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_3",
+        "motion": "w-adult12-tilthead",
+        "expression": "face_ncsmile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 44,
+        "characterId": 3,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_3",
+        "motion": "w-adult01-tilthead",
+        "expression": "face_smile_05",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 45,
+        "characterId": 3,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_3",
+        "motion": "w-adult05-think",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 46,
+        "characterId": 4,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_4",
+        "motion": "w-cool10-angry",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 47,
+        "characterId": 4,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_4",
+        "motion": "w-cool13-nod",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 48,
+        "characterId": 4,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_4",
+        "motion": "w-cool06-tilthead",
+        "expression": "face_smallmouth_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 49,
+        "characterId": 5,
+        "unit": "idol",
+        "assetbundleName": "voicepack_5",
+        "motion": "w-cute12-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 50,
+        "characterId": 5,
+        "unit": "idol",
+        "assetbundleName": "voicepack_5",
+        "motion": "w-cute11-tilthead",
+        "expression": "face_sparkling_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 51,
+        "characterId": 5,
+        "unit": "idol",
+        "assetbundleName": "voicepack_5",
+        "motion": "w-cute01-tilthead",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 52,
+        "characterId": 6,
+        "unit": "idol",
+        "assetbundleName": "voicepack_6",
+        "motion": "w-cool13-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 53,
+        "characterId": 6,
+        "unit": "idol",
+        "assetbundleName": "voicepack_6",
+        "motion": "w-cool06-tilthead",
+        "expression": "face_smile_06",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 54,
+        "characterId": 6,
+        "unit": "idol",
+        "assetbundleName": "voicepack_6",
+        "motion": "w-cool02-guts",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 55,
+        "characterId": 7,
+        "unit": "idol",
+        "assetbundleName": "voicepack_7",
+        "motion": "w-happy14-nod",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 56,
+        "characterId": 7,
+        "unit": "idol",
+        "assetbundleName": "voicepack_7",
+        "motion": "w-happy02-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 57,
+        "characterId": 7,
+        "unit": "idol",
+        "assetbundleName": "voicepack_7",
+        "motion": "w-happy14-tilthead",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 58,
+        "characterId": 8,
+        "unit": "idol",
+        "assetbundleName": "voicepack_8",
+        "motion": "w-adult11-tilthead",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 59,
+        "characterId": 8,
+        "unit": "idol",
+        "assetbundleName": "voicepack_8",
+        "motion": "w-adult01-tilthead",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 60,
+        "characterId": 8,
+        "unit": "idol",
+        "assetbundleName": "voicepack_8",
+        "motion": "w-adult12-nod",
+        "expression": "face_smile_04",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 61,
+        "characterId": 9,
+        "unit": "street",
+        "assetbundleName": "voicepack_9",
+        "motion": "w-normal01-tilthead",
+        "expression": "face_smile_04",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 62,
+        "characterId": 9,
+        "unit": "street",
+        "assetbundleName": "voicepack_9",
+        "motion": "w-normal03-tilthead",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 63,
+        "characterId": 9,
+        "unit": "street",
+        "assetbundleName": "voicepack_9",
+        "motion": "w-animal12-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 64,
+        "characterId": 10,
+        "unit": "street",
+        "assetbundleName": "voicepack_10",
+        "motion": "w-cool10-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 65,
+        "characterId": 10,
+        "unit": "street",
+        "assetbundleName": "voicepack_10",
+        "motion": "w-cool06-tilthead",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 66,
+        "characterId": 10,
+        "unit": "street",
+        "assetbundleName": "voicepack_10",
+        "motion": "w-cool02-tilthead",
+        "expression": "face_smile_05",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 67,
+        "characterId": 11,
+        "unit": "street",
+        "assetbundleName": "voicepack_11",
+        "motion": "m-cool01-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 68,
+        "characterId": 11,
+        "unit": "street",
+        "assetbundleName": "voicepack_11",
+        "motion": "m-normal16-angry",
+        "expression": "face_trouble_04",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 69,
+        "characterId": 11,
+        "unit": "street",
+        "assetbundleName": "voicepack_11",
+        "motion": "m-cool01-tilthead",
+        "expression": "face_smallmouth_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 70,
+        "characterId": 12,
+        "unit": "street",
+        "assetbundleName": "voicepack_12",
+        "motion": "m-adult10-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 71,
+        "characterId": 12,
+        "unit": "street",
+        "assetbundleName": "voicepack_12",
+        "motion": "m-adult10-tilthead",
+        "expression": "face_smallmouth_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 72,
+        "characterId": 12,
+        "unit": "street",
+        "assetbundleName": "voicepack_12",
+        "motion": "m-adult16-nod",
+        "expression": "face_normal_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 73,
+        "characterId": 13,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_13",
+        "motion": "m-proud07-tilthead",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 74,
+        "characterId": 13,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_13",
+        "motion": "m-proud07-nod",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 75,
+        "characterId": 13,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_13",
+        "motion": "m-proud11-nod",
+        "expression": "face_smug_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 76,
+        "characterId": 14,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_14",
+        "motion": "w-happy14-glad",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 77,
+        "characterId": 14,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_14",
+        "motion": "w-happy14-nod",
+        "expression": "face_smug_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 78,
+        "characterId": 14,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_14",
+        "motion": "w-happy02-nod",
+        "expression": "face_sparkling_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 79,
+        "characterId": 15,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_15",
+        "motion": "w-normal03-tilthead",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 80,
+        "characterId": 15,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_15",
+        "motion": "w-normal03-nod",
+        "expression": "face_sharp_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 81,
+        "characterId": 15,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_15",
+        "motion": "w-normal07-tilthead",
+        "expression": "face_smallmouth_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 82,
+        "characterId": 16,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_16",
+        "motion": "m-cool08-nod",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 83,
+        "characterId": 16,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_16",
+        "motion": "m-cool08-tilthead",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 84,
+        "characterId": 16,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_16",
+        "motion": "m-cool08-plan",
+        "expression": "face_smug_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 85,
+        "characterId": 17,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_17",
+        "motion": "w-normal15-tilthead",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 86,
+        "characterId": 17,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_17",
+        "motion": "w-kanade07-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 87,
+        "characterId": 17,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_17",
+        "motion": "w-kanade07-tilthead",
+        "expression": "face_smallmouth_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 88,
+        "characterId": 18,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_18",
+        "motion": "w-normal15-tilthead",
+        "expression": "face_normal_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 89,
+        "characterId": 18,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_18",
+        "motion": "w-normal15-nod",
+        "expression": "face_smallmouth_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 90,
+        "characterId": 18,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_18",
+        "motion": "w-normal07-tilthead",
+        "expression": "face_smallmouth_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 91,
+        "characterId": 19,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_19",
+        "motion": "w-cute12-tilthead",
+        "expression": "face_smile_04",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 92,
+        "characterId": 19,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_19",
+        "motion": "w-cute02-tilthead",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 93,
+        "characterId": 19,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_19",
+        "motion": "w-cute02-nod",
+        "expression": "face_smile_06",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 94,
+        "characterId": 20,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_20",
+        "motion": "w-cool02-tilthead",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 95,
+        "characterId": 20,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_20",
+        "motion": "w-cool10-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 96,
+        "characterId": 20,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_20",
+        "motion": "w-cute02-glad",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 97,
+        "characterId": 21,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_21_piapro",
+        "motion": "w-normal03-tilthead",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 98,
+        "characterId": 21,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_21_piapro",
+        "motion": "w-normal03-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 99,
+        "characterId": 21,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_21_piapro",
+        "motion": "w-animal12-nod",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 100,
+        "characterId": 21,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_21_light_sound",
+        "motion": "w-cool10-nod",
+        "expression": "face_band_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 101,
+        "characterId": 21,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_21_light_sound",
+        "motion": "w-cool13-nod",
+        "expression": "face_band_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 102,
+        "characterId": 21,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_21_light_sound",
+        "motion": "w-cool13-tilthead",
+        "expression": "face_band_smile_04",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 103,
+        "characterId": 21,
+        "unit": "idol",
+        "assetbundleName": "voicepack_21_idol",
+        "motion": "w-cute11-glad",
+        "expression": "face_idol_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 104,
+        "characterId": 21,
+        "unit": "idol",
+        "assetbundleName": "voicepack_21_idol",
+        "motion": "w-cute11-tilthead",
+        "expression": "face_idol_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 105,
+        "characterId": 21,
+        "unit": "idol",
+        "assetbundleName": "voicepack_21_idol",
+        "motion": "w-cute12-nod",
+        "expression": "face_idol_sparkling_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 106,
+        "characterId": 21,
+        "unit": "street",
+        "assetbundleName": "voicepack_21_street",
+        "motion": "w-happy09-tilthead",
+        "expression": "face_street_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 107,
+        "characterId": 21,
+        "unit": "street",
+        "assetbundleName": "voicepack_21_street",
+        "motion": "w-cool09-tilthead",
+        "expression": "face_street_smile_05",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 108,
+        "characterId": 21,
+        "unit": "street",
+        "assetbundleName": "voicepack_21_street",
+        "motion": "w-happy09-nod",
+        "expression": "face_street_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 109,
+        "characterId": 21,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_21_theme_park",
+        "motion": "w-normal01-tilthead",
+        "expression": "face_wonder_cat_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 110,
+        "characterId": 21,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_21_theme_park",
+        "motion": "w-normal01-nod",
+        "expression": "face_wonder_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 111,
+        "characterId": 21,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_21_theme_park",
+        "motion": "w-happy11-guts",
+        "expression": "face_wonder_closeeye_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 112,
+        "characterId": 21,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_21_school_refusal",
+        "motion": "w-normal07-nod",
+        "expression": "face_night_normal_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 113,
+        "characterId": 21,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_21_school_refusal",
+        "motion": "w-normal07-tilthead",
+        "expression": "face_night_normal_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 114,
+        "characterId": 21,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_21_school_refusal",
+        "motion": "w-normal15-tilthead",
+        "expression": "face_night_smallmouth_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 115,
+        "characterId": 22,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cool10-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 116,
+        "characterId": 22,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cute02-tilthead",
+        "expression": "face_smallmouth_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 117,
+        "characterId": 22,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cute02-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 118,
+        "characterId": 22,
+        "unit": "idol",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cute12-nod",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 119,
+        "characterId": 22,
+        "unit": "idol",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cute11-forward",
+        "expression": "face_twinkle_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 120,
+        "characterId": 22,
+        "unit": "idol",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cute11-tilthead",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 121,
+        "characterId": 23,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-proud16-nod",
+        "expression": "face_smile_05",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 122,
+        "characterId": 23,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-normal14-nod",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 123,
+        "characterId": 23,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-normal14-tilthead",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 124,
+        "characterId": 23,
+        "unit": "street",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-normal17-nod",
+        "expression": "face_smile_05",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 125,
+        "characterId": 23,
+        "unit": "street",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-normal14-nod",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 126,
+        "characterId": 23,
+        "unit": "street",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-normal14-tilthead",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 127,
+        "characterId": 24,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-adult05-nod",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 128,
+        "characterId": 24,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-adult12-tilthead",
+        "expression": "face_smallmouth_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 129,
+        "characterId": 24,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-adult12-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 130,
+        "characterId": 24,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-adult05-nod",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 131,
+        "characterId": 24,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-adult01-tilthead",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 132,
+        "characterId": 24,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-adult01-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 133,
+        "characterId": 25,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-cool13-tilthead",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 134,
+        "characterId": 25,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-cool06-tilthead",
+        "expression": "face_smile_04",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 135,
+        "characterId": 25,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-cool06-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 136,
+        "characterId": 25,
+        "unit": "street",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-cool10-nod",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 137,
+        "characterId": 25,
+        "unit": "street",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-cool10-tilthead",
+        "expression": "face_smile_04",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 138,
+        "characterId": 25,
+        "unit": "street",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-cool13-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 139,
+        "characterId": 26,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-normal17-nod",
+        "expression": "face_closeeye_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 140,
+        "characterId": 26,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-cool08-nod",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 141,
+        "characterId": 26,
+        "unit": "piapro",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-cool08-tilthead",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 142,
+        "characterId": 26,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-normal13-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 143,
+        "characterId": 26,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-adult05-nod",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 144,
+        "characterId": 26,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-adult05-tilthead",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 145,
+        "characterId": 22,
+        "unit": "street",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cool10-pose",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 146,
+        "characterId": 22,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-normal15-pose",
+        "expression": "face_darknormal_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 147,
+        "characterId": 23,
+        "unit": "idol",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-normal13-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 148,
+        "characterId": 23,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-proud07-pose",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 149,
+        "characterId": 24,
+        "unit": "idol",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-cute02-pose",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 150,
+        "characterId": 24,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-normal15-pose",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 151,
+        "characterId": 25,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-cool09-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 152,
+        "characterId": 25,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-normal07-pose",
+        "expression": "face_darknormal_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 153,
+        "characterId": 26,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-normal13-pose",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 154,
+        "characterId": 26,
+        "unit": "street",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-normal17-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 155,
+        "characterId": 22,
+        "unit": "street",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cute02-nod",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 156,
+        "characterId": 22,
+        "unit": "street",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cute02-tilthead",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 157,
+        "characterId": 22,
+        "unit": "street",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cool10-nod",
+        "expression": "face_smile_05",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 158,
+        "characterId": 22,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-normal15-tilthead",
+        "expression": "face_darknormal_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 159,
+        "characterId": 22,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-normal08-nod",
+        "expression": "face_darksmallmouth_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 160,
+        "characterId": 22,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-normal08-tilthead",
+        "expression": "face_darksmile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 161,
+        "characterId": 23,
+        "unit": "idol",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-normal13-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 162,
+        "characterId": 23,
+        "unit": "idol",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-cool08-nod",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 163,
+        "characterId": 23,
+        "unit": "idol",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-cool08-tilthead",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 164,
+        "characterId": 23,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-proud07-nod",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 165,
+        "characterId": 23,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-proud17-glad",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 166,
+        "characterId": 23,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-proud11-nod",
+        "expression": "face_smile_05",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 167,
+        "characterId": 24,
+        "unit": "idol",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-cute02-nod",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 168,
+        "characterId": 24,
+        "unit": "idol",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-cute02-tilthead",
+        "expression": "face_sparkling_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 169,
+        "characterId": 24,
+        "unit": "idol",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-cute02-nodB",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 170,
+        "characterId": 24,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-adult15-sleep",
+        "expression": "face_sleepy_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 171,
+        "characterId": 24,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-normal15-tilthead",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 172,
+        "characterId": 24,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-normal15-nod",
+        "expression": "face_smile_04",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 173,
+        "characterId": 25,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-happy09-nod",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 174,
+        "characterId": 25,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-normal01-tilthead",
+        "expression": "face_smile_04",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 175,
+        "characterId": 25,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-normal01-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 176,
+        "characterId": 25,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-normal07-tilthead",
+        "expression": "face_darknormal_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 177,
+        "characterId": 25,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-normal15-tilthead",
+        "expression": "face_darksmallmouth_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 178,
+        "characterId": 25,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-normal07-nod",
+        "expression": "face_darksmile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 179,
+        "characterId": 26,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-normal13-tilthead",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 180,
+        "characterId": 26,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-cool08-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 181,
+        "characterId": 26,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-cool08-tilthead",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 182,
+        "characterId": 26,
+        "unit": "street",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-proud07-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 183,
+        "characterId": 26,
+        "unit": "street",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-normal17-nod",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 184,
+        "characterId": 26,
+        "unit": "street",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-proud07-tilthead",
+        "expression": "face_closeeye_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 185,
+        "characterId": 22,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cute12-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 186,
+        "characterId": 22,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-happy11-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 187,
+        "characterId": 23,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-normal13-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 188,
+        "characterId": 23,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-night15-pose",
+        "expression": "face_night_normal_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 189,
+        "characterId": 24,
+        "unit": "street",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-cool10-pose",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 190,
+        "characterId": 24,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-normal03-pose",
+        "expression": "face_darknormal_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 191,
+        "characterId": 25,
+        "unit": "idol",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-cool10-pose",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 192,
+        "characterId": 25,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-happy02-pose",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 193,
+        "characterId": 26,
+        "unit": "idol",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-adult05-pose",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 194,
+        "characterId": 22,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cute12-nod",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 195,
+        "characterId": 22,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cute12-tilthead",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 196,
+        "characterId": 22,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cute11-tilthead",
+        "expression": "face_closeeye_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 197,
+        "characterId": 22,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-happy11-guts",
+        "expression": "face_closeeye_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 198,
+        "characterId": 22,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-cute11-forward",
+        "expression": "face_twinkle_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 199,
+        "characterId": 22,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_22",
+        "motion": "w-happy14-nod",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 200,
+        "characterId": 23,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-cool01-nod",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 201,
+        "characterId": 23,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-proud07-nod",
+        "expression": "face_smile_05",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 202,
+        "characterId": 23,
+        "unit": "light_sound",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-proud07-tilthead",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 203,
+        "characterId": 23,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-night03-tilthead",
+        "expression": "face_night_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 204,
+        "characterId": 23,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-night07-tilthead",
+        "expression": "face_night_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 205,
+        "characterId": 23,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_23",
+        "motion": "l-night03-nod",
+        "expression": "face_night_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 206,
+        "characterId": 24,
+        "unit": "street",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-cool10-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 207,
+        "characterId": 24,
+        "unit": "street",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-happy14-nod",
+        "expression": "face_closeeye_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 208,
+        "characterId": 24,
+        "unit": "street",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-cool02-tilthead",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 209,
+        "characterId": 24,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-adult01-tilthead",
+        "expression": "face_darksmile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 210,
+        "characterId": 24,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-normal07-nod",
+        "expression": "face_darksmile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 211,
+        "characterId": 24,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_24",
+        "motion": "w-normal07-tilthead",
+        "expression": "face_darksmallmouth_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 212,
+        "characterId": 25,
+        "unit": "idol",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-cool10-nod",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 213,
+        "characterId": 25,
+        "unit": "idol",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-cool02-guts",
+        "expression": "face_closeeye_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 214,
+        "characterId": 25,
+        "unit": "idol",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-cute02-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 215,
+        "characterId": 25,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-happy02-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 216,
+        "characterId": 25,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-cool10-nod",
+        "expression": "face_smile_04",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 217,
+        "characterId": 25,
+        "unit": "theme_park",
+        "assetbundleName": "voicepack_25",
+        "motion": "w-happy14-tilthead",
+        "expression": "face_smile_02",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 218,
+        "characterId": 26,
+        "unit": "idol",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-adult05-tilthead",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 219,
+        "characterId": 26,
+        "unit": "idol",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-adult05-nod",
+        "expression": "face_smile_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 220,
+        "characterId": 26,
+        "unit": "idol",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-normal13-nod",
+        "expression": "face_smile_03",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 221,
+        "characterId": 26,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-normal13-pose",
+        "expression": "face_night_normal_01",
+        "weight": 1,
+        "defaultFlg": true
+    },
+    {
+        "id": 222,
+        "characterId": 26,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-normal16-nod",
+        "expression": "face_night_normal_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 223,
+        "characterId": 26,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-normal13-nod",
+        "expression": "face_night_normal_01",
+        "weight": 1,
+        "defaultFlg": false
+    },
+    {
+        "id": 224,
+        "characterId": 26,
+        "unit": "school_refusal",
+        "assetbundleName": "voicepack_26",
+        "motion": "m-normal13-tilthead",
+        "expression": "face_night_normal_01",
+        "weight": 1,
+        "defaultFlg": false
+    }
+]

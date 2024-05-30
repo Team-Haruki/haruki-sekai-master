@@ -1,0 +1,90 @@
+[
+    {
+        "id": 2,
+        "seq": 2,
+        "shopType": "music",
+        "areaId": 4,
+        "name": "\u697d\u66f2\u30b7\u30e7\u30c3\u30d7",
+        "releaseConditionId": 1
+    },
+    {
+        "id": 3,
+        "seq": 2,
+        "shopType": "live_costume",
+        "areaId": 3,
+        "name": "\u8863\u88c5\u30b7\u30e7\u30c3\u30d7",
+        "releaseConditionId": 1
+    },
+    {
+        "id": 4,
+        "seq": 1,
+        "shopType": "music_vocal",
+        "areaId": 4,
+        "name": "\u30dc\u30fc\u30ab\u30eb\u30fb\u30b7\u30e7\u30c3\u30d7",
+        "releaseConditionId": 1
+    },
+    {
+        "id": 5,
+        "seq": 1,
+        "shopType": "area_item",
+        "areaId": 5,
+        "name": "\u30a8\u30ea\u30a2\u30a2\u30a4\u30c6\u30e0\u30b7\u30e7\u30c3\u30d7",
+        "releaseConditionId": 1
+    },
+    {
+        "id": 6,
+        "seq": 1,
+        "shopType": "area_item",
+        "areaId": 7,
+        "name": "\u30a8\u30ea\u30a2\u30a2\u30a4\u30c6\u30e0\u30b7\u30e7\u30c3\u30d7",
+        "releaseConditionId": 1
+    },
+    {
+        "id": 7,
+        "seq": 1,
+        "shopType": "area_item",
+        "areaId": 8,
+        "name": "\u30a8\u30ea\u30a2\u30a2\u30a4\u30c6\u30e0\u30b7\u30e7\u30c3\u30d7",
+        "releaseConditionId": 1
+    },
+    {
+        "id": 8,
+        "seq": 1,
+        "shopType": "area_item",
+        "areaId": 9,
+        "name": "\u30a8\u30ea\u30a2\u30a2\u30a4\u30c6\u30e0\u30b7\u30e7\u30c3\u30d7",
+        "releaseConditionId": 1
+    },
+    {
+        "id": 9,
+        "seq": 1,
+        "shopType": "area_item",
+        "areaId": 10,
+        "name": "\u30a8\u30ea\u30a2\u30a2\u30a4\u30c6\u30e0\u30b7\u30e7\u30c3\u30d7",
+        "releaseConditionId": 1
+    },
+    {
+        "id": 10,
+        "seq": 1,
+        "shopType": "area_item",
+        "areaId": 11,
+        "name": "\u30a8\u30ea\u30a2\u30a2\u30a4\u30c6\u30e0\u30b7\u30e7\u30c3\u30d7",
+        "releaseConditionId": 10025
+    },
+    {
+        "id": 11,
+        "seq": 1,
+        "shopType": "area_item",
+        "areaId": 13,
+        "name": "\u30a8\u30ea\u30a2\u30a2\u30a4\u30c6\u30e0\u30b7\u30e7\u30c3\u30d7",
+        "releaseConditionId": 10025
+    },
+    {
+        "id": 12,
+        "seq": 1,
+        "shopType": "stamp",
+        "areaId": 3,
+        "name": "\u30b9\u30bf\u30f3\u30d7\u30b7\u30e7\u30c3\u30d7",
+        "releaseConditionId": 1
+    }
+]

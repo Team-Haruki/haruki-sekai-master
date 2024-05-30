@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "\u30d4\u30e5\u30a2\uff11",
+        "fontName": "FOT-RodinNTLGPro-DB",
+        "assetbundleName": "custom_profile\/font"
+    },
+    {
+        "id": 2,
+        "name": "\u30d4\u30e5\u30a2\uff12",
+        "fontName": "FOT-SkipProN-B",
+        "assetbundleName": "custom_profile\/font"
+    },
+    {
+        "id": 3,
+        "name": "\u30cf\u30c3\u30d4\u30fc\uff11",
+        "fontName": "FOT-PopHappinessStd-EB",
+        "assetbundleName": "custom_profile\/font"
+    },
+    {
+        "id": 4,
+        "name": "\u30cf\u30c3\u30d4\u30fc\uff12",
+        "fontName": "FOT-HummingPro-B",
+        "assetbundleName": "custom_profile\/font"
+    },
+    {
+        "id": 5,
+        "name": "\u30ad\u30e5\u30fc\u30c8\uff11",
+        "fontName": "FOT-BabyPopStd-EB",
+        "assetbundleName": "custom_profile\/font"
+    },
+    {
+        "id": 6,
+        "name": "\u30ad\u30e5\u30fc\u30c8\uff12",
+        "fontName": "FOT-YurukaStd-UB",
+        "assetbundleName": "custom_profile\/font"
+    },
+    {
+        "id": 7,
+        "name": "\u30df\u30b9\u30c6\u30ea\u30a2\u30b9\uff11",
+        "fontName": "FOT-LyraStd-DB",
+        "assetbundleName": "custom_profile\/font"
+    },
+    {
+        "id": 8,
+        "name": "\u30df\u30b9\u30c6\u30ea\u30a2\u30b9\uff12",
+        "fontName": "FOT-PalRetronStd-B",
+        "assetbundleName": "custom_profile\/font"
+    },
+    {
+        "id": 9,
+        "name": "\u30af\u30fc\u30eb\uff11",
+        "fontName": "FOT-UDMinchoPro-B",
+        "assetbundleName": "custom_profile\/font"
+    },
+    {
+        "id": 10,
+        "name": "\u30af\u30fc\u30eb\uff12",
+        "fontName": "FOT-GrecoStd-B",
+        "assetbundleName": "custom_profile\/font"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "seq": 20,
+        "name": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u30c9\u30ea\u30f3\u30af\uff08\u5c0f\uff09",
+        "recoveryValue": 1,
+        "assetBundleName": "dummy",
+        "flavorText": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u30921\u56de\u5fa9\u3059\u308b\u3002"
+    },
+    {
+        "id": 2,
+        "seq": 30,
+        "name": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u30c9\u30ea\u30f3\u30af\uff08\u5927\uff09",
+        "recoveryValue": 10,
+        "assetBundleName": "dummy",
+        "flavorText": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u309210\u56de\u5fa9\u3059\u308b\u3002"
+    },
+    {
+        "id": 3,
+        "seq": 40,
+        "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u30c1\u30e7\u30b3",
+        "recoveryValue": 10,
+        "assetBundleName": "dummy",
+        "flavorText": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u309210\u56de\u5fa9\u3059\u308b\u3002"
+    },
+    {
+        "id": 4,
+        "seq": 50,
+        "name": "\u30db\u30ef\u30a4\u30c8\u30c7\u30fc\u30de\u30b7\u30e5\u30de\u30ed",
+        "recoveryValue": 10,
+        "assetBundleName": "dummy",
+        "flavorText": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u309210\u56de\u5fa9\u3059\u308b\u3002"
+    },
+    {
+        "id": 5,
+        "seq": 60,
+        "name": "[\u9650\u5b9a]\u304b\u3089\u3042\u3052\u30af\u30f3 \u30ec\u30ae\u30e5\u30e9\u30fc\uff08\u30bf\u30a4\u30a2\u30c3\u30d7\u8a18\u5ff5\uff09",
+        "recoveryValue": 10,
+        "assetBundleName": "dummy",
+        "flavorText": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u309210\u56de\u5fa9\u3059\u308b\u3002"
+    },
+    {
+        "id": 6,
+        "seq": 70,
+        "name": "\u30cf\u30ed\u30a6\u30a3\u30f3\u30af\u30c3\u30ad\u30fc",
+        "recoveryValue": 10,
+        "assetBundleName": "dummy",
+        "flavorText": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u309210\u56de\u5fa9\u3059\u308b\u3002"
+    },
+    {
+        "id": 7,
+        "seq": 80,
+        "name": "\u30d6\u30ea\u30aa\u30c3\u30b7\u30e5",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item7",
+        "flavorText": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u309210\u56de\u5fa9\u3059\u308b\u3002"
+    },
+    {
+        "id": 8,
+        "seq": 90,
+        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30b1\u30fc\u30ad",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item8",
+        "flavorText": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u309210\u56de\u5fa9\u3059\u308b\u3002"
+    },
+    {
+        "id": 9,
+        "seq": 100,
+        "name": "\u7518\u9152",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item9",
+        "flavorText": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u309210\u56de\u5fa9\u3059\u308b\u3002"
+    },
+    {
+        "id": 10,
+        "seq": 110,
+        "name": "[\u9650\u5b9a]\u30ab\u30c3\u30d7\u30cc\u30fc\u30c9\u30eb",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item10",
+        "flavorText": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u309210\u56de\u5fa9\u3059\u308b\u3002"
+    },
+    {
+        "id": 11,
+        "seq": 120,
+        "name": "[\u9650\u5b9a]\u30dd\u30ab\u30ea\u30b9\u30a8\u30c3\u30c8",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item11",
+        "flavorText": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u309210\u56de\u5fa9\u3059\u308b\u3002"
+    },
+    {
+        "id": 12,
+        "seq": 130,
+        "name": "\u30cd\u30ae",
+        "recoveryValue": 1,
+        "assetBundleName": "boost_item12",
+        "flavorText": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u30921\u56de\u5fa9\u3059\u308b\u3002"
+    },
+    {
+        "id": 13,
+        "seq": 140,
+        "name": "[\u30df\u30af16\u5468\u5e74\u8a18\u5ff5]\u304a\u795d\u3044\u30df\u30af\u30b1\u30fc\u30ad",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item13",
+        "flavorText": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u309210\u56de\u5fa9\u3059\u308b\u3002"
+    },
+    {
+        "id": 14,
+        "seq": 150,
+        "name": "\u30cf\u30ed\u30fc\u30ad\u30c6\u30a3\u306e\u308a\u3093\u3054",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item14",
+        "flavorText": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u309210\u56de\u5fa9\u3059\u308b\u3002"
+    },
+    {
+        "id": 15,
+        "seq": 10,
+        "name": "3900's\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u30c9\u30ea\u30f3\u30af",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item15",
+        "flavorText": "\u30e9\u30a4\u30d6\u30dc\u30fc\u30ca\u30b9\u309210\u56de\u5fa9\u3059\u308b\u3002"
+    }
+]

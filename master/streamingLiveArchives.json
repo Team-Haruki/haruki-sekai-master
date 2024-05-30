@@ -1,0 +1,1692 @@
+[
+    {
+        "id": 1541,
+        "virtualLiveId": 154,
+        "virtualLivePart": 1,
+        "streamingLiveCategoryId": 1,
+        "streamingLiveSetlists": [
+            {
+                "id": 154001,
+                "seq": 1,
+                "chapterId": 1,
+                "name": "\u958b\u6f14\u524d\u30a2\u30ca\u30a6\u30f3\u30b9",
+                "characterIds": []
+            },
+            {
+                "id": 154002,
+                "seq": 2,
+                "chapterId": 2,
+                "name": "OVERTURE",
+                "characterIds": []
+            },
+            {
+                "id": 154003,
+                "seq": 3,
+                "chapterId": 3,
+                "name": "Forward",
+                "musicId": 55,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29
+                ]
+            },
+            {
+                "id": 154004,
+                "seq": 4,
+                "chapterId": 4,
+                "name": "MC\u2460",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29,
+                    23
+                ]
+            },
+            {
+                "id": 154005,
+                "seq": 5,
+                "chapterId": 5,
+                "name": "Beat Eater",
+                "musicId": 156,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    23
+                ]
+            },
+            {
+                "id": 154006,
+                "seq": 6,
+                "chapterId": 6,
+                "name": "RAD DOGS",
+                "musicId": 101,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29
+                ]
+            },
+            {
+                "id": 154107,
+                "seq": 7,
+                "chapterId": 7,
+                "name": "MC\u2461",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29,
+                    26
+                ]
+            },
+            {
+                "id": 154108,
+                "seq": 8,
+                "chapterId": 8,
+                "name": "\u30b7\u30cd\u30de",
+                "musicId": 126,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    26
+                ]
+            },
+            {
+                "id": 154109,
+                "seq": 9,
+                "chapterId": 9,
+                "name": "MC\u2462",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    26
+                ]
+            },
+            {
+                "id": 154110,
+                "seq": 10,
+                "chapterId": 10,
+                "name": "\u30a2\u30f3\u30b3\u30fc\u30eb",
+                "characterIds": [
+                    29
+                ]
+            },
+            {
+                "id": 154111,
+                "seq": 11,
+                "chapterId": 11,
+                "name": "Just Be Friends",
+                "musicId": 27,
+                "characterIds": [
+                    9,
+                    10,
+                    24
+                ]
+            },
+            {
+                "id": 154112,
+                "seq": 12,
+                "chapterId": 12,
+                "name": "\u5a01\u98a8\u5802\u3005",
+                "musicId": 95,
+                "characterIds": [
+                    11,
+                    12,
+                    26
+                ]
+            },
+            {
+                "id": 154113,
+                "seq": 13,
+                "chapterId": 13,
+                "name": "MC\u2463",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29,
+                    24,
+                    26
+                ]
+            },
+            {
+                "id": 154114,
+                "seq": 14,
+                "chapterId": 14,
+                "name": "Ready Steady",
+                "musicId": 54,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29
+                ]
+            },
+            {
+                "id": 154115,
+                "seq": 15,
+                "chapterId": 15,
+                "name": "MC\u2464",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29
+                ]
+            },
+            {
+                "id": 154116,
+                "seq": 16,
+                "chapterId": 16,
+                "name": "\u7d42\u6f14\u5f8c\u30a2\u30ca\u30a6\u30f3\u30b9",
+                "characterIds": []
+            }
+        ],
+        "playTime": "1:03:26",
+        "assetbundleName": "1st_live_vbs-1"
+    },
+    {
+        "id": 1542,
+        "virtualLiveId": 154,
+        "virtualLivePart": 2,
+        "streamingLiveCategoryId": 1,
+        "streamingLiveSetlists": [
+            {
+                "id": 154001,
+                "seq": 1,
+                "chapterId": 1,
+                "name": "\u958b\u6f14\u524d\u30a2\u30ca\u30a6\u30f3\u30b9",
+                "characterIds": []
+            },
+            {
+                "id": 154002,
+                "seq": 2,
+                "chapterId": 2,
+                "name": "OVERTURE",
+                "characterIds": []
+            },
+            {
+                "id": 154003,
+                "seq": 3,
+                "chapterId": 3,
+                "name": "Forward",
+                "musicId": 55,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29
+                ]
+            },
+            {
+                "id": 154004,
+                "seq": 4,
+                "chapterId": 4,
+                "name": "MC\u2460",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29,
+                    23
+                ]
+            },
+            {
+                "id": 154005,
+                "seq": 5,
+                "chapterId": 5,
+                "name": "Beat Eater",
+                "musicId": 156,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    23
+                ]
+            },
+            {
+                "id": 154006,
+                "seq": 6,
+                "chapterId": 6,
+                "name": "RAD DOGS",
+                "musicId": 101,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29
+                ]
+            },
+            {
+                "id": 154207,
+                "seq": 7,
+                "chapterId": 7,
+                "name": "MC\u2461",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29,
+                    26
+                ]
+            },
+            {
+                "id": 154208,
+                "seq": 8,
+                "chapterId": 8,
+                "name": "\u30b7\u30cd\u30de",
+                "musicId": 126,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    26
+                ]
+            },
+            {
+                "id": 154209,
+                "seq": 9,
+                "chapterId": 9,
+                "name": "MC\u2462",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    26
+                ]
+            },
+            {
+                "id": 154210,
+                "seq": 10,
+                "chapterId": 10,
+                "name": "\u30a2\u30f3\u30b3\u30fc\u30eb",
+                "characterIds": [
+                    29
+                ]
+            },
+            {
+                "id": 154211,
+                "seq": 11,
+                "chapterId": 11,
+                "name": "Just Be Friends",
+                "musicId": 27,
+                "characterIds": [
+                    9,
+                    10,
+                    24
+                ]
+            },
+            {
+                "id": 154212,
+                "seq": 12,
+                "chapterId": 12,
+                "name": "\u5a01\u98a8\u5802\u3005",
+                "musicId": 95,
+                "characterIds": [
+                    11,
+                    12,
+                    26
+                ]
+            },
+            {
+                "id": 154213,
+                "seq": 13,
+                "chapterId": 13,
+                "name": "MC\u2463",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29,
+                    24,
+                    26
+                ]
+            },
+            {
+                "id": 154214,
+                "seq": 14,
+                "chapterId": 14,
+                "name": "Ready Steady",
+                "musicId": 54,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29
+                ]
+            },
+            {
+                "id": 154215,
+                "seq": 15,
+                "chapterId": 15,
+                "name": "MC\u2464",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29
+                ]
+            },
+            {
+                "id": 154216,
+                "seq": 16,
+                "chapterId": 16,
+                "name": "\u7d42\u6f14\u5f8c\u30a2\u30ca\u30a6\u30f3\u30b9",
+                "characterIds": []
+            }
+        ],
+        "playTime": "1:01:49",
+        "assetbundleName": "1st_live_vbs-2"
+    },
+    {
+        "id": 1543,
+        "virtualLiveId": 154,
+        "virtualLivePart": 3,
+        "streamingLiveCategoryId": 1,
+        "streamingLiveSetlists": [
+            {
+                "id": 154001,
+                "seq": 1,
+                "chapterId": 1,
+                "name": "\u958b\u6f14\u524d\u30a2\u30ca\u30a6\u30f3\u30b9",
+                "characterIds": []
+            },
+            {
+                "id": 154002,
+                "seq": 2,
+                "chapterId": 2,
+                "name": "OVERTURE",
+                "characterIds": []
+            },
+            {
+                "id": 154003,
+                "seq": 3,
+                "chapterId": 3,
+                "name": "Forward",
+                "musicId": 55,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29
+                ]
+            },
+            {
+                "id": 154004,
+                "seq": 4,
+                "chapterId": 4,
+                "name": "MC\u2460",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29,
+                    23
+                ]
+            },
+            {
+                "id": 154005,
+                "seq": 5,
+                "chapterId": 5,
+                "name": "Beat Eater",
+                "musicId": 156,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    23
+                ]
+            },
+            {
+                "id": 154006,
+                "seq": 6,
+                "chapterId": 6,
+                "name": "RAD DOGS",
+                "musicId": 101,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29
+                ]
+            },
+            {
+                "id": 154307,
+                "seq": 7,
+                "chapterId": 7,
+                "name": "MC\u2461",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29,
+                    26
+                ]
+            },
+            {
+                "id": 154310,
+                "seq": 10,
+                "chapterId": 10,
+                "name": "\u30b7\u30cd\u30de",
+                "musicId": 126,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    26
+                ]
+            },
+            {
+                "id": 154311,
+                "seq": 11,
+                "chapterId": 11,
+                "name": "MC\u2462",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    26
+                ]
+            },
+            {
+                "id": 154312,
+                "seq": 12,
+                "chapterId": 12,
+                "name": "\u30a2\u30f3\u30b3\u30fc\u30eb",
+                "characterIds": [
+                    29
+                ]
+            },
+            {
+                "id": 154313,
+                "seq": 13,
+                "chapterId": 13,
+                "name": "Just Be Friends",
+                "musicId": 27,
+                "characterIds": [
+                    9,
+                    10,
+                    24
+                ]
+            },
+            {
+                "id": 154314,
+                "seq": 14,
+                "chapterId": 14,
+                "name": "\u5a01\u98a8\u5802\u3005",
+                "musicId": 95,
+                "characterIds": [
+                    11,
+                    12,
+                    26
+                ]
+            },
+            {
+                "id": 154315,
+                "seq": 15,
+                "chapterId": 15,
+                "name": "MC\u2463",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29,
+                    24,
+                    26
+                ]
+            },
+            {
+                "id": 154316,
+                "seq": 16,
+                "chapterId": 16,
+                "name": "Ready Steady",
+                "musicId": 54,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29
+                ]
+            },
+            {
+                "id": 154317,
+                "seq": 17,
+                "chapterId": 17,
+                "name": "MC\u2464",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    29
+                ]
+            },
+            {
+                "id": 154318,
+                "seq": 18,
+                "chapterId": 18,
+                "name": "\u7d42\u6f14\u5f8c\u30a2\u30ca\u30a6\u30f3\u30b9",
+                "characterIds": []
+            }
+        ],
+        "playTime": "1:24:46",
+        "assetbundleName": "1st_live_vbs-3"
+    },
+    {
+        "id": 2547,
+        "virtualLiveId": 176,
+        "virtualLivePart": 1,
+        "streamingLiveCategoryId": 1,
+        "streamingLiveSetlists": [
+            {
+                "id": 176101,
+                "seq": 1,
+                "chapterId": 1,
+                "name": "\u958b\u6f14\u524d\u30a2\u30ca\u30a6\u30f3\u30b9\u2460",
+                "characterIds": []
+            },
+            {
+                "id": 176102,
+                "seq": 2,
+                "chapterId": 2,
+                "name": "\u958b\u6f14\u524d\u30a2\u30ca\u30a6\u30f3\u30b9\u2461",
+                "characterIds": []
+            },
+            {
+                "id": 176103,
+                "seq": 3,
+                "chapterId": 3,
+                "name": "\u7fa4\u9752\u8b83\u6b4c",
+                "musicId": 141,
+                "characterIds": [
+                    1,
+                    5,
+                    9,
+                    13,
+                    17,
+                    21
+                ]
+            },
+            {
+                "id": 176104,
+                "seq": 4,
+                "chapterId": 4,
+                "name": "OVERTURE",
+                "characterIds": [
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26
+                ]
+            },
+            {
+                "id": 176105,
+                "seq": 5,
+                "chapterId": 5,
+                "name": "\u5343\u672c\u685c",
+                "musicId": 110,
+                "characterIds": [
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26
+                ]
+            },
+            {
+                "id": 176106,
+                "seq": 6,
+                "chapterId": 6,
+                "name": "MC\u2460",
+                "characterIds": [
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26
+                ]
+            },
+            {
+                "id": 176107,
+                "seq": 7,
+                "chapterId": 7,
+                "name": "\u8ee2\u63db\u6620\u50cf MORE MORE JUMP\uff01",
+                "characterIds": []
+            },
+            {
+                "id": 176108,
+                "seq": 8,
+                "chapterId": 8,
+                "name": "Color of Drops",
+                "musicId": 89,
+                "characterIds": [
+                    5,
+                    6,
+                    7,
+                    8,
+                    24
+                ]
+            },
+            {
+                "id": 176109,
+                "seq": 9,
+                "chapterId": 9,
+                "name": "MC\u2461",
+                "characterIds": [
+                    5,
+                    6,
+                    7,
+                    8,
+                    24,
+                    26
+                ]
+            },
+            {
+                "id": 176110,
+                "seq": 10,
+                "chapterId": 10,
+                "name": "\u30ef\u30fc\u30eb\u30c9\u30ef\u30a4\u30c9\u30ef\u30f3\u30c0\u30fc",
+                "musicId": 193,
+                "characterIds": [
+                    5,
+                    6,
+                    7,
+                    8,
+                    26
+                ]
+            },
+            {
+                "id": 176111,
+                "seq": 11,
+                "chapterId": 11,
+                "name": "MC\u2462",
+                "characterIds": [
+                    5,
+                    6,
+                    7,
+                    8,
+                    24,
+                    26
+                ]
+            },
+            {
+                "id": 176112,
+                "seq": 12,
+                "chapterId": 12,
+                "name": "\u8ee2\u63db\u6620\u50cf Leo\/need",
+                "characterIds": []
+            },
+            {
+                "id": 176113,
+                "seq": 13,
+                "chapterId": 13,
+                "name": "\u300c\uff11\u300d",
+                "musicId": 132,
+                "characterIds": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    24
+                ]
+            },
+            {
+                "id": 176114,
+                "seq": 14,
+                "chapterId": 14,
+                "name": "\u30b9\u30c6\u30e9",
+                "musicId": 64,
+                "characterIds": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    27
+                ]
+            },
+            {
+                "id": 176115,
+                "seq": 15,
+                "chapterId": 15,
+                "name": "MC\u2463",
+                "characterIds": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    27,
+                    24
+                ]
+            },
+            {
+                "id": 176116,
+                "seq": 16,
+                "chapterId": 16,
+                "name": "\u8ee2\u63db\u6620\u50cf Vivid BAD SQUAD",
+                "characterIds": []
+            },
+            {
+                "id": 176117,
+                "seq": 17,
+                "chapterId": 17,
+                "name": "\u6708\u5149",
+                "musicId": 239,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    25
+                ]
+            },
+            {
+                "id": 176118,
+                "seq": 18,
+                "chapterId": 18,
+                "name": "MC\u2464",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    22,
+                    25
+                ]
+            },
+            {
+                "id": 176119,
+                "seq": 19,
+                "chapterId": 19,
+                "name": "\u8857",
+                "musicId": 217,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    22
+                ]
+            },
+            {
+                "id": 176120,
+                "seq": 20,
+                "chapterId": 20,
+                "name": "MC\u2465",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    22,
+                    25
+                ]
+            },
+            {
+                "id": 176121,
+                "seq": 21,
+                "chapterId": 21,
+                "name": "\u8ee2\u63db\u6620\u50cf 25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002",
+                "characterIds": []
+            },
+            {
+                "id": 176122,
+                "seq": 22,
+                "chapterId": 22,
+                "name": "\u30b8\u30e3\u30c3\u30af\u30dd\u30c3\u30c8\u30b5\u30c3\u30c9\u30ac\u30fc\u30eb",
+                "musicId": 62,
+                "characterIds": [
+                    17,
+                    18,
+                    19,
+                    20,
+                    31
+                ]
+            },
+            {
+                "id": 176123,
+                "seq": 23,
+                "chapterId": 23,
+                "name": "MC\u2466",
+                "characterIds": [
+                    17,
+                    18,
+                    19,
+                    20,
+                    31,
+                    25
+                ]
+            },
+            {
+                "id": 176124,
+                "seq": 24,
+                "chapterId": 24,
+                "name": "\u30ed\u30a6\u30ef\u30fc",
+                "musicId": 187,
+                "characterIds": [
+                    17,
+                    18,
+                    19,
+                    20,
+                    25
+                ]
+            },
+            {
+                "id": 176125,
+                "seq": 25,
+                "chapterId": 25,
+                "name": "MC\u2467",
+                "characterIds": [
+                    17,
+                    18,
+                    19,
+                    20,
+                    31,
+                    25
+                ]
+            },
+            {
+                "id": 176126,
+                "seq": 26,
+                "chapterId": 26,
+                "name": "\u8ee2\u63db\u6620\u50cf \u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0",
+                "characterIds": []
+            },
+            {
+                "id": 176127,
+                "seq": 27,
+                "chapterId": 27,
+                "name": "MC\u2468",
+                "characterIds": [
+                    13,
+                    14,
+                    15,
+                    16,
+                    23
+                ]
+            },
+            {
+                "id": 176128,
+                "seq": 28,
+                "chapterId": 28,
+                "name": "\u30ef\u30f3\u30b9\u30a2\u30dd\u30f3\u30a2\u30c9\u30ea\u30fc\u30e0",
+                "musicId": 105,
+                "characterIds": [
+                    13,
+                    14,
+                    15,
+                    16,
+                    23
+                ]
+            },
+            {
+                "id": 176129,
+                "seq": 29,
+                "chapterId": 29,
+                "name": "MC\u2469",
+                "characterIds": [
+                    13,
+                    14,
+                    15,
+                    16,
+                    23,
+                    26
+                ]
+            },
+            {
+                "id": 176130,
+                "seq": 30,
+                "chapterId": 30,
+                "name": "\u30c8\u30f3\u30c7\u30e2\u30ef\u30f3\u30c0\u30fc\u30ba",
+                "musicId": 127,
+                "characterIds": [
+                    13,
+                    14,
+                    15,
+                    16,
+                    26
+                ]
+            },
+            {
+                "id": 176131,
+                "seq": 31,
+                "chapterId": 31,
+                "name": "MC\u246a",
+                "characterIds": [
+                    13,
+                    14,
+                    15,
+                    16,
+                    23,
+                    26
+                ]
+            },
+            {
+                "id": 176132,
+                "seq": 32,
+                "chapterId": 32,
+                "name": "MC\u246b",
+                "characterIds": [
+                    1,
+                    5,
+                    9,
+                    13,
+                    17,
+                    21
+                ]
+            },
+            {
+                "id": 176133,
+                "seq": 33,
+                "chapterId": 33,
+                "name": "\u30bb\u30ab\u30a4",
+                "musicId": 76,
+                "characterIds": [
+                    1,
+                    13,
+                    17,
+                    21
+                ]
+            },
+            {
+                "id": 176134,
+                "seq": 34,
+                "chapterId": 34,
+                "name": "\u30ef\u30fc\u30ef\u30fc\u30ef\u30fc\u30eb\u30c9",
+                "musicId": 77,
+                "characterIds": [
+                    5,
+                    9,
+                    21
+                ]
+            },
+            {
+                "id": 176135,
+                "seq": 35,
+                "chapterId": 35,
+                "name": "MC\u246c",
+                "characterIds": [
+                    1,
+                    5,
+                    9,
+                    13,
+                    17,
+                    21
+                ]
+            },
+            {
+                "id": 176136,
+                "seq": 36,
+                "chapterId": 36,
+                "name": "\u30a2\u30f3\u30b3\u30fc\u30eb",
+                "characterIds": [
+                    21
+                ]
+            },
+            {
+                "id": 176137,
+                "seq": 37,
+                "chapterId": 37,
+                "name": "Blessing",
+                "musicId": 50,
+                "characterIds": [
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26
+                ]
+            },
+            {
+                "id": 176138,
+                "seq": 38,
+                "chapterId": 38,
+                "name": "MC\u246d",
+                "characterIds": [
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26
+                ]
+            },
+            {
+                "id": 176139,
+                "seq": 39,
+                "chapterId": 39,
+                "name": "MC\u246e",
+                "characterIds": [
+                    1,
+                    5,
+                    9,
+                    13,
+                    17,
+                    21
+                ]
+            },
+            {
+                "id": 176140,
+                "seq": 40,
+                "chapterId": 40,
+                "name": "Journey",
+                "musicId": 235,
+                "characterIds": [
+                    1,
+                    5,
+                    9,
+                    13,
+                    17,
+                    21
+                ]
+            },
+            {
+                "id": 176141,
+                "seq": 41,
+                "chapterId": 41,
+                "name": "MC\u246f",
+                "characterIds": [
+                    1,
+                    5,
+                    9,
+                    13,
+                    17,
+                    21
+                ]
+            },
+            {
+                "id": 176142,
+                "seq": 42,
+                "chapterId": 42,
+                "name": "\u7d42\u6f14\u5f8c\u30a2\u30ca\u30a6\u30f3\u30b9",
+                "characterIds": []
+            }
+        ],
+        "playTime": "2:18:22",
+        "assetbundleName": "2nd_live_anv-1"
+    },
+    {
+        "id": 2548,
+        "virtualLiveId": 176,
+        "virtualLivePart": 2,
+        "streamingLiveCategoryId": 1,
+        "streamingLiveSetlists": [
+            {
+                "id": 176201,
+                "seq": 1,
+                "chapterId": 1,
+                "name": "\u958b\u6f14\u524d\u30a2\u30ca\u30a6\u30f3\u30b9\u2460",
+                "characterIds": []
+            },
+            {
+                "id": 176202,
+                "seq": 2,
+                "chapterId": 2,
+                "name": "\u958b\u6f14\u524d\u30a2\u30ca\u30a6\u30f3\u30b9\u2461",
+                "characterIds": []
+            },
+            {
+                "id": 176203,
+                "seq": 3,
+                "chapterId": 3,
+                "name": "\u958b\u6f14\u524d\u30a2\u30ca\u30a6\u30f3\u30b9\u2462",
+                "characterIds": []
+            },
+            {
+                "id": 176204,
+                "seq": 4,
+                "chapterId": 4,
+                "name": "\u7fa4\u9752\u8b83\u6b4c",
+                "musicId": 141,
+                "characterIds": [
+                    1,
+                    5,
+                    9,
+                    13,
+                    17,
+                    21
+                ]
+            },
+            {
+                "id": 176205,
+                "seq": 5,
+                "chapterId": 5,
+                "name": "OVERTURE",
+                "characterIds": [
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26
+                ]
+            },
+            {
+                "id": 176206,
+                "seq": 6,
+                "chapterId": 6,
+                "name": "\u5343\u672c\u685c",
+                "musicId": 110,
+                "characterIds": [
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26
+                ]
+            },
+            {
+                "id": 176207,
+                "seq": 7,
+                "chapterId": 7,
+                "name": "MC\u2460",
+                "characterIds": [
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26
+                ]
+            },
+            {
+                "id": 176208,
+                "seq": 8,
+                "chapterId": 8,
+                "name": "\u8ee2\u63db\u6620\u50cf MORE MORE JUMP\uff01",
+                "characterIds": []
+            },
+            {
+                "id": 176209,
+                "seq": 9,
+                "chapterId": 9,
+                "name": "Color of Drops",
+                "musicId": 89,
+                "characterIds": [
+                    5,
+                    6,
+                    7,
+                    8,
+                    24
+                ]
+            },
+            {
+                "id": 176210,
+                "seq": 10,
+                "chapterId": 10,
+                "name": "MC\u2461",
+                "characterIds": [
+                    5,
+                    6,
+                    7,
+                    8,
+                    24,
+                    26
+                ]
+            },
+            {
+                "id": 176211,
+                "seq": 11,
+                "chapterId": 11,
+                "name": "\u30ef\u30fc\u30eb\u30c9\u30ef\u30a4\u30c9\u30ef\u30f3\u30c0\u30fc",
+                "musicId": 193,
+                "characterIds": [
+                    5,
+                    6,
+                    7,
+                    8,
+                    26
+                ]
+            },
+            {
+                "id": 176212,
+                "seq": 12,
+                "chapterId": 12,
+                "name": "MC\u2462",
+                "characterIds": [
+                    5,
+                    6,
+                    7,
+                    8,
+                    24,
+                    26
+                ]
+            },
+            {
+                "id": 176213,
+                "seq": 13,
+                "chapterId": 13,
+                "name": "\u8ee2\u63db\u6620\u50cf Leo\/need",
+                "characterIds": []
+            },
+            {
+                "id": 176214,
+                "seq": 14,
+                "chapterId": 14,
+                "name": "\u300c\uff11\u300d",
+                "musicId": 132,
+                "characterIds": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    24
+                ]
+            },
+            {
+                "id": 176215,
+                "seq": 15,
+                "chapterId": 15,
+                "name": "\u30b9\u30c6\u30e9",
+                "musicId": 64,
+                "characterIds": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    27
+                ]
+            },
+            {
+                "id": 176216,
+                "seq": 16,
+                "chapterId": 16,
+                "name": "MC\u2463",
+                "characterIds": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    27,
+                    24
+                ]
+            },
+            {
+                "id": 176217,
+                "seq": 17,
+                "chapterId": 17,
+                "name": "\u8ee2\u63db\u6620\u50cf Vivid BAD SQUAD",
+                "characterIds": []
+            },
+            {
+                "id": 176218,
+                "seq": 18,
+                "chapterId": 18,
+                "name": "\u6708\u5149",
+                "musicId": 239,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    25
+                ]
+            },
+            {
+                "id": 176219,
+                "seq": 19,
+                "chapterId": 19,
+                "name": "MC\u2464",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    22,
+                    25
+                ]
+            },
+            {
+                "id": 176220,
+                "seq": 20,
+                "chapterId": 20,
+                "name": "\u8857",
+                "musicId": 217,
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    22
+                ]
+            },
+            {
+                "id": 176221,
+                "seq": 21,
+                "chapterId": 21,
+                "name": "MC\u2465",
+                "characterIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    22,
+                    25
+                ]
+            },
+            {
+                "id": 176222,
+                "seq": 22,
+                "chapterId": 22,
+                "name": "\u8ee2\u63db\u6620\u50cf 25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002",
+                "characterIds": []
+            },
+            {
+                "id": 176223,
+                "seq": 23,
+                "chapterId": 23,
+                "name": "\u30b8\u30e3\u30c3\u30af\u30dd\u30c3\u30c8\u30b5\u30c3\u30c9\u30ac\u30fc\u30eb",
+                "musicId": 62,
+                "characterIds": [
+                    17,
+                    18,
+                    19,
+                    20,
+                    31
+                ]
+            },
+            {
+                "id": 176224,
+                "seq": 24,
+                "chapterId": 24,
+                "name": "MC\u2466",
+                "characterIds": [
+                    17,
+                    18,
+                    19,
+                    20,
+                    31,
+                    25
+                ]
+            },
+            {
+                "id": 176225,
+                "seq": 25,
+                "chapterId": 25,
+                "name": "\u30ed\u30a6\u30ef\u30fc",
+                "musicId": 187,
+                "characterIds": [
+                    17,
+                    18,
+                    19,
+                    20,
+                    25
+                ]
+            },
+            {
+                "id": 176226,
+                "seq": 26,
+                "chapterId": 26,
+                "name": "MC\u2467",
+                "characterIds": [
+                    17,
+                    18,
+                    19,
+                    20,
+                    31,
+                    25
+                ]
+            },
+            {
+                "id": 176227,
+                "seq": 27,
+                "chapterId": 27,
+                "name": "\u8ee2\u63db\u6620\u50cf \u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0",
+                "characterIds": []
+            },
+            {
+                "id": 176228,
+                "seq": 28,
+                "chapterId": 28,
+                "name": "MC\u2468",
+                "characterIds": [
+                    13,
+                    14,
+                    15,
+                    16,
+                    23
+                ]
+            },
+            {
+                "id": 176229,
+                "seq": 29,
+                "chapterId": 29,
+                "name": "\u30ef\u30f3\u30b9\u30a2\u30dd\u30f3\u30a2\u30c9\u30ea\u30fc\u30e0",
+                "musicId": 105,
+                "characterIds": [
+                    13,
+                    14,
+                    15,
+                    16,
+                    23
+                ]
+            },
+            {
+                "id": 176230,
+                "seq": 30,
+                "chapterId": 30,
+                "name": "MC\u2469",
+                "characterIds": [
+                    13,
+                    14,
+                    15,
+                    16,
+                    23,
+                    26
+                ]
+            },
+            {
+                "id": 176231,
+                "seq": 31,
+                "chapterId": 31,
+                "name": "\u30c8\u30f3\u30c7\u30e2\u30ef\u30f3\u30c0\u30fc\u30ba",
+                "musicId": 127,
+                "characterIds": [
+                    13,
+                    14,
+                    15,
+                    16,
+                    26
+                ]
+            },
+            {
+                "id": 176232,
+                "seq": 32,
+                "chapterId": 32,
+                "name": "MC\u246a",
+                "characterIds": [
+                    13,
+                    14,
+                    15,
+                    16,
+                    23,
+                    26
+                ]
+            },
+            {
+                "id": 176233,
+                "seq": 33,
+                "chapterId": 33,
+                "name": "MC\u246b",
+                "characterIds": [
+                    1,
+                    5,
+                    9,
+                    13,
+                    17,
+                    21
+                ]
+            },
+            {
+                "id": 176234,
+                "seq": 34,
+                "chapterId": 34,
+                "name": "\u30bb\u30ab\u30a4",
+                "musicId": 76,
+                "characterIds": [
+                    1,
+                    13,
+                    17,
+                    21
+                ]
+            },
+            {
+                "id": 176235,
+                "seq": 35,
+                "chapterId": 35,
+                "name": "\u30ef\u30fc\u30ef\u30fc\u30ef\u30fc\u30eb\u30c9",
+                "musicId": 77,
+                "characterIds": [
+                    5,
+                    9,
+                    21
+                ]
+            },
+            {
+                "id": 176236,
+                "seq": 36,
+                "chapterId": 36,
+                "name": "MC\u246c",
+                "characterIds": [
+                    1,
+                    5,
+                    9,
+                    13,
+                    17,
+                    21
+                ]
+            },
+            {
+                "id": 176237,
+                "seq": 37,
+                "chapterId": 37,
+                "name": "\u30a2\u30f3\u30b3\u30fc\u30eb",
+                "characterIds": [
+                    21
+                ]
+            },
+            {
+                "id": 176238,
+                "seq": 38,
+                "chapterId": 38,
+                "name": "Blessing",
+                "musicId": 50,
+                "characterIds": [
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26
+                ]
+            },
+            {
+                "id": 176239,
+                "seq": 39,
+                "chapterId": 39,
+                "name": "MC\u246d",
+                "characterIds": [
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26
+                ]
+            },
+            {
+                "id": 176240,
+                "seq": 40,
+                "chapterId": 40,
+                "name": "MC\u246e",
+                "characterIds": [
+                    1,
+                    5,
+                    9,
+                    13,
+                    17,
+                    21
+                ]
+            },
+            {
+                "id": 176241,
+                "seq": 41,
+                "chapterId": 41,
+                "name": "Journey",
+                "musicId": 235,
+                "characterIds": [
+                    1,
+                    5,
+                    9,
+                    13,
+                    17,
+                    21
+                ]
+            },
+            {
+                "id": 176242,
+                "seq": 42,
+                "chapterId": 42,
+                "name": "MC\u246f",
+                "characterIds": [
+                    1,
+                    5,
+                    9,
+                    13,
+                    17,
+                    21
+                ]
+            },
+            {
+                "id": 176243,
+                "seq": 43,
+                "chapterId": 43,
+                "name": "\u7d42\u6f14\u5f8c\u30a2\u30ca\u30a6\u30f3\u30b9",
+                "characterIds": []
+            }
+        ],
+        "playTime": "2:21:52",
+        "assetbundleName": "2nd_live_anv-2"
+    }
+]

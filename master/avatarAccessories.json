@@ -1,0 +1,660 @@
+[
+    {
+        "id": 1,
+        "seq": 10,
+        "name": "\u30d8\u30c3\u30c9\u30db\u30f3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0001"
+    },
+    {
+        "id": 2,
+        "seq": 20,
+        "name": "\u30cd\u30b3\u30df\u30df",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0002"
+    },
+    {
+        "id": 3,
+        "seq": 30,
+        "name": "\u30ea\u30dc\u30f3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0003"
+    },
+    {
+        "id": 4,
+        "seq": 40,
+        "name": "\u30ad\u30e3\u30c3\u30d7",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0004"
+    },
+    {
+        "id": 5,
+        "seq": 50,
+        "name": "\u30da\u30f3\u30e9\u30a4\u30c8\u30cf\u30c1\u30de\u30ad",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0005"
+    },
+    {
+        "id": 6,
+        "seq": 60,
+        "name": "\u30b5\u30f3\u30b0\u30e9\u30b9",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0006"
+    },
+    {
+        "id": 7,
+        "seq": 70,
+        "name": "\u5929\u4f7f\u306e\u8f2a",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0007"
+    },
+    {
+        "id": 8,
+        "seq": 80,
+        "name": "\u82b1\u51a0",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0008"
+    },
+    {
+        "id": 9,
+        "seq": 90,
+        "name": "\u30cd\u30ae",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0009"
+    },
+    {
+        "id": 10,
+        "seq": 100,
+        "name": "\u30a2\u30d5\u30ed",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0010"
+    },
+    {
+        "id": 11,
+        "seq": 110,
+        "name": "MEIKO\u306e\u30b3\u30fc\u30d2\u30fc",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0011"
+    },
+    {
+        "id": 13,
+        "seq": 130,
+        "name": "\u30d1\u30f3\u30d7\u30ad\u30f3\u30d8\u30c3\u30c9",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0013"
+    },
+    {
+        "id": 14,
+        "seq": 140,
+        "name": "\u30c8\u30ca\u30ab\u30a4\u30ab\u30c1\u30e5\u30fc\u30b7\u30e3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0014"
+    },
+    {
+        "id": 15,
+        "seq": 150,
+        "name": "\u93e1\u9905",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0015"
+    },
+    {
+        "id": 16,
+        "seq": 160,
+        "name": "\u738b\u51a0",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0016"
+    },
+    {
+        "id": 17,
+        "seq": 170,
+        "name": "\u30d0\u30eb\u30fc\u30f3\u2606\u30cf\u30c3\u30c8",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0017"
+    },
+    {
+        "id": 18,
+        "seq": 180,
+        "name": "\u5b66\u5e3d",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0018"
+    },
+    {
+        "id": 19,
+        "seq": 190,
+        "name": "\u611b\u5f69\u5f01\u5f53",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0019"
+    },
+    {
+        "id": 20,
+        "seq": 200,
+        "name": "\u30d5\u30a1\u30df\u30ea\u30fc\u30da\u30f3\u30ae\u30f3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0020"
+    },
+    {
+        "id": 21,
+        "seq": 210,
+        "name": "\u6642\u8a08\u3046\u3055\u304e\u306e\u30ab\u30c1\u30e5\u30fc\u30b7\u30e3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0021"
+    },
+    {
+        "id": 22,
+        "seq": 220,
+        "name": "\u4e03\u5915\u98fe\u308a",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0022"
+    },
+    {
+        "id": 23,
+        "seq": 230,
+        "name": "\u9ea6\u308f\u3089\u5e3d\u5b50",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0023"
+    },
+    {
+        "id": 24,
+        "seq": 240,
+        "name": "\u30b7\u30f3\u30ac\u30fc\u30fb\u30d3\u30fc\u30b9\u30c8",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0024"
+    },
+    {
+        "id": 25,
+        "seq": 250,
+        "name": "\u30b7\u30e5\u30ce\u30fc\u30b1\u30ea\u30f3\u30b0\u30fb\u30de\u30b9\u30af",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0025"
+    },
+    {
+        "id": 26,
+        "seq": 260,
+        "name": "\u30a2\u30a4\u30c9\u30eb\u4eee\u9762\u30de\u30b9\u30af",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0026"
+    },
+    {
+        "id": 28,
+        "seq": 280,
+        "name": "\u304a\u6708\u898b\u3046\u3055\u304e\u56e3\u5b50",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0028"
+    },
+    {
+        "id": 29,
+        "seq": 290,
+        "name": "\u6d41\u661f\u30d8\u30c3\u30c9\u30db\u30f3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0029"
+    },
+    {
+        "id": 30,
+        "seq": 300,
+        "name": "1st Anniversary\u5e3d\u5b50",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0030"
+    },
+    {
+        "id": 31,
+        "seq": 310,
+        "name": "\u6f14\u51fa\u5bb6\u306e\u5e3d\u5b50",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0031"
+    },
+    {
+        "id": 32,
+        "seq": 320,
+        "name": "\u30ed\u30f3\u30ea\u30fc\u30db\u30fc\u30f3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0032"
+    },
+    {
+        "id": 33,
+        "seq": 330,
+        "name": "\u300cCRASH\u300d\u30e9\u30a4\u30d6\u30ad\u30e3\u30c3\u30d7",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0033"
+    },
+    {
+        "id": 34,
+        "seq": 340,
+        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30c4\u30ea\u30fc\u30cf\u30c3\u30c8",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0034"
+    },
+    {
+        "id": 35,
+        "seq": 350,
+        "name": "\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30c6\u30f3\u30c8",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0035"
+    },
+    {
+        "id": 36,
+        "seq": 360,
+        "name": "2022\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc\u30e1\u30ac\u30cd",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0036"
+    },
+    {
+        "id": 37,
+        "seq": 370,
+        "name": "\u3042\u3063\u305f\u304b\u30b7\u30c1\u30e5\u30fc",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0037"
+    },
+    {
+        "id": 38,
+        "seq": 380,
+        "name": "\u30de\u30b8\u30d1\u30f3\u30df\u30af",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0038"
+    },
+    {
+        "id": 39,
+        "seq": 390,
+        "name": "\u30e9\u30a4\u30c0\u30fc\u30b4\u30fc\u30b0\u30eb",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0039"
+    },
+    {
+        "id": 40,
+        "seq": 400,
+        "name": "\u30de\u30ab\u30ed\u30f3\u30cf\u30c3\u30c8",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0040"
+    },
+    {
+        "id": 41,
+        "seq": 410,
+        "name": "\u77f3\u818f\u50cf\u30de\u30b9\u30af",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0041"
+    },
+    {
+        "id": 42,
+        "seq": 420,
+        "name": "\u685c\u306e\u30ab\u30c1\u30e5\u30fc\u30b7\u30e3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0042"
+    },
+    {
+        "id": 43,
+        "seq": 430,
+        "name": "\u30b9\u30bf\u30fc\u30b5\u30f3\u30b0\u30e9\u30b9",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0043"
+    },
+    {
+        "id": 44,
+        "seq": 440,
+        "name": "\u30d1\u30f3\u30b1\u30fc\u30ad",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0044"
+    },
+    {
+        "id": 45,
+        "seq": 450,
+        "name": "\u5357\u56fd\u30d5\u30eb\u30fc\u30c4\u76db\u308a\u5408\u308f\u305b",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0045"
+    },
+    {
+        "id": 46,
+        "seq": 460,
+        "name": "\u30d0\u30bf\u30d5\u30e9\u30a4\u30b9\u30c8\u30ed\u30fc\u30cf\u30c3\u30c8",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0046"
+    },
+    {
+        "id": 47,
+        "seq": 540,
+        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30b1\u30fc\u30ad",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0047"
+    },
+    {
+        "id": 48,
+        "seq": 470,
+        "name": "\u30b5\u30a4\u30d0\u30fc\u30ab\u30c1\u30e5\u30fc\u30b7\u30e3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0048"
+    },
+    {
+        "id": 49,
+        "seq": 480,
+        "name": "\u30ea\u30dc\u30f3\u30ad\u30e3\u30b9\u30b1\u30c3\u30c8",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0049"
+    },
+    {
+        "id": 50,
+        "seq": 490,
+        "name": "\u30de\u30a6\u30f3\u30c6\u30f3\u30cf\u30c3\u30c8",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0050"
+    },
+    {
+        "id": 51,
+        "seq": 510,
+        "name": "\u985e\u306e\u30b7\u30e7\u30fc\u30c9\u30ed\u30fc\u30f3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0051"
+    },
+    {
+        "id": 52,
+        "seq": 500,
+        "name": "\u300c2nd ANNIVERSARY SPECIAL STAGE\u300d\u30e9\u30a4\u30d6\u30ad\u30e3\u30c3\u30d7",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0052"
+    },
+    {
+        "id": 53,
+        "seq": 520,
+        "name": "\u30c0\u30fc\u30af\u30c7\u30b3\u30e9\u30fb\u30d9\u30a2",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0053"
+    },
+    {
+        "id": 54,
+        "seq": 530,
+        "name": "\u30cf\u30fc\u30c8\u306e\u7684",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0054"
+    },
+    {
+        "id": 55,
+        "seq": 550,
+        "name": "\u958b\u904b\u3060\u308b\u307e",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0055"
+    },
+    {
+        "id": 56,
+        "seq": 540,
+        "name": "\u65b0\u6625\u72db\u72ac",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0056"
+    },
+    {
+        "id": 57,
+        "seq": 560,
+        "name": "\u30c9\u30ea\u30fc\u30de\u30fc\u30cf\u30c3\u30c8",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0057"
+    },
+    {
+        "id": 58,
+        "seq": 570,
+        "name": "\u30e1\u30eb\u30c6\u30a3\u30c1\u30e7\u30b3\u30cf\u30c3\u30c8",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0058"
+    },
+    {
+        "id": 59,
+        "seq": 610,
+        "name": "\u30d9\u30ec\u30fc\u5e3d",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0059"
+    },
+    {
+        "id": 60,
+        "seq": 580,
+        "name": "\u30d1\u30fc\u30eb\u4f2f\u7235\u306e\u306c\u3044\u3050\u308b\u307f",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0060"
+    },
+    {
+        "id": 61,
+        "seq": 600,
+        "name": "\u30ad\u30e3\u30da\u30ea\u30f3\u30cf\u30c3\u30c8",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0061"
+    },
+    {
+        "id": 62,
+        "seq": 590,
+        "name": "\u300cJUMPIN\uff01\u300d\u30e9\u30a4\u30d6\u30ad\u30e3\u30c3\u30d7",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0062"
+    },
+    {
+        "id": 63,
+        "seq": 620,
+        "name": "\u300cSPARKLE\u300d\u30e9\u30a4\u30d6\u30ad\u30e3\u30c3\u30d7",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0063"
+    },
+    {
+        "id": 64,
+        "seq": 630,
+        "name": "\u81c6\u75c5\u306a\u30ab\u30ca\u30ea\u30a2",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0064"
+    },
+    {
+        "id": 65,
+        "seq": 640,
+        "name": "\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u30d9\u30eb",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0065"
+    },
+    {
+        "id": 66,
+        "seq": 670,
+        "name": "\u300cmoment\u300d\u30e9\u30a4\u30d6\u30ad\u30e3\u30c3\u30d7",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0066"
+    },
+    {
+        "id": 67,
+        "seq": 650,
+        "name": "\u304a\u624b\u88fd\u30b5\u30f3\u30c9\u30a4\u30c3\u30c1",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0067"
+    },
+    {
+        "id": 68,
+        "seq": 660,
+        "name": "\u30af\u30de\u306e\u306c\u3044\u3050\u308b\u307f",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0068"
+    },
+    {
+        "id": 69,
+        "seq": 680,
+        "name": "\u30b5\u30dc\u30c6\u30f3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0069"
+    },
+    {
+        "id": 70,
+        "seq": 690,
+        "name": "\u300cSTORIES\u300d\u30e9\u30a4\u30d6\u30ad\u30e3\u30c3\u30d7",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0070"
+    },
+    {
+        "id": 71,
+        "seq": 720,
+        "name": "\u54b2\u5e0c\u306e\u9752\u6625\u30a2\u30eb\u30d0\u30e0",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0071"
+    },
+    {
+        "id": 72,
+        "seq": 730,
+        "name": "\u76ee\u6307\u305b\u9032\u7d1a\u30cf\u30c1\u30de\u30ad&\u30e1\u30ac\u30cd",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0072"
+    },
+    {
+        "id": 73,
+        "seq": 750,
+        "name": "\u300c3rd ANNIVERSARY Memorial Stage\u300d\u30e9\u30a4\u30d6\u30ad\u30e3\u30c3\u30d7",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0073"
+    },
+    {
+        "id": 74,
+        "seq": 700,
+        "name": "\u30b9\u30de\u30db\u306e\u4e2d\u304b\u3089\uff01\uff1f",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0074"
+    },
+    {
+        "id": 75,
+        "seq": 710,
+        "name": "\u671d\u306f\u30d1\u30f3\u266a",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0075"
+    },
+    {
+        "id": 76,
+        "seq": 740,
+        "name": "\u30df\u30af\u306eCD",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0076"
+    },
+    {
+        "id": 77,
+        "seq": 760,
+        "name": "\u30b9\u30d4\u30fc\u30ab\u30fc\u30d8\u30c3\u30c9",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0077"
+    },
+    {
+        "id": 78,
+        "seq": 770,
+        "name": "\u30e9\u30fc\u30e1\u30f3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0078"
+    },
+    {
+        "id": 79,
+        "seq": 780,
+        "name": "\u98a8\u5442\u6876",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0079"
+    },
+    {
+        "id": 80,
+        "seq": 790,
+        "name": "\u30a4\u30eb\u30df\u30cd\u30fc\u30c8\u30da\u30ac\u30b5\u30b9",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0080"
+    },
+    {
+        "id": 81,
+        "seq": 850,
+        "name": "\u30cf\u30ed\u30fc\u30ad\u30c6\u30a3\u30ab\u30c1\u30e5\u30fc\u30b7\u30e3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0081"
+    },
+    {
+        "id": 82,
+        "seq": 840,
+        "name": "\u30dd\u30e0\u30dd\u30e0\u30d7\u30ea\u30f3\u30ab\u30c1\u30e5\u30fc\u30b7\u30e3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0082"
+    },
+    {
+        "id": 83,
+        "seq": 830,
+        "name": "\u30de\u30a4\u30e1\u30ed\u30c7\u30a3\u30ab\u30c1\u30e5\u30fc\u30b7\u30e3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0083"
+    },
+    {
+        "id": 84,
+        "seq": 820,
+        "name": "\u30dd\u30c1\u30e3\u30c3\u30b3\u30ab\u30c1\u30e5\u30fc\u30b7\u30e3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0084"
+    },
+    {
+        "id": 85,
+        "seq": 810,
+        "name": "\u30b7\u30ca\u30e2\u30ed\u30fc\u30eb\u30ab\u30c1\u30e5\u30fc\u30b7\u30e3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0085"
+    },
+    {
+        "id": 86,
+        "seq": 800,
+        "name": "\u30af\u30ed\u30df\u30ab\u30c1\u30e5\u30fc\u30b7\u30e3",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0086"
+    },
+    {
+        "id": 87,
+        "seq": 860,
+        "name": "\u30aa\u30eb\u30b4\u30fc\u30eb",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0087"
+    },
+    {
+        "id": 88,
+        "seq": 870,
+        "name": "\u304a\u305b\u3061\u306e\u91cd\u7bb1",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0088"
+    },
+    {
+        "id": 89,
+        "seq": 880,
+        "name": "\u30dc\u30ea\u30e5\u30fc\u30e0\u6e80\u70b9\u713c\u8089\u5f01\u5f53",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0089"
+    },
+    {
+        "id": 90,
+        "seq": 890,
+        "name": "\u3053\u306f\u306d\u306e\u30ab\u30e1\u30e9",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0090"
+    },
+    {
+        "id": 91,
+        "seq": 900,
+        "name": "\u30c9\u30ea\u30fc\u30e0\u30cf\u30a6\u30b9",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0091"
+    },
+    {
+        "id": 92,
+        "seq": 910,
+        "name": "\u7d05\u8336\u30bb\u30c3\u30c8",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0092"
+    },
+    {
+        "id": 93,
+        "seq": 920,
+        "name": "\u30b0\u30e9\u30f3\u30c9\u30d4\u30a2\u30ce",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0093"
+    },
+    {
+        "id": 94,
+        "seq": 940,
+        "name": "\u3082\u3075\u3082\u3075\u30a4\u30cc\u30df\u30df",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0094"
+    },
+    {
+        "id": 95,
+        "seq": 950,
+        "name": "\u30b4\u30b7\u30c3\u30af\u30cf\u30c3\u30c8",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0095"
+    },
+    {
+        "id": 96,
+        "seq": 960,
+        "name": "\u71b1\u8840\u30de\u30b9\u30af",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0096"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30bb\u30ab\u30a4 3rd Anniversary \u611f\u8b1d\u796d",
+        "displayStartAt": 1687273200000,
+        "entryEvaluationStartAt": 1687273200000,
+        "entryStartAt": 1687914000000,
+        "entryEndAt": 1688309999000,
+        "conditionContinuousBuyHighTierCount": 4,
+        "url": "https:\/\/w.pia.jp\/s\/pjsekai23app\/"
+    },
+    {
+        "id": 2,
+        "name": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30bb\u30ab\u30a4 COLORFUL LIVE 3rd - Evolve -",
+        "displayStartAt": 1696518000000,
+        "entryEvaluationStartAt": 1696518000000,
+        "entryStartAt": 1697198400000,
+        "entryEndAt": 1697554799000,
+        "conditionContinuousBuyHighTierCount": 6,
+        "url": "https:\/\/pia.jp\/v\/pjsekai24app\/"
+    },
+    {
+        "id": 3,
+        "name": "\u30bb\u30ab\u30a4\u30b7\u30f3\u30d5\u30a9\u30cb\u30fc2024",
+        "displayStartAt": 1704121200000,
+        "entryEvaluationStartAt": 1704121200000,
+        "entryStartAt": 1704769200000,
+        "entryEndAt": 1705330799000,
+        "conditionContinuousBuyHighTierCount": 6,
+        "url": "https:\/\/pia.jp\/v\/sekaisymphony24app\/"
+    }
+]

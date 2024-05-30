@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "virtualLiveId": 112,
+        "virtualLiveTicketType": "paid",
+        "name": "\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 \u30ea\u30cf\u30fc\u30b5\u30eb\u516c\u6f14\u30e9\u30a4\u30d6\u30c1\u30b1\u30c3\u30c8",
+        "flavorText": "\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6\u306e\u30ea\u30cf\u30fc\u30b5\u30eb\u516c\u6f14\u306b\u5165\u5834\u3059\u308b\u305f\u3081\u306b\u5fc5\u8981\u306a\u30a2\u30a4\u30c6\u30e0\u3002",
+        "assetbundleName": "rtvl_ticket_0001"
+    },
+    {
+        "id": 2,
+        "virtualLiveId": 142,
+        "virtualLiveTicketType": "paid",
+        "name": "\u7b2c2\u56de\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6\u30ea\u30cf\u30fc\u30b5\u30eb\u516c\u6f14\u30c1\u30b1\u30c3\u30c8",
+        "flavorText": "\u7b2c2\u56de\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6\u306e\u30ea\u30cf\u30fc\u30b5\u30eb\u516c\u6f14\u306b\u5165\u5834\u3059\u308b\u305f\u3081\u306b\u5fc5\u8981\u306a\u30a2\u30a4\u30c6\u30e0\u3002",
+        "assetbundleName": "rtvl_ticket_0001"
+    },
+    {
+        "id": 3,
+        "virtualLiveId": 154,
+        "virtualLiveTicketType": "paid",
+        "name": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 Vivid BAD SQUAD 1st CRASH\u300d\u516c\u6f14\u30c1\u30b1\u30c3\u30c8",
+        "flavorText": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 Vivid BAD SQUAD 1st CRASH\u300d\u306b\u5165\u5834\u3059\u308b\u305f\u3081\u306b\u5fc5\u8981\u306a\u30a2\u30a4\u30c6\u30e0\u3002",
+        "assetbundleName": "rtvl_ticket_1st_vbs"
+    },
+    {
+        "id": 4,
+        "virtualLiveId": 170,
+        "virtualLiveTicketType": "paid",
+        "name": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 \u30c6\u30af\u30cb\u30ab\u30eb\u30c6\u30b9\u30c8\u300d\u30c1\u30b1\u30c3\u30c8",
+        "flavorText": "\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 \u30c6\u30af\u30cb\u30ab\u30eb\u30c6\u30b9\u30c8\u3078\u306e\u5165\u5834\u306b\u4f7f\u7528\u3067\u304d\u308b\u30a2\u30a4\u30c6\u30e0\u3002",
+        "assetbundleName": "rtvl_ticket_0001"
+    },
+    {
+        "id": 5,
+        "virtualLiveId": 176,
+        "virtualLiveTicketType": "paid",
+        "name": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 2nd ANNIVERSARY SPECIAL STAGE\u300d\u516c\u6f14\u30c1\u30b1\u30c3\u30c8",
+        "flavorText": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 2nd ANNIVERSARY SPECIAL STAGE\u300d\u306b\u5165\u5834\u3059\u308b\u305f\u3081\u306b\u5fc5\u8981\u306a\u30a2\u30a4\u30c6\u30e0\u3002",
+        "assetbundleName": "rtvl_ticket_2ndanniversary"
+    },
+    {
+        "id": 6,
+        "virtualLiveId": 177,
+        "virtualLiveTicketType": "paid",
+        "name": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 \u30c6\u30af\u30cb\u30ab\u30eb\u30c6\u30b9\u30c8\u300d\u30c1\u30b1\u30c3\u30c8",
+        "flavorText": "\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 \u30c6\u30af\u30cb\u30ab\u30eb\u30c6\u30b9\u30c8\u3078\u306e\u5165\u5834\u306b\u4f7f\u7528\u3067\u304d\u308b\u30a2\u30a4\u30c6\u30e0\u3002",
+        "assetbundleName": "rtvl_ticket_4th_live_beta"
+    },
+    {
+        "id": 7,
+        "virtualLiveId": 207,
+        "virtualLiveTicketType": "paid",
+        "name": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 \u30c6\u30af\u30cb\u30ab\u30eb\u30c6\u30b9\u30c8\u300d\u30c1\u30b1\u30c3\u30c8",
+        "flavorText": "\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 \u30c6\u30af\u30cb\u30ab\u30eb\u30c6\u30b9\u30c8\u3078\u306e\u5165\u5834\u306b\u4f7f\u7528\u3067\u304d\u308b\u30a2\u30a4\u30c6\u30e0\u3002",
+        "assetbundleName": "rtvl_ticket_5th_live_beta"
+    },
+    {
+        "id": 8,
+        "virtualLiveId": 220,
+        "virtualLiveTicketType": "paid",
+        "name": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 MORE MORE JUMP\uff01 1st JUMPIN\uff01\u300d\u516c\u6f14\u30c1\u30b1\u30c3\u30c8",
+        "flavorText": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 MORE MORE JUMP\uff01 1st JUMPIN\uff01\u300d\u306b\u5165\u5834\u3059\u308b\u305f\u3081\u306b\u5fc5\u8981\u306a\u30a2\u30a4\u30c6\u30e0\u3002",
+        "assetbundleName": "rtvl_ticket_1st_mmj"
+    },
+    {
+        "id": 9,
+        "virtualLiveId": 230,
+        "virtualLiveTicketType": "paid",
+        "name": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 Leo\/need 1st SPARKLE\u300d\u516c\u6f14\u30c1\u30b1\u30c3\u30c8",
+        "flavorText": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 Leo\/need 1st SPARKLE\u300d\u306b\u5165\u5834\u3059\u308b\u305f\u3081\u306b\u5fc5\u8981\u306a\u30a2\u30a4\u30c6\u30e0\u3002",
+        "assetbundleName": "rtvl_ticket_1st_lon"
+    },
+    {
+        "id": 10,
+        "virtualLiveId": 238,
+        "virtualLiveTicketType": "paid",
+        "name": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002 1st moment\u300d\u516c\u6f14\u30c1\u30b1\u30c3\u30c8",
+        "flavorText": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002 1st moment\u300d\u306b\u5165\u5834\u3059\u308b\u305f\u3081\u306b\u5fc5\u8981\u306a\u30a2\u30a4\u30c6\u30e0\u3002",
+        "assetbundleName": "rtvl_ticket_1st_nig"
+    },
+    {
+        "id": 11,
+        "virtualLiveId": 244,
+        "virtualLiveTicketType": "paid",
+        "name": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 \u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0 1st STORIES\u300d\u516c\u6f14\u30c1\u30b1\u30c3\u30c8",
+        "flavorText": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 \u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0 1stSTORIES\u300d\u306b\u5165\u5834\u3059\u308b\u305f\u3081\u306b\u5fc5\u8981\u306a\u30a2\u30a4\u30c6\u30e0\u3002",
+        "assetbundleName": "rtvl_ticket_1st_wnd"
+    },
+    {
+        "id": 12,
+        "virtualLiveId": 256,
+        "virtualLiveTicketType": "paid",
+        "name": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 3rd ANNIVERSARY Memorial Stage\u300d\u516c\u6f14\u30c1\u30b1\u30c3\u30c8",
+        "flavorText": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 3rd ANNIVERSARY Memorial Stage\u300d\u306b\u5165\u5834\u3059\u308b\u305f\u3081\u306b\u5fc5\u8981\u306a\u30a2\u30a4\u30c6\u30e0\u3002",
+        "assetbundleName": "rtvl_ticket_3rdanniversary"
+    },
+    {
+        "id": 15,
+        "virtualLiveId": 310,
+        "virtualLiveTicketType": "paid",
+        "name": "\u300c\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 \u30c6\u30af\u30cb\u30ab\u30eb\u30c6\u30b9\u30c8\u300d\u30c1\u30b1\u30c3\u30c8",
+        "flavorText": "\u30b3\u30cd\u30af\u30c8\u30e9\u30a4\u30d6 \u30c6\u30af\u30cb\u30ab\u30eb\u30c6\u30b9\u30c8\u3078\u306e\u5165\u5834\u306b\u4f7f\u7528\u3067\u304d\u308b\u30a2\u30a4\u30c6\u30e0\u3002",
+        "assetbundleName": "rtvl_ticket_6th_live_beta"
+    }
+]

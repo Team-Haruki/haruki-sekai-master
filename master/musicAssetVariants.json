@@ -1,0 +1,184 @@
+[
+    {
+        "id": 1,
+        "musicVocalId": 21,
+        "seq": 1,
+        "musicAssetType": "jacket",
+        "assetbundleName": "jacket_s_019_vs_01"
+    },
+    {
+        "id": 2,
+        "musicVocalId": 435,
+        "seq": 1,
+        "musicAssetType": "jacket",
+        "assetbundleName": "jacket_s_189_vs_01"
+    },
+    {
+        "id": 3,
+        "musicVocalId": 565,
+        "seq": 1,
+        "musicAssetType": "jacket",
+        "assetbundleName": "jacket_s_189_an_02"
+    },
+    {
+        "id": 4,
+        "musicVocalId": 518,
+        "seq": 1,
+        "musicAssetType": "jacket",
+        "assetbundleName": "jacket_s_210_vs_01"
+    },
+    {
+        "id": 5,
+        "musicVocalId": 858,
+        "seq": 1,
+        "musicAssetType": "jacket",
+        "assetbundleName": "jacket_s_352_org"
+    },
+    {
+        "id": 1001,
+        "musicVocalId": 11,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "0010"
+    },
+    {
+        "id": 1002,
+        "musicVocalId": 12,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "0010"
+    },
+    {
+        "id": 1003,
+        "musicVocalId": 87,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "8003"
+    },
+    {
+        "id": 1004,
+        "musicVocalId": 88,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "0010"
+    },
+    {
+        "id": 1005,
+        "musicVocalId": 89,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "0010"
+    },
+    {
+        "id": 4101,
+        "musicVocalId": 37,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "0041"
+    },
+    {
+        "id": 4102,
+        "musicVocalId": 38,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "0041"
+    },
+    {
+        "id": 4103,
+        "musicVocalId": 94,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "0041"
+    },
+    {
+        "id": 4104,
+        "musicVocalId": 95,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "0041"
+    },
+    {
+        "id": 4105,
+        "musicVocalId": 112,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "8001"
+    },
+    {
+        "id": 6901,
+        "musicVocalId": 62,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "0069"
+    },
+    {
+        "id": 6902,
+        "musicVocalId": 75,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "0069"
+    },
+    {
+        "id": 6903,
+        "musicVocalId": 105,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "0069"
+    },
+    {
+        "id": 6904,
+        "musicVocalId": 106,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "0069"
+    },
+    {
+        "id": 6905,
+        "musicVocalId": 110,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "8004"
+    },
+    {
+        "id": 9801,
+        "musicVocalId": 146,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "8002"
+    },
+    {
+        "id": 9802,
+        "musicVocalId": 399,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "0098"
+    },
+    {
+        "id": 9803,
+        "musicVocalId": 400,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "8002"
+    },
+    {
+        "id": 9804,
+        "musicVocalId": 401,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "8002"
+    },
+    {
+        "id": 9805,
+        "musicVocalId": 402,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "8002"
+    },
+    {
+        "id": 9806,
+        "musicVocalId": 566,
+        "seq": 1,
+        "musicAssetType": "mv",
+        "assetbundleName": "8002"
+    }
+]
