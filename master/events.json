@@ -2,7 +2,7 @@
     {
         "id": 1,
         "eventType": "marathon",
-        "name": "\u96e8\u4e0a\u304c\u308a\u306e\u4e00\u756a\u661f",
+        "name": "雨上がりの一番星",
         "assetbundleName": "event_stella_2020",
         "bgmAssetbundleName": "event\/event_stella_2020\/bgm\/event_stella_2020_top",
         "eventOnlyComponentDisplayStartAt": 1602223200000,
@@ -413,7 +413,7 @@
     {
         "id": 2,
         "eventType": "marathon",
-        "name": "\u56da\u308f\u308c\u306e\u30de\u30ea\u30aa\u30cd\u30c3\u30c8",
+        "name": "囚われのマリオネット",
         "assetbundleName": "event_jackpod_2020",
         "bgmAssetbundleName": "event\/event_jackpod_2020\/bgm\/event_jackpod_2020_top",
         "eventOnlyComponentDisplayStartAt": 1603173600000,
@@ -824,7 +824,7 @@
     {
         "id": 3,
         "eventType": "marathon",
-        "name": "\u5168\u529b\uff01\u30ef\u30f3\u30c0\u30fc\u30cf\u30ed\u30a6\u30a3\u30f3\uff01",
+        "name": "全力！ワンダーハロウィン！",
         "assetbundleName": "event_potato_2020",
         "bgmAssetbundleName": "event\/event_potato_2020\/bgm\/event_potato_2020_top",
         "eventOnlyComponentDisplayStartAt": 1604124000000,
@@ -1235,7 +1235,7 @@
     {
         "id": 4,
         "eventType": "marathon",
-        "name": "\u8d70\u308c\uff01\u4f53\u80b2\u796d\uff01\uff5e\u5b9f\u884c\u59d4\u54e1\u306f\u5927\u5fd9\u3057\uff5e",
+        "name": "走れ！体育祭！～実行委員は大忙し～",
         "assetbundleName": "event_sportsfestival_2020",
         "bgmAssetbundleName": "event\/event_sportsfestival_2020\/bgm\/event_sportsfestival_2020_top",
         "eventOnlyComponentDisplayStartAt": 1604901600000,
@@ -1645,7 +1645,7 @@
     {
         "id": 5,
         "eventType": "marathon",
-        "name": "\u3053\u3053\u304b\u3089RE:START\uff01",
+        "name": "ここからRE:START！",
         "assetbundleName": "event_restart_2020",
         "bgmAssetbundleName": "event\/event_restart_2020\/bgm\/event_restart_2020_top",
         "eventOnlyComponentDisplayStartAt": 1605765600000,
@@ -2056,7 +2056,7 @@
     {
         "id": 6,
         "eventType": "marathon",
-        "name": "\u3044\u3064\u304b\u3001\u80cc\u4e2d\u3042\u308f\u305b\u306e\u30ea\u30ea\u30c3\u30af\u3092",
+        "name": "いつか、背中あわせのリリックを",
         "assetbundleName": "event_forward_2020",
         "bgmAssetbundleName": "event\/event_forward_2020\/bgm\/event_forward_2020_top",
         "eventOnlyComponentDisplayStartAt": 1606716000000,
@@ -2467,7 +2467,7 @@
     {
         "id": 7,
         "eventType": "marathon",
-        "name": "KAMIKOU FESTIVAL\uff01",
+        "name": "KAMIKOU FESTIVAL！",
         "assetbundleName": "event_culturalfestival_2020",
         "bgmAssetbundleName": "event\/event_culturalfestival_2020\/bgm\/event_culturalfestival_2020_top",
         "eventOnlyComponentDisplayStartAt": 1607580000000,
@@ -2877,7 +2877,7 @@
     {
         "id": 8,
         "eventType": "marathon",
-        "name": "\u8056\u306a\u308b\u591c\u306b\u3001\u3053\u306e\u6b4c\u58f0\u3092",
+        "name": "聖なる夜に、この歌声を",
         "assetbundleName": "event_nijiiro_2020",
         "bgmAssetbundleName": "event\/event_nijiiro_2020\/bgm\/event_nijiiro_2020_top",
         "eventOnlyComponentDisplayStartAt": 1608444000000,
@@ -3288,7 +3288,7 @@
     {
         "id": 9,
         "eventType": "marathon",
-        "name": "\u30bb\u30ab\u30a4\u306e\u30cf\u30c3\u30d4\u30fc\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc\uff01",
+        "name": "セカイのハッピーニューイヤー！",
         "assetbundleName": "event_newyear_2020",
         "bgmAssetbundleName": "event\/event_newyear_2020\/bgm\/event_newyear_2020_top",
         "eventOnlyComponentDisplayStartAt": 1609394400000,
@@ -3698,7 +3698,7 @@
     {
         "id": 10,
         "eventType": "marathon",
-        "name": "\u63fa\u308c\u308b\u307e\u307e\u3001\u3067\u3082\u541b\u306f\u524d\u3078",
+        "name": "揺れるまま、でも君は前へ",
         "assetbundleName": "event_hareomatsu_2021",
         "bgmAssetbundleName": "event\/event_hareomatsu_2021\/bgm\/event_hareomatsu_2021_top",
         "eventOnlyComponentDisplayStartAt": 1610258400000,
@@ -4109,7 +4109,7 @@
     {
         "id": 11,
         "eventType": "marathon",
-        "name": "Color of Myself\uff01",
+        "name": "Color of Myself！",
         "assetbundleName": "event_color_2021",
         "bgmAssetbundleName": "event\/event_color_2021\/bgm\/event_color_2021_top",
         "eventOnlyComponentDisplayStartAt": 1611208800000,
@@ -4931,7 +4931,7 @@
     {
         "id": 13,
         "eventType": "marathon",
-        "name": "\u97ff\u304f\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30d1\u30ec\u30fc\u30c9",
+        "name": "響くトワイライトパレード",
         "assetbundleName": "event_parade_2021",
         "bgmAssetbundleName": "event\/event_parade_2021\/bgm\/event_parade_2021_top",
         "eventOnlyComponentDisplayStartAt": 1612850400000,
@@ -5341,7 +5341,7 @@
     {
         "id": 14,
         "eventType": "marathon",
-        "name": "\u6e80\u305f\u3055\u308c\u306a\u3044\u30da\u30a4\u30eb\u30ab\u30e9\u30fc",
+        "name": "満たされないペイルカラー",
         "assetbundleName": "event_infinitelygray_2021",
         "bgmAssetbundleName": "event\/event_infinitelygray_2021\/bgm\/event_infinitelygray_2021_top",
         "eventOnlyComponentDisplayStartAt": 1613628000000,
@@ -5752,7 +5752,7 @@
     {
         "id": 15,
         "eventType": "marathon",
-        "name": "\u30b9\u30de\u30a4\u30eb\u30aa\u30d6\u30c9\u30ea\u30fc\u30de\u30fc",
+        "name": "スマイルオブドリーマー",
         "assetbundleName": "event_dream_2021",
         "bgmAssetbundleName": "event\/event_dream_2021\/bgm\/event_dream_2021_top",
         "eventOnlyComponentDisplayStartAt": 1614492000000,
@@ -6163,7 +6163,7 @@
     {
         "id": 16,
         "eventType": "marathon",
-        "name": "\u5929\u99ac\u3055\u3093\u3061\u306e\u3072\u306a\u796d\u308a",
+        "name": "天馬さんちのひな祭り",
         "assetbundleName": "event_hinamatsuri_2021",
         "bgmAssetbundleName": "event\/event_hinamatsuri_2021\/bgm\/event_hinamatsuri_2021_top",
         "eventOnlyComponentDisplayStartAt": 1615356000000,
@@ -6574,7 +6574,7 @@
     {
         "id": 17,
         "eventType": "marathon",
-        "name": "\u5c4a\u3051\uff01HOPEFUL STAGE\u266a",
+        "name": "届け！HOPEFUL STAGE♪",
         "assetbundleName": "event_angelclover_2021",
         "bgmAssetbundleName": "event\/event_angelclover_2021\/bgm\/event_angelclover_2021_top",
         "eventOnlyComponentDisplayStartAt": 1616392800000,
@@ -6985,7 +6985,7 @@
     {
         "id": 18,
         "eventType": "cheerful_carnival",
-        "name": "\u541b\u3068\u6b4c\u3046\u3001\u685c\u821e\u3046\u4e16\u754c\u3067",
+        "name": "君と歌う、桜舞う世界で",
         "assetbundleName": "event_ohanami_2021",
         "bgmAssetbundleName": "event\/event_ohanami_2021\/bgm\/event_ohanami_2021_top",
         "eventOnlyComponentDisplayStartAt": 1617256800000,
@@ -7396,7 +7396,7 @@
     {
         "id": 19,
         "eventType": "marathon",
-        "name": "\u30b7\u30fc\u30af\u30ec\u30c3\u30c8\u30fb\u30c7\u30a3\u30b9\u30bf\u30f3\u30b9",
+        "name": "シークレット・ディスタンス",
         "assetbundleName": "event_secret_2021",
         "bgmAssetbundleName": "event\/event_secret_2021\/bgm\/event_secret_2021_top",
         "eventOnlyComponentDisplayStartAt": 1618120800000,
@@ -8629,7 +8629,7 @@
     {
         "id": 22,
         "eventType": "marathon",
-        "name": "\u304a\u60a9\u307f\u805e\u304b\u305b\u3066\uff01\u308f\u304f\u308f\u304f\u30d4\u30af\u30cb\u30c3\u30af",
+        "name": "お悩み聞かせて！わくわくピクニック",
         "assetbundleName": "event_picnic_2021",
         "bgmAssetbundleName": "event\/event_picnic_2021\/bgm\/event_picnic_2021_top",
         "eventOnlyComponentDisplayStartAt": 1620626400000,
@@ -9040,7 +9040,7 @@
     {
         "id": 23,
         "eventType": "marathon",
-        "name": "\u9811\u5f35\u308b\u3042\u306a\u305f\u306bBreak Time\uff01",
+        "name": "頑張るあなたにBreak Time！",
         "assetbundleName": "event_breaktime_2021",
         "bgmAssetbundleName": "event\/event_breaktime_2021\/bgm\/event_breaktime_2021_top",
         "eventOnlyComponentDisplayStartAt": 1621576800000,
@@ -9451,7 +9451,7 @@
     {
         "id": 24,
         "eventType": "cheerful_carnival",
-        "name": "\u7d14\u767d\u306e\u8cb4\u65b9\u3078\u3001\u8a93\u3044\u306e\u6b4c\u3092\uff01",
+        "name": "純白の貴方へ、誓いの歌を！",
         "assetbundleName": "event_bridal_2021",
         "bgmAssetbundleName": "event\/event_bridal_2021\/bgm\/event_bridal_2021_top",
         "eventOnlyComponentDisplayStartAt": 1622440800000,
@@ -9862,7 +9862,7 @@
     {
         "id": 25,
         "eventType": "marathon",
-        "name": "\u30ef\u30f3\u30c0\u30fc\u30de\u30b8\u30ab\u30eb\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0\uff01",
+        "name": "ワンダーマジカルショウタイム！",
         "assetbundleName": "event_wonders_2021",
         "bgmAssetbundleName": "event\/event_wonders_2021\/bgm\/event_wonders_2021_top",
         "eventOnlyComponentDisplayStartAt": 1623391200000,
@@ -10273,7 +10273,7 @@
     {
         "id": 26,
         "eventType": "marathon",
-        "name": "\u30ab\u30fc\u30cd\u30fc\u30b7\u30e7\u30f3\u30fb\u30ea\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "name": "カーネーション・リコレクション",
         "assetbundleName": "event_carnation_2021",
         "bgmAssetbundleName": "event\/event_carnation_2021\/bgm\/event_carnation_2021_top",
         "eventPointAssetbundleName": "icon_point",
@@ -11509,7 +11509,7 @@
     {
         "id": 29,
         "eventType": "marathon",
-        "name": "\u590f\u796d\u308a\u3001\u9cf4\u308a\u97ff\u304f\u97f3\u306f",
+        "name": "夏祭り、鳴り響く音は",
         "assetbundleName": "event_natsumatsuri_2021",
         "bgmAssetbundleName": "event\/event_natsumatsuri_2021\/bgm\/event_natsumatsuri_2021_top",
         "eventPointAssetbundleName": "icon_point",
@@ -11921,7 +11921,7 @@
     {
         "id": 30,
         "eventType": "cheerful_carnival",
-        "name": "\u304d\u3063\u3068\u6700\u9ad8\u306esummer\uff01",
+        "name": "きっと最高のsummer！",
         "assetbundleName": "event_summer_2021",
         "bgmAssetbundleName": "event\/event_summer_2021\/bgm\/event_summer_2021_top",
         "eventPointAssetbundleName": "icon_point",
@@ -12333,7 +12333,7 @@
     {
         "id": 31,
         "eventType": "marathon",
-        "name": "\u30cf\u30c3\u30d4\u30fc\u30fb\u30e9\u30d6\u30ea\u30fc\u30fb\u30a8\u30d6\u30ea\u30c7\u30a4\uff01",
+        "name": "ハッピー・ラブリー・エブリデイ！",
         "assetbundleName": "event_everyday_2021",
         "bgmAssetbundleName": "event\/event_everyday_2021\/bgm\/event_everyday_2021_top",
         "eventPointAssetbundleName": "icon_point",
@@ -12745,7 +12745,7 @@
     {
         "id": 32,
         "eventType": "marathon",
-        "name": "\u30de\u30fc\u30e1\u30a4\u30c9\u306b\u3042\u3053\u304c\u308c\u3066",
+        "name": "マーメイドにあこがれて",
         "assetbundleName": "event_mermaid_2021",
         "bgmAssetbundleName": "event\/event_mermaid_2021\/bgm\/event_mermaid_2021_top",
         "eventPointAssetbundleName": "icon_point",
@@ -13157,7 +13157,7 @@
     {
         "id": 33,
         "eventType": "cheerful_carnival",
-        "name": "\u3075\u305f\u308a\u3001\u6708\u3046\u3055\u304e",
+        "name": "ふたり、月うさぎ",
         "assetbundleName": "event_moonrabbit_2021",
         "bgmAssetbundleName": "event\/event_moonrabbit_2021\/bgm\/event_moonrabbit_2021_top",
         "eventPointAssetbundleName": "icon_point",
@@ -13981,7 +13981,7 @@
     {
         "id": 35,
         "eventType": "marathon",
-        "name": "\u706f\u306e\u30df\u30e9\u30fc\u30b8\u30e5",
+        "name": "灯のミラージュ",
         "assetbundleName": "event_mirage_2021",
         "bgmAssetbundleName": "event\/event_mirage_2021\/bgm\/event_mirage_2021_top",
         "eventPointAssetbundleName": "icon_point",
@@ -14393,7 +14393,7 @@
     {
         "id": 36,
         "eventType": "cheerful_carnival",
-        "name": "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb\u30fb\u30d5\u30a1\u30f3\u30d5\u30a7\u30b9\u30bf\uff01",
+        "name": "スクランブル・ファンフェスタ！",
         "assetbundleName": "event_scramble_2021",
         "bgmAssetbundleName": "event\/event_scramble_2021\/bgm\/event_scramble_2021_top",
         "eventPointAssetbundleName": "icon_point",
@@ -15629,7 +15629,7 @@
     {
         "id": 39,
         "eventType": "cheerful_carnival",
-        "name": "\u30dc\u30af\u306e\u3042\u3057\u3042\u3068 \u30ad\u30df\u306e\u3086\u304f\u3055\u304d",
+        "name": "ボクのあしあと キミのゆくさき",
         "assetbundleName": "event_ashiato_2021",
         "bgmAssetbundleName": "event\/event_ashiato_2021\/bgm\/event_ashiato_2021_top",
         "eventPointAssetbundleName": "icon_point",
@@ -16041,7 +16041,7 @@
     {
         "id": 40,
         "eventType": "marathon",
-        "name": "\u63fa\u308b\u304c\u306c\u60f3\u3044\u3001\u4eca\u8a00\u8449\u306b\u3057\u3066",
+        "name": "揺るがぬ想い、今言葉にして",
         "assetbundleName": "event_stage_2021",
         "bgmAssetbundleName": "event\/event_stage_2021\/bgm\/event_stage_2021_top",
         "eventPointAssetbundleName": "icon_point",
@@ -16453,7 +16453,7 @@
     {
         "id": 41,
         "eventType": "marathon",
-        "name": "\u30d0\u30c7\u30a3\u30fb\u30d5\u30a1\u30cb\u30fc\u30fb\u30b9\u30da\u30f3\u30c9\u30bf\u30a4\u30e0\u266a",
+        "name": "バディ・ファニー・スペンドタイム♪",
         "assetbundleName": "event_buddy_2021",
         "bgmAssetbundleName": "event\/event_buddy_2021\/bgm\/event_buddy_2021_top",
         "eventPointAssetbundleName": "icon_point",
@@ -16865,7 +16865,7 @@
     {
         "id": 42,
         "eventType": "cheerful_carnival",
-        "name": "\u4ea4\u308f\u308b\u65cb\u5f8b \u706f\u308b\u306c\u304f\u3082\u308a",
+        "name": "交わる旋律 灯るぬくもり",
         "assetbundleName": "event_melody_2021",
         "bgmAssetbundleName": "event\/event_melody_2021\/bgm\/event_melody_2021_top",
         "eventPointAssetbundleName": "icon_point",
@@ -18101,7 +18101,7 @@
     {
         "id": 45,
         "eventType": "cheerful_carnival",
-        "name": "\u7948\u308a\u306e\u5148 \u9858\u3046\u660e\u65e5\u306f",
+        "name": "祈りの先 願う明日は",
         "assetbundleName": "event_prayer_2022",
         "bgmAssetbundleName": "event\/event_prayer_2022\/bgm\/event_prayer_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -18925,7 +18925,7 @@
     {
         "id": 47,
         "eventType": "marathon",
-        "name": "\u3044\u3064\u304b\u3001\u7d76\u671b\u306e\u5e95\u304b\u3089",
+        "name": "いつか、絶望の底から",
         "assetbundleName": "event_tricolo_2022",
         "bgmAssetbundleName": "event\/event_tricolo_2022\/bgm\/event_tricolo_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -19337,7 +19337,7 @@
     {
         "id": 48,
         "eventType": "cheerful_carnival",
-        "name": "\u79d8\u5bc6\u306e\u2661\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u5927\u4f5c\u6226\uff01",
+        "name": "秘密の♡バレンタイン大作戦！",
         "assetbundleName": "event_valentine_2022",
         "bgmAssetbundleName": "event\/event_valentine_2022\/bgm\/event_valentine_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -20161,7 +20161,7 @@
     {
         "id": 50,
         "eventType": "marathon",
-        "name": "\u3042\u306e\u65e5\u3001\u7a7a\u306f\u9060\u304b\u3063\u305f",
+        "name": "あの日、空は遠かった",
         "assetbundleName": "event_peaky_2022",
         "bgmAssetbundleName": "event\/event_peaky_2022\/bgm\/event_peaky_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -20573,7 +20573,7 @@
     {
         "id": 51,
         "eventType": "cheerful_carnival",
-        "name": "\u602a\u76d7\u7d33\u58eb\u306e\u30cf\u30e9\u30cf\u30e9\uff01\uff1f\u30db\u30ef\u30a4\u30c8\u30c7\u30fc",
+        "name": "怪盗紳士のハラハラ！？ホワイトデー",
         "assetbundleName": "event_whiteday_2022",
         "bgmAssetbundleName": "event\/event_whiteday_2022\/bgm\/event_whiteday_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -21397,7 +21397,7 @@
     {
         "id": 53,
         "eventType": "marathon",
-        "name": "\u7a7a\u767d\u306e\u30ad\u30e3\u30f3\u30d0\u30b9\u306b\u63cf\u304f\u79c1\u306f",
+        "name": "空白のキャンバスに描く私は",
         "assetbundleName": "event_canvas_2022",
         "bgmAssetbundleName": "event\/event_canvas_2022\/bgm\/event_canvas_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -21809,7 +21809,7 @@
     {
         "id": 54,
         "eventType": "cheerful_carnival",
-        "name": "\u30bb\u30ab\u30a4\u306e\u685c\u3001\u3064\u306a\u304c\u308b\u60f3\u3044",
+        "name": "セカイの桜、つながる想い",
         "assetbundleName": "event_sakura_2022",
         "bgmAssetbundleName": "event\/event_sakura_2022\/bgm\/event_sakura_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -22221,7 +22221,7 @@
     {
         "id": 55,
         "eventType": "marathon",
-        "name": "\u307e\u3070\u3086\u3044\u5149\u306e\u30b9\u30c6\u30fc\u30b8\u3067",
+        "name": "まばゆい光のステージで",
         "assetbundleName": "event_star_2022",
         "bgmAssetbundleName": "event\/event_star_2022\/bgm\/event_star_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -23045,7 +23045,7 @@
     {
         "id": 57,
         "eventType": "cheerful_carnival",
-        "name": "\u3064\u306a\u3050Painful Hope",
+        "name": "つなぐPainful Hope",
         "assetbundleName": "event_painful_2022",
         "bgmAssetbundleName": "event\/event_painful_2022\/bgm\/event_painful_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -23457,7 +23457,7 @@
     {
         "id": 58,
         "eventType": "marathon",
-        "name": "\u767d\u71b1\uff01\u795e\u9ad8\u5fdc\u63f4\u56e3\uff01",
+        "name": "白熱！神高応援団！",
         "assetbundleName": "event_cheerteam_2022",
         "bgmAssetbundleName": "event\/event_cheerteam_2022\/bgm\/event_cheerteam_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -24281,7 +24281,7 @@
     {
         "id": 60,
         "eventType": "cheerful_carnival",
-        "name": "\u9752\u7a7a\u306b\u9858\u3046\u30e6\u30a2\u30fb\u30cf\u30d4\u30cd\u30b9\uff01",
+        "name": "青空に願うユア・ハピネス！",
         "assetbundleName": "event_happiness_2022",
         "bgmAssetbundleName": "event\/event_happiness_2022\/bgm\/event_happiness_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -24693,7 +24693,7 @@
     {
         "id": 61,
         "eventType": "marathon",
-        "name": "\u8ff7\u3044\u5b50\u306e\u624b\u3092\u5f15\u304f\u3001\u305d\u306e\u3055\u304d\u306f",
+        "name": "迷い子の手を引く、そのさきは",
         "assetbundleName": "event_maigo_2022",
         "bgmAssetbundleName": "event\/event_maigo_2022\/bgm\/event_maigo_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -25105,7 +25105,7 @@
     {
         "id": 62,
         "eventType": "marathon",
-        "name": "\u7d76\u4f53\u7d76\u547d\uff01\uff1f\u30a2\u30a4\u30e9\u30f3\u30c9\u30d1\u30cb\u30c3\u30af\uff01",
+        "name": "絶体絶命！？アイランドパニック！",
         "assetbundleName": "event_island_2022",
         "bgmAssetbundleName": "event\/event_island_2022\/bgm\/event_island_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -25517,7 +25517,7 @@
     {
         "id": 63,
         "eventType": "cheerful_carnival",
-        "name": "\u307f\u3093\u306a\u3067\u30a8\u30f3\u30b8\u30e7\u30a4\uff01\u30b9\u30dd\u30b8\u30e7\u30a4\u30d1\u30fc\u30af",
+        "name": "みんなでエンジョイ！スポジョイパーク",
         "assetbundleName": "event_sports_2022",
         "bgmAssetbundleName": "event\/event_sports_2022\/bgm\/event_sports_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -27165,7 +27165,7 @@
     {
         "id": 67,
         "eventType": "marathon",
-        "name": "\u9752\u7a7a\u306e\u5148\u3001\u8f1d\u304d\u3092\u8ffd\u3044\u304b\u3051\u3066",
+        "name": "青空の先、輝きを追いかけて",
         "assetbundleName": "event_blue_2022",
         "bgmAssetbundleName": "event\/event_blue_2022\/bgm\/event_blue_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -27577,7 +27577,7 @@
     {
         "id": 68,
         "eventType": "marathon",
-        "name": "\u305d\u3057\u3066\u3044\u307e\u3001\u30ea\u30dc\u30f3\u3092\u7d50\u3093\u3067",
+        "name": "そしていま、リボンを結んで",
         "assetbundleName": "event_ribbon_2022",
         "bgmAssetbundleName": "event\/event_ribbon_2022\/bgm\/event_ribbon_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -28401,7 +28401,7 @@
     {
         "id": 70,
         "eventType": "marathon",
-        "name": "\u597d\u304d\u3092\u63cf\u3044\u3066\u266a\u30ec\u30a4\u30f3\u30dc\u30fc\u30ad\u30e3\u30f3\u30d0\u30b9",
+        "name": "好きを描いて♪レインボーキャンバス",
         "assetbundleName": "event_rainbow_2022",
         "bgmAssetbundleName": "event\/event_rainbow_2022\/bgm\/event_rainbow_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -29225,7 +29225,7 @@
     {
         "id": 72,
         "eventType": "cheerful_carnival",
-        "name": "\u3053\u306e\u796d\u306b \u5915\u95c7\u8272\u3082",
+        "name": "この祭に 夕闇色も",
         "assetbundleName": "event_festival_2022",
         "bgmAssetbundleName": "event\/event_festival_2022\/bgm\/event_festival_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -29637,7 +29637,7 @@
     {
         "id": 73,
         "eventType": "marathon",
-        "name": "\u62dd\u5553\u3001\u3042\u306e\u9803\u306e\u308f\u305f\u3057\u3078",
+        "name": "拝啓、あの頃のわたしへ",
         "assetbundleName": "event_then_2022",
         "bgmAssetbundleName": "event\/event_then_2022\/bgm\/event_then_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -30049,7 +30049,7 @@
     {
         "id": 74,
         "eventType": "marathon",
-        "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb\u306b\u60dc\u5225\u3092",
+        "name": "カーテンコールに惜別を",
         "assetbundleName": "event_curtaincall_2022",
         "bgmAssetbundleName": "event\/event_curtaincall_2022\/bgm\/event_curtaincall_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -30461,7 +30461,7 @@
     {
         "id": 75,
         "eventType": "cheerful_carnival",
-        "name": "\u7d76\u53eb\uff01\uff1f \u30aa\u30aa\u30ab\u30df\u306e\u68ee\u3078\u3088\u3046\u3053\u305d\uff01",
+        "name": "絶叫！？ オオカミの森へようこそ！",
         "assetbundleName": "event_scream_2022",
         "bgmAssetbundleName": "event\/event_scream_2022\/bgm\/event_scream_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -31285,7 +31285,7 @@
     {
         "id": 77,
         "eventType": "marathon",
-        "name": "\u9858\u3044\u306f\u3001\u3044\u3064\u304b\u671d\u3092\u3053\u3048\u3066",
+        "name": "願いは、いつか朝をこえて",
         "assetbundleName": "event_wish_2022",
         "bgmAssetbundleName": "event\/event_wish_2022\/bgm\/event_wish_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -31697,7 +31697,7 @@
     {
         "id": 78,
         "eventType": "cheerful_carnival",
-        "name": "\u3042\u306e\u65e5\u306e\u5922\u306e\u3001\u5f7c\u65b9\u5411\u3053\u3046\u3078",
+        "name": "あの日の夢の、彼方向こうへ",
         "assetbundleName": "event_beyond_2022",
         "bgmAssetbundleName": "event\/event_beyond_2022\/bgm\/event_beyond_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -32521,7 +32521,7 @@
     {
         "id": 80,
         "eventType": "marathon",
-        "name": "\u5f13\u5f15\u3051\u3001\u767d\u306e\u4e16\u754c\u3067",
+        "name": "弓引け、白の世界で",
         "assetbundleName": "event_kyudo_2022",
         "bgmAssetbundleName": "event\/event_kyudo_2022\/bgm\/event_kyudo_2022_top",
         "eventPointAssetbundleName": "icon_point",
@@ -32933,7 +32933,7 @@
     {
         "id": 81,
         "eventType": "cheerful_carnival",
-        "name": "\u65b0\u6625\uff01 \u7345\u5b50\u821e\u30ed\u30dc\u306e\u304a\u6b63\u6708\u30b7\u30e7\u30fc\uff01",
+        "name": "新春！ 獅子舞ロボのお正月ショー！",
         "assetbundleName": "event_liondance_2023",
         "bgmAssetbundleName": "event\/event_liondance_2023\/bgm\/event_liondance_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -33345,7 +33345,7 @@
     {
         "id": 82,
         "eventType": "marathon",
-        "name": "\u5922\u306e\u9014\u4e2d\u3001\u8f1d\u304f\u661f\u305f\u3061\u3078",
+        "name": "夢の途中、輝く星たちへ",
         "assetbundleName": "event_shining_2023",
         "bgmAssetbundleName": "event\/event_shining_2023\/bgm\/event_shining_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -33757,7 +33757,7 @@
     {
         "id": 83,
         "eventType": "marathon",
-        "name": "Little Bravers\uff01",
+        "name": "Little Bravers！",
         "assetbundleName": "event_bravers_2023",
         "bgmAssetbundleName": "event\/event_bravers_2023\/bgm\/event_bravers_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -34169,7 +34169,7 @@
     {
         "id": 84,
         "eventType": "cheerful_carnival",
-        "name": "\u30ad\u30e3\u30f3\u30c9\u30eb\u306e\u9999\u308a\u306f\u601d\u3044\u51fa\u3068\u5171\u306b",
+        "name": "キャンドルの香りは思い出と共に",
         "assetbundleName": "event_candle_2023",
         "bgmAssetbundleName": "event\/event_candle_2023\/bgm\/event_candle_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -34581,7 +34581,7 @@
     {
         "id": 85,
         "eventType": "marathon",
-        "name": "\u307b\u3069\u304b\u308c\u305f\u7cf8\u306e\u305d\u306e\u5148\u306b",
+        "name": "ほどかれた糸のその先に",
         "assetbundleName": "event_thread_2023",
         "bgmAssetbundleName": "event\/event_thread_2023\/bgm\/event_thread_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -35405,7 +35405,7 @@
     {
         "id": 87,
         "eventType": "cheerful_carnival",
-        "name": "Never Give Up Cooking\uff01",
+        "name": "Never Give Up Cooking！",
         "assetbundleName": "event_cooking_2023",
         "bgmAssetbundleName": "event\/event_cooking_2023\/bgm\/event_cooking_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -35817,7 +35817,7 @@
     {
         "id": 88,
         "eventType": "marathon",
-        "name": "\u5929\u306e\u679c\u3066\u306e\u30d5\u30a7\u30cb\u30c3\u30af\u30b9\u3078",
+        "name": "天の果てのフェニックスへ",
         "assetbundleName": "event_sky_2023",
         "bgmAssetbundleName": "event\/event_sky_2023\/bgm\/event_sky_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -36229,7 +36229,7 @@
     {
         "id": 89,
         "eventType": "marathon",
-        "name": "\u30a4\u30df\u30b7\u30d6\u30eb\u30fb\u30c7\u30a3\u30b9\u30b3\u30fc\u30c9",
+        "name": "イミシブル・ディスコード",
         "assetbundleName": "event_immiscible_2023",
         "bgmAssetbundleName": "event\/event_immiscible_2023\/bgm\/event_immiscible_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -36641,7 +36641,7 @@
     {
         "id": 90,
         "eventType": "cheerful_carnival",
-        "name": "\u4ea4\u97ff\u3059\u308b\u8857\u306e\u7247\u9685\u3067",
+        "name": "交響する街の片隅で",
         "assetbundleName": "event_citycorner_2023",
         "bgmAssetbundleName": "event\/event_citycorner_2023\/bgm\/event_citycorner_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -37877,7 +37877,7 @@
     {
         "id": 93,
         "eventType": "cheerful_carnival",
-        "name": "\u30dc\u30af\u9054\u306e\u751f\u5b58\u9003\u8d70",
+        "name": "ボク達の生存逃走",
         "assetbundleName": "event_runaway_2023",
         "bgmAssetbundleName": "event\/event_runaway_2023\/bgm\/event_runaway_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -38289,7 +38289,7 @@
     {
         "id": 94,
         "eventType": "marathon",
-        "name": "\u8239\u51fa\u306e\u524d\u306e\u30ef\u30f3\u30c7\u30a4\u30c8\u30ea\u30c3\u30d7",
+        "name": "船出の前のワンデイトリップ",
         "assetbundleName": "event_trip_2023",
         "bgmAssetbundleName": "event\/event_trip_2023\/bgm\/event_trip_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -38701,7 +38701,7 @@
     {
         "id": 95,
         "eventType": "marathon",
-        "name": "\u30ab\u30ca\u30ea\u30a2\u306f\u7aae\u5883\u306b\u6b4c\u3046",
+        "name": "カナリアは窮境に歌う",
         "assetbundleName": "event_quagmire_2023",
         "bgmAssetbundleName": "event\/event_quagmire_2023\/bgm\/event_quagmire_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -39113,7 +39113,7 @@
     {
         "id": 96,
         "eventType": "cheerful_carnival",
-        "name": "\u96a3\u306b\u7acb\u3064\u3001\u512a\u3057\u3044\u3042\u306a\u305f\u3078",
+        "name": "隣に立つ、優しいあなたへ",
         "assetbundleName": "event_neighbor_2023",
         "bgmAssetbundleName": "event\/event_neighbor_2023\/bgm\/event_neighbor_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -39937,7 +39937,7 @@
     {
         "id": 98,
         "eventType": "marathon",
-        "name": "STEP by STEP\uff01",
+        "name": "STEP by STEP！",
         "assetbundleName": "event_step_2023",
         "bgmAssetbundleName": "event\/event_step_2023\/bgm\/event_step_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -40349,7 +40349,7 @@
     {
         "id": 99,
         "eventType": "cheerful_carnival",
-        "name": "\u4e00\u671f\u4e00\u4f1a\u306a\u767e\u9b3c\u591c\u884c\uff01\uff1f",
+        "name": "一期一会な百鬼夜行！？",
         "assetbundleName": "event_pandemonium_2023",
         "bgmAssetbundleName": "event\/event_pandemonium_2023\/bgm\/event_pandemonium_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -40761,7 +40761,7 @@
     {
         "id": 100,
         "eventType": "marathon",
-        "name": "\u4eee\u9762\u306e\u79c1\u306b\u3055\u3088\u306a\u3089\u3092",
+        "name": "仮面の私にさよならを",
         "assetbundleName": "event_persona_2023",
         "bgmAssetbundleName": "event\/event_persona_2023\/bgm\/event_persona_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -41173,7 +41173,7 @@
     {
         "id": 101,
         "eventType": "marathon",
-        "name": "\u3064\u306a\u3050\u3001\u661f\u306e\u6b4c",
+        "name": "つなぐ、星の歌",
         "assetbundleName": "event_connect_2023",
         "bgmAssetbundleName": "event\/event_connect_2023\/bgm\/event_connect_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -41585,7 +41585,7 @@
     {
         "id": 102,
         "eventType": "cheerful_carnival",
-        "name": "\u30c9\u30bf\u30d0\u30bf cafe \u25cfREC!!",
+        "name": "ドタバタ cafe ●REC!!",
         "assetbundleName": "event_recording_2023",
         "bgmAssetbundleName": "event\/event_recording_2023\/bgm\/event_recording_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -42409,7 +42409,7 @@
     {
         "id": 104,
         "eventType": "marathon",
-        "name": "\u3042\u305f\u3057\u305f\u3061\u306e\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9",
+        "name": "あたしたちのハッピーエンド",
         "assetbundleName": "event_ourhappy_2023",
         "bgmAssetbundleName": "event\/event_ourhappy_2023\/bgm\/event_ourhappy_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -42821,7 +42821,7 @@
     {
         "id": 105,
         "eventType": "cheerful_carnival",
-        "name": "\u30bb\u30ab\u30a4\u306b\u97ff\u3051\uff01Your Song",
+        "name": "セカイに響け！Your Song",
         "assetbundleName": "event_resound_2023",
         "bgmAssetbundleName": "event\/event_resound_2023\/bgm\/event_resound_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -43233,7 +43233,7 @@
     {
         "id": 106,
         "eventType": "marathon",
-        "name": "\u541b\u3068\u7d21\u3050Precious memories",
+        "name": "君と紡ぐPrecious memories",
         "assetbundleName": "event_preciousmemories_2023",
         "bgmAssetbundleName": "event\/event_preciousmemories_2023\/bgm\/event_preciousmemories_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -43645,7 +43645,7 @@
     {
         "id": 107,
         "eventType": "marathon",
-        "name": "Let's study hard\uff01",
+        "name": "Let's study hard！",
         "assetbundleName": "event_study_2023",
         "bgmAssetbundleName": "event\/event_study_2023\/bgm\/event_study_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -44057,7 +44057,7 @@
     {
         "id": 108,
         "eventType": "cheerful_carnival",
-        "name": "\u30cf\u30ed\u30fc\u30fb\u30b0\u30c3\u30c9\u30fb\u30c7\u30a4\uff01",
+        "name": "ハロー・グッド・デイ！",
         "assetbundleName": "event_hello_2023",
         "bgmAssetbundleName": "event\/event_hello_2023\/bgm\/event_hello_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -45545,7 +45545,7 @@
     {
         "id": 111,
         "eventType": "cheerful_carnival",
-        "name": "\u305d\u306e\u624b\u5c0e\u304f\u306c\u304f\u3082\u308a\u306f",
+        "name": "その手導くぬくもりは",
         "assetbundleName": "event_warmth_2023",
         "bgmAssetbundleName": "event\/event_warmth_2023\/bgm\/event_warmth_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -46041,7 +46041,7 @@
     {
         "id": 112,
         "eventType": "world_bloom",
-        "name": "\u6c34\u5e95\u306b\u5f71\u3092\u63a2\u3057\u3066",
+        "name": "水底に影を探して",
         "assetbundleName": "event_underwater_2023",
         "bgmAssetbundleName": "event\/event_underwater_2023\/bgm\/event_underwater_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -46537,7 +46537,7 @@
     {
         "id": 113,
         "eventType": "marathon",
-        "name": "\u541b\u304c\u4e3b\u5f79\u306e\u7269\u8a9e\u3092",
+        "name": "君が主役の物語を",
         "assetbundleName": "event_supporting_2023",
         "bgmAssetbundleName": "event\/event_supporting_2023\/bgm\/event_supporting_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -47033,7 +47033,7 @@
     {
         "id": 114,
         "eventType": "cheerful_carnival",
-        "name": "\u6700\u9ad8\u306e\u30af\u30e9\u30f3\u30af\u30a2\u30c3\u30d7\uff01",
+        "name": "最高のクランクアップ！",
         "assetbundleName": "event_crankup_2023",
         "bgmAssetbundleName": "event\/event_crankup_2023\/bgm\/event_crankup_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -47529,7 +47529,7 @@
     {
         "id": 115,
         "eventType": "marathon",
-        "name": "\u3042\u3063\u3061\u3053\u3063\u3061\u98fc\u80b2\u54e1\u4f53\u9a13\uff01",
+        "name": "あっちこっち飼育員体験！",
         "assetbundleName": "event_keeper_2023",
         "bgmAssetbundleName": "event\/event_keeper_2023\/bgm\/event_keeper_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -48025,7 +48025,7 @@
     {
         "id": 116,
         "eventType": "marathon",
-        "name": "\u3042\u306e\u65e5\u3001\u594f\u3067\u305f\u97f3\u8272\u3092",
+        "name": "あの日、奏でた音色を",
         "assetbundleName": "event_tone_2023",
         "bgmAssetbundleName": "event\/event_tone_2023\/bgm\/event_tone_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -48521,7 +48521,7 @@
     {
         "id": 117,
         "eventType": "cheerful_carnival",
-        "name": "\u5909\u308f\u3089\u306c\u3042\u305f\u305f\u304b\u3055\u306e\u96a3\u3067",
+        "name": "変わらぬあたたかさの隣で",
         "assetbundleName": "event_cuddle_2023",
         "bgmAssetbundleName": "event\/event_cuddle_2023\/bgm\/event_cuddle_2023_top",
         "eventPointAssetbundleName": "icon_point",
@@ -49513,7 +49513,7 @@
     {
         "id": 119,
         "eventType": "marathon",
-        "name": "\u9006\u5149\u306e\u30ec\u30f3\u30ba\u30d5\u30ec\u30a2",
+        "name": "逆光のレンズフレア",
         "assetbundleName": "event_lensflare_2024",
         "bgmAssetbundleName": "event\/event_lensflare_2024\/bgm\/event_lensflare_2024_top",
         "eventPointAssetbundleName": "icon_point",
@@ -50009,7 +50009,7 @@
     {
         "id": 120,
         "eventType": "cheerful_carnival",
-        "name": "Take the Best Shot\uff01",
+        "name": "Take the Best Shot！",
         "assetbundleName": "event_bestshot_2024",
         "bgmAssetbundleName": "event\/event_bestshot_2024\/bgm\/event_bestshot_2024_top",
         "eventPointAssetbundleName": "icon_point",
@@ -50505,7 +50505,7 @@
     {
         "id": 121,
         "eventType": "marathon",
-        "name": "\u5c0e\u304f\u52c7\u6c17\u3001\u512a\u3057\u3055\u3092\u80f8\u306b",
+        "name": "導く勇気、優しさを胸に",
         "assetbundleName": "event_lead_2024",
         "bgmAssetbundleName": "event\/event_lead_2024\/bgm\/event_lead_2024_top",
         "eventPointAssetbundleName": "icon_point",
@@ -51001,7 +51001,7 @@
     {
         "id": 122,
         "eventType": "marathon",
-        "name": "\u523b\u307e\u308c\u305f\u50b7\u306f\u3001\u3084\u304c\u3066",
+        "name": "刻まれた傷は、やがて",
         "assetbundleName": "event_graven_2024",
         "bgmAssetbundleName": "event\/event_graven_2024\/bgm\/event_graven_2024_top",
         "eventPointAssetbundleName": "icon_point",
@@ -51497,7 +51497,7 @@
     {
         "id": 123,
         "eventType": "cheerful_carnival",
-        "name": "\u30ea\u30e9\u30c3\u30af\u30b9\u30c6\u30a3\u30fc\u30bf\u30a4\u30e0",
+        "name": "リラックスティータイム",
         "assetbundleName": "event_teatime_2024",
         "bgmAssetbundleName": "event\/event_teatime_2024\/bgm\/event_teatime_2024_top",
         "eventPointAssetbundleName": "icon_point",
@@ -51993,7 +51993,7 @@
     {
         "id": 124,
         "eventType": "world_bloom",
-        "name": "\u661f\u3092\u76ee\u6307\u3057\u3066\u3001\u30e8\u30fc\u30bd\u30ed\u30fc\uff01",
+        "name": "星を目指して、ヨーソロー！",
         "assetbundleName": "event_yosoro_2024",
         "bgmAssetbundleName": "event\/event_yosoro_2024\/bgm\/event_yosoro_2024_top",
         "eventPointAssetbundleName": "icon_point",
@@ -52985,7 +52985,7 @@
     {
         "id": 126,
         "eventType": "cheerful_carnival",
-        "name": "Rise as ONE\uff01",
+        "name": "Rise as ONE！",
         "assetbundleName": "event_rise_2024",
         "bgmAssetbundleName": "event\/event_rise_2024\/bgm\/event_rise_2024_top",
         "eventPointAssetbundleName": "icon_point",
@@ -54969,7 +54969,7 @@
     {
         "id": 130,
         "eventType": "world_bloom",
-        "name": "\u3044\u3064\u304b\u82b1\u54b2\u304f\u30b9\u30c6\u30fc\u30b8\u3078",
+        "name": "いつか花咲くステージへ",
         "assetbundleName": "event_blooming_2024",
         "bgmAssetbundleName": "event\/event_blooming_2024\/bgm\/event_blooming_2024_top",
         "eventPointAssetbundleName": "icon_point",

@@ -3,7 +3,7 @@
         "id": 10001,
         "seq": 10003,
         "paidVirtualLiveShopItemGroupId": 1,
-        "name": "\u7b2c1\u516c\u6f14",
+        "name": "第1公演",
         "resourceBoxId": 10001,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -20,7 +20,7 @@
         "id": 10002,
         "seq": 10002,
         "paidVirtualLiveShopItemGroupId": 1,
-        "name": "\u7b2c2\u516c\u6f14",
+        "name": "第2公演",
         "resourceBoxId": 10002,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -37,8 +37,8 @@
         "id": 10003,
         "seq": 10001,
         "paidVirtualLiveShopItemGroupId": 1,
-        "name": "\u7b2c3\u516c\u6f14",
-        "description": "\u203b\u3053\u3061\u3089\u306e\u516c\u6f14\u306f\u4e00\u90e8\u97f3\u98db\u3073\u304c\u767a\u751f\u3057\u307e\u3059\u3002",
+        "name": "第3公演",
+        "description": "※こちらの公演は一部音飛びが発生します。",
         "resourceBoxId": 10003,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -55,8 +55,8 @@
         "id": 10004,
         "seq": 10004,
         "paidVirtualLiveShopItemGroupId": 1,
-        "name": "\u5168\u516c\u6f14\u307e\u3068\u3081\u8cb7\u3044",
-        "description": "\u203b\u7b2c3\u516c\u6f14\u306b\u6ce8\u610f\u4e8b\u9805\u304c\u3042\u308a\u307e\u3059\u306e\u3067\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002",
+        "name": "全公演まとめ買い",
+        "description": "※第3公演に注意事項がありますのでご確認ください。",
         "resourceBoxId": 10004,
         "paidVirtualLiveShopItemPurchaseType": "bundle",
         "paidVirtualLiveShopCosts": [
@@ -73,8 +73,8 @@
         "id": 10011,
         "seq": 10012,
         "paidVirtualLiveShopItemGroupId": 2,
-        "name": "\u7b2c1\u516c\u6f14",
-        "description": "\u203b\u3053\u3061\u3089\u306e\u516c\u6f14\u306f\u4e00\u90e8\u97f3\u98db\u3073\u304c\u767a\u751f\u3057\u307e\u3059\u3002",
+        "name": "第1公演",
+        "description": "※こちらの公演は一部音飛びが発生します。",
         "resourceBoxId": 10011,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -91,8 +91,8 @@
         "id": 10012,
         "seq": 10011,
         "paidVirtualLiveShopItemGroupId": 2,
-        "name": "\u7b2c2\u516c\u6f14",
-        "description": "\u203b\u3053\u3061\u3089\u306e\u516c\u6f14\u306f\u4e00\u90e8\u97f3\u98db\u3073\u304c\u767a\u751f\u3057\u307e\u3059\u3002",
+        "name": "第2公演",
+        "description": "※こちらの公演は一部音飛びが発生します。",
         "resourceBoxId": 10012,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -109,8 +109,8 @@
         "id": 10013,
         "seq": 10013,
         "paidVirtualLiveShopItemGroupId": 2,
-        "name": "\u5168\u516c\u6f14\u307e\u3068\u3081\u8cb7\u3044",
-        "description": "\u203b\u7b2c1\u516c\u6f14\u304a\u3088\u3073\u7b2c2\u516c\u6f14\u306b\u6ce8\u610f\u4e8b\u9805\u304c\u3042\u308a\u307e\u3059\u306e\u3067\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002",
+        "name": "全公演まとめ買い",
+        "description": "※第1公演および第2公演に注意事項がありますのでご確認ください。",
         "resourceBoxId": 10013,
         "paidVirtualLiveShopItemPurchaseType": "bundle",
         "paidVirtualLiveShopCosts": [
@@ -126,7 +126,7 @@
     {
         "id": 20001,
         "seq": 20001,
-        "name": "\u9065 2020",
+        "name": "遥 2020",
         "resourceBoxId": 20001,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -148,7 +148,7 @@
     {
         "id": 20002,
         "seq": 20002,
-        "name": "\u7a42\u6ce2 2020",
+        "name": "穂波 2020",
         "resourceBoxId": 20002,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -192,7 +192,7 @@
     {
         "id": 20004,
         "seq": 20004,
-        "name": "\u5f70\u4eba 2020",
+        "name": "彰人 2020",
         "resourceBoxId": 20004,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -214,7 +214,7 @@
     {
         "id": 20005,
         "seq": 20005,
-        "name": "\u96eb 2020",
+        "name": "雫 2020",
         "resourceBoxId": 20005,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -236,7 +236,7 @@
     {
         "id": 20006,
         "seq": 20006,
-        "name": "\u30ea\u30f3 2020",
+        "name": "リン 2020",
         "resourceBoxId": 20006,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -258,7 +258,7 @@
     {
         "id": 20007,
         "seq": 20007,
-        "name": "\u30ec\u30f3 2020",
+        "name": "レン 2020",
         "resourceBoxId": 20007,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -280,7 +280,7 @@
     {
         "id": 20008,
         "seq": 20008,
-        "name": "\u5fd7\u6b69 2021",
+        "name": "志歩 2021",
         "resourceBoxId": 20008,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -302,7 +302,7 @@
     {
         "id": 20009,
         "seq": 20009,
-        "name": "\u307e\u3075\u3086 2021",
+        "name": "まふゆ 2021",
         "resourceBoxId": 20009,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -324,7 +324,7 @@
     {
         "id": 20010,
         "seq": 20010,
-        "name": "\u30eb\u30ab 2021",
+        "name": "ルカ 2021",
         "resourceBoxId": 20010,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -346,7 +346,7 @@
     {
         "id": 20011,
         "seq": 20011,
-        "name": "\u594f 2021",
+        "name": "奏 2021",
         "resourceBoxId": 20011,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -390,7 +390,7 @@
     {
         "id": 20013,
         "seq": 20013,
-        "name": "\u3053\u306f\u306d 2021",
+        "name": "こはね 2021",
         "resourceBoxId": 20013,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -412,7 +412,7 @@
     {
         "id": 20014,
         "seq": 20014,
-        "name": "\u611b\u8389 2021",
+        "name": "愛莉 2021",
         "resourceBoxId": 20014,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -434,7 +434,7 @@
     {
         "id": 20015,
         "seq": 20015,
-        "name": "\u307f\u306e\u308a 2021",
+        "name": "みのり 2021",
         "resourceBoxId": 20015,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -456,7 +456,7 @@
     {
         "id": 20016,
         "seq": 20016,
-        "name": "\u7d75\u540d 2021",
+        "name": "絵名 2021",
         "resourceBoxId": 20016,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -478,7 +478,7 @@
     {
         "id": 20017,
         "seq": 20017,
-        "name": "\u54b2\u5e0c 2021",
+        "name": "咲希 2021",
         "resourceBoxId": 20017,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -500,7 +500,7 @@
     {
         "id": 20018,
         "seq": 20018,
-        "name": "\u53f8 2021",
+        "name": "司 2021",
         "resourceBoxId": 20018,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -522,7 +522,7 @@
     {
         "id": 20019,
         "seq": 20019,
-        "name": "\u51ac\u5f25 2021",
+        "name": "冬弥 2021",
         "resourceBoxId": 20019,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -544,7 +544,7 @@
     {
         "id": 20020,
         "seq": 20020,
-        "name": "\u985e 2021",
+        "name": "類 2021",
         "resourceBoxId": 20020,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -566,7 +566,7 @@
     {
         "id": 20021,
         "seq": 20021,
-        "name": "\u5be7\u3005 2021",
+        "name": "寧々 2021",
         "resourceBoxId": 20021,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -588,7 +588,7 @@
     {
         "id": 20022,
         "seq": 20022,
-        "name": "\u674f 2021",
+        "name": "杏 2021",
         "resourceBoxId": 20022,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -610,7 +610,7 @@
     {
         "id": 20023,
         "seq": 20023,
-        "name": "\u4e00\u6b4c 2021",
+        "name": "一歌 2021",
         "resourceBoxId": 20023,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -632,7 +632,7 @@
     {
         "id": 20024,
         "seq": 20024,
-        "name": "\u745e\u5e0c 2021",
+        "name": "瑞希 2021",
         "resourceBoxId": 20024,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -654,7 +654,7 @@
     {
         "id": 20025,
         "seq": 20025,
-        "name": "\u30df\u30af 2021",
+        "name": "ミク 2021",
         "resourceBoxId": 20025,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -676,7 +676,7 @@
     {
         "id": 20026,
         "seq": 20026,
-        "name": "\u3048\u3080 2021",
+        "name": "えむ 2021",
         "resourceBoxId": 20026,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -698,7 +698,7 @@
     {
         "id": 20027,
         "seq": 20027,
-        "name": "\u9065 2021",
+        "name": "遥 2021",
         "resourceBoxId": 20027,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -720,7 +720,7 @@
     {
         "id": 20028,
         "seq": 20028,
-        "name": "\u7a42\u6ce2 2021",
+        "name": "穂波 2021",
         "resourceBoxId": 20028,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -764,7 +764,7 @@
     {
         "id": 20030,
         "seq": 20030,
-        "name": "\u5f70\u4eba 2021",
+        "name": "彰人 2021",
         "resourceBoxId": 20030,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -786,7 +786,7 @@
     {
         "id": 20031,
         "seq": 20031,
-        "name": "\u96eb 2021",
+        "name": "雫 2021",
         "resourceBoxId": 20031,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -808,7 +808,7 @@
     {
         "id": 20032,
         "seq": 20032,
-        "name": "\u30ea\u30f3 2021",
+        "name": "リン 2021",
         "resourceBoxId": 20032,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -830,7 +830,7 @@
     {
         "id": 20033,
         "seq": 20033,
-        "name": "\u30ec\u30f3 2021",
+        "name": "レン 2021",
         "resourceBoxId": 20033,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -852,7 +852,7 @@
     {
         "id": 20034,
         "seq": 20034,
-        "name": "\u5fd7\u6b69 2022",
+        "name": "志歩 2022",
         "resourceBoxId": 20034,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -874,7 +874,7 @@
     {
         "id": 20035,
         "seq": 20035,
-        "name": "\u307e\u3075\u3086 2022",
+        "name": "まふゆ 2022",
         "resourceBoxId": 20035,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -896,7 +896,7 @@
     {
         "id": 20036,
         "seq": 20036,
-        "name": "\u30eb\u30ab 2022",
+        "name": "ルカ 2022",
         "resourceBoxId": 20036,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -918,7 +918,7 @@
     {
         "id": 20037,
         "seq": 20037,
-        "name": "\u594f 2022",
+        "name": "奏 2022",
         "resourceBoxId": 20037,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -962,7 +962,7 @@
     {
         "id": 20039,
         "seq": 20039,
-        "name": "\u3053\u306f\u306d 2022",
+        "name": "こはね 2022",
         "resourceBoxId": 20039,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -984,7 +984,7 @@
     {
         "id": 20040,
         "seq": 20040,
-        "name": "\u611b\u8389 2022",
+        "name": "愛莉 2022",
         "resourceBoxId": 20040,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1006,7 +1006,7 @@
     {
         "id": 20041,
         "seq": 20041,
-        "name": "\u307f\u306e\u308a 2022",
+        "name": "みのり 2022",
         "resourceBoxId": 20041,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1028,7 +1028,7 @@
     {
         "id": 20042,
         "seq": 20042,
-        "name": "\u7d75\u540d 2022",
+        "name": "絵名 2022",
         "resourceBoxId": 20042,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1050,7 +1050,7 @@
     {
         "id": 20043,
         "seq": 20043,
-        "name": "\u54b2\u5e0c 2022",
+        "name": "咲希 2022",
         "resourceBoxId": 20043,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1072,7 +1072,7 @@
     {
         "id": 20044,
         "seq": 20044,
-        "name": "\u53f8 2022",
+        "name": "司 2022",
         "resourceBoxId": 20044,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1094,7 +1094,7 @@
     {
         "id": 20045,
         "seq": 20045,
-        "name": "\u51ac\u5f25 2022",
+        "name": "冬弥 2022",
         "resourceBoxId": 20045,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1116,7 +1116,7 @@
     {
         "id": 20046,
         "seq": 20046,
-        "name": "\u985e 2022",
+        "name": "類 2022",
         "resourceBoxId": 20046,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1138,7 +1138,7 @@
     {
         "id": 20047,
         "seq": 20047,
-        "name": "\u5be7\u3005 2022",
+        "name": "寧々 2022",
         "resourceBoxId": 20047,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1160,7 +1160,7 @@
     {
         "id": 20048,
         "seq": 20048,
-        "name": "\u674f 2022",
+        "name": "杏 2022",
         "resourceBoxId": 20048,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1182,7 +1182,7 @@
     {
         "id": 20049,
         "seq": 20049,
-        "name": "\u4e00\u6b4c 2022",
+        "name": "一歌 2022",
         "resourceBoxId": 20049,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1204,7 +1204,7 @@
     {
         "id": 20050,
         "seq": 20050,
-        "name": "\u745e\u5e0c 2022",
+        "name": "瑞希 2022",
         "resourceBoxId": 20050,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1226,7 +1226,7 @@
     {
         "id": 20051,
         "seq": 20051,
-        "name": "\u30df\u30af 2022",
+        "name": "ミク 2022",
         "resourceBoxId": 20051,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1248,7 +1248,7 @@
     {
         "id": 20052,
         "seq": 20052,
-        "name": "\u3048\u3080 2022",
+        "name": "えむ 2022",
         "resourceBoxId": 20052,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1270,7 +1270,7 @@
     {
         "id": 20053,
         "seq": 20053,
-        "name": "\u9065 2022",
+        "name": "遥 2022",
         "resourceBoxId": 20053,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1292,7 +1292,7 @@
     {
         "id": 20054,
         "seq": 20054,
-        "name": "\u7a42\u6ce2 2022",
+        "name": "穂波 2022",
         "resourceBoxId": 20054,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1336,7 +1336,7 @@
     {
         "id": 20056,
         "seq": 20056,
-        "name": "\u5f70\u4eba 2022",
+        "name": "彰人 2022",
         "resourceBoxId": 20056,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1358,7 +1358,7 @@
     {
         "id": 20057,
         "seq": 20057,
-        "name": "\u96eb 2022",
+        "name": "雫 2022",
         "resourceBoxId": 20057,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1380,7 +1380,7 @@
     {
         "id": 20058,
         "seq": 20058,
-        "name": "\u30ea\u30f3 2022",
+        "name": "リン 2022",
         "resourceBoxId": 20058,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1402,7 +1402,7 @@
     {
         "id": 20059,
         "seq": 20059,
-        "name": "\u30ec\u30f3 2022",
+        "name": "レン 2022",
         "resourceBoxId": 20059,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1424,7 +1424,7 @@
     {
         "id": 20060,
         "seq": 20060,
-        "name": "\u5fd7\u6b69 2023",
+        "name": "志歩 2023",
         "resourceBoxId": 20060,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1446,7 +1446,7 @@
     {
         "id": 20061,
         "seq": 20061,
-        "name": "\u307e\u3075\u3086 2023",
+        "name": "まふゆ 2023",
         "resourceBoxId": 20061,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1468,7 +1468,7 @@
     {
         "id": 20062,
         "seq": 20062,
-        "name": "\u30eb\u30ab 2023",
+        "name": "ルカ 2023",
         "resourceBoxId": 20062,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1490,7 +1490,7 @@
     {
         "id": 20063,
         "seq": 20063,
-        "name": "\u594f 2023",
+        "name": "奏 2023",
         "resourceBoxId": 20063,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1534,7 +1534,7 @@
     {
         "id": 20065,
         "seq": 20065,
-        "name": "\u3053\u306f\u306d 2023",
+        "name": "こはね 2023",
         "resourceBoxId": 20065,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1556,7 +1556,7 @@
     {
         "id": 20066,
         "seq": 20066,
-        "name": "\u611b\u8389 2023",
+        "name": "愛莉 2023",
         "resourceBoxId": 20066,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1578,7 +1578,7 @@
     {
         "id": 20067,
         "seq": 20067,
-        "name": "\u307f\u306e\u308a 2023",
+        "name": "みのり 2023",
         "resourceBoxId": 20067,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1600,7 +1600,7 @@
     {
         "id": 20068,
         "seq": 20068,
-        "name": "\u7d75\u540d 2023",
+        "name": "絵名 2023",
         "resourceBoxId": 20068,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1622,7 +1622,7 @@
     {
         "id": 20069,
         "seq": 20069,
-        "name": "\u54b2\u5e0c 2023",
+        "name": "咲希 2023",
         "resourceBoxId": 20069,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1644,7 +1644,7 @@
     {
         "id": 20070,
         "seq": 20070,
-        "name": "\u53f8 2023",
+        "name": "司 2023",
         "resourceBoxId": 20070,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1666,7 +1666,7 @@
     {
         "id": 20071,
         "seq": 20071,
-        "name": "\u51ac\u5f25 2023",
+        "name": "冬弥 2023",
         "resourceBoxId": 20071,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1688,7 +1688,7 @@
     {
         "id": 20072,
         "seq": 20072,
-        "name": "\u985e 2023",
+        "name": "類 2023",
         "resourceBoxId": 20072,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1710,7 +1710,7 @@
     {
         "id": 20073,
         "seq": 20073,
-        "name": "\u5be7\u3005 2023",
+        "name": "寧々 2023",
         "resourceBoxId": 20073,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1732,7 +1732,7 @@
     {
         "id": 20074,
         "seq": 20074,
-        "name": "\u674f 2023",
+        "name": "杏 2023",
         "resourceBoxId": 20074,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1754,7 +1754,7 @@
     {
         "id": 20075,
         "seq": 20075,
-        "name": "\u4e00\u6b4c 2023",
+        "name": "一歌 2023",
         "resourceBoxId": 20075,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1776,7 +1776,7 @@
     {
         "id": 20076,
         "seq": 20076,
-        "name": "\u745e\u5e0c 2023",
+        "name": "瑞希 2023",
         "resourceBoxId": 20076,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1798,7 +1798,7 @@
     {
         "id": 20077,
         "seq": 20077,
-        "name": "\u30df\u30af 2023",
+        "name": "ミク 2023",
         "resourceBoxId": 20077,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1820,7 +1820,7 @@
     {
         "id": 20078,
         "seq": 20078,
-        "name": "\u3048\u3080 2023",
+        "name": "えむ 2023",
         "resourceBoxId": 20078,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1842,7 +1842,7 @@
     {
         "id": 20079,
         "seq": 20079,
-        "name": "\u9065 2023",
+        "name": "遥 2023",
         "resourceBoxId": 20079,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1864,7 +1864,7 @@
     {
         "id": 20080,
         "seq": 20080,
-        "name": "\u7a42\u6ce2 2023",
+        "name": "穂波 2023",
         "resourceBoxId": 20080,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1908,7 +1908,7 @@
     {
         "id": 20082,
         "seq": 20082,
-        "name": "\u5f70\u4eba 2023",
+        "name": "彰人 2023",
         "resourceBoxId": 20082,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1930,7 +1930,7 @@
     {
         "id": 20083,
         "seq": 20083,
-        "name": "\u96eb 2023",
+        "name": "雫 2023",
         "resourceBoxId": 20083,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1952,7 +1952,7 @@
     {
         "id": 20084,
         "seq": 20084,
-        "name": "\u30ea\u30f3 2023",
+        "name": "リン 2023",
         "resourceBoxId": 20084,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1974,7 +1974,7 @@
     {
         "id": 20085,
         "seq": 20085,
-        "name": "\u30ec\u30f3 2023",
+        "name": "レン 2023",
         "resourceBoxId": 20085,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -1996,7 +1996,7 @@
     {
         "id": 20086,
         "seq": 20086,
-        "name": "\u5fd7\u6b69 2024",
+        "name": "志歩 2024",
         "resourceBoxId": 20086,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2018,7 +2018,7 @@
     {
         "id": 20087,
         "seq": 20087,
-        "name": "\u307e\u3075\u3086 2024",
+        "name": "まふゆ 2024",
         "resourceBoxId": 20087,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2040,7 +2040,7 @@
     {
         "id": 20088,
         "seq": 20088,
-        "name": "\u30eb\u30ab 2024",
+        "name": "ルカ 2024",
         "resourceBoxId": 20088,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2062,7 +2062,7 @@
     {
         "id": 20089,
         "seq": 20089,
-        "name": "\u594f 2024",
+        "name": "奏 2024",
         "resourceBoxId": 20089,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2106,7 +2106,7 @@
     {
         "id": 30008,
         "seq": 30008,
-        "name": "\u30cf\u30ed\u30a6\u30a3\u30f3 2020",
+        "name": "ハロウィン 2020",
         "resourceBoxId": 30008,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2128,7 +2128,7 @@
     {
         "id": 30009,
         "seq": 30009,
-        "name": "\u30af\u30ea\u30b9\u30de\u30b9 2020",
+        "name": "クリスマス 2020",
         "resourceBoxId": 30009,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2150,7 +2150,7 @@
     {
         "id": 30010,
         "seq": 30010,
-        "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3 2021",
+        "name": "カウントダウン 2021",
         "resourceBoxId": 30010,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2172,7 +2172,7 @@
     {
         "id": 30011,
         "seq": 30011,
-        "name": "\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc 2021 Leo\/need",
+        "name": "ニューイヤー 2021 Leo\/need",
         "resourceBoxId": 30011,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2194,7 +2194,7 @@
     {
         "id": 30012,
         "seq": 30012,
-        "name": "\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc 2021 MORE MORE JUMP\uff01",
+        "name": "ニューイヤー 2021 MORE MORE JUMP！",
         "resourceBoxId": 30012,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2216,7 +2216,7 @@
     {
         "id": 30013,
         "seq": 30013,
-        "name": "\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc 2021 Vivid BAD SQUAD",
+        "name": "ニューイヤー 2021 Vivid BAD SQUAD",
         "resourceBoxId": 30013,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2238,7 +2238,7 @@
     {
         "id": 30014,
         "seq": 30014,
-        "name": "\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc 2021 \u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0",
+        "name": "ニューイヤー 2021 ワンダーランズ×ショウタイム",
         "resourceBoxId": 30014,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2260,7 +2260,7 @@
     {
         "id": 30015,
         "seq": 30015,
-        "name": "\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc 2021  25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002",
+        "name": "ニューイヤー 2021  25時、ナイトコードで。",
         "resourceBoxId": 30015,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2282,7 +2282,7 @@
     {
         "id": 30016,
         "seq": 30016,
-        "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3 2021",
+        "name": "バレンタイン 2021",
         "resourceBoxId": 30016,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2304,7 +2304,7 @@
     {
         "id": 30017,
         "seq": 30017,
-        "name": "\u30db\u30ef\u30a4\u30c8\u30c7\u30fc 2021",
+        "name": "ホワイトデー 2021",
         "resourceBoxId": 30017,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2326,7 +2326,7 @@
     {
         "id": 30018,
         "seq": 30018,
-        "name": "\u4e03\u5915 2021",
+        "name": "七夕 2021",
         "resourceBoxId": 30018,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2348,7 +2348,7 @@
     {
         "id": 30019,
         "seq": 30019,
-        "name": "1\u5468\u5e74\u8a18\u5ff5",
+        "name": "1周年記念",
         "resourceBoxId": 30019,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2370,7 +2370,7 @@
     {
         "id": 30020,
         "seq": 30020,
-        "name": "\u30cf\u30ed\u30a6\u30a3\u30f3 2021",
+        "name": "ハロウィン 2021",
         "resourceBoxId": 30020,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2392,7 +2392,7 @@
     {
         "id": 30021,
         "seq": 30021,
-        "name": "\u30af\u30ea\u30b9\u30de\u30b9 2021",
+        "name": "クリスマス 2021",
         "resourceBoxId": 30021,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2414,7 +2414,7 @@
     {
         "id": 30022,
         "seq": 30022,
-        "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3 2022",
+        "name": "カウントダウン 2022",
         "resourceBoxId": 30022,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2436,7 +2436,7 @@
     {
         "id": 30023,
         "seq": 30023,
-        "name": "\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc 2022 Leo\/need",
+        "name": "ニューイヤー 2022 Leo\/need",
         "resourceBoxId": 30023,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2458,7 +2458,7 @@
     {
         "id": 30024,
         "seq": 30024,
-        "name": "\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc 2022 MORE MORE JUMP\uff01",
+        "name": "ニューイヤー 2022 MORE MORE JUMP！",
         "resourceBoxId": 30024,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2480,7 +2480,7 @@
     {
         "id": 30025,
         "seq": 30025,
-        "name": "\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc 2022 Vivid BAD SQUAD",
+        "name": "ニューイヤー 2022 Vivid BAD SQUAD",
         "resourceBoxId": 30025,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2502,7 +2502,7 @@
     {
         "id": 30026,
         "seq": 30026,
-        "name": "\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc 2022 \u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0",
+        "name": "ニューイヤー 2022 ワンダーランズ×ショウタイム",
         "resourceBoxId": 30026,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2524,7 +2524,7 @@
     {
         "id": 30027,
         "seq": 30027,
-        "name": "\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc 2022 25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002",
+        "name": "ニューイヤー 2022 25時、ナイトコードで。",
         "resourceBoxId": 30027,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2546,7 +2546,7 @@
     {
         "id": 30028,
         "seq": 30028,
-        "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3 2022",
+        "name": "バレンタイン 2022",
         "resourceBoxId": 30028,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2568,7 +2568,7 @@
     {
         "id": 30029,
         "seq": 30029,
-        "name": "\u30db\u30ef\u30a4\u30c8\u30c7\u30fc 2022",
+        "name": "ホワイトデー 2022",
         "resourceBoxId": 30029,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2590,7 +2590,7 @@
     {
         "id": 30030,
         "seq": 30030,
-        "name": "\u4e03\u5915 2022",
+        "name": "七夕 2022",
         "resourceBoxId": 30030,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2612,7 +2612,7 @@
     {
         "id": 30031,
         "seq": 30031,
-        "name": "\u30cf\u30ed\u30a6\u30a3\u30f3 2022",
+        "name": "ハロウィン 2022",
         "resourceBoxId": 30031,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2634,7 +2634,7 @@
     {
         "id": 30032,
         "seq": 30032,
-        "name": "\u30af\u30ea\u30b9\u30de\u30b9 2022",
+        "name": "クリスマス 2022",
         "resourceBoxId": 30032,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2656,7 +2656,7 @@
     {
         "id": 30033,
         "seq": 30033,
-        "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3 2023",
+        "name": "カウントダウン 2023",
         "resourceBoxId": 30033,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2678,7 +2678,7 @@
     {
         "id": 30034,
         "seq": 30034,
-        "name": "\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc 2023 Leo\/need",
+        "name": "ニューイヤー 2023 Leo\/need",
         "resourceBoxId": 30034,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2700,7 +2700,7 @@
     {
         "id": 30035,
         "seq": 30035,
-        "name": "\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc 2023 MORE MORE JUMP\uff01",
+        "name": "ニューイヤー 2023 MORE MORE JUMP！",
         "resourceBoxId": 30035,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2722,7 +2722,7 @@
     {
         "id": 30036,
         "seq": 30036,
-        "name": "\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc 2023 Vivid BAD SQUAD",
+        "name": "ニューイヤー 2023 Vivid BAD SQUAD",
         "resourceBoxId": 30036,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2744,7 +2744,7 @@
     {
         "id": 30037,
         "seq": 30037,
-        "name": "\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc 2023 \u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0",
+        "name": "ニューイヤー 2023 ワンダーランズ×ショウタイム",
         "resourceBoxId": 30037,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2766,7 +2766,7 @@
     {
         "id": 30038,
         "seq": 30038,
-        "name": "\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc 2023 25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002",
+        "name": "ニューイヤー 2023 25時、ナイトコードで。",
         "resourceBoxId": 30038,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2788,7 +2788,7 @@
     {
         "id": 30039,
         "seq": 30039,
-        "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3 2023",
+        "name": "バレンタイン 2023",
         "resourceBoxId": 30039,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2810,7 +2810,7 @@
     {
         "id": 30040,
         "seq": 30040,
-        "name": "\u30db\u30ef\u30a4\u30c8\u30c7\u30fc 2023",
+        "name": "ホワイトデー 2023",
         "resourceBoxId": 30040,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2832,7 +2832,7 @@
     {
         "id": 30041,
         "seq": 30041,
-        "name": "\u4e03\u5915 2023",
+        "name": "七夕 2023",
         "resourceBoxId": 30041,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2854,7 +2854,7 @@
     {
         "id": 30042,
         "seq": 30042,
-        "name": "\u30cf\u30ed\u30a6\u30a3\u30f3 2023",
+        "name": "ハロウィン 2023",
         "resourceBoxId": 30042,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2876,7 +2876,7 @@
     {
         "id": 30043,
         "seq": 30043,
-        "name": "\u30af\u30ea\u30b9\u30de\u30b92023",
+        "name": "クリスマス2023",
         "resourceBoxId": 30043,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2898,7 +2898,7 @@
     {
         "id": 30044,
         "seq": 30044,
-        "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f32024",
+        "name": "カウントダウン2024",
         "resourceBoxId": 30044,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2920,7 +2920,7 @@
     {
         "id": 30045,
         "seq": 30045,
-        "name": "\u30cf\u30c3\u30d4\u30fc\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc2024",
+        "name": "ハッピーニューイヤー2024",
         "resourceBoxId": 30045,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2942,7 +2942,7 @@
     {
         "id": 30046,
         "seq": 30046,
-        "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f32024",
+        "name": "バレンタイン2024",
         "resourceBoxId": 30046,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2964,7 +2964,7 @@
     {
         "id": 40001,
         "seq": 40001,
-        "name": "\u30a6\u30a7\u30eb\u30ab\u30e0\u30e9\u30a4\u30d6 \u30d0\u30fc\u30c1\u30e3\u30eb\u30fb\u30b7\u30f3\u30ac\u30fc",
+        "name": "ウェルカムライブ バーチャル・シンガー",
         "resourceBoxId": 40001,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -2986,7 +2986,7 @@
     {
         "id": 40002,
         "seq": 40002,
-        "name": "\u30a6\u30a7\u30eb\u30ab\u30e0\u30e9\u30a4\u30d6 Leo\/need",
+        "name": "ウェルカムライブ Leo\/need",
         "resourceBoxId": 40002,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -3008,7 +3008,7 @@
     {
         "id": 40003,
         "seq": 40003,
-        "name": "\u30a6\u30a7\u30eb\u30ab\u30e0\u30e9\u30a4\u30d6 MORE MORE JUMP\uff01",
+        "name": "ウェルカムライブ MORE MORE JUMP！",
         "resourceBoxId": 40003,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -3030,7 +3030,7 @@
     {
         "id": 40004,
         "seq": 40004,
-        "name": "\u30a6\u30a7\u30eb\u30ab\u30e0\u30e9\u30a4\u30d6 Vivid BAD SQUAD",
+        "name": "ウェルカムライブ Vivid BAD SQUAD",
         "resourceBoxId": 40004,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -3052,7 +3052,7 @@
     {
         "id": 40005,
         "seq": 40005,
-        "name": "\u30a6\u30a7\u30eb\u30ab\u30e0\u30e9\u30a4\u30d6 \u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0",
+        "name": "ウェルカムライブ ワンダーランズ×ショウタイム",
         "resourceBoxId": 40005,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -3074,7 +3074,7 @@
     {
         "id": 40006,
         "seq": 40006,
-        "name": "\u30a6\u30a7\u30eb\u30ab\u30e0\u30e9\u30a4\u30d6 25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002",
+        "name": "ウェルカムライブ 25時、ナイトコードで。",
         "resourceBoxId": 40006,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [
@@ -3096,7 +3096,7 @@
     {
         "id": 40007,
         "seq": 40007,
-        "name": "\u30a6\u30a7\u30eb\u30ab\u30e0\u30e9\u30a4\u30d6 \u30aa\u30fc\u30eb\u30b9\u30bf\u30fc",
+        "name": "ウェルカムライブ オールスター",
         "resourceBoxId": 40007,
         "paidVirtualLiveShopItemPurchaseType": "single",
         "paidVirtualLiveShopCosts": [

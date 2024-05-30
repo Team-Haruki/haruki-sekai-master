@@ -3,518 +3,518 @@
         "id": 1,
         "eventId": 18,
         "seq": 1,
-        "teamName": "\u304a\u3060\u3093\u3054",
+        "teamName": "おだんご",
         "assetbundleName": "event_ohanami_2021_item_1"
     },
     {
         "id": 2,
         "eventId": 18,
         "seq": 2,
-        "teamName": "\u3055\u304f\u3089\u3082\u3061",
+        "teamName": "さくらもち",
         "assetbundleName": "event_ohanami_2021_item_2"
     },
     {
         "id": 3,
         "eventId": 21,
         "seq": 1,
-        "teamName": "\u30d1\u30f3\u30b1\u30fc\u30ad",
+        "teamName": "パンケーキ",
         "assetbundleName": "event_stray_2021_item_1"
     },
     {
         "id": 4,
         "eventId": 21,
         "seq": 2,
-        "teamName": "\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad",
+        "teamName": "チーズケーキ",
         "assetbundleName": "event_stray_2021_item_2"
     },
     {
         "id": 5,
         "eventId": 24,
         "seq": 1,
-        "teamName": "\u6d0b\u88c5",
+        "teamName": "洋装",
         "assetbundleName": "event_bridal_2021_item_1"
     },
     {
         "id": 6,
         "eventId": 24,
         "seq": 2,
-        "teamName": "\u548c\u88c5",
+        "teamName": "和装",
         "assetbundleName": "event_bridal_2021_item_2"
     },
     {
         "id": 7,
         "eventId": 27,
         "seq": 1,
-        "teamName": "\u5c4b\u4e0a",
+        "teamName": "屋上",
         "assetbundleName": "event_unnamed_2021_item_1"
     },
     {
         "id": 8,
         "eventId": 27,
         "seq": 2,
-        "teamName": "\u6559\u5ba4",
+        "teamName": "教室",
         "assetbundleName": "event_unnamed_2021_item_2"
     },
     {
         "id": 9,
         "eventId": 30,
         "seq": 1,
-        "teamName": "\u30dc\u30fc\u30c8",
+        "teamName": "ボート",
         "assetbundleName": "event_summer_2021_item_1"
     },
     {
         "id": 10,
         "eventId": 30,
         "seq": 2,
-        "teamName": "\u6d6e\u304d\u8f2a",
+        "teamName": "浮き輪",
         "assetbundleName": "event_summer_2021_item_2"
     },
     {
         "id": 11,
         "eventId": 33,
         "seq": 1,
-        "teamName": "\u6817",
+        "teamName": "栗",
         "assetbundleName": "event_moonrabbit_2021_item_1"
     },
     {
         "id": 12,
         "eventId": 33,
         "seq": 2,
-        "teamName": "\u67ff",
+        "teamName": "柿",
         "assetbundleName": "event_moonrabbit_2021_item_2"
     },
     {
         "id": 13,
         "eventId": 36,
         "seq": 1,
-        "teamName": "\u7f36\u30d0\u30c3\u30b8",
+        "teamName": "缶バッジ",
         "assetbundleName": "event_scramble_2021_item_1"
     },
     {
         "id": 14,
         "eventId": 36,
         "seq": 2,
-        "teamName": "\u30a2\u30af\u30ea\u30eb\u30ad\u30fc\u30db\u30eb\u30c0\u30fc",
+        "teamName": "アクリルキーホルダー",
         "assetbundleName": "event_scramble_2021_item_2"
     },
     {
         "id": 15,
         "eventId": 39,
         "seq": 1,
-        "teamName": "\u30ab\u30ec\u30fc\u30e9\u30a4\u30b9",
+        "teamName": "カレーライス",
         "assetbundleName": "event_ashiato_2021_item_1"
     },
     {
         "id": 16,
         "eventId": 39,
         "seq": 2,
-        "teamName": "\u30d5\u30e9\u30a4\u30c9\u30dd\u30c6\u30c8",
+        "teamName": "フライドポテト",
         "assetbundleName": "event_ashiato_2021_item_2"
     },
     {
         "id": 17,
         "eventId": 42,
         "seq": 1,
-        "teamName": "\u96ea",
+        "teamName": "雪",
         "assetbundleName": "event_melody_2021_item_1"
     },
     {
         "id": 18,
         "eventId": 42,
         "seq": 2,
-        "teamName": "\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3",
+        "teamName": "イルミネーション",
         "assetbundleName": "event_melody_2021_item_2"
     },
     {
         "id": 19,
         "eventId": 45,
         "seq": 1,
-        "teamName": "\u304b\u308b\u305f",
+        "teamName": "かるた",
         "assetbundleName": "event_prayer_2022_item_1"
     },
     {
         "id": 20,
         "eventId": 45,
         "seq": 2,
-        "teamName": "\u798f\u7b11\u3044",
+        "teamName": "福笑い",
         "assetbundleName": "event_prayer_2022_item_2"
     },
     {
         "id": 21,
         "eventId": 48,
         "seq": 1,
-        "teamName": "\u3042\u3052\u308b\u6d3e",
+        "teamName": "あげる派",
         "assetbundleName": "event_valentine_2022_item_1"
     },
     {
         "id": 22,
         "eventId": 48,
         "seq": 2,
-        "teamName": "\u3082\u3089\u3046\u6d3e",
+        "teamName": "もらう派",
         "assetbundleName": "event_valentine_2022_item_2"
     },
     {
         "id": 23,
         "eventId": 51,
         "seq": 1,
-        "teamName": "\u30d3\u30bf\u30fc",
+        "teamName": "ビター",
         "assetbundleName": "event_whiteday_2022_item_1"
     },
     {
         "id": 24,
         "eventId": 51,
         "seq": 2,
-        "teamName": "\u30df\u30eb\u30af",
+        "teamName": "ミルク",
         "assetbundleName": "event_whiteday_2022_item_2"
     },
     {
         "id": 25,
         "eventId": 54,
         "seq": 1,
-        "teamName": "\u685c\u30e9\u30c6",
+        "teamName": "桜ラテ",
         "assetbundleName": "event_sakura_2022_item_1"
     },
     {
         "id": 26,
         "eventId": 54,
         "seq": 2,
-        "teamName": "\u685c\u30b9\u30e0\u30fc\u30b8\u30fc",
+        "teamName": "桜スムージー",
         "assetbundleName": "event_sakura_2022_item_2"
     },
     {
         "id": 27,
         "eventId": 57,
         "seq": 1,
-        "teamName": "\u76db\u308a\u4e0a\u304c\u308b\u66f2",
+        "teamName": "盛り上がる曲",
         "assetbundleName": "event_painful_2022_item_1"
     },
     {
         "id": 28,
         "eventId": 57,
         "seq": 2,
-        "teamName": "\u3057\u3063\u3068\u308a\u3057\u305f\u66f2",
+        "teamName": "しっとりした曲",
         "assetbundleName": "event_painful_2022_item_2"
     },
     {
         "id": 29,
         "eventId": 60,
         "seq": 1,
-        "teamName": "\u30c1\u30e3\u30da\u30eb",
+        "teamName": "チャペル",
         "assetbundleName": "event_happiness_2022_item_1"
     },
     {
         "id": 30,
         "eventId": 60,
         "seq": 2,
-        "teamName": "\u30ac\u30fc\u30c7\u30f3",
+        "teamName": "ガーデン",
         "assetbundleName": "event_happiness_2022_item_2"
     },
     {
         "id": 31,
         "eventId": 63,
         "seq": 1,
-        "teamName": "\u91ce\u7403",
+        "teamName": "野球",
         "assetbundleName": "event_sports_2022_item_1"
     },
     {
         "id": 32,
         "eventId": 63,
         "seq": 2,
-        "teamName": "\u30b5\u30c3\u30ab\u30fc",
+        "teamName": "サッカー",
         "assetbundleName": "event_sports_2022_item_2"
     },
     {
         "id": 33,
         "eventId": 66,
         "seq": 1,
-        "teamName": "\u307f\u3069\u308a\u3077\u3088",
+        "teamName": "みどりぷよ",
         "assetbundleName": "event_cyber_2022_item_1"
     },
     {
         "id": 34,
         "eventId": 66,
         "seq": 2,
-        "teamName": "\u304a\u3058\u3083\u307e\u3077\u3088",
+        "teamName": "おじゃまぷよ",
         "assetbundleName": "event_cyber_2022_item_2"
     },
     {
         "id": 35,
         "eventId": 69,
         "seq": 1,
-        "teamName": "\u3068\u3093\u3053\u3064",
+        "teamName": "とんこつ",
         "assetbundleName": "event_faith_2022_item_1"
     },
     {
         "id": 36,
         "eventId": 69,
         "seq": 2,
-        "teamName": "\u3057\u3087\u3046\u3086",
+        "teamName": "しょうゆ",
         "assetbundleName": "event_faith_2022_item_2"
     },
     {
         "id": 37,
         "eventId": 72,
         "seq": 1,
-        "teamName": "\u308a\u3093\u3054\u98f4",
+        "teamName": "りんご飴",
         "assetbundleName": "event_festival_2022_item_1"
     },
     {
         "id": 38,
         "eventId": 72,
         "seq": 2,
-        "teamName": "\u308f\u305f\u3042\u3081",
+        "teamName": "わたあめ",
         "assetbundleName": "event_festival_2022_item_2"
     },
     {
         "id": 39,
         "eventId": 75,
         "seq": 1,
-        "teamName": "\u30ab\u30d5\u30a7",
+        "teamName": "カフェ",
         "assetbundleName": "event_scream_2022_item_1"
     },
     {
         "id": 40,
         "eventId": 75,
         "seq": 2,
-        "teamName": "\u304a\u5316\u3051\u5c4b\u6577",
+        "teamName": "お化け屋敷",
         "assetbundleName": "event_scream_2022_item_2"
     },
     {
         "id": 41,
         "eventId": 78,
         "seq": 1,
-        "teamName": "\u30c6\u30ec\u30d3\u756a\u7d44",
+        "teamName": "テレビ番組",
         "assetbundleName": "event_beyond_2022_item_1"
     },
     {
         "id": 42,
         "eventId": 78,
         "seq": 2,
-        "teamName": "\u30cd\u30c3\u30c8\u914d\u4fe1",
+        "teamName": "ネット配信",
         "assetbundleName": "event_beyond_2022_item_2"
     },
     {
         "id": 43,
         "eventId": 81,
         "seq": 1,
-        "teamName": "\u5c71",
+        "teamName": "山",
         "assetbundleName": "event_liondance_2023_item_1"
     },
     {
         "id": 44,
         "eventId": 81,
         "seq": 2,
-        "teamName": "\u6d77",
+        "teamName": "海",
         "assetbundleName": "event_liondance_2023_item_2"
     },
     {
         "id": 45,
         "eventId": 84,
         "seq": 1,
-        "teamName": "\u30b7\u30c8\u30e9\u30b9\u7cfb",
+        "teamName": "シトラス系",
         "assetbundleName": "event_candle_2023_item_1"
     },
     {
         "id": 46,
         "eventId": 84,
         "seq": 2,
-        "teamName": "\u30d5\u30ed\u30fc\u30e9\u30eb\u7cfb",
+        "teamName": "フローラル系",
         "assetbundleName": "event_candle_2023_item_2"
     },
     {
         "id": 47,
         "eventId": 87,
         "seq": 1,
-        "teamName": "\u30b3\u30fc\u30d2\u30fc",
+        "teamName": "コーヒー",
         "assetbundleName": "event_cooking_2023_item_1"
     },
     {
         "id": 48,
         "eventId": 87,
         "seq": 2,
-        "teamName": "\u7d05\u8336",
+        "teamName": "紅茶",
         "assetbundleName": "event_cooking_2023_item_2"
     },
     {
         "id": 49,
         "eventId": 90,
         "seq": 1,
-        "teamName": "\u91d1\u9b5a",
+        "teamName": "金魚",
         "assetbundleName": "event_citycorner_2023_item_1"
     },
     {
         "id": 50,
         "eventId": 90,
         "seq": 2,
-        "teamName": "\u30b0\u30c3\u30d4\u30fc",
+        "teamName": "グッピー",
         "assetbundleName": "event_citycorner_2023_item_2"
     },
     {
         "id": 51,
         "eventId": 93,
         "seq": 1,
-        "teamName": "\u30d5\u30a1\u30df\u30ec\u30b9",
+        "teamName": "ファミレス",
         "assetbundleName": "event_runaway_2023_item_1"
     },
     {
         "id": 52,
         "eventId": 93,
         "seq": 2,
-        "teamName": "\u30ab\u30e9\u30aa\u30b1",
+        "teamName": "カラオケ",
         "assetbundleName": "event_runaway_2023_item_2"
     },
     {
         "id": 53,
         "eventId": 96,
         "seq": 1,
-        "teamName": "\u30b1\u30fc\u30ad\u30ab\u30c3\u30c8",
+        "teamName": "ケーキカット",
         "assetbundleName": "event_neighbor_2023_item_1"
     },
     {
         "id": 54,
         "eventId": 96,
         "seq": 2,
-        "teamName": "\u30d6\u30fc\u30b1\u30c8\u30b9",
+        "teamName": "ブーケトス",
         "assetbundleName": "event_neighbor_2023_item_2"
     },
     {
         "id": 55,
         "eventId": 99,
         "seq": 1,
-        "teamName": "\u548c\u83d3\u5b50\u4f5c\u308a",
+        "teamName": "和菓子作り",
         "assetbundleName": "event_pandemonium_2023_item_1"
     },
     {
         "id": 56,
         "eventId": 99,
         "seq": 2,
-        "teamName": "\u8336\u9053",
+        "teamName": "茶道",
         "assetbundleName": "event_pandemonium_2023_item_2"
     },
     {
         "id": 57,
         "eventId": 102,
         "seq": 1,
-        "teamName": "\u3044\u3061\u3054\u30d1\u30d5\u30a7",
+        "teamName": "いちごパフェ",
         "assetbundleName": "event_recording_2023_item_1"
     },
     {
         "id": 58,
         "eventId": 102,
         "seq": 2,
-        "teamName": "\u30d7\u30ea\u30f3\u30a2\u30e9\u30e2\u30fc\u30c9",
+        "teamName": "プリンアラモード",
         "assetbundleName": "event_recording_2023_item_2"
     },
     {
         "id": 59,
         "eventId": 105,
         "seq": 1,
-        "teamName": "\u6b4c",
+        "teamName": "歌",
         "assetbundleName": "event_resound_2023_item_1"
     },
     {
         "id": 60,
         "eventId": 105,
         "seq": 2,
-        "teamName": "\u6f14\u594f",
+        "teamName": "演奏",
         "assetbundleName": "event_resound_2023_item_2"
     },
     {
         "id": 61,
         "eventId": 108,
         "seq": 1,
-        "teamName": "\u653e\u9001\u59d4\u54e1\u4f1a",
+        "teamName": "放送委員会",
         "assetbundleName": "event_hello_2023_item_1"
     },
     {
         "id": 62,
         "eventId": 108,
         "seq": 2,
-        "teamName": "\u98fc\u80b2\u59d4\u54e1\u4f1a",
+        "teamName": "飼育委員会",
         "assetbundleName": "event_hello_2023_item_2"
     },
     {
         "id": 63,
         "eventId": 111,
         "seq": 1,
-        "teamName": "\u6e29\u6cc9\u307e\u3093\u3058\u3085\u3046",
+        "teamName": "温泉まんじゅう",
         "assetbundleName": "event_warmth_2023_item_1"
     },
     {
         "id": 64,
         "eventId": 111,
         "seq": 2,
-        "teamName": "\u6e29\u6cc9\u5375",
+        "teamName": "温泉卵",
         "assetbundleName": "event_warmth_2023_item_2"
     },
     {
         "id": 65,
         "eventId": 114,
         "seq": 1,
-        "teamName": "\u30a2\u30af\u30b7\u30e7\u30f3",
+        "teamName": "アクション",
         "assetbundleName": "event_crankup_2023_item_1"
     },
     {
         "id": 66,
         "eventId": 114,
         "seq": 2,
-        "teamName": "\u30b3\u30e1\u30c7\u30a3",
+        "teamName": "コメディ",
         "assetbundleName": "event_crankup_2023_item_2"
     },
     {
         "id": 67,
         "eventId": 117,
         "seq": 1,
-        "teamName": "\u304a\u96d1\u716e",
+        "teamName": "お雑煮",
         "assetbundleName": "event_cuddle_2023_item_1"
     },
     {
         "id": 68,
         "eventId": 117,
         "seq": 2,
-        "teamName": "\u304a\u305b\u3061",
+        "teamName": "おせち",
         "assetbundleName": "event_cuddle_2023_item_2"
     },
     {
         "id": 69,
         "eventId": 120,
         "seq": 1,
-        "teamName": "\u30ab\u30e1\u30e9",
+        "teamName": "カメラ",
         "assetbundleName": "event_bestshot_2024_item_1"
     },
     {
         "id": 70,
         "eventId": 120,
         "seq": 2,
-        "teamName": "\u30b9\u30de\u30db",
+        "teamName": "スマホ",
         "assetbundleName": "event_bestshot_2024_item_2"
     },
     {
         "id": 71,
         "eventId": 123,
         "seq": 1,
-        "teamName": "\u30cf\u30fc\u30d6\u30c6\u30a3\u30fc",
+        "teamName": "ハーブティー",
         "assetbundleName": "event_teatime_2024_item_1"
     },
     {
         "id": 72,
         "eventId": 123,
         "seq": 2,
-        "teamName": "\u30b8\u30f3\u30b8\u30e3\u30fc\u30c6\u30a3\u30fc",
+        "teamName": "ジンジャーティー",
         "assetbundleName": "event_teatime_2024_item_2"
     },
     {
         "id": 73,
         "eventId": 126,
         "seq": 1,
-        "teamName": "\u30d5\u30ea\u30b9\u30d3\u30fc",
+        "teamName": "フリスビー",
         "assetbundleName": "event_rise_2024_item_1"
     },
     {
         "id": 74,
         "eventId": 126,
         "seq": 2,
-        "teamName": "\u304a\u6563\u6b69",
+        "teamName": "お散歩",
         "assetbundleName": "event_rise_2024_item_2"
     }
 ]

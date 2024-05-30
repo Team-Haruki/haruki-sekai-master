@@ -2,685 +2,685 @@
     {
         "id": 1,
         "seq": 10,
-        "name": "\u672a\u8a2d\u5b9a",
+        "name": "未設定",
         "assetbundleName": "default"
     },
     {
         "id": 101,
         "seq": 101,
-        "name": "\u4e00\u6b4c\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "一歌サポーターシャツ",
         "assetbundleName": "avatar_costume_0001"
     },
     {
         "id": 102,
         "seq": 102,
-        "name": "\u54b2\u5e0c\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "咲希サポーターシャツ",
         "assetbundleName": "avatar_costume_0002"
     },
     {
         "id": 103,
         "seq": 103,
-        "name": "\u7a42\u6ce2\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "穂波サポーターシャツ",
         "assetbundleName": "avatar_costume_0003"
     },
     {
         "id": 104,
         "seq": 104,
-        "name": "\u5fd7\u6b69\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "志歩サポーターシャツ",
         "assetbundleName": "avatar_costume_0004"
     },
     {
         "id": 105,
         "seq": 105,
-        "name": "\u307f\u306e\u308a\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "みのりサポーターシャツ",
         "assetbundleName": "avatar_costume_0005"
     },
     {
         "id": 106,
         "seq": 106,
-        "name": "\u9065\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "遥サポーターシャツ",
         "assetbundleName": "avatar_costume_0006"
     },
     {
         "id": 107,
         "seq": 107,
-        "name": "\u611b\u8389\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "愛莉サポーターシャツ",
         "assetbundleName": "avatar_costume_0007"
     },
     {
         "id": 108,
         "seq": 108,
-        "name": "\u96eb\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "雫サポーターシャツ",
         "assetbundleName": "avatar_costume_0008"
     },
     {
         "id": 109,
         "seq": 109,
-        "name": "\u3053\u306f\u306d\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "こはねサポーターシャツ",
         "assetbundleName": "avatar_costume_0009"
     },
     {
         "id": 110,
         "seq": 110,
-        "name": "\u674f\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "杏サポーターシャツ",
         "assetbundleName": "avatar_costume_0010"
     },
     {
         "id": 111,
         "seq": 111,
-        "name": "\u5f70\u4eba\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "彰人サポーターシャツ",
         "assetbundleName": "avatar_costume_0011"
     },
     {
         "id": 112,
         "seq": 112,
-        "name": "\u51ac\u5f25\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "冬弥サポーターシャツ",
         "assetbundleName": "avatar_costume_0012"
     },
     {
         "id": 113,
         "seq": 113,
-        "name": "\u53f8\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "司サポーターシャツ",
         "assetbundleName": "avatar_costume_0013"
     },
     {
         "id": 114,
         "seq": 114,
-        "name": "\u3048\u3080\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "えむサポーターシャツ",
         "assetbundleName": "avatar_costume_0014"
     },
     {
         "id": 115,
         "seq": 115,
-        "name": "\u5be7\u3005\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "寧々サポーターシャツ",
         "assetbundleName": "avatar_costume_0015"
     },
     {
         "id": 116,
         "seq": 116,
-        "name": "\u985e\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "類サポーターシャツ",
         "assetbundleName": "avatar_costume_0016"
     },
     {
         "id": 117,
         "seq": 117,
-        "name": "\u594f\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "奏サポーターシャツ",
         "assetbundleName": "avatar_costume_0017"
     },
     {
         "id": 118,
         "seq": 118,
-        "name": "\u307e\u3075\u3086\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "まふゆサポーターシャツ",
         "assetbundleName": "avatar_costume_0018"
     },
     {
         "id": 119,
         "seq": 119,
-        "name": "\u7d75\u540d\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "絵名サポーターシャツ",
         "assetbundleName": "avatar_costume_0019"
     },
     {
         "id": 120,
         "seq": 120,
-        "name": "\u745e\u5e0c\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "瑞希サポーターシャツ",
         "assetbundleName": "avatar_costume_0020"
     },
     {
         "id": 121,
         "seq": 121,
-        "name": "\u30df\u30af\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "ミクサポーターシャツ",
         "assetbundleName": "avatar_costume_0021"
     },
     {
         "id": 122,
         "seq": 122,
-        "name": "\u30ea\u30f3\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "リンサポーターシャツ",
         "assetbundleName": "avatar_costume_0022"
     },
     {
         "id": 123,
         "seq": 123,
-        "name": "\u30ec\u30f3\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "レンサポーターシャツ",
         "assetbundleName": "avatar_costume_0023"
     },
     {
         "id": 124,
         "seq": 124,
-        "name": "\u30eb\u30ab\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "ルカサポーターシャツ",
         "assetbundleName": "avatar_costume_0024"
     },
     {
         "id": 125,
         "seq": 125,
-        "name": "MEIKO\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "MEIKOサポーターシャツ",
         "assetbundleName": "avatar_costume_0025"
     },
     {
         "id": 126,
         "seq": 126,
-        "name": "KAITO\u30b5\u30dd\u30fc\u30bf\u30fc\u30b7\u30e3\u30c4",
+        "name": "KAITOサポーターシャツ",
         "assetbundleName": "avatar_costume_0026"
     },
     {
         "id": 127,
         "seq": 127,
-        "name": "Leo\/need\u5fdc\u63f4\u6cd5\u88ab",
+        "name": "Leo\/need応援法被",
         "assetbundleName": "avatar_costume_0027"
     },
     {
         "id": 128,
         "seq": 128,
-        "name": "MORE MORE JUMP\uff01\u5fdc\u63f4\u6cd5\u88ab",
+        "name": "MORE MORE JUMP！応援法被",
         "assetbundleName": "avatar_costume_0028"
     },
     {
         "id": 129,
         "seq": 129,
-        "name": "Vivid BAD SQUAD\u5fdc\u63f4\u6cd5\u88ab",
+        "name": "Vivid BAD SQUAD応援法被",
         "assetbundleName": "avatar_costume_0029"
     },
     {
         "id": 130,
         "seq": 130,
-        "name": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0\u5fdc\u63f4\u6cd5\u88ab",
+        "name": "ワンダーランズ×ショウタイム応援法被",
         "assetbundleName": "avatar_costume_0030"
     },
     {
         "id": 131,
         "seq": 131,
-        "name": "25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002\u5fdc\u63f4\u6cd5\u88ab",
+        "name": "25時、ナイトコードで。応援法被",
         "assetbundleName": "avatar_costume_0031"
     },
     {
         "id": 132,
         "seq": 132,
-        "name": "\u30d0\u30fc\u30c1\u30e3\u30eb\u30fb\u30b7\u30f3\u30ac\u30fc\u5fdc\u63f4\u6cd5\u88ab",
+        "name": "バーチャル・シンガー応援法被",
         "assetbundleName": "avatar_costume_0032"
     },
     {
         "id": 138,
         "seq": 138,
-        "name": "\u30e9\u30c3\u30b3\u30b7\u30e3\u30c4",
+        "name": "ラッコシャツ",
         "assetbundleName": "avatar_costume_0038"
     },
     {
         "id": 139,
         "seq": 139,
-        "name": "\u63a8\u3057\u304c\u5c0a\u3044\u30b7\u30e3\u30c4",
+        "name": "推しが尊いシャツ",
         "assetbundleName": "avatar_costume_0039"
     },
     {
         "id": 140,
         "seq": 140,
-        "name": "\u304a\u3060\u3093\u3054\u5927\u597d\u304d\u30b7\u30e3\u30c4",
+        "name": "おだんご大好きシャツ",
         "assetbundleName": "avatar_costume_0040"
     },
     {
         "id": 141,
         "seq": 141,
-        "name": "\u3055\u304f\u3089\u3082\u3061\u5927\u597d\u304d\u30b7\u30e3\u30c4",
+        "name": "さくらもち大好きシャツ",
         "assetbundleName": "avatar_costume_0041"
     },
     {
         "id": 142,
         "seq": 142,
-        "name": "\u30d1\u30f3\u30b1\u30fc\u30ad\u5927\u597d\u304d\u30b7\u30e3\u30c4",
+        "name": "パンケーキ大好きシャツ",
         "assetbundleName": "avatar_costume_0042"
     },
     {
         "id": 143,
         "seq": 143,
-        "name": "\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u5927\u597d\u304d\u30b7\u30e3\u30c4",
+        "name": "チーズケーキ大好きシャツ",
         "assetbundleName": "avatar_costume_0043"
     },
     {
         "id": 144,
         "seq": 144,
-        "name": "\u6d0b\u88c5\u30d6\u30e9\u30a4\u30c0\u30eb\u6d3e\u30b7\u30e3\u30c4",
+        "name": "洋装ブライダル派シャツ",
         "assetbundleName": "avatar_costume_0044"
     },
     {
         "id": 145,
         "seq": 145,
-        "name": "\u548c\u88c5\u30d6\u30e9\u30a4\u30c0\u30eb\u6d3e\u30b7\u30e3\u30c4",
+        "name": "和装ブライダル派シャツ",
         "assetbundleName": "avatar_costume_0045"
     },
     {
         "id": 146,
         "seq": 146,
-        "name": "\u5c4b\u4e0a\u3067\u98df\u3079\u3088\u3046\u30b7\u30e3\u30c4",
+        "name": "屋上で食べようシャツ",
         "assetbundleName": "avatar_costume_0046"
     },
     {
         "id": 147,
         "seq": 147,
-        "name": "\u6559\u5ba4\u3067\u98df\u3079\u3088\u3046\u30b7\u30e3\u30c4",
+        "name": "教室で食べようシャツ",
         "assetbundleName": "avatar_costume_0047"
     },
     {
         "id": 148,
         "seq": 148,
-        "name": "\u30dc\u30fc\u30c8\u3067\u6ce2\u306b\u63fa\u3089\u308c\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "ボートで波に揺られたいTシャツ",
         "assetbundleName": "avatar_costume_0048"
     },
     {
         "id": 149,
         "seq": 149,
-        "name": "\u6d6e\u304d\u8f2a\u3067\u6ce2\u306b\u63fa\u3089\u308c\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "浮き輪で波に揺られたいTシャツ",
         "assetbundleName": "avatar_costume_0049"
     },
     {
         "id": 150,
         "seq": 150,
-        "name": "\u6817\u5927\u597d\u304d\uff34\u30b7\u30e3\u30c4",
+        "name": "栗大好きＴシャツ",
         "assetbundleName": "avatar_costume_0050"
     },
     {
         "id": 151,
         "seq": 151,
-        "name": "\u67ff\u5927\u597d\u304d\uff34\u30b7\u30e3\u30c4",
+        "name": "柿大好きＴシャツ",
         "assetbundleName": "avatar_costume_0051"
     },
     {
         "id": 152,
         "seq": 152,
-        "name": "1st Anniversary\u30b7\u30e3\u30c4",
+        "name": "1st Anniversaryシャツ",
         "assetbundleName": "avatar_costume_0052"
     },
     {
         "id": 153,
         "seq": 153,
-        "name": "\u7f36\u30d0\u30c3\u30b8\u96c6\u3081\u305f\u3044\uff34\u30b7\u30e3\u30c4",
+        "name": "缶バッジ集めたいＴシャツ",
         "assetbundleName": "avatar_costume_0053"
     },
     {
         "id": 154,
         "seq": 154,
-        "name": "\u30a2\u30af\u30ad\u30fc\u96c6\u3081\u305f\u3044\uff34\u30b7\u30e3\u30c4",
+        "name": "アクキー集めたいＴシャツ",
         "assetbundleName": "avatar_costume_0054"
     },
     {
         "id": 155,
         "seq": 155,
-        "name": "\u300cCRASH\u300d\u30e9\u30a4\u30d6T\u30b7\u30e3\u30c4\uff08\u767d\uff09",
+        "name": "「CRASH」ライブTシャツ（白）",
         "assetbundleName": "avatar_costume_0055"
     },
     {
         "id": 156,
         "seq": 156,
-        "name": "\u300cCRASH\u300d\u30e9\u30a4\u30d6T\u30b7\u30e3\u30c4\uff08\u9ed2\uff09",
+        "name": "「CRASH」ライブTシャツ（黒）",
         "assetbundleName": "avatar_costume_0056"
     },
     {
         "id": 157,
         "seq": 157,
-        "name": "\u30ab\u30ec\u30fc\u30e9\u30a4\u30b9\u5927\u597d\u304d\uff34\u30b7\u30e3\u30c4",
+        "name": "カレーライス大好きＴシャツ",
         "assetbundleName": "avatar_costume_0057"
     },
     {
         "id": 158,
         "seq": 158,
-        "name": "\u30d5\u30e9\u30a4\u30c9\u30dd\u30c6\u30c8\u5927\u597d\u304d\uff34\u30b7\u30e3\u30c4",
+        "name": "フライドポテト大好きＴシャツ",
         "assetbundleName": "avatar_costume_0058"
     },
     {
         "id": 159,
         "seq": 159,
-        "name": "\u96ea\u5927\u597d\u304d\uff34\u30b7\u30e3\u30c4",
+        "name": "雪大好きＴシャツ",
         "assetbundleName": "avatar_costume_0059"
     },
     {
         "id": 160,
         "seq": 160,
-        "name": "\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3\u5927\u597d\u304d\uff34\u30b7\u30e3\u30c4",
+        "name": "イルミネーション大好きＴシャツ",
         "assetbundleName": "avatar_costume_0060"
     },
     {
         "id": 161,
         "seq": 161,
-        "name": "\u304b\u308b\u305f\u3067\u904a\u307c\u3046\uff34\u30b7\u30e3\u30c4",
+        "name": "かるたで遊ぼうＴシャツ",
         "assetbundleName": "avatar_costume_0061"
     },
     {
         "id": 162,
         "seq": 162,
-        "name": "\u798f\u7b11\u3044\u3067\u904a\u307c\u3046\uff34\u30b7\u30e3\u30c4",
+        "name": "福笑いで遊ぼうＴシャツ",
         "assetbundleName": "avatar_costume_0062"
     },
     {
         "id": 163,
         "seq": 163,
-        "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u3042\u3052\u305f\u3044\uff34\u30b7\u30e3\u30c4",
+        "name": "バレンタインあげたいＴシャツ",
         "assetbundleName": "avatar_costume_0063"
     },
     {
         "id": 164,
         "seq": 164,
-        "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u3082\u3089\u3044\u305f\u3044\uff34\u30b7\u30e3\u30c4",
+        "name": "バレンタインもらいたいＴシャツ",
         "assetbundleName": "avatar_costume_0064"
     },
     {
         "id": 165,
         "seq": 165,
-        "name": "\u30d3\u30bf\u30fc\u30c1\u30e7\u30b3\u5927\u597d\u304d\uff34\u30b7\u30e3\u30c4",
+        "name": "ビターチョコ大好きＴシャツ",
         "assetbundleName": "avatar_costume_0065"
     },
     {
         "id": 166,
         "seq": 166,
-        "name": "\u30df\u30eb\u30af\u30c1\u30e7\u30b3\u5927\u597d\u304d\uff34\u30b7\u30e3\u30c4",
+        "name": "ミルクチョコ大好きＴシャツ",
         "assetbundleName": "avatar_costume_0066"
     },
     {
         "id": 167,
         "seq": 167,
-        "name": "\u685c\u30e9\u30c6\u98f2\u307f\u305f\u3044\uff34\u30b7\u30e3\u30c4",
+        "name": "桜ラテ飲みたいＴシャツ",
         "assetbundleName": "avatar_costume_0067"
     },
     {
         "id": 168,
         "seq": 168,
-        "name": "\u685c\u30b9\u30e0\u30fc\u30b8\u30fc\u98f2\u307f\u305f\u3044\uff34\u30b7\u30e3\u30c4",
+        "name": "桜スムージー飲みたいＴシャツ",
         "assetbundleName": "avatar_costume_0068"
     },
     {
         "id": 169,
         "seq": 169,
-        "name": "\u76db\u308a\u4e0a\u304c\u308b\u66f2\u8074\u304d\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "盛り上がる曲聴きたいTシャツ",
         "assetbundleName": "avatar_costume_0069"
     },
     {
         "id": 170,
         "seq": 170,
-        "name": "\u3057\u3063\u3068\u308a\u3057\u305f\u66f2\u8074\u304d\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "しっとりした曲聴きたいTシャツ",
         "assetbundleName": "avatar_costume_0070"
     },
     {
         "id": 171,
         "seq": 171,
-        "name": "\u30c1\u30e3\u30da\u30eb\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u6d3eT\u30b7\u30e3\u30c4",
+        "name": "チャペルウェディング派Tシャツ",
         "assetbundleName": "avatar_costume_0071"
     },
     {
         "id": 172,
         "seq": 172,
-        "name": "\u30ac\u30fc\u30c7\u30f3\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u6d3eT\u30b7\u30e3\u30c4",
+        "name": "ガーデンウェディング派Tシャツ",
         "assetbundleName": "avatar_costume_0072"
     },
     {
         "id": 173,
         "seq": 173,
-        "name": "\u91ce\u7403\u3067\u904a\u307c\u3046T\u30b7\u30e3\u30c4",
+        "name": "野球で遊ぼうTシャツ",
         "assetbundleName": "avatar_costume_0073"
     },
     {
         "id": 174,
         "seq": 174,
-        "name": "\u30b5\u30c3\u30ab\u30fc\u3067\u904a\u307c\u3046T\u30b7\u30e3\u30c4",
+        "name": "サッカーで遊ぼうTシャツ",
         "assetbundleName": "avatar_costume_0074"
     },
     {
         "id": 175,
         "seq": 175,
-        "name": "\u307f\u3069\u308a\u3077\u3088\u6d88\u3057\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "みどりぷよ消したいTシャツ",
         "assetbundleName": "avatar_costume_0075"
     },
     {
         "id": 176,
         "seq": 176,
-        "name": "\u304a\u3058\u3083\u307e\u3077\u3088\u6d88\u3057\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "おじゃまぷよ消したいTシャツ",
         "assetbundleName": "avatar_costume_0076"
     },
     {
         "id": 177,
         "seq": 177,
-        "name": "\u3068\u3093\u3053\u3064\u30e9\u30fc\u30e1\u30f3\u98df\u3079\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "とんこつラーメン食べたいTシャツ",
         "assetbundleName": "avatar_costume_0077"
     },
     {
         "id": 178,
         "seq": 178,
-        "name": "\u3057\u3087\u3046\u3086\u30e9\u30fc\u30e1\u30f3\u98df\u3079\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "しょうゆラーメン食べたいTシャツ",
         "assetbundleName": "avatar_costume_0078"
     },
     {
         "id": 179,
         "seq": 179,
-        "name": "\u300c2nd ANNIVERSARY SPECIAL STAGE\u300d\u30b9\u30da\u30b7\u30e3\u30eb\u30e9\u30a4\u30d6T\u30b7\u30e3\u30c4",
+        "name": "「2nd ANNIVERSARY SPECIAL STAGE」スペシャルライブTシャツ",
         "assetbundleName": "avatar_costume_0079"
     },
     {
         "id": 180,
         "seq": 180,
-        "name": "\u300c2nd ANNIVERSARY SPECIAL STAGE\u300d\u30e9\u30a4\u30d6T\u30b7\u30e3\u30c4\uff08\u767d\uff09",
+        "name": "「2nd ANNIVERSARY SPECIAL STAGE」ライブTシャツ（白）",
         "assetbundleName": "avatar_costume_0080"
     },
     {
         "id": 181,
         "seq": 181,
-        "name": "\u300c2nd ANNIVERSARY SPECIAL STAGE\u300d\u30e9\u30a4\u30d6T\u30b7\u30e3\u30c4\uff08\u9ed2\uff09",
+        "name": "「2nd ANNIVERSARY SPECIAL STAGE」ライブTシャツ（黒）",
         "assetbundleName": "avatar_costume_0081"
     },
     {
         "id": 182,
         "seq": 182,
-        "name": "\u308a\u3093\u3054\u98f4\u98df\u3079\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "りんご飴食べたいTシャツ",
         "assetbundleName": "avatar_costume_0082"
     },
     {
         "id": 183,
         "seq": 183,
-        "name": "\u308f\u305f\u3042\u3081\u98df\u3079\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "わたあめ食べたいTシャツ",
         "assetbundleName": "avatar_costume_0083"
     },
     {
         "id": 184,
         "seq": 184,
-        "name": "\u6587\u5316\u796d\u3067\u30ab\u30d5\u30a7\u3057\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "文化祭でカフェしたいTシャツ",
         "assetbundleName": "avatar_costume_0084"
     },
     {
         "id": 185,
         "seq": 185,
-        "name": "\u6587\u5316\u796d\u3067\u304a\u5316\u3051\u5c4b\u6577\u3057\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "文化祭でお化け屋敷したいTシャツ",
         "assetbundleName": "avatar_costume_0085"
     },
     {
         "id": 186,
         "seq": 186,
-        "name": "\u30c6\u30ec\u30d3\u756a\u7d44\u3088\u304f\u898b\u308bT\u30b7\u30e3\u30c4",
+        "name": "テレビ番組よく見るTシャツ",
         "assetbundleName": "avatar_costume_0086"
     },
     {
         "id": 187,
         "seq": 187,
-        "name": "\u30cd\u30c3\u30c8\u914d\u4fe1\u3088\u304f\u898b\u308bT\u30b7\u30e3\u30c4",
+        "name": "ネット配信よく見るTシャツ",
         "assetbundleName": "avatar_costume_0087"
     },
     {
         "id": 188,
         "seq": 188,
-        "name": "\u5c71\u3067\u521d\u65e5\u306e\u51fa\u898b\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "山で初日の出見たいTシャツ",
         "assetbundleName": "avatar_costume_0088"
     },
     {
         "id": 189,
         "seq": 189,
-        "name": "\u6d77\u3067\u521d\u65e5\u306e\u51fa\u898b\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "海で初日の出見たいTシャツ",
         "assetbundleName": "avatar_costume_0089"
     },
     {
         "id": 190,
         "seq": 190,
-        "name": "\u30b7\u30c8\u30e9\u30b9\u7cfb\u306e\u9999\u308a\u5927\u597d\u304dT\u30b7\u30e3\u30c4",
+        "name": "シトラス系の香り大好きTシャツ",
         "assetbundleName": "avatar_costume_0090"
     },
     {
         "id": 191,
         "seq": 191,
-        "name": "\u30d5\u30ed\u30fc\u30e9\u30eb\u7cfb\u306e\u9999\u308a\u5927\u597d\u304dT\u30b7\u30e3\u30c4",
+        "name": "フローラル系の香り大好きTシャツ",
         "assetbundleName": "avatar_costume_0091"
     },
     {
         "id": 192,
         "seq": 192,
-        "name": "\u30b3\u30fc\u30d2\u30fc\u5927\u597d\u304dT\u30b7\u30e3\u30c4",
+        "name": "コーヒー大好きTシャツ",
         "assetbundleName": "avatar_costume_0092"
     },
     {
         "id": 193,
         "seq": 193,
-        "name": "\u7d05\u8336\u5927\u597d\u304dT\u30b7\u30e3\u30c4",
+        "name": "紅茶大好きTシャツ",
         "assetbundleName": "avatar_costume_0093"
     },
     {
         "id": 194,
         "seq": 194,
-        "name": "\u91d1\u9b5a\u5927\u597d\u304dT\u30b7\u30e3\u30c4",
+        "name": "金魚大好きTシャツ",
         "assetbundleName": "avatar_costume_0094"
     },
     {
         "id": 195,
         "seq": 195,
-        "name": "\u30b0\u30c3\u30d4\u30fc\u5927\u597d\u304dT\u30b7\u30e3\u30c4",
+        "name": "グッピー大好きTシャツ",
         "assetbundleName": "avatar_costume_0095"
     },
     {
         "id": 196,
         "seq": 196,
-        "name": "\u300cJUMPIN\uff01\u300d\u30e9\u30a4\u30d6T\u30b7\u30e3\u30c4\uff08\u767d\uff09",
+        "name": "「JUMPIN！」ライブTシャツ（白）",
         "assetbundleName": "avatar_costume_0096"
     },
     {
         "id": 197,
         "seq": 197,
-        "name": "\u300cJUMPIN\uff01\u300d\u30e9\u30a4\u30d6T\u30b7\u30e3\u30c4\uff08\u9ed2\uff09",
+        "name": "「JUMPIN！」ライブTシャツ（黒）",
         "assetbundleName": "avatar_costume_0097"
     },
     {
         "id": 198,
         "seq": 200,
-        "name": "\u300cSPARKLE\u300d\u30e9\u30a4\u30d6T\u30b7\u30e3\u30c4\uff08\u767d\uff09",
+        "name": "「SPARKLE」ライブTシャツ（白）",
         "assetbundleName": "avatar_costume_0098"
     },
     {
         "id": 199,
         "seq": 201,
-        "name": "\u300cSPARKLE\u300d\u30e9\u30a4\u30d6T\u30b7\u30e3\u30c4\uff08\u9ed2\uff09",
+        "name": "「SPARKLE」ライブTシャツ（黒）",
         "assetbundleName": "avatar_costume_0099"
     },
     {
         "id": 200,
         "seq": 198,
-        "name": "\u30d5\u30a1\u30df\u30ec\u30b9\u884c\u304d\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "ファミレス行きたいTシャツ",
         "assetbundleName": "avatar_costume_0100"
     },
     {
         "id": 201,
         "seq": 199,
-        "name": "\u30ab\u30e9\u30aa\u30b1\u884c\u304d\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "カラオケ行きたいTシャツ",
         "assetbundleName": "avatar_costume_0101"
     },
     {
         "id": 202,
         "seq": 202,
-        "name": "\u30b1\u30fc\u30ad\u30ab\u30c3\u30c8\u5927\u597d\u304dT\u30b7\u30e3\u30c4",
+        "name": "ケーキカット大好きTシャツ",
         "assetbundleName": "avatar_costume_0102"
     },
     {
         "id": 203,
         "seq": 203,
-        "name": "\u30d6\u30fc\u30b1\u30c8\u30b9\u5927\u597d\u304dT\u30b7\u30e3\u30c4",
+        "name": "ブーケトス大好きTシャツ",
         "assetbundleName": "avatar_costume_0103"
     },
     {
         "id": 204,
         "seq": 204,
-        "name": "\u548c\u83d3\u5b50\u4f5c\u308a\u4f53\u9a13\u3057\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "和菓子作り体験したいTシャツ",
         "assetbundleName": "avatar_costume_0104"
     },
     {
         "id": 205,
         "seq": 205,
-        "name": "\u8336\u9053\u4f53\u9a13\u3057\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "茶道体験したいTシャツ",
         "assetbundleName": "avatar_costume_0105"
     },
     {
         "id": 206,
         "seq": 206,
-        "name": "\u300cmoment\u300d\u30e9\u30a4\u30d6T\u30b7\u30e3\u30c4\uff08\u767d\uff09",
+        "name": "「moment」ライブTシャツ（白）",
         "assetbundleName": "avatar_costume_0106"
     },
     {
         "id": 207,
         "seq": 207,
-        "name": "\u300cmoment\u300d\u30e9\u30a4\u30d6T\u30b7\u30e3\u30c4\uff08\u9ed2\uff09",
+        "name": "「moment」ライブTシャツ（黒）",
         "assetbundleName": "avatar_costume_0107"
     },
     {
         "id": 208,
         "seq": 208,
-        "name": "\u300cSTORIES\u300d\u30e9\u30a4\u30d6T\u30b7\u30e3\u30c4\uff08\u767d\uff09",
+        "name": "「STORIES」ライブTシャツ（白）",
         "assetbundleName": "avatar_costume_0108"
     },
     {
         "id": 209,
         "seq": 209,
-        "name": "\u300cSTORIES\u300d\u30e9\u30a4\u30d6T\u30b7\u30e3\u30c4\uff08\u9ed2\uff09",
+        "name": "「STORIES」ライブTシャツ（黒）",
         "assetbundleName": "avatar_costume_0109"
     },
     {
         "id": 210,
         "seq": 210,
-        "name": "\u3044\u3061\u3054\u30d1\u30d5\u30a7\u98df\u3079\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "いちごパフェ食べたいTシャツ",
         "assetbundleName": "avatar_costume_0110"
     },
     {
         "id": 211,
         "seq": 211,
-        "name": "\u30d7\u30ea\u30f3\u30a2\u30e9\u30e2\u30fc\u30c9\u98df\u3079\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "プリンアラモード食べたいTシャツ",
         "assetbundleName": "avatar_costume_0111"
     },
     {
         "id": 212,
         "seq": 214,
-        "name": "\u6b4c\u3067\u5fdc\u63f4\u3057\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "歌で応援したいTシャツ",
         "assetbundleName": "avatar_costume_0112"
     },
     {
         "id": 213,
         "seq": 215,
-        "name": "\u6f14\u594f\u3067\u5fdc\u63f4\u3057\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "演奏で応援したいTシャツ",
         "assetbundleName": "avatar_costume_0113"
     },
     {
         "id": 214,
         "seq": 216,
-        "name": "\u653e\u9001\u59d4\u54e1\u4f1a\u5165\u308a\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "放送委員会入りたいTシャツ",
         "assetbundleName": "avatar_costume_0114"
     },
     {
         "id": 215,
         "seq": 217,
-        "name": "\u98fc\u80b2\u59d4\u54e1\u4f1a\u5165\u308a\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "飼育委員会入りたいTシャツ",
         "assetbundleName": "avatar_costume_0115"
     },
     {
         "id": 216,
         "seq": 218,
-        "name": "\u300c3rd ANNIVERSARY Memorial Stage\u300d\u30b9\u30da\u30b7\u30e3\u30eb\u30e9\u30a4\u30d6T\u30b7\u30e3\u30c4",
+        "name": "「3rd ANNIVERSARY Memorial Stage」スペシャルライブTシャツ",
         "assetbundleName": "avatar_costume_0118"
     },
     {
         "id": 217,
         "seq": 219,
-        "name": "\u300c3rd ANNIVERSARY Memorial Stage\u300d\u30e9\u30a4\u30d6T\u30b7\u30e3\u30c4\uff08\u767d\uff09",
+        "name": "「3rd ANNIVERSARY Memorial Stage」ライブTシャツ（白）",
         "assetbundleName": "avatar_costume_0116"
     },
     {
         "id": 218,
         "seq": 220,
-        "name": "\u300c3rd ANNIVERSARY Memorial Stage\u300d\u30e9\u30a4\u30d6T\u30b7\u30e3\u30c4\uff08\u9ed2\uff09",
+        "name": "「3rd ANNIVERSARY Memorial Stage」ライブTシャツ（黒）",
         "assetbundleName": "avatar_costume_0117"
     },
     {
@@ -692,79 +692,79 @@
     {
         "id": 220,
         "seq": 213,
-        "name": "\u30b9\u30bf\u30c3\u30d5",
+        "name": "スタッフ",
         "assetbundleName": "avatar_costume_0120"
     },
     {
         "id": 221,
         "seq": 221,
-        "name": "\u6e29\u6cc9\u307e\u3093\u3058\u3085\u3046\u98df\u3079\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "温泉まんじゅう食べたいTシャツ",
         "assetbundleName": "avatar_costume_0121"
     },
     {
         "id": 222,
         "seq": 222,
-        "name": "\u6e29\u6cc9\u5375\u98df\u3079\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "温泉卵食べたいTシャツ",
         "assetbundleName": "avatar_costume_0122"
     },
     {
         "id": 223,
         "seq": 223,
-        "name": "\u30a2\u30af\u30b7\u30e7\u30f3\u6620\u753b\u89b3\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "アクション映画観たいTシャツ",
         "assetbundleName": "avatar_costume_0123"
     },
     {
         "id": 224,
         "seq": 224,
-        "name": "\u30b3\u30e1\u30c7\u30a3\u6620\u753b\u89b3\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "コメディ映画観たいTシャツ",
         "assetbundleName": "avatar_costume_0124"
     },
     {
         "id": 225,
         "seq": 225,
-        "name": "\u304a\u96d1\u716e\u98df\u3079\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "お雑煮食べたいTシャツ",
         "assetbundleName": "avatar_costume_0125"
     },
     {
         "id": 226,
         "seq": 226,
-        "name": "\u304a\u305b\u3061\u98df\u3079\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "おせち食べたいTシャツ",
         "assetbundleName": "avatar_costume_0126"
     },
     {
         "id": 227,
         "seq": 227,
-        "name": "\u30ab\u30e1\u30e9\u3067\u5199\u771f\u64ae\u308a\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "カメラで写真撮りたいTシャツ",
         "assetbundleName": "avatar_costume_0127"
     },
     {
         "id": 228,
         "seq": 228,
-        "name": "\u30b9\u30de\u30db\u3067\u5199\u771f\u64ae\u308a\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "スマホで写真撮りたいTシャツ",
         "assetbundleName": "avatar_costume_0128"
     },
     {
         "id": 229,
         "seq": 229,
-        "name": "\u30cf\u30fc\u30d6\u30c6\u30a3\u30fc\u98f2\u307f\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "ハーブティー飲みたいTシャツ",
         "assetbundleName": "avatar_costume_0129"
     },
     {
         "id": 230,
         "seq": 230,
-        "name": "\u30b8\u30f3\u30b8\u30e3\u30fc\u30c6\u30a3\u30fc\u98f2\u307f\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "ジンジャーティー飲みたいTシャツ",
         "assetbundleName": "avatar_costume_0130"
     },
     {
         "id": 231,
         "seq": 231,
-        "name": "\u30d5\u30ea\u30b9\u30d3\u30fc\u3057\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "フリスビーしたいTシャツ",
         "assetbundleName": "avatar_costume_0131"
     },
     {
         "id": 232,
         "seq": 232,
-        "name": "\u304a\u6563\u6b69\u3057\u305f\u3044T\u30b7\u30e3\u30c4",
+        "name": "お散歩したいTシャツ",
         "assetbundleName": "avatar_costume_0132"
     }
 ]

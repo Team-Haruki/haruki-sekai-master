@@ -1,26 +1,26 @@
 [
     {
         "id": 1,
-        "label": "\u30b2\u30ad\uff01\u30c1\u30e5\u30a6\u30de\u30a4\u30b3\u30e9\u30dc"
+        "label": "ゲキ！チュウマイコラボ"
     },
     {
         "id": 2,
-        "label": "\u30ab\u30c3\u30d7\u30cc\u30fc\u30c9\u30eb\u30bf\u30a4\u30a2\u30c3\u30d7"
+        "label": "カップヌードルタイアップ"
     },
     {
         "id": 3,
-        "label": "\u30dd\u30ab\u30ea\u30b9\u30a8\u30c3\u30c8\u30b3\u30e9\u30dc"
+        "label": "ポカリスエットコラボ"
     },
     {
         "id": 4,
-        "label": "\u30a8\u30a4\u30d7\u30ea\u30eb\u30d5\u30fc\u30eb2023"
+        "label": "エイプリルフール2023"
     },
     {
         "id": 5,
-        "label": "\u30b5\u30f3\u30b9\u30bf\u30fc\u30aa\u30fc\u30e9\u30c4\u30fc\u30b3\u30e9\u30dc"
+        "label": "サンスターオーラツーコラボ"
     },
     {
         "id": 6,
-        "label": "\u6771\u65b9Project\u30b3\u30e9\u30dc"
+        "label": "東方Projectコラボ"
     }
 ]

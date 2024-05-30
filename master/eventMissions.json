@@ -6,7 +6,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 4279,
@@ -24,7 +24,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 4280,
@@ -42,7 +42,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 4281,
@@ -61,7 +61,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 4282,
@@ -79,7 +79,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u65b0\u6625\uff01 \u7345\u5b50\u821e\u30ed\u30dc\u306e\u304a\u6b63\u6708\u30b7\u30e7\u30fc\uff01\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「新春！ 獅子舞ロボのお正月ショー！」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 4283,
@@ -97,7 +97,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u65b0\u6625\uff01 \u7345\u5b50\u821e\u30ed\u30dc\u306e\u304a\u6b63\u6708\u30b7\u30e7\u30fc\uff01\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「新春！ 獅子舞ロボのお正月ショー！」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 4284,
@@ -115,7 +115,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u65b0\u6625\uff01 \u7345\u5b50\u821e\u30ed\u30dc\u306e\u304a\u6b63\u6708\u30b7\u30e7\u30fc\uff01 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「新春！ 獅子舞ロボのお正月ショー！ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 4285,
@@ -133,7 +133,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 4286,
@@ -151,7 +151,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u7d2f\u8a0810\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計10日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 4487,
@@ -169,7 +169,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 4488,
@@ -187,7 +187,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 4489,
@@ -206,7 +206,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 4490,
@@ -224,7 +224,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u5922\u306e\u9014\u4e2d\u3001\u8f1d\u304f\u661f\u305f\u3061\u3078\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「夢の途中、輝く星たちへ」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 4491,
@@ -242,7 +242,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u5922\u306e\u9014\u4e2d\u3001\u8f1d\u304f\u661f\u305f\u3061\u3078\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「夢の途中、輝く星たちへ」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 4492,
@@ -260,7 +260,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u5922\u306e\u9014\u4e2d\u3001\u8f1d\u304f\u661f\u305f\u3061\u3078 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「夢の途中、輝く星たちへ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 4493,
@@ -278,7 +278,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 4494,
@@ -296,7 +296,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 4495,
@@ -314,7 +314,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 4496,
@@ -332,7 +332,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 4497,
@@ -351,7 +351,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 4498,
@@ -369,7 +369,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cLittle Bravers\uff01\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「Little Bravers！」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 4499,
@@ -387,7 +387,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cLittle Bravers\uff01\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「Little Bravers！」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 4500,
@@ -405,7 +405,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cLittle Bravers\uff01 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「Little Bravers！ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 4501,
@@ -423,7 +423,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 4502,
@@ -441,7 +441,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 4503,
@@ -459,7 +459,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 4504,
@@ -477,7 +477,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 4505,
@@ -496,7 +496,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 4506,
@@ -514,7 +514,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u30ad\u30e3\u30f3\u30c9\u30eb\u306e\u9999\u308a\u306f\u601d\u3044\u51fa\u3068\u5171\u306b\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「キャンドルの香りは思い出と共に」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 4507,
@@ -532,7 +532,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u30ad\u30e3\u30f3\u30c9\u30eb\u306e\u9999\u308a\u306f\u601d\u3044\u51fa\u3068\u5171\u306b\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「キャンドルの香りは思い出と共に」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 4508,
@@ -550,7 +550,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u30ad\u30e3\u30f3\u30c9\u30eb\u306e\u9999\u308a\u306f\u601d\u3044\u51fa\u3068\u5171\u306b \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「キャンドルの香りは思い出と共に アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 4509,
@@ -568,7 +568,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 4510,
@@ -586,7 +586,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 8,
-        "sentence": "\u7d2f\u8a088\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計8日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 4711,
@@ -604,7 +604,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 4712,
@@ -622,7 +622,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 4713,
@@ -641,7 +641,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 4714,
@@ -659,7 +659,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u307b\u3069\u304b\u308c\u305f\u7cf8\u306e\u305d\u306e\u5148\u306b\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「ほどかれた糸のその先に」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 4715,
@@ -677,7 +677,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u307b\u3069\u304b\u308c\u305f\u7cf8\u306e\u305d\u306e\u5148\u306b\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「ほどかれた糸のその先に」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 4716,
@@ -695,7 +695,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u307b\u3069\u304b\u308c\u305f\u7cf8\u306e\u305d\u306e\u5148\u306b \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「ほどかれた糸のその先に アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 4717,
@@ -713,7 +713,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 4718,
@@ -731,7 +731,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 8,
-        "sentence": "\u7d2f\u8a088\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計8日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 4719,
@@ -749,7 +749,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 4720,
@@ -767,7 +767,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 4721,
@@ -786,7 +786,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 4722,
@@ -804,7 +804,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cKick it up a notch\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「Kick it up a notch」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 4723,
@@ -822,7 +822,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cKick it up a notch\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「Kick it up a notch」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 4724,
@@ -840,7 +840,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cKick it up a notch \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「Kick it up a notch アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 4725,
@@ -858,7 +858,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 4726,
@@ -876,7 +876,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u7d2f\u8a0810\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計10日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 4727,
@@ -894,7 +894,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 4728,
@@ -912,7 +912,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 4729,
@@ -931,7 +931,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 4730,
@@ -949,7 +949,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cNever Give Up Cooking\uff01\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「Never Give Up Cooking！」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 4731,
@@ -967,7 +967,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cNever Give Up Cooking\uff01\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「Never Give Up Cooking！」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 4732,
@@ -985,7 +985,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cNever Give Up Cooking\uff01 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「Never Give Up Cooking！ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 4733,
@@ -1003,7 +1003,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 4734,
@@ -1021,7 +1021,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 4935,
@@ -1039,7 +1039,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 4936,
@@ -1057,7 +1057,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 4937,
@@ -1076,7 +1076,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 4938,
@@ -1094,7 +1094,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u5929\u306e\u679c\u3066\u306e\u30d5\u30a7\u30cb\u30c3\u30af\u30b9\u3078\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「天の果てのフェニックスへ」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 4939,
@@ -1112,7 +1112,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u5929\u306e\u679c\u3066\u306e\u30d5\u30a7\u30cb\u30c3\u30af\u30b9\u3078\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「天の果てのフェニックスへ」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 4940,
@@ -1130,7 +1130,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u5929\u306e\u679c\u3066\u306e\u30d5\u30a7\u30cb\u30c3\u30af\u30b9\u3078 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「天の果てのフェニックスへ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 4941,
@@ -1148,7 +1148,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 4942,
@@ -1166,7 +1166,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 8,
-        "sentence": "\u7d2f\u8a088\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計8日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 4943,
@@ -1184,7 +1184,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 4944,
@@ -1202,7 +1202,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 4945,
@@ -1221,7 +1221,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 4946,
@@ -1239,7 +1239,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u30a4\u30df\u30b7\u30d6\u30eb\u30fb\u30c7\u30a3\u30b9\u30b3\u30fc\u30c9\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「イミシブル・ディスコード」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 4947,
@@ -1257,7 +1257,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u30a4\u30df\u30b7\u30d6\u30eb\u30fb\u30c7\u30a3\u30b9\u30b3\u30fc\u30c9\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「イミシブル・ディスコード」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 4948,
@@ -1275,7 +1275,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u30a4\u30df\u30b7\u30d6\u30eb\u30fb\u30c7\u30a3\u30b9\u30b3\u30fc\u30c9 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「イミシブル・ディスコード アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 4949,
@@ -1293,7 +1293,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 4950,
@@ -1311,7 +1311,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 11,
-        "sentence": "\u7d2f\u8a0811\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計11日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 5151,
@@ -1329,7 +1329,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 5152,
@@ -1347,7 +1347,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 5153,
@@ -1366,7 +1366,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 5154,
@@ -1384,7 +1384,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u4ea4\u97ff\u3059\u308b\u8857\u306e\u7247\u9685\u3067\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「交響する街の片隅で」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 5155,
@@ -1402,7 +1402,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u4ea4\u97ff\u3059\u308b\u8857\u306e\u7247\u9685\u3067\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「交響する街の片隅で」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 5156,
@@ -1420,7 +1420,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u4ea4\u97ff\u3059\u308b\u8857\u306e\u7247\u9685\u3067 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「交響する街の片隅で アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 5157,
@@ -1438,7 +1438,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 5158,
@@ -1456,7 +1456,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 5159,
@@ -1474,7 +1474,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 5160,
@@ -1492,7 +1492,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 5161,
@@ -1511,7 +1511,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 5162,
@@ -1529,7 +1529,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cGet over it.\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「Get over it.」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 5163,
@@ -1547,7 +1547,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cGet over it.\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「Get over it.」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 5164,
@@ -1565,7 +1565,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cGet over it. \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「Get over it. アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 5165,
@@ -1583,7 +1583,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 5166,
@@ -1601,7 +1601,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 8,
-        "sentence": "\u7d2f\u8a088\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計8日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 5167,
@@ -1619,7 +1619,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 5168,
@@ -1637,7 +1637,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 5169,
@@ -1656,7 +1656,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 5170,
@@ -1674,7 +1674,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cRe-tie Friendship\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「Re-tie Friendship」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 5171,
@@ -1692,7 +1692,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cRe-tie Friendship\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「Re-tie Friendship」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 5172,
@@ -1710,7 +1710,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cRe-tie Friendship \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「Re-tie Friendship アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 5173,
@@ -1728,7 +1728,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 5174,
@@ -1746,7 +1746,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u7d2f\u8a0810\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計10日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 5175,
@@ -1764,7 +1764,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 5176,
@@ -1782,7 +1782,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 5177,
@@ -1801,7 +1801,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 5178,
@@ -1819,7 +1819,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u30dc\u30af\u9054\u306e\u751f\u5b58\u9003\u8d70\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「ボク達の生存逃走」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 5179,
@@ -1837,7 +1837,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u30dc\u30af\u9054\u306e\u751f\u5b58\u9003\u8d70\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「ボク達の生存逃走」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 5180,
@@ -1855,7 +1855,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u30dc\u30af\u9054\u306e\u751f\u5b58\u9003\u8d70 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「ボク達の生存逃走 アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 5181,
@@ -1873,7 +1873,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 5182,
@@ -1891,7 +1891,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 8,
-        "sentence": "\u7d2f\u8a088\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計8日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 5383,
@@ -1909,7 +1909,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 5384,
@@ -1927,7 +1927,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 5385,
@@ -1946,7 +1946,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 5386,
@@ -1964,7 +1964,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u8239\u51fa\u306e\u524d\u306e\u30ef\u30f3\u30c7\u30a4\u30c8\u30ea\u30c3\u30d7\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「船出の前のワンデイトリップ」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 5387,
@@ -1982,7 +1982,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u8239\u51fa\u306e\u524d\u306e\u30ef\u30f3\u30c7\u30a4\u30c8\u30ea\u30c3\u30d7\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「船出の前のワンデイトリップ」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 5388,
@@ -2000,7 +2000,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u8239\u51fa\u306e\u524d\u306e\u30ef\u30f3\u30c7\u30a4\u30c8\u30ea\u30c3\u30d7 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「船出の前のワンデイトリップ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 5389,
@@ -2018,7 +2018,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 5390,
@@ -2036,7 +2036,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u7d2f\u8a0810\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計10日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 5391,
@@ -2054,7 +2054,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 5392,
@@ -2072,7 +2072,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 5393,
@@ -2091,7 +2091,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 5394,
@@ -2109,7 +2109,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u30ab\u30ca\u30ea\u30a2\u306f\u7aae\u5883\u306b\u6b4c\u3046\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「カナリアは窮境に歌う」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 5395,
@@ -2127,7 +2127,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u30ab\u30ca\u30ea\u30a2\u306f\u7aae\u5883\u306b\u6b4c\u3046\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「カナリアは窮境に歌う」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 5396,
@@ -2145,7 +2145,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u30ab\u30ca\u30ea\u30a2\u306f\u7aae\u5883\u306b\u6b4c\u3046 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「カナリアは窮境に歌う アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 5397,
@@ -2163,7 +2163,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 5398,
@@ -2181,7 +2181,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 5399,
@@ -2199,7 +2199,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 5400,
@@ -2217,7 +2217,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 5401,
@@ -2236,7 +2236,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 5402,
@@ -2254,7 +2254,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u96a3\u306b\u7acb\u3064\u3001\u512a\u3057\u3044\u3042\u306a\u305f\u3078\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「隣に立つ、優しいあなたへ」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 5403,
@@ -2272,7 +2272,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u96a3\u306b\u7acb\u3064\u3001\u512a\u3057\u3044\u3042\u306a\u305f\u3078\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「隣に立つ、優しいあなたへ」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 5404,
@@ -2290,7 +2290,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u96a3\u306b\u7acb\u3064\u3001\u512a\u3057\u3044\u3042\u306a\u305f\u3078 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「隣に立つ、優しいあなたへ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 5405,
@@ -2308,7 +2308,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 5406,
@@ -2326,7 +2326,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 6207,
@@ -2344,7 +2344,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 6208,
@@ -2362,7 +2362,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 6209,
@@ -2381,7 +2381,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 6210,
@@ -2399,7 +2399,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cLight Up the Fire\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「Light Up the Fire」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 6211,
@@ -2417,7 +2417,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cLight Up the Fire\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「Light Up the Fire」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 6212,
@@ -2435,7 +2435,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cLight Up the Fire \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「Light Up the Fire アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 6213,
@@ -2453,7 +2453,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 6214,
@@ -2471,7 +2471,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 6269,
@@ -2489,7 +2489,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 6270,
@@ -2507,7 +2507,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 6271,
@@ -2526,7 +2526,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 6272,
@@ -2544,7 +2544,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cSTEP by STEP\uff01\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「STEP by STEP！」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 6273,
@@ -2562,7 +2562,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cSTEP by STEP\uff01\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「STEP by STEP！」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 6274,
@@ -2580,7 +2580,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cSTEP by STEP\uff01 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「STEP by STEP！ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 6275,
@@ -2598,7 +2598,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 6276,
@@ -2616,7 +2616,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u7d2f\u8a0810\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計10日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 6277,
@@ -2634,7 +2634,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 6278,
@@ -2652,7 +2652,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 6279,
@@ -2671,7 +2671,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 6280,
@@ -2689,7 +2689,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u4e00\u671f\u4e00\u4f1a\u306a\u767e\u9b3c\u591c\u884c\uff01\uff1f\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「一期一会な百鬼夜行！？」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 6281,
@@ -2707,7 +2707,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u4e00\u671f\u4e00\u4f1a\u306a\u767e\u9b3c\u591c\u884c\uff01\uff1f\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「一期一会な百鬼夜行！？」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 6282,
@@ -2725,7 +2725,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u4e00\u671f\u4e00\u4f1a\u306a\u767e\u9b3c\u591c\u884c\uff01\uff1f \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「一期一会な百鬼夜行！？ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 6283,
@@ -2743,7 +2743,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 6284,
@@ -2761,7 +2761,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 6485,
@@ -2779,7 +2779,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 6486,
@@ -2797,7 +2797,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 6487,
@@ -2816,7 +2816,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 6488,
@@ -2834,7 +2834,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u4eee\u9762\u306e\u79c1\u306b\u3055\u3088\u306a\u3089\u3092\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「仮面の私にさよならを」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 6489,
@@ -2852,7 +2852,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u4eee\u9762\u306e\u79c1\u306b\u3055\u3088\u306a\u3089\u3092\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「仮面の私にさよならを」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 6490,
@@ -2870,7 +2870,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u4eee\u9762\u306e\u79c1\u306b\u3055\u3088\u306a\u3089\u3092 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「仮面の私にさよならを アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 6491,
@@ -2888,7 +2888,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 6492,
@@ -2906,7 +2906,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 6493,
@@ -2924,7 +2924,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 6494,
@@ -2942,7 +2942,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 6495,
@@ -2961,7 +2961,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 6496,
@@ -2979,7 +2979,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u3064\u306a\u3050\u3001\u661f\u306e\u6b4c\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「つなぐ、星の歌」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 6497,
@@ -2997,7 +2997,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u3064\u306a\u3050\u3001\u661f\u306e\u6b4c\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「つなぐ、星の歌」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 6498,
@@ -3015,7 +3015,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u3064\u306a\u3050\u3001\u661f\u306e\u6b4c \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「つなぐ、星の歌 アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 6499,
@@ -3033,7 +3033,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 6500,
@@ -3051,7 +3051,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 6501,
@@ -3069,7 +3069,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 6502,
@@ -3087,7 +3087,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 6503,
@@ -3106,7 +3106,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 6504,
@@ -3124,7 +3124,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u30c9\u30bf\u30d0\u30bf cafe \u25cfREC!!\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「ドタバタ cafe ●REC!!」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 6505,
@@ -3142,7 +3142,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u30c9\u30bf\u30d0\u30bf cafe \u25cfREC!!\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「ドタバタ cafe ●REC!!」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 6506,
@@ -3160,7 +3160,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u30c9\u30bf\u30d0\u30bf cafe \u25cfREC!! \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「ドタバタ cafe ●REC!! アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 6507,
@@ -3178,7 +3178,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 6508,
@@ -3196,7 +3196,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u7d2f\u8a0810\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計10日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 6709,
@@ -3214,7 +3214,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 6710,
@@ -3232,7 +3232,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 6711,
@@ -3251,7 +3251,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 6712,
@@ -3269,7 +3269,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cOn Your Feet\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「On Your Feet」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 6713,
@@ -3287,7 +3287,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cOn Your Feet\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「On Your Feet」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 6714,
@@ -3305,7 +3305,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cOn Your Feet \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「On Your Feet アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 6715,
@@ -3323,7 +3323,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 6716,
@@ -3341,7 +3341,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 6717,
@@ -3359,7 +3359,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 6718,
@@ -3377,7 +3377,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 6719,
@@ -3396,7 +3396,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 6720,
@@ -3414,7 +3414,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u3042\u305f\u3057\u305f\u3061\u306e\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「あたしたちのハッピーエンド」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 6721,
@@ -3432,7 +3432,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u3042\u305f\u3057\u305f\u3061\u306e\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「あたしたちのハッピーエンド」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 6722,
@@ -3450,7 +3450,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u3042\u305f\u3057\u305f\u3061\u306e\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「あたしたちのハッピーエンド アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 6723,
@@ -3468,7 +3468,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 6724,
@@ -3486,7 +3486,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u7d2f\u8a0810\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計10日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 6725,
@@ -3504,7 +3504,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 6726,
@@ -3522,7 +3522,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 6727,
@@ -3541,7 +3541,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 6728,
@@ -3559,7 +3559,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u30bb\u30ab\u30a4\u306b\u97ff\u3051\uff01Your Song\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「セカイに響け！Your Song」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 6729,
@@ -3577,7 +3577,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u30bb\u30ab\u30a4\u306b\u97ff\u3051\uff01Your Song\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「セカイに響け！Your Song」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 6730,
@@ -3595,7 +3595,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u30bb\u30ab\u30a4\u306b\u97ff\u3051\uff01Your Song \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「セカイに響け！Your Song アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 6731,
@@ -3613,7 +3613,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 6732,
@@ -3631,7 +3631,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 8,
-        "sentence": "\u7d2f\u8a088\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計8日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 6933,
@@ -3649,7 +3649,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 6934,
@@ -3667,7 +3667,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 6935,
@@ -3686,7 +3686,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 6936,
@@ -3704,7 +3704,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u541b\u3068\u7d21\u3050Precious memories\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「君と紡ぐPrecious memories」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 6937,
@@ -3722,7 +3722,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u541b\u3068\u7d21\u3050Precious memories\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「君と紡ぐPrecious memories」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 6938,
@@ -3740,7 +3740,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u541b\u3068\u7d21\u3050Precious memories \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「君と紡ぐPrecious memories アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 6939,
@@ -3758,7 +3758,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 6940,
@@ -3776,7 +3776,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 6941,
@@ -3794,7 +3794,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 6942,
@@ -3812,7 +3812,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 6943,
@@ -3831,7 +3831,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 6944,
@@ -3849,7 +3849,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cLet's study hard\uff01\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「Let's study hard！」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 6945,
@@ -3867,7 +3867,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cLet's study hard\uff01\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「Let's study hard！」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 6946,
@@ -3885,7 +3885,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cLet's study hard\uff01 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「Let's study hard！ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 6947,
@@ -3903,7 +3903,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 6948,
@@ -3921,7 +3921,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 11,
-        "sentence": "\u7d2f\u8a0811\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計11日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 7087,
@@ -3939,7 +3939,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 7088,
@@ -3957,7 +3957,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 7089,
@@ -3976,7 +3976,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 7090,
@@ -3994,7 +3994,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u30cf\u30ed\u30fc\u30fb\u30b0\u30c3\u30c9\u30fb\u30c7\u30a4\uff01\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「ハロー・グッド・デイ！」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 7091,
@@ -4012,7 +4012,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u30cf\u30ed\u30fc\u30fb\u30b0\u30c3\u30c9\u30fb\u30c7\u30a4\uff01\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「ハロー・グッド・デイ！」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 7092,
@@ -4030,7 +4030,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u30cf\u30ed\u30fc\u30fb\u30b0\u30c3\u30c9\u30fb\u30c7\u30a4\uff01 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「ハロー・グッド・デイ！ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 7093,
@@ -4048,7 +4048,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 7094,
@@ -4066,7 +4066,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 7295,
@@ -4084,7 +4084,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 7296,
@@ -4102,7 +4102,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 7297,
@@ -4121,7 +4121,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 7298,
@@ -4139,7 +4139,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cBURN MY SOUL\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「BURN MY SOUL」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 7299,
@@ -4157,7 +4157,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cBURN MY SOUL\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「BURN MY SOUL」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 7300,
@@ -4175,7 +4175,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cBURN MY SOUL \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「BURN MY SOUL アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 7301,
@@ -4193,7 +4193,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 7302,
@@ -4211,7 +4211,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 8,
-        "sentence": "\u7d2f\u8a088\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計8日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 7303,
@@ -4229,7 +4229,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 7304,
@@ -4247,7 +4247,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 7305,
@@ -4266,7 +4266,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 7306,
@@ -4284,7 +4284,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cStick to your faith\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「Stick to your faith」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 7307,
@@ -4302,7 +4302,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cStick to your faith\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「Stick to your faith」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 7308,
@@ -4320,7 +4320,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cStick to your faith \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「Stick to your faith アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 7309,
@@ -4338,7 +4338,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 7310,
@@ -4356,7 +4356,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 7,
-        "sentence": "\u7d2f\u8a087\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計7日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 7311,
@@ -4374,7 +4374,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 7312,
@@ -4392,7 +4392,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 7313,
@@ -4411,7 +4411,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 7314,
@@ -4429,7 +4429,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u305d\u306e\u624b\u5c0e\u304f\u306c\u304f\u3082\u308a\u306f\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「その手導くぬくもりは」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 7315,
@@ -4447,7 +4447,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u305d\u306e\u624b\u5c0e\u304f\u306c\u304f\u3082\u308a\u306f\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「その手導くぬくもりは」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 7316,
@@ -4465,7 +4465,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u305d\u306e\u624b\u5c0e\u304f\u306c\u304f\u3082\u308a\u306f \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「その手導くぬくもりは アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 7317,
@@ -4483,7 +4483,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 7318,
@@ -4501,7 +4501,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 13,
-        "sentence": "\u7d2f\u8a0813\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計13日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 7519,
@@ -4519,7 +4519,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 7520,
@@ -4537,7 +4537,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 7521,
@@ -4556,7 +4556,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 7522,
@@ -4574,7 +4574,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u6c34\u5e95\u306b\u5f71\u3092\u63a2\u3057\u3066\u300d\u306e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「水底に影を探して」のエンディングを読もう。",
         "rewards": [
             {
                 "id": 7523,
@@ -4592,7 +4592,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u6c34\u5e95\u306b\u5f71\u3092\u63a2\u3057\u3066\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「水底に影を探して」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 7524,
@@ -4610,7 +4610,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u6c34\u5e95\u306b\u5f71\u3092\u63a2\u3057\u3066 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「水底に影を探して アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 7525,
@@ -4628,7 +4628,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 7526,
@@ -4646,7 +4646,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 7,
-        "sentence": "\u7d2f\u8a087\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計7日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 7527,
@@ -4664,7 +4664,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 7528,
@@ -4682,7 +4682,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 7529,
@@ -4701,7 +4701,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 7530,
@@ -4719,7 +4719,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u541b\u304c\u4e3b\u5f79\u306e\u7269\u8a9e\u3092\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「君が主役の物語を」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 7531,
@@ -4737,7 +4737,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u541b\u304c\u4e3b\u5f79\u306e\u7269\u8a9e\u3092\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「君が主役の物語を」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 7532,
@@ -4755,7 +4755,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u541b\u304c\u4e3b\u5f79\u306e\u7269\u8a9e\u3092 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「君が主役の物語を アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 7533,
@@ -4773,7 +4773,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 7534,
@@ -4791,7 +4791,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 7535,
@@ -4809,7 +4809,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 7536,
@@ -4827,7 +4827,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 7537,
@@ -4846,7 +4846,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 7538,
@@ -4864,7 +4864,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u6700\u9ad8\u306e\u30af\u30e9\u30f3\u30af\u30a2\u30c3\u30d7\uff01\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「最高のクランクアップ！」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 7539,
@@ -4882,7 +4882,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u6700\u9ad8\u306e\u30af\u30e9\u30f3\u30af\u30a2\u30c3\u30d7\uff01\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「最高のクランクアップ！」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 7540,
@@ -4900,7 +4900,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u6700\u9ad8\u306e\u30af\u30e9\u30f3\u30af\u30a2\u30c3\u30d7\uff01 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「最高のクランクアップ！ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 7541,
@@ -4918,7 +4918,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 7542,
@@ -4936,7 +4936,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 7743,
@@ -4954,7 +4954,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 7744,
@@ -4972,7 +4972,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 7745,
@@ -4991,7 +4991,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 7746,
@@ -5009,7 +5009,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u3042\u3063\u3061\u3053\u3063\u3061\u98fc\u80b2\u54e1\u4f53\u9a13\uff01\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「あっちこっち飼育員体験！」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 7747,
@@ -5027,7 +5027,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u3042\u3063\u3061\u3053\u3063\u3061\u98fc\u80b2\u54e1\u4f53\u9a13\uff01\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「あっちこっち飼育員体験！」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 7748,
@@ -5045,7 +5045,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u3042\u3063\u3061\u3053\u3063\u3061\u98fc\u80b2\u54e1\u4f53\u9a13\uff01 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「あっちこっち飼育員体験！ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 7749,
@@ -5063,7 +5063,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 7750,
@@ -5081,7 +5081,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u7d2f\u8a0810\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計10日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 7752,
@@ -5099,7 +5099,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 7753,
@@ -5117,7 +5117,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 7754,
@@ -5136,7 +5136,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 7755,
@@ -5154,7 +5154,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u3042\u306e\u65e5\u3001\u594f\u3067\u305f\u97f3\u8272\u3092\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「あの日、奏でた音色を」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 7756,
@@ -5172,7 +5172,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u3042\u306e\u65e5\u3001\u594f\u3067\u305f\u97f3\u8272\u3092\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「あの日、奏でた音色を」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 7757,
@@ -5190,7 +5190,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u3042\u306e\u65e5\u3001\u594f\u3067\u305f\u97f3\u8272\u3092 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「あの日、奏でた音色を アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 7758,
@@ -5208,7 +5208,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 7759,
@@ -5226,7 +5226,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 8,
-        "sentence": "\u7d2f\u8a088\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計8日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 7760,
@@ -5244,7 +5244,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 7761,
@@ -5262,7 +5262,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 7762,
@@ -5281,7 +5281,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 7763,
@@ -5299,7 +5299,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u5909\u308f\u3089\u306c\u3042\u305f\u305f\u304b\u3055\u306e\u96a3\u3067\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「変わらぬあたたかさの隣で」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 7764,
@@ -5317,7 +5317,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u5909\u308f\u3089\u306c\u3042\u305f\u305f\u304b\u3055\u306e\u96a3\u3067\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「変わらぬあたたかさの隣で」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 7765,
@@ -5335,7 +5335,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u5909\u308f\u3089\u306c\u3042\u305f\u305f\u304b\u3055\u306e\u96a3\u3067 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「変わらぬあたたかさの隣で アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 7766,
@@ -5353,7 +5353,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 7767,
@@ -5371,7 +5371,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 13,
-        "sentence": "\u7d2f\u8a0813\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計13日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 7968,
@@ -5389,7 +5389,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 7969,
@@ -5407,7 +5407,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 7970,
@@ -5426,7 +5426,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 7971,
@@ -5444,7 +5444,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cBREAK DOWN THE WALL\u300d\u306e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「BREAK DOWN THE WALL」のエンディングを読もう。",
         "rewards": [
             {
                 "id": 7972,
@@ -5462,7 +5462,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cBREAK DOWN THE WALL\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「BREAK DOWN THE WALL」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 7973,
@@ -5480,7 +5480,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cBREAK DOWN THE WALL \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「BREAK DOWN THE WALL アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 7974,
@@ -5498,7 +5498,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 7975,
@@ -5516,7 +5516,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 7,
-        "sentence": "\u7d2f\u8a087\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計7日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 7976,
@@ -5534,7 +5534,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 7977,
@@ -5552,7 +5552,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 7978,
@@ -5571,7 +5571,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 7979,
@@ -5589,7 +5589,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u9006\u5149\u306e\u30ec\u30f3\u30ba\u30d5\u30ec\u30a2\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「逆光のレンズフレア」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 7980,
@@ -5607,7 +5607,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u9006\u5149\u306e\u30ec\u30f3\u30ba\u30d5\u30ec\u30a2\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「逆光のレンズフレア」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 7981,
@@ -5625,7 +5625,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u9006\u5149\u306e\u30ec\u30f3\u30ba\u30d5\u30ec\u30a2 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「逆光のレンズフレア アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 7982,
@@ -5643,7 +5643,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 7983,
@@ -5661,7 +5661,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 7984,
@@ -5679,7 +5679,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 7985,
@@ -5697,7 +5697,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 7986,
@@ -5716,7 +5716,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 7987,
@@ -5734,7 +5734,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cTake the Best Shot\uff01\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「Take the Best Shot！」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 7988,
@@ -5752,7 +5752,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cTake the Best Shot\uff01\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「Take the Best Shot！」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 7989,
@@ -5770,7 +5770,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cTake the Best Shot\uff01 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「Take the Best Shot！ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 7990,
@@ -5788,7 +5788,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 7991,
@@ -5806,7 +5806,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 8192,
@@ -5824,7 +5824,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 8193,
@@ -5842,7 +5842,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 8194,
@@ -5861,7 +5861,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 8195,
@@ -5879,7 +5879,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u5c0e\u304f\u52c7\u6c17\u3001\u512a\u3057\u3055\u3092\u80f8\u306b\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「導く勇気、優しさを胸に」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 8196,
@@ -5897,7 +5897,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u5c0e\u304f\u52c7\u6c17\u3001\u512a\u3057\u3055\u3092\u80f8\u306b\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「導く勇気、優しさを胸に」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 8197,
@@ -5915,7 +5915,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u5c0e\u304f\u52c7\u6c17\u3001\u512a\u3057\u3055\u3092\u80f8\u306b \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「導く勇気、優しさを胸に アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 8198,
@@ -5933,7 +5933,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 8199,
@@ -5951,7 +5951,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 8,
-        "sentence": "\u7d2f\u8a088\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計8日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 8200,
@@ -5969,7 +5969,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 8201,
@@ -5987,7 +5987,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 8202,
@@ -6006,7 +6006,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 8203,
@@ -6024,7 +6024,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u523b\u307e\u308c\u305f\u50b7\u306f\u3001\u3084\u304c\u3066\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「刻まれた傷は、やがて」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 8204,
@@ -6042,7 +6042,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u523b\u307e\u308c\u305f\u50b7\u306f\u3001\u3084\u304c\u3066\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「刻まれた傷は、やがて」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 8205,
@@ -6060,7 +6060,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u523b\u307e\u308c\u305f\u50b7\u306f\u3001\u3084\u304c\u3066 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「刻まれた傷は、やがて アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 8206,
@@ -6078,7 +6078,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 8207,
@@ -6096,7 +6096,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 7,
-        "sentence": "\u7d2f\u8a087\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計7日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 8208,
@@ -6114,7 +6114,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 8209,
@@ -6132,7 +6132,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 8210,
@@ -6151,7 +6151,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 8211,
@@ -6169,7 +6169,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u30ea\u30e9\u30c3\u30af\u30b9\u30c6\u30a3\u30fc\u30bf\u30a4\u30e0\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「リラックスティータイム」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 8212,
@@ -6187,7 +6187,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u30ea\u30e9\u30c3\u30af\u30b9\u30c6\u30a3\u30fc\u30bf\u30a4\u30e0\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「リラックスティータイム」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 8213,
@@ -6205,7 +6205,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u30ea\u30e9\u30c3\u30af\u30b9\u30c6\u30a3\u30fc\u30bf\u30a4\u30e0 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「リラックスティータイム アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 8214,
@@ -6223,7 +6223,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 8215,
@@ -6241,7 +6241,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 13,
-        "sentence": "\u7d2f\u8a0813\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計13日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 8416,
@@ -6259,7 +6259,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 8417,
@@ -6277,7 +6277,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 8418,
@@ -6296,7 +6296,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 8419,
@@ -6314,7 +6314,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u661f\u3092\u76ee\u6307\u3057\u3066\u3001\u30e8\u30fc\u30bd\u30ed\u30fc\uff01\u300d\u306e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「星を目指して、ヨーソロー！」のエンディングを読もう。",
         "rewards": [
             {
                 "id": 8420,
@@ -6332,7 +6332,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u661f\u3092\u76ee\u6307\u3057\u3066\u3001\u30e8\u30fc\u30bd\u30ed\u30fc\uff01\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「星を目指して、ヨーソロー！」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 8421,
@@ -6350,7 +6350,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u661f\u3092\u76ee\u6307\u3057\u3066\u3001\u30e8\u30fc\u30bd\u30ed\u30fc\uff01 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「星を目指して、ヨーソロー！ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 8422,
@@ -6368,7 +6368,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 8423,
@@ -6386,7 +6386,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 7,
-        "sentence": "\u7d2f\u8a087\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計7日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 8424,
@@ -6404,7 +6404,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 8425,
@@ -6422,7 +6422,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 8426,
@@ -6441,7 +6441,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 8427,
@@ -6459,7 +6459,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cThe first concerto\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「The first concerto」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 8428,
@@ -6477,7 +6477,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cThe first concerto\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「The first concerto」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 8429,
@@ -6495,7 +6495,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cThe first concerto \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「The first concerto アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 8430,
@@ -6513,7 +6513,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 8431,
@@ -6531,7 +6531,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u7d2f\u8a0810\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計10日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 8624,
@@ -6549,7 +6549,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 8625,
@@ -6567,7 +6567,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 8626,
@@ -6586,7 +6586,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 8627,
@@ -6604,7 +6604,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cRise as ONE\uff01\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「Rise as ONE！」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 8628,
@@ -6622,7 +6622,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cRise as ONE\uff01\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「Rise as ONE！」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 8629,
@@ -6640,7 +6640,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cRise as ONE\uff01 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「Rise as ONE！ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 8630,
@@ -6658,7 +6658,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 8631,
@@ -6676,7 +6676,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 8912,
@@ -6694,7 +6694,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 8913,
@@ -6712,7 +6712,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 8914,
@@ -6731,7 +6731,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 8915,
@@ -6749,7 +6749,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cKnowing the Unseen\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「Knowing the Unseen」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 8916,
@@ -6767,7 +6767,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cKnowing the Unseen\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「Knowing the Unseen」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 8917,
@@ -6785,7 +6785,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cKnowing the Unseen \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「Knowing the Unseen アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 8918,
@@ -6803,7 +6803,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 8919,
@@ -6821,7 +6821,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 9,
-        "sentence": "\u7d2f\u8a089\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計9日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 8920,
@@ -6839,7 +6839,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 8921,
@@ -6857,7 +6857,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 8922,
@@ -6876,7 +6876,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 8923,
@@ -6894,7 +6894,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cParallel Harmonies\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「Parallel Harmonies」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 8924,
@@ -6912,7 +6912,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cParallel Harmonies\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「Parallel Harmonies」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 8925,
@@ -6930,7 +6930,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cParallel Harmonies \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「Parallel Harmonies アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 8926,
@@ -6948,7 +6948,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 8927,
@@ -6966,7 +6966,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 8,
-        "sentence": "\u7d2f\u8a088\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計8日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 8928,
@@ -6984,7 +6984,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 8929,
@@ -7002,7 +7002,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 8930,
@@ -7021,7 +7021,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 8931,
@@ -7039,7 +7039,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cWhip the wimp girl!!\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「Whip the wimp girl!!」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 8932,
@@ -7057,7 +7057,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cWhip the wimp girl!!\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「Whip the wimp girl!!」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 8933,
@@ -7075,7 +7075,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cWhip the wimp girl!! \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「Whip the wimp girl!! アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 8934,
@@ -7093,7 +7093,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 8935,
@@ -7111,7 +7111,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 13,
-        "sentence": "\u7d2f\u8a0813\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計13日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 9136,
@@ -7129,7 +7129,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 9137,
@@ -7147,7 +7147,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 9138,
@@ -7166,7 +7166,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 9139,
@@ -7184,7 +7184,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u3044\u3064\u304b\u82b1\u54b2\u304f\u30b9\u30c6\u30fc\u30b8\u3078\u300d\u306e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「いつか花咲くステージへ」のエンディングを読もう。",
         "rewards": [
             {
                 "id": 9140,
@@ -7202,7 +7202,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300c\u3044\u3064\u304b\u82b1\u54b2\u304f\u30b9\u30c6\u30fc\u30b8\u3078\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「いつか花咲くステージへ」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 9141,
@@ -7220,7 +7220,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300c\u3044\u3064\u304b\u82b1\u54b2\u304f\u30b9\u30c6\u30fc\u30b8\u3078 \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「いつか花咲くステージへ アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 9142,
@@ -7238,7 +7238,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 9143,
@@ -7256,7 +7256,7 @@
         "eventMissionType": "live_clear_daily",
         "eventMissionCategory": "normal",
         "requirement1": 7,
-        "sentence": "\u7d2f\u8a087\u65e5\u30e9\u30a4\u30d6\u30921\u65e51\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "累計7日ライブを1日1回クリアしよう。",
         "rewards": [
             {
                 "id": 9144,
@@ -7274,7 +7274,7 @@
         "eventMissionType": "any_live_clear",
         "eventMissionCategory": "normal",
         "requirement1": 50,
-        "sentence": "\u30e9\u30a4\u30d6\u309250\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブを50回クリアしよう。",
         "rewards": [
             {
                 "id": 9145,
@@ -7292,7 +7292,7 @@
         "eventMissionType": "live_clear_full_combo",
         "eventMissionCategory": "normal",
         "requirement1": 10,
-        "sentence": "\u30e9\u30a4\u30d6\u3067\u697d\u66f2\u3092\u30d5\u30eb\u30b3\u30f3\u30dc\u306710\u56de\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
         "rewards": [
             {
                 "id": 9146,
@@ -7311,7 +7311,7 @@
         "eventMissionCategory": "normal",
         "requirement1": 10,
         "requirement2": 1,
-        "sentence": "\u30e9\u30a4\u30d6\u306710\u7a2e\u985e\u306e\u697d\u66f2\u3092\u30af\u30ea\u30a2\u3057\u3088\u3046\u3002",
+        "sentence": "ライブで10種類の楽曲をクリアしよう。",
         "rewards": [
             {
                 "id": 9147,
@@ -7329,7 +7329,7 @@
         "eventMissionType": "read_last_event_story_episode",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cperspective for smile\u300d\u306e\u30a4\u30d9\u30f3\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u7b2c8\u8a71\u3092\u8aad\u3082\u3046\u3002",
+        "sentence": "イベント「perspective for smile」のイベントストーリー第8話を読もう。",
         "rewards": [
             {
                 "id": 9148,
@@ -7347,7 +7347,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "\u30a4\u30d9\u30f3\u30c8\u300cperspective for smile\u300d\u306e\u4ea4\u63db\u6240\u3067\u30d0\u30c3\u30b8\u309220000\u500b\u6d88\u8cbb\u3057\u3088\u3046\u3002",
+        "sentence": "イベント「perspective for smile」の交換所でバッジを20000個消費しよう。",
         "rewards": [
             {
                 "id": 9149,
@@ -7365,7 +7365,7 @@
         "eventMissionType": "join_virtual_live",
         "eventMissionCategory": "normal",
         "requirement1": 1,
-        "sentence": "\u300cperspective for smile \u30a2\u30d5\u30bf\u30fc\u30e9\u30a4\u30d6\u300d\u306b\u53c2\u52a0\u3057\u3088\u3046\u3002",
+        "sentence": "「perspective for smile アフターライブ」に参加しよう。",
         "rewards": [
             {
                 "id": 9150,
@@ -7383,7 +7383,7 @@
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",
         "requirement1": 7,
-        "sentence": "7\u3064\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u5168\u3066\u9054\u6210\u3057\u3088\u3046\u3002",
+        "sentence": "7つのミッションを全て達成しよう。",
         "rewards": [
             {
                 "id": 9151,

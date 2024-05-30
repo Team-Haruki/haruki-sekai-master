@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "\u300c\u30b5\u30d6\u30ab\u30eb\u30dc\u30fc\u30a4\u30b9\u30bf\u30a4\u30eb\u300d\u8863\u88c5",
+        "name": "「サブカルボーイスタイル」衣装",
         "assetbundleName": "shop_300000",
         "seq": 300000,
         "billingShopItemIds": [
@@ -14,7 +14,7 @@
     },
     {
         "id": 2,
-        "name": "\u300c\u3082\u3053\u3082\u3053\u30b9\u30ce\u30fc\u30b3\u30fc\u30c8\u300d\u8863\u88c5",
+        "name": "「もこもこスノーコート」衣装",
         "assetbundleName": "shop_300010",
         "seq": 300010,
         "billingShopItemIds": [
@@ -27,7 +27,7 @@
     },
     {
         "id": 3,
-        "name": "\u300c\u30e1\u30a4\u30c9\u30fb\u30d0\u30c8\u30e9\u30fc\u300d\u8863\u88c5",
+        "name": "「メイド・バトラー」衣装",
         "assetbundleName": "shop_300020",
         "seq": 300020,
         "billingShopItemIds": [
@@ -40,7 +40,7 @@
     },
     {
         "id": 4,
-        "name": "\u300c\u30e2\u30fc\u30e2\u30fc\u2606\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc\u300d\u8863\u88c5",
+        "name": "「モーモー☆ニューイヤー」衣装",
         "assetbundleName": "shop_300050",
         "seq": 300050,
         "billingShopItemIds": [
@@ -53,7 +53,7 @@
     },
     {
         "id": 5,
-        "name": "\u300c\u30b9\u30a4\u30fc\u30c4\u300d\u8863\u88c5",
+        "name": "「スイーツ」衣装",
         "assetbundleName": "shop_300060",
         "seq": 300060,
         "billingShopItemIds": [
@@ -66,7 +66,7 @@
     },
     {
         "id": 6,
-        "name": "\u300c\u8fd1\u672a\u6765\u300d\u8863\u88c5",
+        "name": "「近未来」衣装",
         "assetbundleName": "shop_300070",
         "seq": 300070,
         "billingShopItemIds": [
@@ -79,7 +79,7 @@
     },
     {
         "id": 7,
-        "name": "\u300c\u602a\u76d7\u300d\u8863\u88c5",
+        "name": "「怪盗」衣装",
         "assetbundleName": "shop_300090",
         "seq": 300090,
         "billingShopItemIds": [
@@ -92,7 +92,7 @@
     },
     {
         "id": 8,
-        "name": "\u300c\u9b54\u6cd5\u300d\u8863\u88c5",
+        "name": "「魔法」衣装",
         "assetbundleName": "shop_300100",
         "seq": 300100,
         "billingShopItemIds": [
@@ -105,7 +105,7 @@
     },
     {
         "id": 9,
-        "name": "\u300c\u30ec\u30b9\u30c8\u30e9\u30f3\u300d\u8863\u88c5",
+        "name": "「レストラン」衣装",
         "assetbundleName": "shop_300110",
         "seq": 300110,
         "billingShopItemIds": [
@@ -118,7 +118,7 @@
     },
     {
         "id": 10,
-        "name": "\u300c\u6d77\u8cca\u300d\u8863\u88c5",
+        "name": "「海賊」衣装",
         "assetbundleName": "shop_300120",
         "seq": 300120,
         "billingShopItemIds": [
@@ -131,7 +131,7 @@
     },
     {
         "id": 11,
-        "name": "\u300c\u30a2\u30cb\u30de\u30eb\u300d\u8863\u88c5",
+        "name": "「アニマル」衣装",
         "assetbundleName": "shop_300130",
         "seq": 300130,
         "billingShopItemIds": [
@@ -144,7 +144,7 @@
     },
     {
         "id": 12,
-        "name": "\u300c\u30d1\u30b8\u30e3\u30de\u300d\u8863\u88c5",
+        "name": "「パジャマ」衣装",
         "assetbundleName": "shop_300140",
         "seq": 300140,
         "billingShopItemIds": [
@@ -157,7 +157,7 @@
     },
     {
         "id": 13,
-        "name": "\u300c\u30b4\u30fc\u30b9\u30c8\u300d\u8863\u88c5",
+        "name": "「ゴースト」衣装",
         "assetbundleName": "shop_300220",
         "seq": 300220,
         "billingShopItemIds": [
@@ -170,7 +170,7 @@
     },
     {
         "id": 14,
-        "name": "\u300c\u30b4\u30b7\u30c3\u30af\u300d\u8863\u88c5",
+        "name": "「ゴシック」衣装",
         "assetbundleName": "shop_300230",
         "seq": 300230,
         "billingShopItemIds": [
@@ -183,7 +183,7 @@
     },
     {
         "id": 15,
-        "name": "\u300c\u30c1\u30a7\u30c3\u30af\u67c4\u300d\u8863\u88c5",
+        "name": "「チェック柄」衣装",
         "assetbundleName": "shop_300240",
         "seq": 300240,
         "billingShopItemIds": [
@@ -196,7 +196,7 @@
     },
     {
         "id": 16,
-        "name": "\u300c\u5b87\u5b99\u300d\u8863\u88c5",
+        "name": "「宇宙」衣装",
         "assetbundleName": "shop_300260",
         "seq": 300260,
         "billingShopItemIds": [
@@ -209,7 +209,7 @@
     },
     {
         "id": 17,
-        "name": "\u300c\u30d5\u30eb\u30fc\u30c4\u300d\u8863\u88c5",
+        "name": "「フルーツ」衣装",
         "assetbundleName": "shop_300270",
         "seq": 300270,
         "billingShopItemIds": [
@@ -222,7 +222,7 @@
     },
     {
         "id": 18,
-        "name": "\u300c\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u300d\u8863\u88c5",
+        "name": "「ファンタジー」衣装",
         "assetbundleName": "shop_300280",
         "seq": 300280,
         "billingShopItemIds": [
@@ -235,7 +235,7 @@
     },
     {
         "id": 19,
-        "name": "\u300c\u30a4\u30fc\u30b9\u30bf\u30fc\u300d\u8863\u88c5",
+        "name": "「イースター」衣装",
         "assetbundleName": "shop_300320",
         "seq": 300320,
         "billingShopItemIds": [
@@ -248,7 +248,7 @@
     },
     {
         "id": 20,
-        "name": "\u300c\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u300d\u8863\u88c5",
+        "name": "「ヒップホップ」衣装",
         "assetbundleName": "shop_300330",
         "seq": 300330,
         "billingShopItemIds": [
@@ -261,7 +261,7 @@
     },
     {
         "id": 21,
-        "name": "\u300c\u30b9\u30dd\u30fc\u30c4\u300d\u8863\u88c5",
+        "name": "「スポーツ」衣装",
         "assetbundleName": "shop_300340",
         "seq": 300340,
         "billingShopItemIds": [
@@ -274,7 +274,7 @@
     },
     {
         "id": 22,
-        "name": "\u300c\u30d0\u30ab\u30f3\u30b9\u300d\u8863\u88c5",
+        "name": "「バカンス」衣装",
         "assetbundleName": "shop_300350",
         "seq": 300350,
         "billingShopItemIds": [
@@ -287,7 +287,7 @@
     },
     {
         "id": 23,
-        "name": "\u300c\u304a\u51fa\u304b\u3051\u670d\u300d\u8863\u88c5",
+        "name": "「お出かけ服」衣装",
         "assetbundleName": "shop_300360",
         "seq": 300360,
         "billingShopItemIds": [
@@ -300,7 +300,7 @@
     },
     {
         "id": 24,
-        "name": "\u300c\u30ec\u30c8\u30ed\u300d\u8863\u88c5",
+        "name": "「レトロ」衣装",
         "assetbundleName": "shop_300370",
         "seq": 300370,
         "billingShopItemIds": [
@@ -313,7 +313,7 @@
     },
     {
         "id": 25,
-        "name": "\u300c\u30c9\u30ec\u30b9\u30fb\u6b63\u88c5\u300d\u8863\u88c5",
+        "name": "「ドレス・正装」衣装",
         "assetbundleName": "shop_300380",
         "seq": 300380,
         "billingShopItemIds": [
@@ -326,7 +326,7 @@
     },
     {
         "id": 26,
-        "name": "\u300c\u5996\u602a\u300d\u8863\u88c5",
+        "name": "「妖怪」衣装",
         "assetbundleName": "shop_300450",
         "seq": 300450,
         "billingShopItemIds": [
@@ -339,7 +339,7 @@
     },
     {
         "id": 27,
-        "name": "\u300c\u304a\u3082\u3061\u3083\u300d\u8863\u88c5",
+        "name": "「おもちゃ」衣装",
         "assetbundleName": "shop_300470",
         "seq": 300470,
         "billingShopItemIds": [
@@ -352,7 +352,7 @@
     },
     {
         "id": 28,
-        "name": "\u300c\u30a6\u30a3\u30f3\u30bf\u30fc\u30b9\u30dd\u30fc\u30c4\u300d\u8863\u88c5",
+        "name": "「ウィンタースポーツ」衣装",
         "assetbundleName": "shop_300490",
         "seq": 300490,
         "billingShopItemIds": [
@@ -365,7 +365,7 @@
     },
     {
         "id": 29,
-        "name": "\u300c\u5fcd\u8005\u300d\u8863\u88c5",
+        "name": "「忍者」衣装",
         "assetbundleName": "shop_300510",
         "seq": 300510,
         "billingShopItemIds": [
@@ -378,7 +378,7 @@
     },
     {
         "id": 30,
-        "name": "\u300c\u30a6\u30a8\u30b9\u30bf\u30f3\u300d\u8863\u88c5",
+        "name": "「ウエスタン」衣装",
         "assetbundleName": "shop_300520",
         "seq": 300520,
         "billingShopItemIds": [
@@ -391,7 +391,7 @@
     },
     {
         "id": 31,
-        "name": "\u300c\u6625\u670d\u300d\u8863\u88c5",
+        "name": "「春服」衣装",
         "assetbundleName": "shop_300530",
         "seq": 300530,
         "billingShopItemIds": [
@@ -404,7 +404,7 @@
     },
     {
         "id": 32,
-        "name": "\u300c\u30d5\u30ed\u30fc\u30e9\u30eb\u300d\u8863\u88c5",
+        "name": "「フローラル」衣装",
         "assetbundleName": "shop_300550",
         "seq": 300550,
         "billingShopItemIds": [

@@ -1,97 +1,97 @@
 [
     {
         "id": 1,
-        "name": "\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8",
+        "name": "ガチャチケット",
         "assetbundleName": "gacha_ticket",
         "gachaDisplayType": "always"
     },
     {
         "id": 2,
-        "name": "\u26053\u4ee5\u4e0a\u78ba\u5b9a\u30c1\u30b1\u30c3\u30c8",
+        "name": "★3以上確定チケット",
         "assetbundleName": "over_the_3_ticket",
         "gachaDisplayType": "always"
     },
     {
         "id": 3,
-        "name": "1\u5468\u5e74\u8a18\u5ff510\u9023\u7121\u6599\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8",
+        "name": "1周年記念10連無料ガチャチケット",
         "assetbundleName": "anniversary_free_gacha_ticket",
         "gachaDisplayType": "always"
     },
     {
         "id": 4,
-        "name": "[2022\u65b0\u6625]10\u9023\u7121\u6599\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8",
+        "name": "[2022新春]10連無料ガチャチケット",
         "assetbundleName": "free_gacha_10_ticket",
         "gachaDisplayType": "always"
     },
     {
         "id": 5,
-        "name": "\u30df\u30af\u306e\u65e5\u304a\u795d\u3044\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8",
+        "name": "ミクの日お祝いキャンペーンガチャチケット",
         "assetbundleName": "gacha_ticket",
         "gachaDisplayType": "always"
     },
     {
         "id": 6,
-        "name": "[2\u5468\u5e74\u8a18\u5ff5]10\u9023\u7121\u6599\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8",
+        "name": "[2周年記念]10連無料ガチャチケット",
         "assetbundleName": "anniversary_free_gacha_ticket",
         "gachaDisplayType": "always"
     },
     {
         "id": 7,
-        "name": "[2023\u65b0\u6625]10\u9023\u7121\u6599\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8",
+        "name": "[2023新春]10連無料ガチャチケット",
         "assetbundleName": "free_gacha_10_ticket",
         "gachaDisplayType": "always"
     },
     {
         "id": 8,
-        "name": "[2.5\u5468\u5e74\u8a18\u5ff5]10\u9023\u7121\u6599\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8",
+        "name": "[2.5周年記念]10連無料ガチャチケット",
         "assetbundleName": "anniversary_free_gacha_ticket",
         "gachaDisplayType": "always"
     },
     {
         "id": 9,
-        "name": "[\u53cb\u9054\u62db\u5f85]\u26054\u30e1\u30f3\u30d0\u30fc\u78ba\u5b9a\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8",
+        "name": "[友達招待]★4メンバー確定ガチャチケット",
         "assetbundleName": "gacha_ticket_star4",
         "gachaDisplayType": "having"
     },
     {
         "id": 10,
-        "name": "[3\u5468\u5e74\u76f4\u524d\u751f\u653e\u9001\u914d\u4fe1\u8a18\u5ff5]10\u9023\u7121\u6599\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8",
+        "name": "[3周年直前生放送配信記念]10連無料ガチャチケット",
         "assetbundleName": "free_gacha_10_ticket",
         "gachaDisplayType": "always"
     },
     {
         "id": 11,
-        "name": "[\u53cb\u9054\u62db\u5f85]\u26054\u30e1\u30f3\u30d0\u30fc\u78ba\u5b9a\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8",
+        "name": "[友達招待]★4メンバー確定ガチャチケット",
         "assetbundleName": "gacha_ticket_star4",
         "gachaDisplayType": "having"
     },
     {
         "id": 12,
-        "name": "[\u521d\u5fc3\u8005\u5fdc\u63f4]\u26054\u30e1\u30f3\u30d0\u30fc1\u4eba\u78ba\u5b9a10\u9023\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8",
+        "name": "[初心者応援]★4メンバー1人確定10連ガチャチケット",
         "assetbundleName": "gacha_10_ticket_star4",
         "gachaDisplayType": "having"
     },
     {
         "id": 13,
-        "name": "[3\u5468\u5e74\u8a18\u5ff5]10\u9023\u7121\u6599\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8",
+        "name": "[3周年記念]10連無料ガチャチケット",
         "assetbundleName": "anniversary_free_gacha_ticket",
         "gachaDisplayType": "always"
     },
     {
         "id": 14,
-        "name": "[2024\u65b0\u6625]10\u9023\u7121\u6599\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8",
+        "name": "[2024新春]10連無料ガチャチケット",
         "assetbundleName": "free_gacha_10_ticket",
         "gachaDisplayType": "always"
     },
     {
         "id": 15,
-        "name": "3900's10\u9023\u7121\u6599\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8",
+        "name": "3900's10連無料ガチャチケット",
         "assetbundleName": "free_gacha_10_ticket",
         "gachaDisplayType": "always"
     },
     {
         "id": 16,
-        "name": "3900's\u26054\u30e1\u30f3\u30d0\u30fc\u78ba\u5b9a\u30ac\u30c1\u30e3\u30c1\u30b1\u30c3\u30c8",
+        "name": "3900's★4メンバー確定ガチャチケット",
         "assetbundleName": "gacha_ticket_star4",
         "gachaDisplayType": "having"
     }

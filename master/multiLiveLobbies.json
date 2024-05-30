@@ -2,7 +2,7 @@
     {
         "id": 1,
         "seq": 1,
-        "name": "\u30d5\u30ea\u30fc\u30eb\u30fc\u30e0",
+        "name": "フリールーム",
         "photonLobbyName": "publicFreeMultiLive",
         "matchingLogic": "random",
         "totalPower": 0,
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "seq": 2,
-        "name": "\u30d9\u30c6\u30e9\u30f3\u30eb\u30fc\u30e0",
+        "name": "ベテランルーム",
         "photonLobbyName": "publicVeteranMultiLive_{SCALE_INDEX}",
         "matchingLogic": "power",
         "totalPower": 150000,
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "seq": 3,
-        "name": "\u30d5\u30ea\u30fc\u30de\u30c3\u30c1",
+        "name": "フリーマッチ",
         "photonLobbyName": "publicFreeCheerfulParty",
         "matchingLogic": "random",
         "totalPower": 0,
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "seq": 4,
-        "name": "\u30d9\u30c6\u30e9\u30f3\u30de\u30c3\u30c1",
+        "name": "ベテランマッチ",
         "photonLobbyName": "publicVeteranCheerfulParty_{SCALE_INDEX}",
         "matchingLogic": "power",
         "totalPower": 150000,

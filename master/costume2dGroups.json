@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "name": "\u5236\u670d"
+        "name": "制服"
     },
     {
         "id": 2,
-        "name": "\u79c1\u670d"
+        "name": "私服"
     },
     {
         "id": 3,
-        "name": "\u30e6\u30cb\u30c3\u30c8\u8863\u88c5"
+        "name": "ユニット衣装"
     },
     {
         "id": 4,
-        "name": "\u30a8\u30a4\u30d7\u30ea\u30eb\u30d5\u30fc\u30eb"
+        "name": "エイプリルフール"
     }
 ]

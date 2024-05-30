@@ -2,7 +2,7 @@
     {
         "id": 1,
         "groupId": 1,
-        "title": "[2.5\u5468\u5e74\u8a18\u5ff5]\u30bb\u30ab\u30a4\u3078\u3088\u3046\u3053\u305d\u5927\u4f5c\u6226\uff01\uff01",
+        "title": "[2.5周年記念]セカイへようこそ大作戦！！",
         "assetbundleName": "friend_invitation",
         "startAt": 1680145200000,
         "progressEndAt": 1682002799000,
@@ -13,7 +13,7 @@
                 "id": 1,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 1,
                 "reward": [
                     {
@@ -28,7 +28,7 @@
                 "id": 2,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 2,
                 "reward": [
                     {
@@ -43,7 +43,7 @@
                 "id": 3,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 3,
                 "reward": [
                     {
@@ -58,7 +58,7 @@
                 "id": 4,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 4,
                 "reward": [
                     {
@@ -73,7 +73,7 @@
                 "id": 5,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 5,
                 "reward": [
                     {
@@ -88,7 +88,7 @@
                 "id": 6,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 6,
                 "reward": [
                     {
@@ -103,7 +103,7 @@
                 "id": 7,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 7,
                 "reward": [
                     {
@@ -118,7 +118,7 @@
                 "id": 8,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 8,
                 "reward": [
                     {
@@ -133,7 +133,7 @@
                 "id": 9,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 9,
                 "reward": [
                     {
@@ -148,7 +148,7 @@
                 "id": 10,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 10,
                 "reward": [
                     {
@@ -163,7 +163,7 @@
                 "id": 11,
                 "missionType": "guest",
                 "missionCategoryId": 1,
-                "name": "\u30e1\u30a4\u30f3\u30b9\u30c8\u30fc\u30ea\u30fc\u3092\u30b9\u30ad\u30c3\u30d7\u305b\u305a\u306b\u8aad\u3082\u3046",
+                "name": "メインストーリーをスキップせずに読もう",
                 "requirement": 1,
                 "reward": [
                     {
@@ -178,7 +178,7 @@
                 "id": 12,
                 "missionType": "guest",
                 "missionCategoryId": 1,
-                "name": "\u30e1\u30a4\u30f3\u30b9\u30c8\u30fc\u30ea\u30fc\u3092\u30b9\u30ad\u30c3\u30d7\u305b\u305a\u306b\u8aad\u3082\u3046",
+                "name": "メインストーリーをスキップせずに読もう",
                 "requirement": 2,
                 "reward": [
                     {
@@ -193,7 +193,7 @@
                 "id": 13,
                 "missionType": "guest",
                 "missionCategoryId": 1,
-                "name": "\u30e1\u30a4\u30f3\u30b9\u30c8\u30fc\u30ea\u30fc\u3092\u30b9\u30ad\u30c3\u30d7\u305b\u305a\u306b\u8aad\u3082\u3046",
+                "name": "メインストーリーをスキップせずに読もう",
                 "requirement": 3,
                 "reward": [
                     {
@@ -209,7 +209,7 @@
     {
         "id": 2,
         "groupId": 1,
-        "title": "[3\u5468\u5e74\u8a18\u5ff5]\u30bb\u30ab\u30a4\u3078\u3088\u3046\u3053\u305d\u5927\u4f5c\u6226\uff01\uff01",
+        "title": "[3周年記念]セカイへようこそ大作戦！！",
         "assetbundleName": "friend_invitation_3rd_anniv",
         "startAt": 1695826800000,
         "progressEndAt": 1697986799000,
@@ -220,7 +220,7 @@
                 "id": 14,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 1,
                 "reward": [
                     {
@@ -241,7 +241,7 @@
                 "id": 15,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 2,
                 "reward": [
                     {
@@ -256,7 +256,7 @@
                 "id": 16,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 3,
                 "reward": [
                     {
@@ -271,7 +271,7 @@
                 "id": 17,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 4,
                 "reward": [
                     {
@@ -286,7 +286,7 @@
                 "id": 18,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 5,
                 "reward": [
                     {
@@ -301,7 +301,7 @@
                 "id": 19,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 6,
                 "reward": [
                     {
@@ -316,7 +316,7 @@
                 "id": 20,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 7,
                 "reward": [
                     {
@@ -331,7 +331,7 @@
                 "id": 21,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 8,
                 "reward": [
                     {
@@ -346,7 +346,7 @@
                 "id": 22,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 9,
                 "reward": [
                     {
@@ -361,7 +361,7 @@
                 "id": 23,
                 "missionType": "host",
                 "missionCategoryId": 1,
-                "name": "\u62db\u5f85\u8005\u30df\u30c3\u30b7\u30e7\u30f3",
+                "name": "招待者ミッション",
                 "requirement": 10,
                 "reward": [
                     {
@@ -376,7 +376,7 @@
                 "id": 24,
                 "missionType": "guest",
                 "missionCategoryId": 1,
-                "name": "\u30e1\u30a4\u30f3\u30b9\u30c8\u30fc\u30ea\u30fc\u3092\u30b9\u30ad\u30c3\u30d7\u305b\u305a\u306b\u8aad\u3082\u3046",
+                "name": "メインストーリーをスキップせずに読もう",
                 "requirement": 1,
                 "reward": [
                     {
@@ -391,7 +391,7 @@
                 "id": 25,
                 "missionType": "guest",
                 "missionCategoryId": 1,
-                "name": "\u30e1\u30a4\u30f3\u30b9\u30c8\u30fc\u30ea\u30fc\u3092\u30b9\u30ad\u30c3\u30d7\u305b\u305a\u306b\u8aad\u3082\u3046",
+                "name": "メインストーリーをスキップせずに読もう",
                 "requirement": 2,
                 "reward": [
                     {
@@ -406,7 +406,7 @@
                 "id": 26,
                 "missionType": "guest",
                 "missionCategoryId": 1,
-                "name": "\u30e1\u30a4\u30f3\u30b9\u30c8\u30fc\u30ea\u30fc\u3092\u30b9\u30ad\u30c3\u30d7\u305b\u305a\u306b\u8aad\u3082\u3046",
+                "name": "メインストーリーをスキップせずに読もう",
                 "requirement": 3,
                 "reward": [
                     {

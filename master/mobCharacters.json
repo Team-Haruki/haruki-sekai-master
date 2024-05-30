@@ -2,775 +2,775 @@
     {
         "id": 1,
         "seq": 1,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u91d1\u9aea\uff08\u30bb\u30fc\u30e9\u30fc\u670d\uff09",
+        "name": "モブ子　ショート　金髪（セーラー服）",
         "gender": "female"
     },
     {
         "id": 2,
         "seq": 2,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u3053\u3052\u8336\uff08\u30bb\u30fc\u30e9\u30fc\u670d\uff09",
+        "name": "モブ子　ショート　こげ茶（セーラー服）",
         "gender": "female"
     },
     {
         "id": 3,
         "seq": 3,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u8336\u9aea\uff08\u30bb\u30fc\u30e9\u30fc\u670d\uff09",
+        "name": "モブ子　ショート　茶髪（セーラー服）",
         "gender": "female"
     },
     {
         "id": 4,
         "seq": 4,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30ed\u30f3\u30b0\u3000\u91d1\u9aea\uff08\u30bb\u30fc\u30e9\u30fc\u670d\uff09",
+        "name": "モブ子　ロング　金髪（セーラー服）",
         "gender": "female"
     },
     {
         "id": 5,
         "seq": 5,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30ed\u30f3\u30b0\u3000\u3053\u3052\u8336\uff08\u30bb\u30fc\u30e9\u30fc\u670d\uff09",
+        "name": "モブ子　ロング　こげ茶（セーラー服）",
         "gender": "female"
     },
     {
         "id": 6,
         "seq": 6,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30ed\u30f3\u30b0\u3000\u8336\u9aea\uff08\u30bb\u30fc\u30e9\u30fc\u670d\uff09",
+        "name": "モブ子　ロング　茶髪（セーラー服）",
         "gender": "female"
     },
     {
         "id": 7,
         "seq": 7,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30c4\u30a4\u30f3\u30c6\u3000\u91d1\u9aea\uff08\u30bb\u30fc\u30e9\u30fc\u670d\uff09",
+        "name": "モブ子　ツインテ　金髪（セーラー服）",
         "gender": "female"
     },
     {
         "id": 8,
         "seq": 8,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30c4\u30a4\u30f3\u30c6\u3000\u3053\u3052\u8336\uff08\u30bb\u30fc\u30e9\u30fc\u670d\uff09",
+        "name": "モブ子　ツインテ　こげ茶（セーラー服）",
         "gender": "female"
     },
     {
         "id": 9,
         "seq": 9,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30c4\u30a4\u30f3\u30c6\u3000\u8336\u9aea\uff08\u30bb\u30fc\u30e9\u30fc\u670d\uff09",
+        "name": "モブ子　ツインテ　茶髪（セーラー服）",
         "gender": "female"
     },
     {
         "id": 10,
         "seq": 10,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u91d1\u9aea\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ子　ショート　金髪（ブレザー）",
         "gender": "female"
     },
     {
         "id": 11,
         "seq": 11,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u3053\u3052\u8336\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ子　ショート　こげ茶（ブレザー）",
         "gender": "female"
     },
     {
         "id": 12,
         "seq": 12,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u8336\u9aea\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ子　ショート　茶髪（ブレザー）",
         "gender": "female"
     },
     {
         "id": 13,
         "seq": 13,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30ed\u30f3\u30b0\u3000\u91d1\u9aea\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ子　ロング　金髪（ブレザー）",
         "gender": "female"
     },
     {
         "id": 14,
         "seq": 14,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30ed\u30f3\u30b0\u3000\u3053\u3052\u8336\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ子　ロング　こげ茶（ブレザー）",
         "gender": "female"
     },
     {
         "id": 15,
         "seq": 15,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30ed\u30f3\u30b0\u3000\u8336\u9aea\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ子　ロング　茶髪（ブレザー）",
         "gender": "female"
     },
     {
         "id": 16,
         "seq": 16,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30c4\u30a4\u30f3\u30c6\u3000\u91d1\u9aea\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ子　ツインテ　金髪（ブレザー）",
         "gender": "female"
     },
     {
         "id": 17,
         "seq": 17,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30c4\u30a4\u30f3\u30c6\u3000\u3053\u3052\u8336\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ子　ツインテ　こげ茶（ブレザー）",
         "gender": "female"
     },
     {
         "id": 18,
         "seq": 18,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30c4\u30a4\u30f3\u30c6\u3000\u8336\u9aea\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ子　ツインテ　茶髪（ブレザー）",
         "gender": "female"
     },
     {
         "id": 19,
         "seq": 19,
-        "name": "\u30e2\u30d6\u7537\u3000\u3086\u308b\u30b7\u30e7\u30fc\u30c8\u3000\u91d1\u9aea\uff08\u30ab\u30fc\u30c7\u30a3\u30ac\u30f3\uff09",
+        "name": "モブ男　ゆるショート　金髪（カーディガン）",
         "gender": "male"
     },
     {
         "id": 20,
         "seq": 20,
-        "name": "\u30e2\u30d6\u7537\u3000\u3086\u308b\u30b7\u30e7\u30fc\u30c8\u3000\u3053\u3052\u8336\uff08\u30ab\u30fc\u30c7\u30a3\u30ac\u30f3\uff09",
+        "name": "モブ男　ゆるショート　こげ茶（カーディガン）",
         "gender": "male"
     },
     {
         "id": 21,
         "seq": 21,
-        "name": "\u30e2\u30d6\u7537\u3000\u3086\u308b\u30b7\u30e7\u30fc\u30c8\u3000\u8336\u9aea\uff08\u30ab\u30fc\u30c7\u30a3\u30ac\u30f3\uff09",
+        "name": "モブ男　ゆるショート　茶髪（カーディガン）",
         "gender": "male"
     },
     {
         "id": 22,
         "seq": 22,
-        "name": "\u30e2\u30d6\u7537\u3000\u304f\u305b\u6bdb\u3000\u91d1\u9aea\uff08\u30ab\u30fc\u30c7\u30a3\u30ac\u30f3\uff09",
+        "name": "モブ男　くせ毛　金髪（カーディガン）",
         "gender": "male"
     },
     {
         "id": 23,
         "seq": 23,
-        "name": "\u30e2\u30d6\u7537\u3000\u304f\u305b\u6bdb\u3000\u3053\u3052\u8336\uff08\u30ab\u30fc\u30c7\u30a3\u30ac\u30f3\uff09",
+        "name": "モブ男　くせ毛　こげ茶（カーディガン）",
         "gender": "male"
     },
     {
         "id": 24,
         "seq": 24,
-        "name": "\u30e2\u30d6\u7537\u3000\u304f\u305b\u6bdb\u3000\u8336\u9aea\uff08\u30ab\u30fc\u30c7\u30a3\u30ac\u30f3\uff09",
+        "name": "モブ男　くせ毛　茶髪（カーディガン）",
         "gender": "male"
     },
     {
         "id": 26,
         "seq": 26,
-        "name": "\u30b9\u30bf\u30c3\u30d5\u7537",
+        "name": "スタッフ男",
         "gender": "male"
     },
     {
         "id": 27,
         "seq": 27,
-        "name": "\u30b9\u30bf\u30c3\u30d5\u5973",
+        "name": "スタッフ女",
         "gender": "female"
     },
     {
         "id": 28,
         "seq": 28,
-        "name": "\u30b9\u30bf\u30c3\u30d5\u7537",
+        "name": "スタッフ男",
         "gender": "male"
     },
     {
         "id": 29,
         "seq": 29,
-        "name": "\u30b9\u30bf\u30c3\u30d5\u5973",
+        "name": "スタッフ女",
         "gender": "female"
     },
     {
         "id": 30,
         "seq": 30,
-        "name": "\u30b7\u30e7\u30c3\u30d7\u5b9a\u54e15",
+        "name": "ショップ定員5",
         "gender": "male"
     },
     {
         "id": 31,
         "seq": 31,
-        "name": "\u30b7\u30e7\u30c3\u30d7\u5b9a\u54e16",
+        "name": "ショップ定員6",
         "gender": "male"
     },
     {
         "id": 32,
         "seq": 32,
-        "name": "\u30b7\u30e7\u30c3\u30d7\u5b9a\u54e17",
+        "name": "ショップ定員7",
         "gender": "male"
     },
     {
         "id": 33,
         "seq": 33,
-        "name": "\u30b7\u30e7\u30c3\u30d7\u5b9a\u54e18",
+        "name": "ショップ定員8",
         "gender": "male"
     },
     {
         "id": 34,
         "seq": 34,
-        "name": "\u30b7\u30e7\u30c3\u30d7\u5b9a\u54e19",
+        "name": "ショップ定員9",
         "gender": "male"
     },
     {
         "id": 35,
         "seq": 35,
-        "name": "\u30b7\u30e7\u30c3\u30d7\u5b9a\u54e110",
+        "name": "ショップ定員10",
         "gender": "male"
     },
     {
         "id": 36,
         "seq": 36,
-        "name": "\u674f\u30d1\u30d1",
+        "name": "杏パパ",
         "gender": "male"
     },
     {
         "id": 37,
         "seq": 37,
-        "name": "\u594f\u30d1\u30d1",
+        "name": "奏パパ",
         "gender": "male"
     },
     {
         "id": 38,
         "seq": 38,
-        "name": "\u30c6\u30de\u30d1\u306c\u3044\u3050\u308b\u307f",
+        "name": "テマパぬいぐるみ",
         "gender": "male"
     },
     {
         "id": 39,
         "seq": 39,
-        "name": "\u30c6\u30de\u30d1\u7740\u3050\u308b\u307f",
+        "name": "テマパ着ぐるみ",
         "gender": "male"
     },
     {
         "id": 40,
         "seq": 40,
-        "name": "\u30cd\u30cd\u30ed\u30dc",
+        "name": "ネネロボ",
         "gender": "male"
     },
     {
         "id": 41,
         "seq": 41,
-        "name": "\u30df\u30af\u30c0\u30e8\u30fc",
+        "name": "ミクダヨー",
         "gender": "male"
     },
     {
         "id": 42,
         "seq": 42,
-        "name": "\u9065\u30d5\u30a1\u30f3",
+        "name": "遥ファン",
         "gender": "male"
     },
     {
         "id": 43,
         "seq": 43,
-        "name": "\u30d3\u30d3\u30d0\u30b9\u30e2\u30d6",
+        "name": "ビビバスモブ",
         "gender": "male"
     },
     {
         "id": 44,
         "seq": 44,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u91d1\u9aea\uff08\u79c1\u670d\uff09",
+        "name": "モブ子　ショート　金髪（私服）",
         "gender": "female"
     },
     {
         "id": 45,
         "seq": 45,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u3053\u3052\u8336\uff08\u79c1\u670d\uff09",
+        "name": "モブ子　ショート　こげ茶（私服）",
         "gender": "female"
     },
     {
         "id": 46,
         "seq": 46,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u8336\u9aea\uff08\u79c1\u670d\uff09",
+        "name": "モブ子　ショート　茶髪（私服）",
         "gender": "female"
     },
     {
         "id": 47,
         "seq": 47,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30ed\u30f3\u30b0\u3000\u91d1\u9aea\uff08\u79c1\u670d\uff09",
+        "name": "モブ子　ロング　金髪（私服）",
         "gender": "female"
     },
     {
         "id": 48,
         "seq": 48,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30ed\u30f3\u30b0\u3000\u3053\u3052\u8336\uff08\u79c1\u670d\uff09",
+        "name": "モブ子　ロング　こげ茶（私服）",
         "gender": "female"
     },
     {
         "id": 49,
         "seq": 49,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30ed\u30f3\u30b0\u3000\u8336\u9aea\uff08\u79c1\u670d\uff09",
+        "name": "モブ子　ロング　茶髪（私服）",
         "gender": "female"
     },
     {
         "id": 50,
         "seq": 50,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30c4\u30a4\u30f3\u30c6\u3000\u91d1\u9aea\uff08\u79c1\u670d\uff09",
+        "name": "モブ子　ツインテ　金髪（私服）",
         "gender": "female"
     },
     {
         "id": 51,
         "seq": 51,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30c4\u30a4\u30f3\u30c6\u3000\u3053\u3052\u8336\uff08\u79c1\u670d\uff09",
+        "name": "モブ子　ツインテ　こげ茶（私服）",
         "gender": "female"
     },
     {
         "id": 52,
         "seq": 52,
-        "name": "\u30e2\u30d6\u5b50\u3000\u30c4\u30a4\u30f3\u30c6\u3000\u8336\u9aea\uff08\u79c1\u670d\uff09",
+        "name": "モブ子　ツインテ　茶髪（私服）",
         "gender": "female"
     },
     {
         "id": 53,
         "seq": 53,
-        "name": "\u30e2\u30d6\u7537\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u91d1\u9aea\uff08\u30ab\u30fc\u30c7\u30a3\u30ac\u30f3\uff09",
+        "name": "モブ男　ショート　金髪（カーディガン）",
         "gender": "male"
     },
     {
         "id": 54,
         "seq": 54,
-        "name": "\u30e2\u30d6\u7537\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u3053\u3052\u8336\uff08\u30ab\u30fc\u30c7\u30a3\u30ac\u30f3\uff09",
+        "name": "モブ男　ショート　こげ茶（カーディガン）",
         "gender": "male"
     },
     {
         "id": 55,
         "seq": 55,
-        "name": "\u30e2\u30d6\u7537\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u8336\u9aea\uff08\u30ab\u30fc\u30c7\u30a3\u30ac\u30f3\uff09",
+        "name": "モブ男　ショート　茶髪（カーディガン）",
         "gender": "male"
     },
     {
         "id": 56,
         "seq": 56,
-        "name": "\u30e2\u30d6\u7537\u3000\u3086\u308b\u30b7\u30e7\u30fc\u30c8\u3000\u91d1\u9aea\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ男　ゆるショート　金髪（ブレザー）",
         "gender": "male"
     },
     {
         "id": 57,
         "seq": 57,
-        "name": "\u30e2\u30d6\u7537\u3000\u3086\u308b\u30b7\u30e7\u30fc\u30c8\u3000\u3053\u3052\u8336\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ男　ゆるショート　こげ茶（ブレザー）",
         "gender": "male"
     },
     {
         "id": 58,
         "seq": 58,
-        "name": "\u30e2\u30d6\u7537\u3000\u3086\u308b\u30b7\u30e7\u30fc\u30c8\u3000\u8336\u9aea\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ男　ゆるショート　茶髪（ブレザー）",
         "gender": "male"
     },
     {
         "id": 59,
         "seq": 59,
-        "name": "\u30e2\u30d6\u7537\u3000\u304f\u305b\u6bdb\u3000\u91d1\u9aea\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ男　くせ毛　金髪（ブレザー）",
         "gender": "male"
     },
     {
         "id": 60,
         "seq": 60,
-        "name": "\u30e2\u30d6\u7537\u3000\u304f\u305b\u6bdb\u3000\u3053\u3052\u8336\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ男　くせ毛　こげ茶（ブレザー）",
         "gender": "male"
     },
     {
         "id": 61,
         "seq": 61,
-        "name": "\u30e2\u30d6\u7537\u3000\u304f\u305b\u6bdb\u3000\u8336\u9aea\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ男　くせ毛　茶髪（ブレザー）",
         "gender": "male"
     },
     {
         "id": 62,
         "seq": 62,
-        "name": "\u30e2\u30d6\u7537\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u91d1\u9aea\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ男　ショート　金髪（ブレザー）",
         "gender": "male"
     },
     {
         "id": 63,
         "seq": 63,
-        "name": "\u30e2\u30d6\u7537\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u3053\u3052\u8336\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ男　ショート　こげ茶（ブレザー）",
         "gender": "male"
     },
     {
         "id": 64,
         "seq": 64,
-        "name": "\u30e2\u30d6\u7537\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u8336\u9aea\uff08\u30d6\u30ec\u30b6\u30fc\uff09",
+        "name": "モブ男　ショート　茶髪（ブレザー）",
         "gender": "male"
     },
     {
         "id": 65,
         "seq": 65,
-        "name": "\u30e2\u30d6\u7537\u3000\u3086\u308b\u30b7\u30e7\u30fc\u30c8\u3000\u91d1\u9aea\uff08\u79c1\u670d\uff09",
+        "name": "モブ男　ゆるショート　金髪（私服）",
         "gender": "male"
     },
     {
         "id": 66,
         "seq": 66,
-        "name": "\u30e2\u30d6\u7537\u3000\u3086\u308b\u30b7\u30e7\u30fc\u30c8\u3000\u3053\u3052\u8336\uff08\u79c1\u670d\uff09",
+        "name": "モブ男　ゆるショート　こげ茶（私服）",
         "gender": "male"
     },
     {
         "id": 67,
         "seq": 67,
-        "name": "\u30e2\u30d6\u7537\u3000\u3086\u308b\u30b7\u30e7\u30fc\u30c8\u3000\u8336\u9aea\uff08\u79c1\u670d\uff09",
+        "name": "モブ男　ゆるショート　茶髪（私服）",
         "gender": "male"
     },
     {
         "id": 68,
         "seq": 68,
-        "name": "\u30e2\u30d6\u7537\u3000\u304f\u305b\u6bdb\u3000\u91d1\u9aea\uff08\u79c1\u670d\uff09",
+        "name": "モブ男　くせ毛　金髪（私服）",
         "gender": "male"
     },
     {
         "id": 69,
         "seq": 69,
-        "name": "\u30e2\u30d6\u7537\u3000\u304f\u305b\u6bdb\u3000\u3053\u3052\u8336\uff08\u79c1\u670d\uff09",
+        "name": "モブ男　くせ毛　こげ茶（私服）",
         "gender": "male"
     },
     {
         "id": 70,
         "seq": 70,
-        "name": "\u30e2\u30d6\u7537\u3000\u304f\u305b\u6bdb\u3000\u8336\u9aea\uff08\u79c1\u670d\uff09",
+        "name": "モブ男　くせ毛　茶髪（私服）",
         "gender": "male"
     },
     {
         "id": 71,
         "seq": 71,
-        "name": "\u30e2\u30d6\u7537\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u91d1\u9aea\uff08\u79c1\u670d\uff09",
+        "name": "モブ男　ショート　金髪（私服）",
         "gender": "male"
     },
     {
         "id": 72,
         "seq": 72,
-        "name": "\u30e2\u30d6\u7537\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u3053\u3052\u8336\uff08\u79c1\u670d\uff09",
+        "name": "モブ男　ショート　こげ茶（私服）",
         "gender": "male"
     },
     {
         "id": 73,
         "seq": 73,
-        "name": "\u30e2\u30d6\u7537\u3000\u30b7\u30e7\u30fc\u30c8\u3000\u8336\u9aea\uff08\u79c1\u670d\uff09",
+        "name": "モブ男　ショート　茶髪（私服）",
         "gender": "male"
     },
     {
         "id": 74,
         "seq": 74,
-        "name": "\u5712\u82b8\u90e8\u54e1\u7537",
+        "name": "園芸部員男",
         "gender": "male"
     },
     {
         "id": 75,
         "seq": 75,
-        "name": "\u5712\u82b8\u90e8\u54e1\u5973",
+        "name": "園芸部員女",
         "gender": "female"
     },
     {
         "id": 76,
         "seq": 76,
-        "name": "\u30a4\u30aa\u30ea",
+        "name": "イオリ",
         "gender": "female"
     },
     {
         "id": 77,
         "seq": 77,
-        "name": "\u6afb\u5b50",
+        "name": "櫻子",
         "gender": "female"
     },
     {
         "id": 78,
         "seq": 78,
-        "name": "\u6771\u96f2\u30d1\u30d1",
+        "name": "東雲パパ",
         "gender": "male"
     },
     {
         "id": 79,
         "seq": 79,
-        "name": "\u51ac\u5f25\u30d1\u30d1",
+        "name": "冬弥パパ",
         "gender": "male"
     },
     {
         "id": 80,
         "seq": 80,
-        "name": "\u7345\u5b50\u821e\u30ed\u30dc\u30c3\u30c8",
+        "name": "獅子舞ロボット",
         "gender": "male"
     },
     {
         "id": 81,
         "seq": 81,
-        "name": "\u3048\u3080\u30d1\u30d1",
+        "name": "えむパパ",
         "gender": "male"
     },
     {
         "id": 82,
         "seq": 82,
-        "name": "\u9cf3\u3072\u306a\u305f\uff08\u9577\u5973\uff09",
+        "name": "鳳ひなた（長女）",
         "gender": "female"
     },
     {
         "id": 83,
         "seq": 83,
-        "name": "\u9cf3\u6176\u4ecb\uff08\u9577\u7537\uff09",
+        "name": "鳳慶介（長男）",
         "gender": "male"
     },
     {
         "id": 84,
         "seq": 84,
-        "name": "\u9cf3\u660c\u4ecb\uff08\u6b21\u7537\uff09",
+        "name": "鳳昌介（次男）",
         "gender": "male"
     },
     {
         "id": 85,
         "seq": 85,
-        "name": "\u306a\u306a\u307f\u3093",
+        "name": "ななみん",
         "gender": "female"
     },
     {
         "id": 86,
         "seq": 86,
-        "name": "\u30df\u30aa",
+        "name": "ミオ",
         "gender": "female"
     },
     {
         "id": 87,
         "seq": 87,
-        "name": "\u65b0",
+        "name": "新",
         "gender": "male"
     },
     {
         "id": 88,
         "seq": 88,
-        "name": "\u30e9\u30a4\u30ea\u30fc",
+        "name": "ライリー",
         "gender": "male"
     },
     {
         "id": 89,
         "seq": 89,
-        "name": "\u594f\u30de\u30de",
+        "name": "奏ママ",
         "gender": "female"
     },
     {
         "id": 90,
         "seq": 90,
-        "name": "\u5927\u6cb3",
+        "name": "大河",
         "gender": "male"
     },
     {
         "id": 91,
         "seq": 91,
-        "name": "\u5915\u590f",
+        "name": "夕夏",
         "gender": "female"
     },
     {
         "id": 92,
         "seq": 92,
-        "name": "\u552f\u5948",
+        "name": "唯奈",
         "gender": "female"
     },
     {
         "id": 93,
         "seq": 93,
-        "name": "\u658e\u85e4",
+        "name": "斎藤",
         "gender": "female"
     },
     {
         "id": 94,
         "seq": 94,
-        "name": "\u9cf3\u697d\u4e43\u4ecb",
+        "name": "鳳楽乃介",
         "gender": "male"
     },
     {
         "id": 95,
         "seq": 95,
-        "name": "\u82e5\u3044\u30e9\u30a4\u30ea\u30fc",
+        "name": "若いライリー",
         "gender": "male"
     },
     {
         "id": 96,
         "seq": 96,
-        "name": "\u53e4\u7027\u51ea",
+        "name": "古瀧凪",
         "gender": "female"
     },
     {
         "id": 97,
         "seq": 97,
-        "name": "\u674f\u30d1\u30d1\uff08\u8863\u88c5\u5dee\u5206\uff09",
+        "name": "杏パパ（衣装差分）",
         "gender": "male"
     },
     {
         "id": 98,
         "seq": 98,
-        "name": "\u5927\u6cb3\uff08\u8863\u88c5\u5dee\u5206\uff09",
+        "name": "大河（衣装差分）",
         "gender": "male"
     },
     {
         "id": 99,
         "seq": 99,
-        "name": "\u53e4\u7027\u51ea\uff08\u30e9\u30a4\u30d6\uff09",
+        "name": "古瀧凪（ライブ）",
         "gender": "female"
     },
     {
         "id": 100,
         "seq": 100,
-        "name": "\u53e4\u7027\u51ea\uff08\u9ed2\u5857\u308a\uff09",
+        "name": "古瀧凪（黒塗り）",
         "gender": "female"
     },
     {
         "id": 101,
         "seq": 101,
-        "name": "\u674f\u30d1\u30d1\uff08\u30e9\u30a4\u30d6\uff09",
+        "name": "杏パパ（ライブ）",
         "gender": "male"
     },
     {
         "id": 102,
         "seq": 102,
-        "name": "\u5927\u6cb3\uff08\u30e9\u30a4\u30d6\uff09",
+        "name": "大河（ライブ）",
         "gender": "male"
     },
     {
         "id": 103,
         "seq": 103,
-        "name": "\u9ad8\u6728 \u672a\u7fbd",
+        "name": "高木 未羽",
         "gender": "female"
     },
     {
         "id": 104,
         "seq": 104,
-        "name": "\u590f\u91ce\u4e8c\u8449",
+        "name": "夏野二葉",
         "gender": "female"
     },
     {
         "id": 105,
         "seq": 105,
-        "name": "\u5409\u5d0e\u8449\u592a",
+        "name": "吉崎葉太",
         "gender": "male"
     },
     {
         "id": 106,
         "seq": 106,
-        "name": "\u5409\u5d0e\u82b1\u4e43",
+        "name": "吉崎花乃",
         "gender": "female"
     },
     {
         "id": 107,
         "seq": 107,
-        "name": "\u9577\u8c37\u5ddd\u91cc\u5e06",
+        "name": "長谷川里帆",
         "gender": "female"
     },
     {
         "id": 108,
         "seq": 108,
-        "name": "\u5bae\u7530\u98af\u771f",
+        "name": "宮田颯真",
         "gender": "male"
     },
     {
         "id": 109,
         "seq": 109,
-        "name": "\u9ad8\u5742\u6714",
+        "name": "高坂朔",
         "gender": "female"
     },
     {
         "id": 110,
         "seq": 110,
-        "name": "\u5ca1\u5d0e\u9054\u4e5f",
+        "name": "岡崎達也",
         "gender": "male"
     },
     {
         "id": 111,
         "seq": 111,
-        "name": "\u7384\u6b66\u65ed",
+        "name": "玄武旭",
         "gender": "male"
     },
     {
         "id": 112,
         "seq": 112,
-        "name": "\u7345\u5b50\u821e\u30ed\u30dc\u30c3\u30c8\uff08\u30ea\u30c3\u30d7\u30b7\u30f3\u30af\uff09",
+        "name": "獅子舞ロボット（リップシンク）",
         "gender": "male"
     },
     {
         "id": 113,
         "seq": 113,
-        "name": "\u771f\u5802\u826f\u6a39",
+        "name": "真堂良樹",
         "gender": "male"
     },
     {
         "id": 114,
         "seq": 114,
-        "name": "\u65e5\u66ae\u30a2\u30ea\u30b5",
+        "name": "日暮アリサ",
         "gender": "female"
     },
     {
         "id": 115,
         "seq": 115,
-        "name": "\u307e\u3075\u3086\u6bcd",
+        "name": "まふゆ母",
         "gender": "female"
     },
     {
         "id": 116,
         "seq": 116,
-        "name": "\u30df\u30af\u30c0\u30e8\u30fc\u6821\u9577",
+        "name": "ミクダヨー校長",
         "gender": "female"
     },
     {
         "id": 117,
         "seq": 117,
-        "name": "\u30df\u30af\u30c0\u30e8\u30fc\u6821\u9577\uff08\u9ed2\u5857\u308a\uff09",
+        "name": "ミクダヨー校長（黒塗り）",
         "gender": "female"
     },
     {
         "id": 118,
         "seq": 118,
-        "name": "\u745e\u5e0c\u306e\u59c9",
+        "name": "瑞希の姉",
         "gender": "female"
     },
     {
         "id": 119,
         "seq": 119,
-        "name": "20\u4ee3\u306e\u8b19",
+        "name": "20代の謙",
         "gender": "male"
     },
     {
         "id": 120,
         "seq": 120,
-        "name": "20\u4ee3\u306e\u5927\u6cb3",
+        "name": "20代の大河",
         "gender": "male"
     },
     {
         "id": 121,
         "seq": 121,
-        "name": "20\u4ee3\u306e\u51ea",
+        "name": "20代の凪",
         "gender": "female"
     },
     {
         "id": 122,
         "seq": 122,
-        "name": "\u51ea\u5165\u9662\u7740",
+        "name": "凪入院着",
         "gender": "female"
     },
     {
         "id": 123,
         "seq": 123,
-        "name": "\u658e\u85e4\uff08\u65c5\u9928\uff09",
+        "name": "斎藤（旅館）",
         "gender": "female"
     },
     {
         "id": 124,
         "seq": 124,
-        "name": "\u307e\u3075\u3086\u7236",
+        "name": "まふゆ父",
         "gender": "male"
     },
     {
         "id": 125,
         "seq": 125,
-        "name": "\u734f\u91ce\u6b74",
+        "name": "獏野歴",
         "gender": "male"
     },
     {
         "id": 126,
         "seq": 126,
-        "name": "\u745e\u5e0c\u306e\u59c9\uff08\u4e2d\u5b66\u751f\uff09",
+        "name": "瑞希の姉（中学生）",
         "gender": "female"
     },
     {
         "id": 127,
         "seq": 127,
-        "name": "\u698a\u9ec4\u9f8d",
+        "name": "榊黄龍",
         "gender": "male"
     },
     {
         "id": 128,
         "seq": 128,
-        "name": "\u6709\u6fa4\u65e5\u83dc\u5b50\uff08\u5927\u5bb6\uff09",
+        "name": "有澤日菜子（大家）",
         "gender": "female"
     },
     {
         "id": 129,
         "seq": 129,
-        "name": "\u9b3c\u5cf6\u5927\u543e",
+        "name": "鬼島大吾",
         "gender": "male"
     },
     {
         "id": 900000,
         "seq": 900000,
-        "name": "\u3010\u7279\u6b8a\u3011\u5168\u54e1",
+        "name": "【特殊】全員",
         "gender": "male"
     }
 ]

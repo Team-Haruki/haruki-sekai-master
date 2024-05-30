@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "shortDescription": "\u30b9\u30b3\u30a2{{1;v}}%\uff35\uff30",
-        "description": "{{1;d}}\u79d2\u9593  \u30b9\u30b3\u30a2\u304c{{1;v}}%UP\u3059\u308b",
+        "shortDescription": "スコア{{1;v}}%ＵＰ",
+        "description": "{{1;d}}秒間  スコアが{{1;v}}%UPする",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 1,
         "skillEffects": [
@@ -45,8 +45,8 @@
     },
     {
         "id": 2,
-        "shortDescription": "\u30b9\u30b3\u30a2{{2;v}}%\uff35\uff30",
-        "description": "{{2;d}}\u79d2\u9593  \u30b9\u30b3\u30a2\u304c{{2;v}}%UP\u3059\u308b",
+        "shortDescription": "スコア{{2;v}}%ＵＰ",
+        "description": "{{2;d}}秒間  スコアが{{2;v}}%UPする",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 1,
         "skillEffects": [
@@ -89,8 +89,8 @@
     },
     {
         "id": 3,
-        "shortDescription": "\u30b9\u30b3\u30a2{{3;v}}%\uff35\uff30",
-        "description": "{{3;d}}\u79d2\u9593  \u30b9\u30b3\u30a2\u304c{{3;v}}%UP\u3059\u308b",
+        "shortDescription": "スコア{{3;v}}%ＵＰ",
+        "description": "{{3;d}}秒間  スコアが{{3;v}}%UPする",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 1,
         "skillEffects": [
@@ -133,8 +133,8 @@
     },
     {
         "id": 4,
-        "shortDescription": "\u30b9\u30b3\u30a2{{4;v}}%\uff35\uff30",
-        "description": "{{4;d}}\u79d2\u9593  \u30b9\u30b3\u30a2\u304c{{4;v}}%UP\u3059\u308b",
+        "shortDescription": "スコア{{4;v}}%ＵＰ",
+        "description": "{{4;d}}秒間  スコアが{{4;v}}%UPする",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 1,
         "skillEffects": [
@@ -177,8 +177,8 @@
     },
     {
         "id": 5,
-        "shortDescription": "\u5224\u5b9a\u5f37\u5316(\u5c0f)\\n\uff06\u30b9\u30b3\u30a2{{5;v}}%\uff35\uff30",
-        "description": "{{8;d}}\u79d2\u9593  GREAT\u304cPERFECT\u306b\u306a\u308a\u3001{{5;d}}\u79d2\u9593  \u30b9\u30b3\u30a2\u304c{{5;v}}\uff05UP\u3059\u308b",
+        "shortDescription": "判定強化(小)\\n＆スコア{{5;v}}%ＵＰ",
+        "description": "{{8;d}}秒間  GREATがPERFECTになり、{{5;d}}秒間  スコアが{{5;v}}％UPする",
         "descriptionSpriteName": "judgment_up",
         "skillFilterId": 3,
         "skillEffects": [
@@ -256,8 +256,8 @@
     },
     {
         "id": 6,
-        "shortDescription": "\u5224\u5b9a\u5f37\u5316(\u4e2d)\\n\uff06\u30b9\u30b3\u30a2{{6;v}}%\uff35\uff30",
-        "description": "{{9;d}}\u79d2\u9593  GOOD\u4ee5\u4e0a\u304cPERFECT\u306b\u306a\u308a\u3001{{6;d}}\u79d2\u9593  \u30b9\u30b3\u30a2\u304c{{6;v}}\uff05UP\u3059\u308b",
+        "shortDescription": "判定強化(中)\\n＆スコア{{6;v}}%ＵＰ",
+        "description": "{{9;d}}秒間  GOOD以上がPERFECTになり、{{6;d}}秒間  スコアが{{6;v}}％UPする",
         "descriptionSpriteName": "judgment_up",
         "skillFilterId": 3,
         "skillEffects": [
@@ -335,8 +335,8 @@
     },
     {
         "id": 7,
-        "shortDescription": "\u5224\u5b9a\u5f37\u5316(\u5927)\\n\uff06\u30b9\u30b3\u30a2{{7;v}}%\uff35\uff30",
-        "description": "{{10;d}}\u79d2\u9593  BAD\u4ee5\u4e0a\u304cPERFECT\u306b\u306a\u308a\u3001{{7;d}}\u79d2\u9593  \u30b9\u30b3\u30a2\u304c{{7;v}}\uff05UP\u3059\u308b",
+        "shortDescription": "判定強化(大)\\n＆スコア{{7;v}}%ＵＰ",
+        "description": "{{10;d}}秒間  BAD以上がPERFECTになり、{{7;d}}秒間  スコアが{{7;v}}％UPする",
         "descriptionSpriteName": "judgment_up",
         "skillFilterId": 3,
         "skillEffects": [
@@ -414,8 +414,8 @@
     },
     {
         "id": 8,
-        "shortDescription": "\u30e9\u30a4\u30d5{{14;v}}\u56de\u5fa9\\n\uff06\u30b9\u30b3\u30a2{{11;v}}%\uff35\uff30",
-        "description": "\u30e9\u30a4\u30d5\u304c{{14;v}}\u56de\u5fa9\u3057\u3001{{11;d}}\u79d2\u9593  \u30b9\u30b3\u30a2\u304c{{11;v}}%UP\u3059\u308b",
+        "shortDescription": "ライフ{{14;v}}回復\\n＆スコア{{11;v}}%ＵＰ",
+        "description": "ライフが{{14;v}}回復し、{{11;d}}秒間  スコアが{{11;v}}%UPする",
         "descriptionSpriteName": "life_recovery",
         "skillFilterId": 4,
         "skillEffects": [
@@ -492,8 +492,8 @@
     },
     {
         "id": 9,
-        "shortDescription": "\u30e9\u30a4\u30d5{{15;v}}\u56de\u5fa9\\n\uff06\u30b9\u30b3\u30a2{{12;v}}%\uff35\uff30",
-        "description": "\u30e9\u30a4\u30d5\u304c{{15;v}}\u56de\u5fa9\u3057\u3001{{12;d}}\u79d2\u9593  \u30b9\u30b3\u30a2\u304c{{12;v}}%UP\u3059\u308b",
+        "shortDescription": "ライフ{{15;v}}回復\\n＆スコア{{12;v}}%ＵＰ",
+        "description": "ライフが{{15;v}}回復し、{{12;d}}秒間  スコアが{{12;v}}%UPする",
         "descriptionSpriteName": "life_recovery",
         "skillFilterId": 4,
         "skillEffects": [
@@ -570,8 +570,8 @@
     },
     {
         "id": 10,
-        "shortDescription": "\u30e9\u30a4\u30d5{{16;v}}\u56de\u5fa9\\n\uff06\u30b9\u30b3\u30a2{{13;v}}%\uff35\uff30",
-        "description": "\u30e9\u30a4\u30d5\u304c{{16;v}}\u56de\u5fa9\u3057\u3001{{13;d}}\u79d2\u9593  \u30b9\u30b3\u30a2\u304c{{13;v}}%UP\u3059\u308b",
+        "shortDescription": "ライフ{{16;v}}回復\\n＆スコア{{13;v}}%ＵＰ",
+        "description": "ライフが{{16;v}}回復し、{{13;d}}秒間  スコアが{{13;v}}%UPする",
         "descriptionSpriteName": "life_recovery",
         "skillFilterId": 4,
         "skillEffects": [
@@ -648,8 +648,8 @@
     },
     {
         "id": 11,
-        "shortDescription": "PERFECT\u306e\u3068\u304d\u306e\u307f\\n\u30b9\u30b3\u30a2{{17;v}}%\uff35\uff30",
-        "description": "{{17;d}}\u79d2\u9593  PERFECT\u306e\u3068\u304d\u306e\u307f\u30b9\u30b3\u30a2\u304c{{17;v}}%UP\u3059\u308b",
+        "shortDescription": "PERFECTのときのみ\\nスコア{{17;v}}%ＵＰ",
+        "description": "{{17;d}}秒間  PERFECTのときのみスコアが{{17;v}}%UPする",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -692,8 +692,8 @@
     },
     {
         "id": 12,
-        "shortDescription": "\u767a\u52d5\u6642\u30e9\u30a4\u30d5\u304c800\u672a\u6e80\u306a\u3089\u30b9\u30b3\u30a2{{39;v}}%UP\u3001\\n800\u4ee5\u4e0a\u306a\u3089\u30b9\u30b3\u30a2{{38;v}}%UP\u3001\u66f4\u306b\u30e9\u30a4\u30d5\u304c10\u5897\u52a0\u6bce\u306b+1%UP\uff08\u6700\u5927{{18;v}}%)",
-        "description": "{{38;d}}\u79d2\u9593  \u767a\u52d5\u6642\u30e9\u30a4\u30d5\u304c800\u672a\u6e80\u306a\u3089\u30b9\u30b3\u30a2\u304c{{39;v}}%UP\u3001\n800\u4ee5\u4e0a\u306a\u3089\u30b9\u30b3\u30a2\u304c{{38;v}}%UP\u3001\u66f4\u306b\u30e9\u30a4\u30d5\u304c10\u5897\u52a0\u6bce\u306b+1%UP\u3059\u308b\uff08\u6700\u5927{{18;v}}%)",
+        "shortDescription": "発動時ライフが800未満ならスコア{{39;v}}%UP、\\n800以上ならスコア{{38;v}}%UP、更にライフが10増加毎に+1%UP（最大{{18;v}}%)",
+        "description": "{{38;d}}秒間  発動時ライフが800未満ならスコアが{{39;v}}%UP、\n800以上ならスコアが{{38;v}}%UP、更にライフが10増加毎に+1%UPする（最大{{18;v}}%)",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1493,8 +1493,8 @@
     },
     {
         "id": 13,
-        "shortDescription": "\u30b9\u30b3\u30a2{{41;v}}\uff05UP\u3001GOOD\u4ee5\u4e0b\u3092\u51fa\u3059\u307e\u3067\u306f\u30b9\u30b3\u30a2{{40;v}}\uff05UP",
-        "description": "{{40;d}}\u79d2\u9593  \u30b9\u30b3\u30a2\u304c{{41;v}}\uff05UP\u3001\nGOOD\u4ee5\u4e0b\u3092\u51fa\u3059\u307e\u3067\u306f\u30b9\u30b3\u30a2\u304c{{40;v}}\uff05UP\u3059\u308b",
+        "shortDescription": "スコア{{41;v}}％UP、GOOD以下を出すまではスコア{{40;v}}％UP",
+        "description": "{{40;d}}秒間  スコアが{{41;v}}％UP、\nGOOD以下を出すまではスコアが{{40;v}}％UPする",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1572,8 +1572,8 @@
     },
     {
         "id": 14,
-        "shortDescription": "\u30e9\u30a4\u30d5{{42;v}}\u56de\u5fa9\\n\uff06PERFECT\u306e\u3068\u304d\u306e\u307f\\n\u30b9\u30b3\u30a2{{43;v}}%\uff35\uff30",
-        "description": "\u30e9\u30a4\u30d5\u304c{{42;v}}\u56de\u5fa9\u3057\u3001{{43;d}}\u79d2\u9593  PERFECT\u306e\u3068\u304d\u306e\u307f\u30b9\u30b3\u30a2\u304c{{43;v}}%UP\u3059\u308b",
+        "shortDescription": "ライフ{{42;v}}回復\\n＆PERFECTのときのみ\\nスコア{{43;v}}%ＵＰ",
+        "description": "ライフが{{42;v}}回復し、{{43;d}}秒間  PERFECTのときのみスコアが{{43;v}}%UPする",
         "descriptionSpriteName": "life_recovery",
         "skillFilterId": 4,
         "skillEffects": [
@@ -1650,8 +1650,8 @@
     },
     {
         "id": 15,
-        "shortDescription": "\u30b9\u30b3\u30a2{{44;v}}%UP\u3001\u81ea\u8eab\u3092\u9664\u304d\u300cLeo\/need\u300d\u30e1\u30f3\u30d0\u30fc\u30921\u4eba\u7de8\u6210\u3059\u308b\u6bce\u306b\u30b9\u30b3\u30a2{{44;e}}%UP\u3001\u5168\u54e1\u4e00\u81f4\u3067\u66f4\u306b{{44;e}}%UP",
-        "description": "{{44;d}}\u79d2\u9593  \u30b9\u30b3\u30a2\u304c{{44;v}}%UP\u3059\u308b\n\u81ea\u8eab\u3092\u9664\u304d\u300cLeo\/need\u300d\u30e1\u30f3\u30d0\u30fc\u30921\u4eba\u7de8\u6210\u3059\u308b\u6bce\u306b\u30b9\u30b3\u30a2\u304c{{44;e}}%UP\u3057\u3001\u5168\u54e1\u4e00\u81f4\u3067\u66f4\u306b{{44;e}}%UP\u3059\u308b\uff08\u6700\u5927{{44;m}}%)",
+        "shortDescription": "スコア{{44;v}}%UP、自身を除き「Leo\/need」メンバーを1人編成する毎にスコア{{44;e}}%UP、全員一致で更に{{44;e}}%UP",
+        "description": "{{44;d}}秒間  スコアが{{44;v}}%UPする\n自身を除き「Leo\/need」メンバーを1人編成する毎にスコアが{{44;e}}%UPし、全員一致で更に{{44;e}}%UPする（最大{{44;m}}%)",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1705,8 +1705,8 @@
     },
     {
         "id": 16,
-        "shortDescription": "\u30b9\u30b3\u30a2{{45;v}}%UP\u3001\u81ea\u8eab\u3092\u9664\u304d\u300cMORE MORE JUMP\uff01\u300d\u30e1\u30f3\u30d0\u30fc\u30921\u4eba\u7de8\u6210\u3059\u308b\u6bce\u306b\u30b9\u30b3\u30a2{{45;e}}%UP\u3001\u5168\u54e1\u4e00\u81f4\u3067\u66f4\u306b{{45;e}}%UP\uff08\u6700\u5927{{45;m}}%)",
-        "description": "{{45;d}}\u79d2\u9593  \u30b9\u30b3\u30a2\u304c{{45;v}}%UP\u3059\u308b\n\u81ea\u8eab\u3092\u9664\u304d\u300cMORE MORE JUMP\uff01\u300d\u30e1\u30f3\u30d0\u30fc\u30921\u4eba\u7de8\u6210\u3059\u308b\u6bce\u306b\u30b9\u30b3\u30a2\u304c{{45;e}}%UP\u3057\u3001\u5168\u54e1\u4e00\u81f4\u3067\u66f4\u306b{{45;e}}%UP\u3059\u308b\uff08\u6700\u5927{{45;m}}%)",
+        "shortDescription": "スコア{{45;v}}%UP、自身を除き「MORE MORE JUMP！」メンバーを1人編成する毎にスコア{{45;e}}%UP、全員一致で更に{{45;e}}%UP（最大{{45;m}}%)",
+        "description": "{{45;d}}秒間  スコアが{{45;v}}%UPする\n自身を除き「MORE MORE JUMP！」メンバーを1人編成する毎にスコアが{{45;e}}%UPし、全員一致で更に{{45;e}}%UPする（最大{{45;m}}%)",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1760,8 +1760,8 @@
     },
     {
         "id": 17,
-        "shortDescription": "\u30b9\u30b3\u30a2{{46;v}}%UP\u3001\u81ea\u8eab\u3092\u9664\u304d\u300cVivid BAD SQUAD\u300d\u30e1\u30f3\u30d0\u30fc\u30921\u4eba\u7de8\u6210\u3059\u308b\u6bce\u306b\u30b9\u30b3\u30a2{{46;e}}%UP\u3001\u5168\u54e1\u4e00\u81f4\u3067\u66f4\u306b{{46;e}}%UP\uff08\u6700\u5927{{46;m}}%)",
-        "description": "{{46;d}}\u79d2\u9593  \u30b9\u30b3\u30a2\u304c{{46;v}}%UP\u3059\u308b\n\u81ea\u8eab\u3092\u9664\u304d\u300cVivid BAD SQUAD\u300d\u30e1\u30f3\u30d0\u30fc\u30921\u4eba\u7de8\u6210\u3059\u308b\u6bce\u306b\u30b9\u30b3\u30a2\u304c{{46;e}}%UP\u3057\u3001\u5168\u54e1\u4e00\u81f4\u3067\u66f4\u306b{{46;e}}%UP\u3059\u308b\uff08\u6700\u5927{{46;m}}%)",
+        "shortDescription": "スコア{{46;v}}%UP、自身を除き「Vivid BAD SQUAD」メンバーを1人編成する毎にスコア{{46;e}}%UP、全員一致で更に{{46;e}}%UP（最大{{46;m}}%)",
+        "description": "{{46;d}}秒間  スコアが{{46;v}}%UPする\n自身を除き「Vivid BAD SQUAD」メンバーを1人編成する毎にスコアが{{46;e}}%UPし、全員一致で更に{{46;e}}%UPする（最大{{46;m}}%)",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1815,8 +1815,8 @@
     },
     {
         "id": 18,
-        "shortDescription": "\u30b9\u30b3\u30a2{{47;v}}%UP\u3001\u81ea\u8eab\u3092\u9664\u304d\u300c\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0\u300d\u30e1\u30f3\u30d0\u30fc\u30921\u4eba\u7de8\u6210\u3059\u308b\u6bce\u306b\u30b9\u30b3\u30a2{{47;e}}%UP\u3001\u5168\u54e1\u4e00\u81f4\u3067\u66f4\u306b{{47;e}}%UP\uff08\u6700\u5927{{47;m}}%)",
-        "description": "{{47;d}}\u79d2\u9593  \u30b9\u30b3\u30a2\u304c{{47;v}}%UP\u3059\u308b\n\u81ea\u8eab\u3092\u9664\u304d\u300c\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0\u300d\u30e1\u30f3\u30d0\u30fc\u30921\u4eba\u7de8\u6210\u3059\u308b\u6bce\u306b\u30b9\u30b3\u30a2\u304c{{47;e}}%UP\u3057\u3001\u5168\u54e1\u4e00\u81f4\u3067\u66f4\u306b{{47;e}}%UP\u3059\u308b\uff08\u6700\u5927{{47;m}}%)",
+        "shortDescription": "スコア{{47;v}}%UP、自身を除き「ワンダーランズ×ショウタイム」メンバーを1人編成する毎にスコア{{47;e}}%UP、全員一致で更に{{47;e}}%UP（最大{{47;m}}%)",
+        "description": "{{47;d}}秒間  スコアが{{47;v}}%UPする\n自身を除き「ワンダーランズ×ショウタイム」メンバーを1人編成する毎にスコアが{{47;e}}%UPし、全員一致で更に{{47;e}}%UPする（最大{{47;m}}%)",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1870,8 +1870,8 @@
     },
     {
         "id": 19,
-        "shortDescription": "\u30b9\u30b3\u30a2{{48;v}}%UP\u3001\u81ea\u8eab\u3092\u9664\u304d\u300c25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002\u300d\u30e1\u30f3\u30d0\u30fc\u30921\u4eba\u7de8\u6210\u3059\u308b\u6bce\u306b\u30b9\u30b3\u30a2{{48;e}}%UP\u3001\u5168\u54e1\u4e00\u81f4\u3067\u66f4\u306b{{48;e}}%UP\uff08\u6700\u5927{{48;m}}%)",
-        "description": "{{48;d}}\u79d2\u9593  \u30b9\u30b3\u30a2\u304c{{48;v}}%UP\u3059\u308b\n\u81ea\u8eab\u3092\u9664\u304d\u300c25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002\u300d\u30e1\u30f3\u30d0\u30fc\u30921\u4eba\u7de8\u6210\u3059\u308b\u6bce\u306b\u30b9\u30b3\u30a2\u304c{{48;e}}%UP\u3057\u3001\u5168\u54e1\u4e00\u81f4\u3067\u66f4\u306b{{48;e}}%UP\u3059\u308b\uff08\u6700\u5927{{48;m}}%)",
+        "shortDescription": "スコア{{48;v}}%UP、自身を除き「25時、ナイトコードで。」メンバーを1人編成する毎にスコア{{48;e}}%UP、全員一致で更に{{48;e}}%UP（最大{{48;m}}%)",
+        "description": "{{48;d}}秒間  スコアが{{48;v}}%UPする\n自身を除き「25時、ナイトコードで。」メンバーを1人編成する毎にスコアが{{48;e}}%UPし、全員一致で更に{{48;e}}%UPする（最大{{48;m}}%)",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [

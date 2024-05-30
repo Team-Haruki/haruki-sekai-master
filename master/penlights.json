@@ -2,714 +2,714 @@
     {
         "id": 1,
         "seq": 1,
-        "name": "\u30c7\u30d5\u30a9\u30eb\u30c8",
+        "name": "デフォルト",
         "defaultPenlightColorId": 1,
         "assetbundleName": "penlight_0001"
     },
     {
         "id": 2,
         "seq": 2,
-        "name": "\u30cd\u30ae\u306e\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "ネギのペンライト",
         "defaultPenlightColorId": 22,
         "assetbundleName": "penlight_0002"
     },
     {
         "id": 3,
         "seq": 3,
-        "name": "\u661f\u306e\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "星のペンライト",
         "defaultPenlightColorId": 3,
         "assetbundleName": "penlight_0003"
     },
     {
         "id": 4,
         "seq": 4,
-        "name": "\u30cf\u30fc\u30c8\u306e\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "ハートのペンライト",
         "defaultPenlightColorId": 8,
         "assetbundleName": "penlight_0004"
     },
     {
         "id": 5,
         "seq": 5,
-        "name": "2021\u5e74\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "2021年ペンライト",
         "defaultPenlightColorId": 26,
         "assetbundleName": "penlight_0005"
     },
     {
         "id": 6,
         "seq": 6,
-        "name": "\u30b9\u30ce\u30fc\u30af\u30ea\u30b9\u30bf\u30eb\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "スノークリスタルペンライト",
         "defaultPenlightColorId": 7,
         "assetbundleName": "penlight_0006"
     },
     {
         "id": 7,
         "seq": 7,
-        "name": "\u7a42\u6ce2\u306e\u30bf\u30af\u30c8\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "穂波のタクトペンライト",
         "defaultPenlightColorId": 1,
         "assetbundleName": "penlight_0007"
     },
     {
         "id": 8,
         "seq": 8,
-        "name": "\u714c\u3081\u304d\u306e\u30c9\u30ed\u30c3\u30d7",
+        "name": "煌めきのドロップ",
         "defaultPenlightColorId": 1,
         "assetbundleName": "penlight_0008"
     },
     {
         "id": 9,
         "seq": 9,
-        "name": "\u30af\u30e9\u30b7\u30ab\u30eb\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "クラシカルペンライト",
         "defaultPenlightColorId": 13,
         "assetbundleName": "penlight_0009"
     },
     {
         "id": 10,
         "seq": 10,
-        "name": "\u30ca\u30fc\u30b7\u30b5\u30b9\u306e\u7d75\u7b46",
+        "name": "ナーシサスの絵筆",
         "defaultPenlightColorId": 32,
         "assetbundleName": "penlight_0010"
     },
     {
         "id": 11,
         "seq": 11,
-        "name": "\u3060\u3044\u3059\u304d\u3046\u3061\u308f\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "だいすきうちわペンライト",
         "defaultPenlightColorId": 30,
         "assetbundleName": "penlight_0011"
     },
     {
         "id": 12,
         "seq": 12,
-        "name": "\u307c\u3093\u307c\u308a\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "ぼんぼりペンライト",
         "defaultPenlightColorId": 10,
         "assetbundleName": "penlight_0012"
     },
     {
         "id": 13,
         "seq": 13,
-        "name": "\u7ffc\u306e\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "翼のペンライト",
         "defaultPenlightColorId": 29,
         "assetbundleName": "penlight_0013"
     },
     {
         "id": 14,
         "seq": 14,
-        "name": "\u3072\u3089\u3072\u3089\u685c\u30e9\u30a4\u30c8",
+        "name": "ひらひら桜ライト",
         "defaultPenlightColorId": 25,
         "assetbundleName": "penlight_0014"
     },
     {
         "id": 15,
         "seq": 15,
-        "name": "\u30b4\u30fc\u30b9\u30c8\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "ゴーストペンライト",
         "defaultPenlightColorId": 7,
         "assetbundleName": "penlight_0015"
     },
     {
         "id": 16,
         "seq": 16,
-        "name": "\u30e9\u30a4\u30d6\u30c1\u30b1\u30c3\u30c8\u98a8\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "ライブチケット風ペンライト",
         "defaultPenlightColorId": 28,
         "assetbundleName": "penlight_0016"
     },
     {
         "id": 17,
         "seq": 17,
-        "name": "\u6c7a\u610f\u306e\u30de\u30a4\u30af\u30e9\u30a4\u30c8",
+        "name": "決意のマイクライト",
         "defaultPenlightColorId": 26,
         "assetbundleName": "penlight_0017"
     },
     {
         "id": 18,
         "seq": 18,
-        "name": "\u3066\u308b\u3066\u308b\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "てるてるペンライト",
         "defaultPenlightColorId": 27,
         "assetbundleName": "penlight_0018"
     },
     {
         "id": 19,
         "seq": 19,
-        "name": "\u30ab\u30fc\u30cd\u30fc\u30b7\u30e7\u30f3\u306e\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "カーネーションのペンライト",
         "defaultPenlightColorId": 1,
         "assetbundleName": "penlight_0019"
     },
     {
         "id": 20,
         "seq": 20,
-        "name": "\u30b9\u30bf\u30fc\u30ad\u30fc\u30dc\u30fc\u30c9\u30b9\u30c6\u30a3\u30c3\u30af",
+        "name": "スターキーボードスティック",
         "defaultPenlightColorId": 3,
         "assetbundleName": "penlight_0020"
     },
     {
         "id": 21,
         "seq": 21,
-        "name": "\u30b5\u30f3\u30d5\u30e9\u30ef\u30fc\u30e9\u30a4\u30c8",
+        "name": "サンフラワーライト",
         "defaultPenlightColorId": 23,
         "assetbundleName": "penlight_0021"
     },
     {
         "id": 22,
         "seq": 22,
-        "name": "\u4eba\u9b5a\u59eb\u306e\u30b7\u30a7\u30eb\u30e9\u30a4\u30c8",
+        "name": "人魚姫のシェルライト",
         "defaultPenlightColorId": 10,
         "assetbundleName": "penlight_0022"
     },
     {
         "id": 23,
         "seq": 23,
-        "name": "\u5fd8\u5374\u306e\u30a2\u30c3\u30d7\u30eb\u30e9\u30a4\u30c8",
+        "name": "忘却のアップルライト",
         "defaultPenlightColorId": 26,
         "assetbundleName": "penlight_0023"
     },
     {
         "id": 24,
         "seq": 24,
-        "name": "\u30bb\u30ab\u30a4\u306e\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "セカイのペンライト",
         "defaultPenlightColorId": 22,
         "assetbundleName": "penlight_0024"
     },
     {
         "id": 25,
         "seq": 25,
-        "name": "1st Anniversary\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "1st Anniversaryペンライト",
         "defaultPenlightColorId": 22,
         "assetbundleName": "penlight_0025"
     },
     {
         "id": 26,
         "seq": 26,
-        "name": "\u30e9\u30e0\u30ec\u30fc\u30ba\u30f3\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "ラムレーズンペンライト",
         "defaultPenlightColorId": 1,
         "assetbundleName": "penlight_0026"
     },
     {
         "id": 27,
         "seq": 27,
-        "name": "\u30cf\u30ed\u30a6\u30a3\u30f3\u30d0\u30c3\u30c8\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "ハロウィンバットペンライト",
         "defaultPenlightColorId": 23,
         "assetbundleName": "penlight_0027"
     },
     {
         "id": 28,
         "seq": 28,
-        "name": "\u5929\u4f53\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "天体ペンライト",
         "defaultPenlightColorId": 24,
         "assetbundleName": "penlight_0028"
     },
     {
         "id": 29,
         "seq": 29,
-        "name": "CLOCK\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "CLOCKペンライト",
         "defaultPenlightColorId": 2,
         "assetbundleName": "penlight_0029"
     },
     {
         "id": 30,
         "seq": 30,
-        "name": "\u30da\u30f3\u30b7\u30eb\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "ペンシルペンライト",
         "defaultPenlightColorId": 22,
         "assetbundleName": "penlight_0030"
     },
     {
         "id": 31,
         "seq": 31,
-        "name": "\u300cCRASH\u300d\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "「CRASH」ペンライト",
         "defaultPenlightColorId": 30,
         "assetbundleName": "penlight_0031"
     },
     {
         "id": 32,
         "seq": 32,
-        "name": "\u30cf\u30c3\u30d4\u30fc\u30d9\u30eb\u30e9\u30a4\u30c8",
+        "name": "ハッピーベルライト",
         "defaultPenlightColorId": 3,
         "assetbundleName": "penlight_0032"
     },
     {
         "id": 33,
         "seq": 33,
-        "name": "\u8cc0\u6b63\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "賀正ペンライト",
         "defaultPenlightColorId": 26,
         "assetbundleName": "penlight_0033"
     },
     {
         "id": 34,
         "seq": 34,
-        "name": "\u30e1\u30ea\u30fc\u30b4\u30fc\u30e9\u30f3\u30c9\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "メリーゴーランドペンライト",
         "defaultPenlightColorId": 15,
         "assetbundleName": "penlight_0034"
     },
     {
         "id": 35,
         "seq": 35,
-        "name": "\u30ed\u30ea\u30dd\u30c3\u30d7\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "ロリポップペンライト",
         "defaultPenlightColorId": 8,
         "assetbundleName": "penlight_0035"
     },
     {
         "id": 36,
         "seq": 36,
-        "name": "\u5feb\u6674\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "快晴ペンライト",
         "defaultPenlightColorId": 24,
         "assetbundleName": "penlight_0036"
     },
     {
         "id": 37,
         "seq": 37,
-        "name": "\u30de\u30b8\u30ab\u30eb\u30b9\u30c6\u30c3\u30ad\u30e9\u30a4\u30c8",
+        "name": "マジカルステッキライト",
         "defaultPenlightColorId": 25,
         "assetbundleName": "penlight_0037"
     },
     {
         "id": 38,
         "seq": 38,
-        "name": "\u30d1\u30ba\u30eb\u30d4\u30fc\u30b9\u30e9\u30a4\u30c8",
+        "name": "パズルピースライト",
         "defaultPenlightColorId": 28,
         "assetbundleName": "penlight_0038"
     },
     {
         "id": 39,
         "seq": 39,
-        "name": "\u30da\u30f3\u30ae\u30f3\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "ペンギンペンライト",
         "defaultPenlightColorId": 27,
         "assetbundleName": "penlight_0039"
     },
     {
         "id": 40,
         "seq": 40,
-        "name": "\u6ce8\u5c04\u5668\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "注射器ペンライト",
         "defaultPenlightColorId": 32,
         "assetbundleName": "penlight_0040"
     },
     {
         "id": 41,
         "seq": 41,
-        "name": "\u30e1\u30ac\u30db\u30f3\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "メガホンペンライト",
         "defaultPenlightColorId": 5,
         "assetbundleName": "penlight_0041"
     },
     {
         "id": 42,
         "seq": 42,
-        "name": "\u30b9\u30d1\u30a4\u30c0\u30fc\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "スパイダーペンライト",
         "defaultPenlightColorId": 10,
         "assetbundleName": "penlight_0042"
     },
     {
         "id": 43,
         "seq": 50,
-        "name": "\u30b8\u30e3\u30c3\u30af\u30fb\u30aa\u30fb\u30e9\u30f3\u30bf\u30f3",
+        "name": "ジャック・オ・ランタン",
         "defaultPenlightColorId": 12,
         "assetbundleName": "penlight_0043"
     },
     {
         "id": 44,
         "seq": 58,
-        "name": "\u521d\u5bcc\u58eb\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "初富士ペンライト",
         "defaultPenlightColorId": 2,
         "assetbundleName": "penlight_0044"
     },
     {
         "id": 45,
         "seq": 44,
-        "name": "\u30b9\u30e0\u30fc\u30b8\u30fc\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "スムージーペンライト",
         "defaultPenlightColorId": 29,
         "assetbundleName": "penlight_0045"
     },
     {
         "id": 46,
         "seq": 45,
-        "name": "\u30a2\u30cd\u30e2\u30cd\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "アネモネペンライト",
         "defaultPenlightColorId": 32,
         "assetbundleName": "penlight_0046"
     },
     {
         "id": 47,
         "seq": 46,
-        "name": "\u30bc\u30d5\u30a3\u30e9\u30f3\u30b5\u30b9\u306e\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "ゼフィランサスのペンライト",
         "defaultPenlightColorId": 32,
         "assetbundleName": "penlight_0047"
     },
     {
         "id": 48,
         "seq": 47,
-        "name": "\u300c2nd ANNIVERSARY SPECIAL STAGE\u300d\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "「2nd ANNIVERSARY SPECIAL STAGE」ペンライト",
         "defaultPenlightColorId": 22,
         "assetbundleName": "penlight_0048"
     },
     {
         "id": 49,
         "seq": 48,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u9065",
+        "name": "応援うちわ 遥",
         "defaultPenlightColorId": 7,
         "assetbundleName": "penlight_0049"
     },
     {
         "id": 50,
         "seq": 49,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u7a42\u6ce2",
+        "name": "応援うちわ 穂波",
         "defaultPenlightColorId": 4,
         "assetbundleName": "penlight_0050"
     },
     {
         "id": 51,
         "seq": 51,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f MEIKO",
+        "name": "応援うちわ MEIKO",
         "defaultPenlightColorId": 26,
         "assetbundleName": "penlight_0051"
     },
     {
         "id": 52,
         "seq": 52,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u5f70\u4eba",
+        "name": "応援うちわ 彰人",
         "defaultPenlightColorId": 12,
         "assetbundleName": "penlight_0052"
     },
     {
         "id": 53,
         "seq": 55,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u96eb",
+        "name": "応援うちわ 雫",
         "defaultPenlightColorId": 9,
         "assetbundleName": "penlight_0053"
     },
     {
         "id": 54,
         "seq": 57,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u30ea\u30f3",
+        "name": "応援うちわ リン",
         "defaultPenlightColorId": 23,
         "assetbundleName": "penlight_0054"
     },
     {
         "id": 55,
         "seq": 56,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u30ec\u30f3",
+        "name": "応援うちわ レン",
         "defaultPenlightColorId": 24,
         "assetbundleName": "penlight_0055"
     },
     {
         "id": 56,
         "seq": 59,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u5fd7\u6b69",
+        "name": "応援うちわ 志歩",
         "defaultPenlightColorId": 5,
         "assetbundleName": "penlight_0056"
     },
     {
         "id": 57,
         "seq": 60,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u307e\u3075\u3086",
+        "name": "応援うちわ まふゆ",
         "defaultPenlightColorId": 19,
         "assetbundleName": "penlight_0057"
     },
     {
         "id": 58,
         "seq": 61,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u30eb\u30ab",
+        "name": "応援うちわ ルカ",
         "defaultPenlightColorId": 25,
         "assetbundleName": "penlight_0058"
     },
     {
         "id": 59,
         "seq": 62,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u594f",
+        "name": "応援うちわ 奏",
         "defaultPenlightColorId": 18,
         "assetbundleName": "penlight_0059"
     },
     {
         "id": 60,
         "seq": 64,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f KAITO",
+        "name": "応援うちわ KAITO",
         "defaultPenlightColorId": 27,
         "assetbundleName": "penlight_0060"
     },
     {
         "id": 61,
         "seq": 66,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u3053\u306f\u306d",
+        "name": "応援うちわ こはね",
         "defaultPenlightColorId": 10,
         "assetbundleName": "penlight_0061"
     },
     {
         "id": 62,
         "seq": 69,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u611b\u8389",
+        "name": "応援うちわ 愛莉",
         "defaultPenlightColorId": 8,
         "assetbundleName": "penlight_0062"
     },
     {
         "id": 63,
         "seq": 70,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u307f\u306e\u308a",
+        "name": "応援うちわ みのり",
         "defaultPenlightColorId": 6,
         "assetbundleName": "penlight_0063"
     },
     {
         "id": 64,
         "seq": 71,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u7d75\u540d",
+        "name": "応援うちわ 絵名",
         "defaultPenlightColorId": 20,
         "assetbundleName": "penlight_0064"
     },
     {
         "id": 65,
         "seq": 73,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u54b2\u5e0c",
+        "name": "応援うちわ 咲希",
         "defaultPenlightColorId": 3,
         "assetbundleName": "penlight_0065"
     },
     {
         "id": 66,
         "seq": 75,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u53f8",
+        "name": "応援うちわ 司",
         "defaultPenlightColorId": 14,
         "assetbundleName": "penlight_0066"
     },
     {
         "id": 67,
         "seq": 76,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u51ac\u5f25",
+        "name": "応援うちわ 冬弥",
         "defaultPenlightColorId": 13,
         "assetbundleName": "penlight_0067"
     },
     {
         "id": 68,
         "seq": 77,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u985e",
+        "name": "応援うちわ 類",
         "defaultPenlightColorId": 17,
         "assetbundleName": "penlight_0068"
     },
     {
         "id": 69,
         "seq": 81,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u5be7\u3005",
+        "name": "応援うちわ 寧々",
         "defaultPenlightColorId": 16,
         "assetbundleName": "penlight_0069"
     },
     {
         "id": 70,
         "seq": 82,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u674f",
+        "name": "応援うちわ 杏",
         "defaultPenlightColorId": 11,
         "assetbundleName": "penlight_0070"
     },
     {
         "id": 71,
         "seq": 85,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u4e00\u6b4c",
+        "name": "応援うちわ 一歌",
         "defaultPenlightColorId": 2,
         "assetbundleName": "penlight_0071"
     },
     {
         "id": 72,
         "seq": 88,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u745e\u5e0c",
+        "name": "応援うちわ 瑞希",
         "defaultPenlightColorId": 21,
         "assetbundleName": "penlight_0072"
     },
     {
         "id": 73,
         "seq": 89,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u30df\u30af",
+        "name": "応援うちわ ミク",
         "defaultPenlightColorId": 22,
         "assetbundleName": "penlight_0073"
     },
     {
         "id": 74,
         "seq": 91,
-        "name": "\u5fdc\u63f4\u3046\u3061\u308f \u3048\u3080",
+        "name": "応援うちわ えむ",
         "defaultPenlightColorId": 15,
         "assetbundleName": "penlight_0074"
     },
     {
         "id": 75,
         "seq": 53,
-        "name": "\u307f\u305a\u304c\u3081\u5ea7\u306e\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "みずがめ座のペンライト",
         "defaultPenlightColorId": 27,
         "assetbundleName": "penlight_0075"
     },
     {
         "id": 76,
         "seq": 54,
-        "name": "\u98db\u884c\u6a5f\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "飛行機ペンライト",
         "defaultPenlightColorId": 27,
         "assetbundleName": "penlight_0076"
     },
     {
         "id": 77,
         "seq": 56,
-        "name": "\u71b1\u60c5\u306e\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "熱情のペンライト",
         "defaultPenlightColorId": 12,
         "assetbundleName": "penlight_0077"
     },
     {
         "id": 79,
         "seq": 72,
-        "name": "\u8089\u7403\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "肉球ペンライト",
         "defaultPenlightColorId": 21,
         "assetbundleName": "penlight_0079"
     },
     {
         "id": 80,
         "seq": 63,
-        "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u30d6\u30fc\u30b1",
+        "name": "バレンタインブーケ",
         "defaultPenlightColorId": 26,
         "assetbundleName": "penlight_0080"
     },
     {
         "id": 81,
         "seq": 65,
-        "name": "\u9ed2\u9a0e\u58eb\u306e\u5263\u30e9\u30a4\u30c8",
+        "name": "黒騎士の剣ライト",
         "defaultPenlightColorId": 26,
         "assetbundleName": "penlight_0081"
     },
     {
         "id": 82,
         "seq": 68,
-        "name": "\u30ad\u30e3\u30f3\u30c7\u30a3\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "キャンディペンライト",
         "defaultPenlightColorId": 2,
         "assetbundleName": "penlight_0082"
     },
     {
         "id": 83,
         "seq": 67,
-        "name": "\u300cJUMPIN\uff01\u300d\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "「JUMPIN！」ペンライト",
         "defaultPenlightColorId": 29,
         "assetbundleName": "penlight_0083"
     },
     {
         "id": 84,
         "seq": 74,
-        "name": "\u300cSPARKLE\u300d\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "「SPARKLE」ペンライト",
         "defaultPenlightColorId": 28,
         "assetbundleName": "penlight_0084"
     },
     {
         "id": 85,
         "seq": 69,
-        "name": "\u91d1\u9b5a\u306e\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "金魚のペンライト",
         "defaultPenlightColorId": 12,
         "assetbundleName": "penlight_0085"
     },
     {
         "id": 86,
         "seq": 78,
-        "name": "\u3061\u3087\u3046\u3061\u3093\u304a\u5316\u3051\u30e9\u30a4\u30c8",
+        "name": "ちょうちんお化けライト",
         "defaultPenlightColorId": 4,
         "assetbundleName": "penlight_0086"
     },
     {
         "id": 87,
         "seq": 80,
-        "name": "\u30a2\u30af\u30a2\u30ea\u30a6\u30e0\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "アクアリウムペンライト",
         "defaultPenlightColorId": 16,
         "assetbundleName": "penlight_0087"
     },
     {
         "id": 88,
         "seq": 79,
-        "name": "\u300cmoment\u300d\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "「moment」ペンライト",
         "defaultPenlightColorId": 32,
         "assetbundleName": "penlight_0088"
     },
     {
         "id": 89,
         "seq": 83,
-        "name": "\u300cSTORIES\u300d\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "「STORIES」ペンライト",
         "defaultPenlightColorId": 23,
         "assetbundleName": "penlight_0089"
     },
     {
         "id": 90,
         "seq": 84,
-        "name": "\u3044\u3061\u3054\u30d1\u30d5\u30a7\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "いちごパフェペンライト",
         "defaultPenlightColorId": 26,
         "assetbundleName": "penlight_0090"
     },
     {
         "id": 91,
         "seq": 86,
-        "name": "RAD WEEKEND\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "RAD WEEKENDペンライト",
         "defaultPenlightColorId": 26,
         "assetbundleName": "penlight_0091"
     },
     {
         "id": 92,
         "seq": 87,
-        "name": "\u30af\u30de\u306e\u30dd\u30dd\u3055\u3093\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "クマのポポさんペンライト",
         "defaultPenlightColorId": 19,
         "assetbundleName": "penlight_0092"
     },
     {
         "id": 93,
         "seq": 90,
-        "name": "\u30bb\u30ab\u30a4\u306e\u30ad\u30e9\u30ad\u30e9\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "セカイのキラキラペンライト",
         "defaultPenlightColorId": 9,
         "assetbundleName": "penlight_0093"
     },
     {
         "id": 94,
         "seq": 92,
-        "name": "\u300c3rd ANNIVERSARY Memorial Stage\u300d\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "「3rd ANNIVERSARY Memorial Stage」ペンライト",
         "defaultPenlightColorId": 7,
         "assetbundleName": "penlight_0094"
     },
     {
         "id": 95,
         "seq": 93,
-        "name": "25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "25時、ナイトコードで。ペンライト",
         "defaultPenlightColorId": 32,
         "assetbundleName": "penlight_0095"
     },
     {
         "id": 96,
         "seq": 94,
-        "name": "\u30ab\u30c1\u30f3\u30b3\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "カチンコペンライト",
         "defaultPenlightColorId": 1,
         "assetbundleName": "penlight_0096"
     },
     {
         "id": 97,
         "seq": 96,
-        "name": "\u7834\u9b54\u77e2\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "破魔矢ペンライト",
         "defaultPenlightColorId": 4,
         "assetbundleName": "penlight_0097"
     },
     {
         "id": 98,
         "seq": 95,
-        "name": "\u6298\u9db4\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "折鶴ペンライト",
         "defaultPenlightColorId": 4,
         "assetbundleName": "penlight_0098"
     },
     {
         "id": 99,
         "seq": 97,
-        "name": "Vivid BAD SQUAD\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "Vivid BAD SQUADペンライト",
         "defaultPenlightColorId": 30,
         "assetbundleName": "penlight_0099"
     },
     {
         "id": 100,
         "seq": 98,
-        "name": "\u30ec\u30e2\u30f3\u306e\u306f\u3061\u307f\u3064\u6f2c\u3051\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "レモンのはちみつ漬けペンライト",
         "defaultPenlightColorId": 23,
         "assetbundleName": "penlight_0100"
     },
     {
         "id": 101,
         "seq": 99,
-        "name": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "ワンダーランズ×ショウタイムペンライト",
         "defaultPenlightColorId": 31,
         "assetbundleName": "penlight_0101"
     },
     {
         "id": 102,
         "seq": 102,
-        "name": "\u7261\u4e39\u306e\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "牡丹のペンライト",
         "defaultPenlightColorId": 26,
         "assetbundleName": "penlight_0102"
     },
     {
         "id": 103,
         "seq": 103,
-        "name": "MORE MORE JUMP\uff01\u30da\u30f3\u30e9\u30a4\u30c8",
+        "name": "MORE MORE JUMP！ペンライト",
         "defaultPenlightColorId": 29,
         "assetbundleName": "penlight_0103"
     }

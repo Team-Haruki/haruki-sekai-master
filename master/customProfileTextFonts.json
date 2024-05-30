@@ -1,61 +1,61 @@
 [
     {
         "id": 1,
-        "name": "\u30d4\u30e5\u30a2\uff11",
+        "name": "ピュア１",
         "fontName": "FOT-RodinNTLGPro-DB",
         "assetbundleName": "custom_profile\/font"
     },
     {
         "id": 2,
-        "name": "\u30d4\u30e5\u30a2\uff12",
+        "name": "ピュア２",
         "fontName": "FOT-SkipProN-B",
         "assetbundleName": "custom_profile\/font"
     },
     {
         "id": 3,
-        "name": "\u30cf\u30c3\u30d4\u30fc\uff11",
+        "name": "ハッピー１",
         "fontName": "FOT-PopHappinessStd-EB",
         "assetbundleName": "custom_profile\/font"
     },
     {
         "id": 4,
-        "name": "\u30cf\u30c3\u30d4\u30fc\uff12",
+        "name": "ハッピー２",
         "fontName": "FOT-HummingPro-B",
         "assetbundleName": "custom_profile\/font"
     },
     {
         "id": 5,
-        "name": "\u30ad\u30e5\u30fc\u30c8\uff11",
+        "name": "キュート１",
         "fontName": "FOT-BabyPopStd-EB",
         "assetbundleName": "custom_profile\/font"
     },
     {
         "id": 6,
-        "name": "\u30ad\u30e5\u30fc\u30c8\uff12",
+        "name": "キュート２",
         "fontName": "FOT-YurukaStd-UB",
         "assetbundleName": "custom_profile\/font"
     },
     {
         "id": 7,
-        "name": "\u30df\u30b9\u30c6\u30ea\u30a2\u30b9\uff11",
+        "name": "ミステリアス１",
         "fontName": "FOT-LyraStd-DB",
         "assetbundleName": "custom_profile\/font"
     },
     {
         "id": 8,
-        "name": "\u30df\u30b9\u30c6\u30ea\u30a2\u30b9\uff12",
+        "name": "ミステリアス２",
         "fontName": "FOT-PalRetronStd-B",
         "assetbundleName": "custom_profile\/font"
     },
     {
         "id": 9,
-        "name": "\u30af\u30fc\u30eb\uff11",
+        "name": "クール１",
         "fontName": "FOT-UDMinchoPro-B",
         "assetbundleName": "custom_profile\/font"
     },
     {
         "id": 10,
-        "name": "\u30af\u30fc\u30eb\uff12",
+        "name": "クール２",
         "fontName": "FOT-GrecoStd-B",
         "assetbundleName": "custom_profile\/font"
     }

@@ -2,7 +2,7 @@
     {
         "id": 1,
         "seq": 1,
-        "name": "\u30ea\u30ea\u30fc\u30b9\u8a18\u5ff5 39\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "リリース記念 39ログインキャンペーン",
         "startAt": 1588273200000,
         "endAt": 1603997999000,
         "assetbundleName": "release_anniversary",
@@ -91,7 +91,7 @@
     {
         "id": 2,
         "seq": 2,
-        "name": "100\u4e07\u4eba\u7a81\u7834\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "100万人突破記念ログインキャンペーン",
         "startAt": 1601694000000,
         "endAt": 1602269999000,
         "assetbundleName": "100_anniversary",
@@ -108,7 +108,7 @@
     {
         "id": 3,
         "seq": 3,
-        "name": "150\u4e07\u4eba\u7a81\u7834\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "150万人突破記念ログインキャンペーン",
         "startAt": 1602212400000,
         "endAt": 1602788399000,
         "assetbundleName": "150_anniversary",
@@ -125,7 +125,7 @@
     {
         "id": 4,
         "seq": 4,
-        "name": "200\u4e07\u4eba\u7a81\u7834\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "200万人突破記念ログインキャンペーン",
         "startAt": 1603335600000,
         "endAt": 1603911599000,
         "assetbundleName": "200_anniversary",
@@ -142,7 +142,7 @@
     {
         "id": 5,
         "seq": 5,
-        "name": "250\u4e07\u4eba\u7a81\u7834\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "250万人突破記念ログインキャンペーン",
         "startAt": 1605927600000,
         "endAt": 1606503599000,
         "assetbundleName": "250_anniversary",
@@ -159,7 +159,7 @@
     {
         "id": 6,
         "seq": 6,
-        "name": "\u30cf\u30c3\u30d4\u30fc\u30cf\u30ed\u30a6\u30a3\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ハッピーハロウィンログインキャンペーン",
         "startAt": 1603594800000,
         "endAt": 1604689199000,
         "assetbundleName": "happy_halloween_2020",
@@ -212,7 +212,7 @@
     {
         "id": 7,
         "seq": 7,
-        "name": "\u30d9\u30b9\u30c8\u30aa\u30d62020 \u6700\u512a\u79c0\u8cde \u5927\u611f\u8b1d\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ベストオブ2020 最優秀賞 大感謝ログインキャンペーン",
         "startAt": 1607320800000,
         "endAt": 1609441199000,
         "assetbundleName": "bestof2020_anniversary",
@@ -301,7 +301,7 @@
     {
         "id": 8,
         "seq": 8,
-        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "クリスマスログインキャンペーン",
         "startAt": 1608735600000,
         "endAt": 1608908399000,
         "assetbundleName": "christmas_2020",
@@ -318,7 +318,7 @@
     {
         "id": 9,
         "seq": 9,
-        "name": "\u5e74\u672b\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "年末カウントダウンログインキャンペーン",
         "startAt": 1608908400000,
         "endAt": 1608994799000,
         "assetbundleName": "countdown_2020_01",
@@ -335,7 +335,7 @@
     {
         "id": 10,
         "seq": 10,
-        "name": "\u5e74\u672b\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "年末カウントダウンログインキャンペーン",
         "startAt": 1608994800000,
         "endAt": 1609081199000,
         "assetbundleName": "countdown_2020_02",
@@ -352,7 +352,7 @@
     {
         "id": 11,
         "seq": 11,
-        "name": "\u5e74\u672b\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "年末カウントダウンログインキャンペーン",
         "startAt": 1609081200000,
         "endAt": 1609167599000,
         "assetbundleName": "countdown_2020_03",
@@ -369,7 +369,7 @@
     {
         "id": 12,
         "seq": 12,
-        "name": "\u5e74\u672b\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "年末カウントダウンログインキャンペーン",
         "startAt": 1609167600000,
         "endAt": 1609253999000,
         "assetbundleName": "countdown_2020_04",
@@ -386,7 +386,7 @@
     {
         "id": 13,
         "seq": 13,
-        "name": "\u5e74\u672b\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "年末カウントダウンログインキャンペーン",
         "startAt": 1609254000000,
         "endAt": 1609340399000,
         "assetbundleName": "countdown_2020_05",
@@ -403,7 +403,7 @@
     {
         "id": 14,
         "seq": 14,
-        "name": "\u5e74\u672b\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "年末カウントダウンログインキャンペーン",
         "startAt": 1609340400000,
         "endAt": 1609426799000,
         "assetbundleName": "countdown_2020_06",
@@ -420,7 +420,7 @@
     {
         "id": 15,
         "seq": 15,
-        "name": "300\u4e07\u4eba\u7a81\u7834\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "300万人突破記念ログインキャンペーン",
         "startAt": 1612753200000,
         "endAt": 1613329199000,
         "assetbundleName": "300_anniversary",
@@ -437,7 +437,7 @@
     {
         "id": 16,
         "seq": 16,
-        "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "バレンタインログインキャンペーン",
         "startAt": 1613228400000,
         "endAt": 1613314799000,
         "assetbundleName": "valentine_2021",
@@ -454,7 +454,7 @@
     {
         "id": 17,
         "seq": 17,
-        "name": "\u30db\u30ef\u30a4\u30c8\u30c7\u30fc\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ホワイトデーログインキャンペーン",
         "startAt": 1615647600000,
         "endAt": 1615733999000,
         "assetbundleName": "whiteday_2021",
@@ -471,7 +471,7 @@
     {
         "id": 18,
         "seq": 18,
-        "name": "\u30cf\u30fc\u30d5\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ハーフアニバーサリーカウントダウンログインキャンペーン",
         "startAt": 1616770800000,
         "endAt": 1616857199000,
         "assetbundleName": "half_anniversary_countdown_01",
@@ -488,7 +488,7 @@
     {
         "id": 19,
         "seq": 19,
-        "name": "\u30cf\u30fc\u30d5\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ハーフアニバーサリーカウントダウンログインキャンペーン",
         "startAt": 1616857200000,
         "endAt": 1616943599000,
         "assetbundleName": "half_anniversary_countdown_02",
@@ -505,7 +505,7 @@
     {
         "id": 20,
         "seq": 20,
-        "name": "\u30cf\u30fc\u30d5\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ハーフアニバーサリーカウントダウンログインキャンペーン",
         "startAt": 1616943600000,
         "endAt": 1617029999000,
         "assetbundleName": "half_anniversary_countdown_03",
@@ -522,7 +522,7 @@
     {
         "id": 21,
         "seq": 21,
-        "name": "\u30cf\u30fc\u30d5\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ハーフアニバーサリー記念ログインキャンペーン",
         "startAt": 1617073200000,
         "endAt": 1618426799000,
         "assetbundleName": "half_anniversary",
@@ -569,7 +569,7 @@
     {
         "id": 22,
         "seq": 22,
-        "name": "390\u4e07\u4eba\u7a81\u7834\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "390万人突破記念ログインキャンペーン",
         "startAt": 1618801200000,
         "endAt": 1619377199000,
         "assetbundleName": "390_anniversary",
@@ -586,7 +586,7 @@
     {
         "id": 23,
         "seq": 23,
-        "name": "GW\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "GWログインキャンペーン",
         "startAt": 1619665200000,
         "endAt": 1621450799000,
         "assetbundleName": "gw_2021",
@@ -663,7 +663,7 @@
     {
         "id": 24,
         "seq": 24,
-        "name": "\u30ed\u30fc\u30bd\u30f3\u30bf\u30a4\u30a2\u30c3\u30d7\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ローソンタイアップ記念ログインキャンペーン",
         "startAt": 1625540400000,
         "endAt": 1626706799000,
         "assetbundleName": "tieup_lawson_2021",
@@ -680,7 +680,7 @@
     {
         "id": 25,
         "seq": 25,
-        "name": "500\u4e07\u4eba\u7a81\u7834\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "500万人突破記念ログインキャンペーン",
         "startAt": 1627268400000,
         "endAt": 1627930799000,
         "assetbundleName": "500_anniversary",
@@ -697,7 +697,7 @@
     {
         "id": 26,
         "seq": 26,
-        "name": "\u3082\u3046\u3059\u30501\u5468\u5e74\uff01\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "もうすぐ1周年！カウントダウンログインキャンペーン",
         "startAt": 1632495600000,
         "endAt": 1632581999000,
         "assetbundleName": "anniversary_countdown_01",
@@ -714,7 +714,7 @@
     {
         "id": 27,
         "seq": 27,
-        "name": "\u3082\u3046\u3059\u30501\u5468\u5e74\uff01\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "もうすぐ1周年！カウントダウンログインキャンペーン",
         "startAt": 1632582000000,
         "endAt": 1632668399000,
         "assetbundleName": "anniversary_countdown_02",
@@ -731,7 +731,7 @@
     {
         "id": 28,
         "seq": 28,
-        "name": "\u3082\u3046\u3059\u30501\u5468\u5e74\uff01\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "もうすぐ1周年！カウントダウンログインキャンペーン",
         "startAt": 1632668400000,
         "endAt": 1632754799000,
         "assetbundleName": "anniversary_countdown_03",
@@ -748,7 +748,7 @@
     {
         "id": 29,
         "seq": 29,
-        "name": "\u3082\u3046\u3059\u30501\u5468\u5e74\uff01\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "もうすぐ1周年！カウントダウンログインキャンペーン",
         "startAt": 1632754800000,
         "endAt": 1632841199000,
         "assetbundleName": "anniversary_countdown_04",
@@ -765,7 +765,7 @@
     {
         "id": 30,
         "seq": 30,
-        "name": "\u3082\u3046\u3059\u30501\u5468\u5e74\uff01\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "もうすぐ1周年！カウントダウンログインキャンペーン",
         "startAt": 1632841200000,
         "endAt": 1632927599000,
         "assetbundleName": "anniversary_countdown_05",
@@ -782,7 +782,7 @@
     {
         "id": 31,
         "seq": 31,
-        "name": "[1\u5468\u5e74\u8a18\u5ff5]\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[1周年記念]ログインキャンペーン",
         "startAt": 1632942000000,
         "endAt": 1634065199000,
         "assetbundleName": "1st_anniversary",
@@ -835,7 +835,7 @@
     {
         "id": 32,
         "seq": 32,
-        "name": "\u30cf\u30ed\u30a6\u30a3\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ハロウィンログインキャンペーン",
         "startAt": 1635606000000,
         "endAt": 1635778799000,
         "assetbundleName": "halloween_2021",
@@ -852,7 +852,7 @@
     {
         "id": 33,
         "seq": 33,
-        "name": "[\u30d7\u30ed\u30bb\u30ab\u00d7\u60aa\u30ce\u5927\u7f6a\u30b7\u30ea\u30fc\u30ba]\u30b3\u30e9\u30dc\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[プロセカ×悪ノ大罪シリーズ]コラボ記念ログインキャンペーン",
         "startAt": 1639375200000,
         "endAt": 1640584799000,
         "assetbundleName": "collaboration_akuno",
@@ -869,7 +869,7 @@
     {
         "id": 34,
         "seq": 34,
-        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "クリスマスログインキャンペーン",
         "startAt": 1640271600000,
         "endAt": 1640444399000,
         "assetbundleName": "christmas_2021",
@@ -886,7 +886,7 @@
     {
         "id": 35,
         "seq": 35,
-        "name": "[\u3082\u3046\u3059\u30502022]\u5e74\u672b\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[もうすぐ2022]年末カウントダウンログインキャンペーン",
         "startAt": 1640617200000,
         "endAt": 1640703599000,
         "assetbundleName": "countdown_2021_01",
@@ -903,7 +903,7 @@
     {
         "id": 36,
         "seq": 36,
-        "name": "[\u3082\u3046\u3059\u30502022]\u5e74\u672b\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[もうすぐ2022]年末カウントダウンログインキャンペーン",
         "startAt": 1640703600000,
         "endAt": 1640789999000,
         "assetbundleName": "countdown_2021_02",
@@ -920,7 +920,7 @@
     {
         "id": 37,
         "seq": 37,
-        "name": "[\u3082\u3046\u3059\u30502022]\u5e74\u672b\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[もうすぐ2022]年末カウントダウンログインキャンペーン",
         "startAt": 1640790000000,
         "endAt": 1640876399000,
         "assetbundleName": "countdown_2021_03",
@@ -937,7 +937,7 @@
     {
         "id": 38,
         "seq": 38,
-        "name": "[\u3082\u3046\u3059\u30502022]\u5e74\u672b\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[もうすぐ2022]年末カウントダウンログインキャンペーン",
         "startAt": 1640876400000,
         "endAt": 1640962799000,
         "assetbundleName": "countdown_2021_04",
@@ -954,7 +954,7 @@
     {
         "id": 39,
         "seq": 39,
-        "name": "[2022\u65b0\u6625]\u304a\u5e74\u7389\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[2022新春]お年玉ログインキャンペーン",
         "startAt": 1640977200000,
         "endAt": 1642100399000,
         "assetbundleName": "newyear_2022",
@@ -1007,7 +1007,7 @@
     {
         "id": 40,
         "seq": 40,
-        "name": "\u30ab\u30c3\u30d7\u30cc\u30fc\u30c9\u30eb\u30bf\u30a4\u30a2\u30c3\u30d7\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "カップヌードルタイアップ記念ログインキャンペーン",
         "startAt": 1642042800000,
         "endAt": 1644245999000,
         "assetbundleName": "collaboration_nissin",
@@ -1024,7 +1024,7 @@
     {
         "id": 41,
         "seq": 41,
-        "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "バレンタインログインキャンペーン",
         "startAt": 1644764400000,
         "endAt": 1644937199000,
         "assetbundleName": "valentine_2022",
@@ -1041,7 +1041,7 @@
     {
         "id": 42,
         "seq": 42,
-        "name": "\u30db\u30ef\u30a4\u30c8\u30c7\u30fc\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ホワイトデーログインキャンペーン",
         "startAt": 1647183600000,
         "endAt": 1647356399000,
         "assetbundleName": "whiteday_2022",
@@ -1058,7 +1058,7 @@
     {
         "id": 43,
         "seq": 43,
-        "name": "1.5\u5468\u5e74\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "1.5周年記念ログインキャンペーン",
         "startAt": 1648620000000,
         "endAt": 1649656799000,
         "assetbundleName": "1.5th_anniversary",
@@ -1075,7 +1075,7 @@
     {
         "id": 44,
         "seq": 44,
-        "name": "GW\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "GWログインキャンペーン",
         "startAt": 1651201200000,
         "endAt": 1652727599000,
         "assetbundleName": "gw_2022",
@@ -1146,7 +1146,7 @@
     {
         "id": 45,
         "seq": 45,
-        "name": "\u300c\u30d6\u30e9\u30c3\u30af\u2605\u2605\u30ed\u30c3\u30af\u30b7\u30e5\u30fc\u30bf\u30fc DAWN FALL\u300d\u653e\u9001\u8a18\u5ff5\u30bf\u30a4\u30a2\u30c3\u30d7\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "「ブラック★★ロックシューター DAWN FALL」放送記念タイアップログインキャンペーン",
         "startAt": 1652162400000,
         "endAt": 1653317999000,
         "assetbundleName": "collaboration_brs",
@@ -1163,7 +1163,7 @@
     {
         "id": 46,
         "seq": 46,
-        "name": "1000\u4e07\u4eba\u7a81\u7834\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "1000万人突破記念ログインキャンペーン",
         "startAt": 1656558000000,
         "endAt": 1657133999000,
         "assetbundleName": "1000_anniversary",
@@ -1180,7 +1180,7 @@
     {
         "id": 47,
         "seq": 47,
-        "name": "\u30dd\u30ab\u30ea\u30b9\u30a8\u30c3\u30c8\u30b3\u30e9\u30dc\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ポカリスエットコラボ記念ログインキャンペーン",
         "startAt": 1659322800000,
         "endAt": 1661957999000,
         "assetbundleName": "collaboration_pocarisweat",
@@ -1197,7 +1197,7 @@
     {
         "id": 48,
         "seq": 48,
-        "name": "\u3082\u3046\u3059\u30502\u5468\u5e74\uff01\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "もうすぐ2周年！カウントダウンログインキャンペーン",
         "startAt": 1664031600000,
         "endAt": 1664117999000,
         "assetbundleName": "anniversary_countdown_01",
@@ -1214,7 +1214,7 @@
     {
         "id": 49,
         "seq": 49,
-        "name": "\u3082\u3046\u3059\u30502\u5468\u5e74\uff01\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "もうすぐ2周年！カウントダウンログインキャンペーン",
         "startAt": 1664118000000,
         "endAt": 1664204399000,
         "assetbundleName": "anniversary_countdown_02",
@@ -1231,7 +1231,7 @@
     {
         "id": 50,
         "seq": 50,
-        "name": "\u3082\u3046\u3059\u30502\u5468\u5e74\uff01\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "もうすぐ2周年！カウントダウンログインキャンペーン",
         "startAt": 1664204400000,
         "endAt": 1664290799000,
         "assetbundleName": "anniversary_countdown_03",
@@ -1248,7 +1248,7 @@
     {
         "id": 51,
         "seq": 51,
-        "name": "\u3082\u3046\u3059\u30502\u5468\u5e74\uff01\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "もうすぐ2周年！カウントダウンログインキャンペーン",
         "startAt": 1664290800000,
         "endAt": 1664377199000,
         "assetbundleName": "anniversary_countdown_04",
@@ -1265,7 +1265,7 @@
     {
         "id": 52,
         "seq": 52,
-        "name": "\u3082\u3046\u3059\u30502\u5468\u5e74\uff01\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "もうすぐ2周年！カウントダウンログインキャンペーン",
         "startAt": 1664377200000,
         "endAt": 1664463599000,
         "assetbundleName": "anniversary_countdown_05",
@@ -1282,7 +1282,7 @@
     {
         "id": 53,
         "seq": 53,
-        "name": "[2\u5468\u5e74\u8a18\u5ff5]\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[2周年記念]ログインキャンペーン",
         "startAt": 1664506800000,
         "endAt": 1665601199000,
         "assetbundleName": "2nd_anniversary",
@@ -1335,7 +1335,7 @@
     {
         "id": 54,
         "seq": 54,
-        "name": "\u30cf\u30ed\u30a6\u30a3\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ハロウィンログインキャンペーン",
         "startAt": 1667142000000,
         "endAt": 1667314799000,
         "assetbundleName": "halloween_2022",
@@ -1352,7 +1352,7 @@
     {
         "id": 55,
         "seq": 55,
-        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "クリスマスログインキャンペーン",
         "startAt": 1671807600000,
         "endAt": 1671980399000,
         "assetbundleName": "christmas_2022",
@@ -1369,7 +1369,7 @@
     {
         "id": 56,
         "seq": 56,
-        "name": "[\u3082\u3046\u3059\u30502023]\u5e74\u672b\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[もうすぐ2023]年末カウントダウンログインキャンペーン",
         "startAt": 1672153200000,
         "endAt": 1672239599000,
         "assetbundleName": "countdown_2022_01",
@@ -1386,7 +1386,7 @@
     {
         "id": 57,
         "seq": 57,
-        "name": "[\u3082\u3046\u3059\u30502023]\u5e74\u672b\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[もうすぐ2023]年末カウントダウンログインキャンペーン",
         "startAt": 1672239600000,
         "endAt": 1672325999000,
         "assetbundleName": "countdown_2022_02",
@@ -1403,7 +1403,7 @@
     {
         "id": 58,
         "seq": 58,
-        "name": "[\u3082\u3046\u3059\u30502023]\u5e74\u672b\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[もうすぐ2023]年末カウントダウンログインキャンペーン",
         "startAt": 1672326000000,
         "endAt": 1672412399000,
         "assetbundleName": "countdown_2022_03",
@@ -1420,7 +1420,7 @@
     {
         "id": 59,
         "seq": 59,
-        "name": "[\u3082\u3046\u3059\u30502023]\u5e74\u672b\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[もうすぐ2023]年末カウントダウンログインキャンペーン",
         "startAt": 1672412400000,
         "endAt": 1672498799000,
         "assetbundleName": "countdown_2022_04",
@@ -1437,7 +1437,7 @@
     {
         "id": 60,
         "seq": 60,
-        "name": "[2023\u65b0\u6625]\u304a\u5e74\u7389\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[2023新春]お年玉ログインキャンペーン",
         "startAt": 1672542000000,
         "endAt": 1673636399000,
         "assetbundleName": "newyear_2023",
@@ -1490,7 +1490,7 @@
     {
         "id": 61,
         "seq": 61,
-        "name": "\u30ed\u30fc\u30bd\u30f3\u30bf\u30a4\u30a2\u30c3\u30d7\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ローソンタイアップ記念ログインキャンペーン",
         "startAt": 1673924400000,
         "endAt": 1675090799000,
         "assetbundleName": "tieup_lawson_2023",
@@ -1507,7 +1507,7 @@
     {
         "id": 62,
         "seq": 62,
-        "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "バレンタインログインキャンペーン",
         "startAt": 1676300400000,
         "endAt": 1676473199000,
         "assetbundleName": "valentine_2023",
@@ -1524,7 +1524,7 @@
     {
         "id": 63,
         "seq": 63,
-        "name": "\u30df\u30af\u306e\u65e5\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ミクの日記念ログインキャンペーン",
         "startAt": 1678287600000,
         "endAt": 1678373999000,
         "assetbundleName": "mikusday_2023",
@@ -1541,7 +1541,7 @@
     {
         "id": 64,
         "seq": 64,
-        "name": "\u30db\u30ef\u30a4\u30c8\u30c7\u30fc\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ホワイトデーログインキャンペーン",
         "startAt": 1678719600000,
         "endAt": 1678892399000,
         "assetbundleName": "whiteday_2023",
@@ -1558,7 +1558,7 @@
     {
         "id": 65,
         "seq": 65,
-        "name": "2.5\u5468\u5e74\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "2.5周年記念ログインキャンペーン",
         "startAt": 1680145200000,
         "endAt": 1681239599000,
         "assetbundleName": "2.5th_anniversary",
@@ -1611,7 +1611,7 @@
     {
         "id": 66,
         "seq": 66,
-        "name": "GW\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "GWログインキャンペーン",
         "startAt": 1682737200000,
         "endAt": 1684177199000,
         "assetbundleName": "gw_2023",
@@ -1676,7 +1676,7 @@
     {
         "id": 67,
         "seq": 67,
-        "name": "[\u5fa9\u523b][\u30d7\u30ed\u30bb\u30ab\u00d7\u60aa\u30ce\u5927\u7f6a\u30b7\u30ea\u30fc\u30ba]\u30b3\u30e9\u30dc\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[復刻][プロセカ×悪ノ大罪シリーズ]コラボ記念ログインキャンペーン",
         "startAt": 1683082800000,
         "endAt": 1684292399000,
         "assetbundleName": "collaboration_akuno_revival",
@@ -1693,7 +1693,7 @@
     {
         "id": 68,
         "seq": 68,
-        "name": "\u521d\u97f3\u30df\u30af16\u5468\u5e74\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "初音ミク16周年記念ログインキャンペーン",
         "startAt": 1693407600000,
         "endAt": 1693493999000,
         "assetbundleName": "miku_anniversary_2023",
@@ -1710,7 +1710,7 @@
     {
         "id": 69,
         "seq": 69,
-        "name": "[3\u5468\u5e74\u76f4\u524d\u751f\u653e\u9001\u914d\u4fe1\u8a18\u5ff5]\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[3周年直前生放送配信記念]ログインキャンペーン",
         "startAt": 1695740400000,
         "endAt": 1695826799000,
         "assetbundleName": "livebroadcast_3rdspecial",
@@ -1727,7 +1727,7 @@
     {
         "id": 70,
         "seq": 70,
-        "name": "\u3082\u3046\u3059\u30503\u5468\u5e74\uff01\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "もうすぐ3周年！カウントダウンログインキャンペーン",
         "startAt": 1695826800000,
         "endAt": 1695913199000,
         "assetbundleName": "3rd_anniversary_countdown_01",
@@ -1744,7 +1744,7 @@
     {
         "id": 71,
         "seq": 71,
-        "name": "\u3082\u3046\u3059\u30503\u5468\u5e74\uff01\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "もうすぐ3周年！カウントダウンログインキャンペーン",
         "startAt": 1695913200000,
         "endAt": 1695999599000,
         "assetbundleName": "3rd_anniversary_countdown_02",
@@ -1761,7 +1761,7 @@
     {
         "id": 72,
         "seq": 72,
-        "name": "[3\u5468\u5e74\u8a18\u5ff5]\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[3周年記念]ログインキャンペーン",
         "startAt": 1695999600000,
         "endAt": 1697569199000,
         "assetbundleName": "3rd_anniversary",
@@ -1814,7 +1814,7 @@
     {
         "id": 73,
         "seq": 73,
-        "name": "\u30e6\u30cb\u30c3\u30c8PV\u516c\u958b\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ユニットPV公開記念ログインキャンペーン",
         "startAt": 1695308400000,
         "endAt": 1695394799000,
         "assetbundleName": "unit_pv_01",
@@ -1831,7 +1831,7 @@
     {
         "id": 74,
         "seq": 74,
-        "name": "\u30e6\u30cb\u30c3\u30c8PV\u516c\u958b\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ユニットPV公開記念ログインキャンペーン",
         "startAt": 1695394800000,
         "endAt": 1695481199000,
         "assetbundleName": "unit_pv_02",
@@ -1848,7 +1848,7 @@
     {
         "id": 75,
         "seq": 75,
-        "name": "\u30e6\u30cb\u30c3\u30c8PV\u516c\u958b\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ユニットPV公開記念ログインキャンペーン",
         "startAt": 1695481200000,
         "endAt": 1695567599000,
         "assetbundleName": "unit_pv_03",
@@ -1865,7 +1865,7 @@
     {
         "id": 76,
         "seq": 76,
-        "name": "\u30e6\u30cb\u30c3\u30c8PV\u516c\u958b\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ユニットPV公開記念ログインキャンペーン",
         "startAt": 1695567600000,
         "endAt": 1695653999000,
         "assetbundleName": "unit_pv_04",
@@ -1882,7 +1882,7 @@
     {
         "id": 77,
         "seq": 77,
-        "name": "\u30e6\u30cb\u30c3\u30c8PV\u516c\u958b\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ユニットPV公開記念ログインキャンペーン",
         "startAt": 1695654000000,
         "endAt": 1695740399000,
         "assetbundleName": "unit_pv_05",
@@ -1899,7 +1899,7 @@
     {
         "id": 78,
         "seq": 78,
-        "name": "\u30cf\u30ed\u30a6\u30a3\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ハロウィンログインキャンペーン",
         "startAt": 1698678000000,
         "endAt": 1698850799000,
         "assetbundleName": "halloween_2023",
@@ -1916,7 +1916,7 @@
     {
         "id": 79,
         "seq": 79,
-        "name": "[\u30d7\u30ed\u30bb\u30ab\u00d7\u30b5\u30f3\u30ea\u30aa\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30ba]\u30b3\u30e9\u30dc\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[プロセカ×サンリオキャラクターズ]コラボ記念ログインキャンペーン",
         "startAt": 1701745200000,
         "endAt": 1702997999000,
         "assetbundleName": "sanrio_collab_2023",
@@ -1933,7 +1933,7 @@
     {
         "id": 80,
         "seq": 80,
-        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "クリスマスログインキャンペーン",
         "startAt": 1703343600000,
         "endAt": 1703516399000,
         "assetbundleName": "christmas_2023",
@@ -1950,7 +1950,7 @@
     {
         "id": 81,
         "seq": 81,
-        "name": "[\u3082\u3046\u3059\u30502024]\u5e74\u672b\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[もうすぐ2024]年末ログインキャンペーン",
         "startAt": 1703732400000,
         "endAt": 1703775599000,
         "assetbundleName": "countdown_2023",
@@ -1967,7 +1967,7 @@
     {
         "id": 82,
         "seq": 82,
-        "name": "[\u3082\u3046\u3059\u30502024]\u5e74\u672b\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[もうすぐ2024]年末ログインキャンペーン",
         "startAt": 1703775600000,
         "endAt": 1703861999000,
         "assetbundleName": "countdown_2023",
@@ -1984,7 +1984,7 @@
     {
         "id": 83,
         "seq": 83,
-        "name": "[\u3082\u3046\u3059\u30502024]\u5e74\u672b\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[もうすぐ2024]年末ログインキャンペーン",
         "startAt": 1703862000000,
         "endAt": 1703948399000,
         "assetbundleName": "countdown_2023",
@@ -2001,7 +2001,7 @@
     {
         "id": 84,
         "seq": 84,
-        "name": "\u884c\u304f\u5e74\u6765\u308b\u5e74\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "行く年来る年ログインキャンペーン",
         "startAt": 1703991600000,
         "endAt": 1705085999000,
         "assetbundleName": "newyear_2024",
@@ -2054,7 +2054,7 @@
     {
         "id": 85,
         "seq": 85,
-        "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "バレンタインログインキャンペーン",
         "startAt": 1707836400000,
         "endAt": 1708009199000,
         "assetbundleName": "valentine_2024",
@@ -2071,7 +2071,7 @@
     {
         "id": 86,
         "seq": 86,
-        "name": "\u30df\u30af\u306e\u65e5\u8a18\u5ff5\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ミクの日記念ログインキャンペーン",
         "startAt": 1709910000000,
         "endAt": 1709996399000,
         "assetbundleName": "mikusday_2024",
@@ -2088,7 +2088,7 @@
     {
         "id": 87,
         "seq": 87,
-        "name": "\u30db\u30ef\u30a4\u30c8\u30c7\u30fc\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "ホワイトデーログインキャンペーン",
         "startAt": 1710342000000,
         "endAt": 1710514799000,
         "assetbundleName": "whiteday_2024",
@@ -2105,7 +2105,7 @@
     {
         "id": 88,
         "seq": 88,
-        "name": "3900's\u524d\u591c\u796d\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "3900's前夜祭ログインキャンペーン",
         "startAt": 1711594800000,
         "endAt": 1711767599000,
         "assetbundleName": "world_3900_pre_anniversary",
@@ -2122,7 +2122,7 @@
     {
         "id": 89,
         "seq": 89,
-        "name": "3900's\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "3900'sログインキャンペーン",
         "startAt": 1711767600000,
         "endAt": 1712861999000,
         "assetbundleName": "world_3900_anniversary",
@@ -2175,7 +2175,7 @@
     {
         "id": 90,
         "seq": 90,
-        "name": "[World Championship 2024 Spring\u958b\u50ac\u8a18\u5ff5]\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "[World Championship 2024 Spring開催記念]ログインキャンペーン",
         "startAt": 1712934000000,
         "endAt": 1713020399000,
         "assetbundleName": "world_championship_2024_spring",
@@ -2192,7 +2192,7 @@
     {
         "id": 91,
         "seq": 91,
-        "name": "GW\u30ed\u30b0\u30a4\u30f3\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "name": "GWログインキャンペーン",
         "startAt": 1714359600000,
         "endAt": 1715799599000,
         "assetbundleName": "gw_2024",

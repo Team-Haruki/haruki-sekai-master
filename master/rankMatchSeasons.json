@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "\u30d7\u30ec\u30b7\u30fc\u30ba\u30f3",
+        "name": "プレシーズン",
         "startAt": 1648630800000,
         "aggregatedAt": 1650988799000,
         "rankingPublishedAt": 1650989399000,
@@ -175,7 +175,7 @@
     },
     {
         "id": 2,
-        "name": "\u7b2c2\u56de\u30d7\u30ec\u30b7\u30fc\u30ba\u30f3",
+        "name": "第2回プレシーズン",
         "startAt": 1651136400000,
         "aggregatedAt": 1653580799000,
         "rankingPublishedAt": 1653581399000,

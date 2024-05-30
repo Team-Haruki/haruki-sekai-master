@@ -3,7 +3,7 @@
         "customProfileResourceType": "etc",
         "id": 1,
         "seq": 1,
-        "name": "\u30b2\u30fc\u30e0\u30bf\u30a4\u30c8\u30eb\u306e\u30ed\u30b4",
+        "name": "ゲームタイトルのロゴ",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/other\/logo",
         "fileName": "profile_logo_title"
@@ -12,7 +12,7 @@
         "customProfileResourceType": "etc",
         "id": 2,
         "seq": 2,
-        "name": "\u30d0\u30fc\u30c1\u30e3\u30eb\u30fb\u30b7\u30f3\u30ac\u30fc\u306e\u30e6\u30cb\u30c3\u30c8\u30ed\u30b4",
+        "name": "バーチャル・シンガーのユニットロゴ",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/other\/logo",
         "fileName": "profile_logo_virtualSinger"
@@ -21,7 +21,7 @@
         "customProfileResourceType": "etc",
         "id": 3,
         "seq": 3,
-        "name": "Leo\/need\u306e\u30e6\u30cb\u30c3\u30c8\u30ed\u30b4",
+        "name": "Leo\/needのユニットロゴ",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/other\/logo",
         "fileName": "profile_logo_leoneed"
@@ -30,7 +30,7 @@
         "customProfileResourceType": "etc",
         "id": 4,
         "seq": 4,
-        "name": "MORE MORE JUMP\uff01\u306e\u30e6\u30cb\u30c3\u30c8\u30ed\u30b4",
+        "name": "MORE MORE JUMP！のユニットロゴ",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/other\/logo",
         "fileName": "profile_logo_moremorejump"
@@ -39,7 +39,7 @@
         "customProfileResourceType": "etc",
         "id": 5,
         "seq": 5,
-        "name": "Vivid BAD SQUAD\u306e\u30e6\u30cb\u30c3\u30c8\u30ed\u30b4",
+        "name": "Vivid BAD SQUADのユニットロゴ",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/other\/logo",
         "fileName": "profile_logo_vividBadSquad"
@@ -48,7 +48,7 @@
         "customProfileResourceType": "etc",
         "id": 6,
         "seq": 6,
-        "name": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30ba\u00d7\u30b7\u30e7\u30a6\u30bf\u30a4\u30e0\u306e\u30e6\u30cb\u30c3\u30c8\u30ed\u30b4",
+        "name": "ワンダーランズ×ショウタイムのユニットロゴ",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/other\/logo",
         "fileName": "profile_logo_wonderLands"
@@ -57,7 +57,7 @@
         "customProfileResourceType": "etc",
         "id": 7,
         "seq": 7,
-        "name": "25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002\u306e\u30e6\u30cb\u30c3\u30c8\u30ed\u30b4",
+        "name": "25時、ナイトコードで。のユニットロゴ",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/other\/logo",
         "fileName": "profile_logo_25nightcode"
