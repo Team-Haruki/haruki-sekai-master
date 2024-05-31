@@ -1,1 +1,11 @@
-"3.6.0.20"
+{
+    "appHash": "7558547e-4753-6ebd-03ff-168494c32769",
+    "systemProfile": "production",
+    "appVersion": "3.6.0",
+    "multiPlayVersion": "miku",
+    "assetVersion": "3.6.0.20",
+    "appVersionStatus": "available",
+    "dataVersion": "3.6.0.20",
+    "assetHash": "d418a1ad-fb47-c7a1-f6ae-020eefe8e618",
+    "removeAssetVersion": "1.13.0.30"
+}
