@@ -33641,5 +33641,339 @@
         "cardParameters": [],
         "specialTrainingCosts": [],
         "masterLessonAchieveResources": []
+    },
+    {
+        "id": 979,
+        "seq": 9790,
+        "characterId": 21,
+        "cardRarityType": "rarity_4",
+        "specialTrainingPower1BonusFixed": 400,
+        "specialTrainingPower2BonusFixed": 400,
+        "specialTrainingPower3BonusFixed": 400,
+        "attr": "cool",
+        "supportUnit": "none",
+        "skillId": 4,
+        "cardSkillName": "\u652f\u3048\u3001\u52a9\u3051\u5408\u3046\u300e\u60f3\u3044\u300f",
+        "prefix": "\u60f3\u3044\u3092\u8a17\u3057\u3066",
+        "assetbundleName": "res021_no048",
+        "gachaPhrase": "\u305a\u3063\u3068\u898b\u5b88\u3063\u3066\u308b\u3088",
+        "flavorText": "-",
+        "releaseAt": 1723863600000,
+        "archivePublishedAt": 1723863600000,
+        "cardSupplyId": 6,
+        "cardParameters": [],
+        "specialTrainingCosts": [],
+        "masterLessonAchieveResources": [
+            {
+                "releaseConditionId": 64310,
+                "cardId": 979,
+                "masterRank": 0,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64311,
+                "cardId": 979,
+                "masterRank": 1,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64312,
+                "cardId": 979,
+                "masterRank": 3,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64313,
+                "cardId": 979,
+                "masterRank": 5,
+                "resources": []
+            }
+        ]
+    },
+    {
+        "id": 980,
+        "seq": 9800,
+        "characterId": 22,
+        "cardRarityType": "rarity_4",
+        "specialTrainingPower1BonusFixed": 400,
+        "specialTrainingPower2BonusFixed": 400,
+        "specialTrainingPower3BonusFixed": 400,
+        "attr": "happy",
+        "supportUnit": "none",
+        "skillId": 4,
+        "cardSkillName": "\u3069\u306e\u300e\u308f\u305f\u3057\u300f\u3082\u5927\u597d\u304d\u266a",
+        "prefix": "\u6700\u524d\u5217\u3067\u5fdc\u63f4\uff01",
+        "assetbundleName": "res022_no038",
+        "gachaPhrase": "\u30df\u30af\u3001\u308f\u305f\u3057\uff01\u304c\u3093\u3070\u3063\u3066\uff5e\uff01",
+        "flavorText": "-",
+        "releaseAt": 1723863600000,
+        "archivePublishedAt": 1723863600000,
+        "cardSupplyId": 6,
+        "cardParameters": [],
+        "specialTrainingCosts": [],
+        "masterLessonAchieveResources": [
+            {
+                "releaseConditionId": 64320,
+                "cardId": 980,
+                "masterRank": 0,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64321,
+                "cardId": 980,
+                "masterRank": 1,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64322,
+                "cardId": 980,
+                "masterRank": 3,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64323,
+                "cardId": 980,
+                "masterRank": 5,
+                "resources": []
+            }
+        ]
+    },
+    {
+        "id": 981,
+        "seq": 9810,
+        "characterId": 23,
+        "cardRarityType": "rarity_4",
+        "specialTrainingPower1BonusFixed": 400,
+        "specialTrainingPower2BonusFixed": 400,
+        "specialTrainingPower3BonusFixed": 400,
+        "attr": "happy",
+        "supportUnit": "none",
+        "skillId": 10,
+        "cardSkillName": "\u306a\u3093\u3067\u3082\u306a\u3044\u30bb\u30ab\u30a4\u306e\uff11\u65e5",
+        "prefix": "\u3069\u3053\u3067\u3082\u6700\u9ad8\u306e\u76f8\u68d2",
+        "assetbundleName": "res023_no039",
+        "gachaPhrase": "\u2026\u2026\u6700\u521d\u304b\u3089\u3044\u3044\u76f8\u68d2\u3060\u3063\u305f\u3093\u3060\u306a",
+        "flavorText": "-",
+        "releaseAt": 1723863600000,
+        "archivePublishedAt": 1723863600000,
+        "cardSupplyId": 6,
+        "cardParameters": [],
+        "specialTrainingCosts": [],
+        "masterLessonAchieveResources": [
+            {
+                "releaseConditionId": 64330,
+                "cardId": 981,
+                "masterRank": 0,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64331,
+                "cardId": 981,
+                "masterRank": 1,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64332,
+                "cardId": 981,
+                "masterRank": 3,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64333,
+                "cardId": 981,
+                "masterRank": 5,
+                "resources": []
+            }
+        ]
+    },
+    {
+        "id": 982,
+        "seq": 9820,
+        "characterId": 24,
+        "cardRarityType": "rarity_4",
+        "specialTrainingPower1BonusFixed": 400,
+        "specialTrainingPower2BonusFixed": 400,
+        "specialTrainingPower3BonusFixed": 400,
+        "attr": "cute",
+        "supportUnit": "none",
+        "skillId": 4,
+        "cardSkillName": "\u300e\u30eb\u30ab\u300f\u9054\u306e\u53ef\u611b\u3044\u4e00\u5e55\uff1f",
+        "prefix": "\u60f3\u3044\u306b\u5bc4\u308a\u6dfb\u3063\u3066",
+        "assetbundleName": "res024_no040",
+        "gachaPhrase": "\u2026\u2026\u5927\u4e08\u592b\u3001\u3042\u306a\u305f\u306b\u306f\u3067\u304d\u308b",
+        "flavorText": "-",
+        "releaseAt": 1723863600000,
+        "archivePublishedAt": 1723863600000,
+        "cardSupplyId": 6,
+        "cardParameters": [],
+        "specialTrainingCosts": [],
+        "masterLessonAchieveResources": [
+            {
+                "releaseConditionId": 64340,
+                "cardId": 982,
+                "masterRank": 0,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64341,
+                "cardId": 982,
+                "masterRank": 1,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64342,
+                "cardId": 982,
+                "masterRank": 3,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64343,
+                "cardId": 982,
+                "masterRank": 5,
+                "resources": []
+            }
+        ]
+    },
+    {
+        "id": 983,
+        "seq": 9830,
+        "characterId": 25,
+        "cardRarityType": "rarity_4",
+        "specialTrainingPower1BonusFixed": 400,
+        "specialTrainingPower2BonusFixed": 400,
+        "specialTrainingPower3BonusFixed": 400,
+        "attr": "pure",
+        "supportUnit": "none",
+        "skillId": 7,
+        "cardSkillName": "\u300e\u79c1\u300f\u306e\u5929\u8077",
+        "prefix": "\u512a\u3057\u3044\u9999\u308a\u3068\u5171\u306b",
+        "assetbundleName": "res025_no039",
+        "gachaPhrase": "\u2026\u2026\u307f\u3093\u306a\u3092\u3088\u308d\u3057\u304f\u306d\u3001\u79c1",
+        "flavorText": "-",
+        "releaseAt": 1723863600000,
+        "archivePublishedAt": 1723863600000,
+        "cardSupplyId": 6,
+        "cardParameters": [],
+        "specialTrainingCosts": [],
+        "masterLessonAchieveResources": [
+            {
+                "releaseConditionId": 64350,
+                "cardId": 983,
+                "masterRank": 0,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64351,
+                "cardId": 983,
+                "masterRank": 1,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64352,
+                "cardId": 983,
+                "masterRank": 3,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64353,
+                "cardId": 983,
+                "masterRank": 5,
+                "resources": []
+            }
+        ]
+    },
+    {
+        "id": 984,
+        "seq": 9840,
+        "characterId": 26,
+        "cardRarityType": "rarity_4",
+        "specialTrainingPower1BonusFixed": 400,
+        "specialTrainingPower2BonusFixed": 400,
+        "specialTrainingPower3BonusFixed": 400,
+        "attr": "mysterious",
+        "supportUnit": "none",
+        "skillId": 10,
+        "cardSkillName": "\u3042\u306e\u65e5\u306e\u559c\u3073\u3092\u60f3\u3063\u3066",
+        "prefix": "\u80cc\u4e2d\u3092\u62bc\u3059\u60f3\u3044",
+        "assetbundleName": "res026_no041",
+        "gachaPhrase": "\u4fe1\u3058\u3066\u9032\u3093\u3067\u3044\u3051\u3070\u3001\u5927\u4e08\u592b\u3060",
+        "flavorText": "-",
+        "releaseAt": 1723863600000,
+        "archivePublishedAt": 1723863600000,
+        "cardSupplyId": 6,
+        "cardParameters": [],
+        "specialTrainingCosts": [],
+        "masterLessonAchieveResources": [
+            {
+                "releaseConditionId": 64360,
+                "cardId": 984,
+                "masterRank": 0,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64361,
+                "cardId": 984,
+                "masterRank": 1,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64362,
+                "cardId": 984,
+                "masterRank": 3,
+                "resources": []
+            },
+            {
+                "releaseConditionId": 64363,
+                "cardId": 984,
+                "masterRank": 5,
+                "resources": []
+            }
+        ]
+    },
+    {
+        "id": 985,
+        "seq": 9850,
+        "characterId": 20,
+        "cardRarityType": "rarity_birthday",
+        "specialTrainingPower1BonusFixed": 0,
+        "specialTrainingPower2BonusFixed": 0,
+        "specialTrainingPower3BonusFixed": 0,
+        "attr": "pure",
+        "supportUnit": "none",
+        "skillId": 14,
+        "cardSkillName": "\u81ea\u6162\u306e\u8a95\u751f\u65e5\u30d7\u30ec\u30bc\u30f3\u30c8",
+        "prefix": "Happy Birthday\uff01\uff012024",
+        "assetbundleName": "res020_no036",
+        "gachaPhrase": "\u307f\u3093\u306a\u306e\u304a\u795d\u3044\u3001\u697d\u3057\u3093\u3058\u3083\u3046\u305e\u30fc\uff01",
+        "flavorText": "-",
+        "releaseAt": 1724684400000,
+        "archivePublishedAt": 1724684400000,
+        "cardSupplyId": 2,
+        "cardParameters": [],
+        "specialTrainingCosts": [],
+        "masterLessonAchieveResources": []
+    },
+    {
+        "id": 986,
+        "seq": 9860,
+        "characterId": 21,
+        "cardRarityType": "rarity_birthday",
+        "specialTrainingPower1BonusFixed": 0,
+        "specialTrainingPower2BonusFixed": 0,
+        "specialTrainingPower3BonusFixed": 0,
+        "attr": "cool",
+        "supportUnit": "none",
+        "skillId": 14,
+        "cardSkillName": "GO\uff01\u5927\u9060\u8db3\u4f1a\uff01",
+        "prefix": "Happy Anniversary\uff01\uff012024",
+        "assetbundleName": "res021_no049",
+        "gachaPhrase": "\u308f\u305f\u3057\u3092\u5fc5\u8981\u3068\u3057\u3066\u304f\u308c\u3066\u3001\u3042\u308a\u304c\u3068\u3046",
+        "flavorText": "-",
+        "releaseAt": 1725030000000,
+        "archivePublishedAt": 1725030000000,
+        "cardSupplyId": 2,
+        "cardParameters": [],
+        "specialTrainingCosts": [],
+        "masterLessonAchieveResources": []
     }
 ]
