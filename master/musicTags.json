@@ -6826,41 +6826,5 @@
         "musicId": 511,
         "musicTag": "idol",
         "seq": 4
-    },
-    {
-        "id": 578,
-        "musicId": 241,
-        "musicTag": "all",
-        "seq": 0
-    },
-    {
-        "id": 579,
-        "musicId": 241,
-        "musicTag": "vocaloid",
-        "seq": 1
-    },
-    {
-        "id": 580,
-        "musicId": 241,
-        "musicTag": "light_music_club",
-        "seq": 6
-    },
-    {
-        "id": 700,
-        "musicId": 290,
-        "musicTag": "all",
-        "seq": 0
-    },
-    {
-        "id": 701,
-        "musicId": 290,
-        "musicTag": "vocaloid",
-        "seq": 1
-    },
-    {
-        "id": 702,
-        "musicId": 290,
-        "musicTag": "theme_park",
-        "seq": 2
     }
 ]
