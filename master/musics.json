@@ -10515,13 +10515,12 @@
         "selfDancerPosition": 0,
         "assetbundleName": "jacket_s_477",
         "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
-        "publishedAt": 1727663495772,
+        "publishedAt": 1727762400000,
         "releasedAt": 1633618800000,
         "liveStageId": 1,
         "fillerSec": 8.996199607849121,
         "isNewlyWrittenMusic": false,
-        "isFullLength": false,
-        "musicCollaborationId": 7
+        "isFullLength": false
     },
     {
         "id": 480,
@@ -11023,7 +11022,7 @@
         "selfDancerPosition": 0,
         "assetbundleName": "jacket_s_511",
         "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
-        "publishedAt": 1727663495972,
+        "publishedAt": 1727923613663,
         "releasedAt": 1338044400000,
         "liveStageId": 1,
         "fillerSec": 8.994199752807617,
@@ -11312,13 +11311,12 @@
         "selfDancerPosition": 0,
         "assetbundleName": "jacket_s_531",
         "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
-        "publishedAt": 1727663495872,
+        "publishedAt": 1727848800000,
         "releasedAt": 1714143600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
         "isNewlyWrittenMusic": false,
-        "isFullLength": false,
-        "musicCollaborationId": 7
+        "isFullLength": false
     },
     {
         "id": 532,
