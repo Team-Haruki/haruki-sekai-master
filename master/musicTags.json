@@ -5748,6 +5748,12 @@
         "seq": 0
     },
     {
+        "id": 996,
+        "musicId": 476,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 997,
         "musicId": 477,
         "musicTag": "all",
@@ -5880,6 +5886,12 @@
         "seq": 0
     },
     {
+        "id": 1028,
+        "musicId": 505,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 1029,
         "musicId": 506,
         "musicTag": "all",
@@ -5934,6 +5946,12 @@
         "seq": 0
     },
     {
+        "id": 1046,
+        "musicId": 523,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 1047,
         "musicId": 524,
         "musicTag": "all",
@@ -5972,6 +5990,30 @@
     {
         "id": 1055,
         "musicId": 532,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
+        "id": 1056,
+        "musicId": 533,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
+        "id": 1064,
+        "musicId": 541,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
+        "id": 1065,
+        "musicId": 542,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
+        "id": 1066,
+        "musicId": 543,
         "musicTag": "all",
         "seq": 0
     },
@@ -6826,5 +6868,47 @@
         "musicId": 511,
         "musicTag": "idol",
         "seq": 4
+    },
+    {
+        "id": 1482,
+        "musicId": 541,
+        "musicTag": "vocaloid",
+        "seq": 1
+    },
+    {
+        "id": 1483,
+        "musicId": 505,
+        "musicTag": "street",
+        "seq": 3
+    },
+    {
+        "id": 1484,
+        "musicId": 523,
+        "musicTag": "vocaloid",
+        "seq": 1
+    },
+    {
+        "id": 1485,
+        "musicId": 533,
+        "musicTag": "theme_park",
+        "seq": 2
+    },
+    {
+        "id": 1486,
+        "musicId": 542,
+        "musicTag": "vocaloid",
+        "seq": 1
+    },
+    {
+        "id": 1487,
+        "musicId": 476,
+        "musicTag": "school_refusal",
+        "seq": 5
+    },
+    {
+        "id": 1488,
+        "musicId": 543,
+        "musicTag": "vocaloid",
+        "seq": 1
     }
 ]
