@@ -5982,6 +5982,12 @@
         "seq": 0
     },
     {
+        "id": 1053,
+        "musicId": 530,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 1054,
         "musicId": 531,
         "musicTag": "all",
@@ -6014,6 +6020,12 @@
     {
         "id": 1066,
         "musicId": 543,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
+        "id": 1072,
+        "musicId": 549,
         "musicTag": "all",
         "seq": 0
     },
@@ -6910,5 +6922,17 @@
         "musicId": 543,
         "musicTag": "vocaloid",
         "seq": 1
+    },
+    {
+        "id": 1489,
+        "musicId": 549,
+        "musicTag": "school_refusal",
+        "seq": 5
+    },
+    {
+        "id": 1490,
+        "musicId": 530,
+        "musicTag": "idol",
+        "seq": 4
     }
 ]
