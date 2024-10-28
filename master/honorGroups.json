@@ -2301,5 +2301,10 @@
         "name": "Rekindle the flame",
         "honorType": "event",
         "backgroundAssetbundleName": "honor_bg_event_rekindle"
+    },
+    {
+        "id": 458,
+        "name": "ハロウィン2024",
+        "honorType": "event"
     }
 ]

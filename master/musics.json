@@ -10385,7 +10385,8 @@
         "seq": 2442001,
         "releaseConditionId": 10,
         "categories": [
-            "mv"
+            "mv",
+            "mv_2d"
         ],
         "title": "ULTRA C",
         "pronunciation": "うるとらしー",
@@ -10546,6 +10547,30 @@
         "liveStageId": 1,
         "fillerSec": 8.996199607849121,
         "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 478,
+        "seq": 2445501,
+        "releaseConditionId": 10,
+        "categories": [
+            "mv"
+        ],
+        "title": "フューエル",
+        "pronunciation": "ふゅーえる",
+        "creatorArtistId": 262,
+        "lyricist": "鬱P",
+        "composer": "鬱P",
+        "arranger": "鬱P",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_478",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1730207100000,
+        "releasedAt": 1730127600000,
+        "liveStageId": 1,
+        "fillerSec": 8.230799674987793,
+        "isNewlyWrittenMusic": true,
         "isFullLength": false
     },
     {

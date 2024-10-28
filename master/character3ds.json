@@ -16530,6 +16530,86 @@
         "bodyCostume3dId": 675018
     },
     {
+        "id": 1663,
+        "characterType": "game_character",
+        "characterId": 5,
+        "unit": "idol",
+        "name": "花里みのり（プリティーキャット・ウィッチ03）",
+        "headCostume3dId": 219039,
+        "hairCostume3dId": 205,
+        "bodyCostume3dId": 219040
+    },
+    {
+        "id": 1664,
+        "characterType": "game_character",
+        "characterId": 6,
+        "unit": "idol",
+        "name": "桐谷遥（マジカルテイラー・ウィッチ03）",
+        "headCostume3dId": 218047,
+        "hairCostume3dId": 206,
+        "bodyCostume3dId": 218048
+    },
+    {
+        "id": 1665,
+        "characterType": "game_character",
+        "characterId": 7,
+        "unit": "idol",
+        "name": "桃井愛莉（プリティーキャット・ウィッチ03）",
+        "headCostume3dId": 219055,
+        "hairCostume3dId": 207,
+        "bodyCostume3dId": 219056
+    },
+    {
+        "id": 1666,
+        "characterType": "game_character",
+        "characterId": 8,
+        "unit": "idol",
+        "name": "日野森雫（マジカルテイラー・ウィッチ03）",
+        "headCostume3dId": 218063,
+        "hairCostume3dId": 208,
+        "bodyCostume3dId": 218064
+    },
+    {
+        "id": 1667,
+        "characterType": "game_character",
+        "characterId": 21,
+        "unit": "idol",
+        "name": "モモジャンミク（モアフォーチュン・ウィッチ03）",
+        "headCostume3dId": 220135,
+        "hairCostume3dId": 221,
+        "bodyCostume3dId": 220136
+    },
+    {
+        "id": 1668,
+        "characterType": "game_character",
+        "characterId": 21,
+        "unit": "piapro",
+        "name": "初音ミク（スケルトンラビート）",
+        "headCostume3dId": 493129,
+        "hairCostume3dId": 221,
+        "bodyCostume3dId": 493130
+    },
+    {
+        "id": 1669,
+        "characterType": "game_character",
+        "characterId": 22,
+        "unit": "piapro",
+        "name": "鏡音リン（スケルトンラビート03）",
+        "headCostume3dId": 493143,
+        "hairCostume3dId": 227,
+        "bodyCostume3dId": 493144
+    },
+    {
+        "id": 1670,
+        "characterType": "game_character",
+        "characterId": 24,
+        "unit": "piapro",
+        "name": "巡音ルカ（スケルトンラビート01）",
+        "headCostume3dId": 493147,
+        "hairCostume3dId": 229,
+        "bodyCostume3dId": 493148
+    },
+    {
         "id": 1671,
         "characterType": "game_character",
         "characterId": 1,
@@ -16648,5 +16728,55 @@
         "headCostume3dId": 656103,
         "hairCostume3dId": 217,
         "bodyCostume3dId": 656104
+    },
+    {
+        "id": 1683,
+        "characterType": "game_character",
+        "characterId": 9,
+        "unit": "street",
+        "name": "小豆沢こはね（Bright flame）",
+        "headCostume3dId": 680065,
+        "hairCostume3dId": 209,
+        "bodyCostume3dId": 680066
+    },
+    {
+        "id": 1684,
+        "characterType": "game_character",
+        "characterId": 10,
+        "unit": "street",
+        "name": "白石杏（Yearning flame）",
+        "headCostume3dId": 681073,
+        "hairCostume3dId": 210,
+        "bodyCostume3dId": 681074
+    },
+    {
+        "id": 1685,
+        "characterType": "game_character",
+        "characterId": 11,
+        "unit": "street",
+        "name": "東雲彰人（Craving flame）",
+        "headCostume3dId": 679001,
+        "hairCostume3dId": 211,
+        "bodyCostume3dId": 679002
+    },
+    {
+        "id": 1686,
+        "characterType": "game_character",
+        "characterId": 12,
+        "unit": "street",
+        "name": "青柳冬弥（Craving flame）",
+        "headCostume3dId": 679009,
+        "hairCostume3dId": 212,
+        "bodyCostume3dId": 679010
+    },
+    {
+        "id": 1687,
+        "characterType": "game_character",
+        "characterId": 26,
+        "unit": "piapro",
+        "name": "KAITO（Craving flame）",
+        "headCostume3dId": 679041,
+        "hairCostume3dId": 231,
+        "bodyCostume3dId": 679042
     }
 ]

@@ -90338,5 +90338,21 @@
                 "description": "イベント「Rekindle the flame」のストーリーを全て読もう。"
             }
         ]
+    },
+    {
+        "id": 5146,
+        "seq": 200035,
+        "groupId": 458,
+        "honorRarity": "low",
+        "name": "ハロウィン2024",
+        "assetbundleName": "honor_5146",
+        "levels": [
+            {
+                "honorId": 5146,
+                "level": 1,
+                "bonus": 0,
+                "description": "「ハロウィン2024ライブ」に参加しよう。"
+            }
+        ]
     }
 ]

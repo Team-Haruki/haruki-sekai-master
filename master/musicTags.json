@@ -5760,6 +5760,12 @@
         "seq": 0
     },
     {
+        "id": 998,
+        "musicId": 478,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 1000,
         "musicId": 480,
         "musicTag": "all",
@@ -6958,5 +6964,11 @@
         "musicId": 545,
         "musicTag": "vocaloid",
         "seq": 1
+    },
+    {
+        "id": 1493,
+        "musicId": 478,
+        "musicTag": "street",
+        "seq": 3
     }
 ]

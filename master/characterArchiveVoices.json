@@ -60356,6 +60356,16 @@
         "displayStartAt": 1729954800000
     },
     {
+        "id": 4010166,
+        "groupId": 4010166,
+        "gameCharacterId": 1,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4720,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
+    },
+    {
         "id": 4020004,
         "groupId": 4020004,
         "gameCharacterId": 2,
@@ -61714,6 +61724,16 @@
         "externalId": 4703,
         "isNextGrade": true,
         "displayStartAt": 1729954800000
+    },
+    {
+        "id": 4020166,
+        "groupId": 4020166,
+        "gameCharacterId": 2,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4721,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
     },
     {
         "id": 4030004,
@@ -63096,6 +63116,16 @@
         "displayStartAt": 1729954800000
     },
     {
+        "id": 4030168,
+        "groupId": 4030168,
+        "gameCharacterId": 3,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4722,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
+    },
+    {
         "id": 4040004,
         "groupId": 4040004,
         "gameCharacterId": 4,
@@ -64444,6 +64474,16 @@
         "externalId": 4705,
         "isNextGrade": true,
         "displayStartAt": 1729954800000
+    },
+    {
+        "id": 4040164,
+        "groupId": 4040164,
+        "gameCharacterId": 4,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4723,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
     },
     {
         "id": 4050004,
@@ -65816,6 +65856,16 @@
         "displayStartAt": 1729954800000
     },
     {
+        "id": 4050167,
+        "groupId": 4050167,
+        "gameCharacterId": 5,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4724,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
+    },
+    {
         "id": 4060004,
         "groupId": 4060004,
         "gameCharacterId": 6,
@@ -67124,6 +67174,16 @@
         "externalId": 4707,
         "isNextGrade": true,
         "displayStartAt": 1729954800000
+    },
+    {
+        "id": 4060161,
+        "groupId": 4060161,
+        "gameCharacterId": 6,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4725,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
     },
     {
         "id": 4070004,
@@ -68464,6 +68524,16 @@
         "externalId": 4687,
         "isNextGrade": true,
         "displayStartAt": 1728054000000
+    },
+    {
+        "id": 4070164,
+        "groupId": 4070164,
+        "gameCharacterId": 7,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4726,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
     },
     {
         "id": 4080004,
@@ -69864,6 +69934,16 @@
         "externalId": 4708,
         "isNextGrade": true,
         "displayStartAt": 1729954800000
+    },
+    {
+        "id": 4080170,
+        "groupId": 4080170,
+        "gameCharacterId": 8,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4727,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
     },
     {
         "id": 4090004,
@@ -71326,6 +71406,16 @@
         "displayStartAt": 1729954800000
     },
     {
+        "id": 4090185,
+        "groupId": 4090185,
+        "gameCharacterId": 9,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4728,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
+    },
+    {
         "id": 4100004,
         "groupId": 4100004,
         "gameCharacterId": 10,
@@ -72624,6 +72714,16 @@
         "externalId": 4690,
         "isNextGrade": true,
         "displayStartAt": 1728054000000
+    },
+    {
+        "id": 4100159,
+        "groupId": 4100159,
+        "gameCharacterId": 10,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4729,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
     },
     {
         "id": 4110004,
@@ -73936,6 +74036,16 @@
         "displayStartAt": 1729954800000
     },
     {
+        "id": 4110161,
+        "groupId": 4110161,
+        "gameCharacterId": 11,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4730,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
+    },
+    {
         "id": 4120004,
         "groupId": 4120004,
         "gameCharacterId": 12,
@@ -75184,6 +75294,16 @@
         "externalId": 4692,
         "isNextGrade": true,
         "displayStartAt": 1728054000000
+    },
+    {
+        "id": 4120155,
+        "groupId": 4120155,
+        "gameCharacterId": 12,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4731,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
     },
     {
         "id": 4130004,
@@ -76574,6 +76694,16 @@
         "externalId": 4711,
         "isNextGrade": true,
         "displayStartAt": 1729954800000
+    },
+    {
+        "id": 4130169,
+        "groupId": 4130169,
+        "gameCharacterId": 13,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4732,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
     },
     {
         "id": 4140004,
@@ -77976,6 +78106,16 @@
         "displayStartAt": 1729954800000
     },
     {
+        "id": 4140170,
+        "groupId": 4140170,
+        "gameCharacterId": 14,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4733,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
+    },
+    {
         "id": 4150004,
         "groupId": 4150004,
         "gameCharacterId": 15,
@@ -79266,6 +79406,16 @@
         "displayStartAt": 1729954800000
     },
     {
+        "id": 4150162,
+        "groupId": 4150162,
+        "gameCharacterId": 15,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4734,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
+    },
+    {
         "id": 4160004,
         "groupId": 4160004,
         "gameCharacterId": 16,
@@ -80536,6 +80686,16 @@
         "displayStartAt": 1729954800000
     },
     {
+        "id": 4160157,
+        "groupId": 4160157,
+        "gameCharacterId": 16,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4735,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
+    },
+    {
         "id": 4170004,
         "groupId": 4170004,
         "gameCharacterId": 17,
@@ -81694,6 +81854,16 @@
         "externalId": 4715,
         "isNextGrade": true,
         "displayStartAt": 1729954800000
+    },
+    {
+        "id": 4170145,
+        "groupId": 4170145,
+        "gameCharacterId": 17,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4736,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
     },
     {
         "id": 4180004,
@@ -82864,6 +83034,16 @@
         "externalId": 4716,
         "isNextGrade": true,
         "displayStartAt": 1729954800000
+    },
+    {
+        "id": 4180147,
+        "groupId": 4180147,
+        "gameCharacterId": 18,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4737,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
     },
     {
         "id": 4190004,
@@ -84154,6 +84334,16 @@
         "externalId": 4717,
         "isNextGrade": true,
         "displayStartAt": 1729954800000
+    },
+    {
+        "id": 4190159,
+        "groupId": 4190159,
+        "gameCharacterId": 19,
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4738,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
     },
     {
         "id": 4200004,
@@ -91952,6 +92142,72 @@
         "displayStartAt": 1729954800000
     },
     {
+        "id": 4210761,
+        "groupId": 4210761,
+        "gameCharacterId": 21,
+        "unit": "light_sound",
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4739,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
+    },
+    {
+        "id": 4210762,
+        "groupId": 4210762,
+        "gameCharacterId": 21,
+        "unit": "idol",
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4740,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
+    },
+    {
+        "id": 4210763,
+        "groupId": 4210763,
+        "gameCharacterId": 21,
+        "unit": "street",
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4741,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
+    },
+    {
+        "id": 4210764,
+        "groupId": 4210764,
+        "gameCharacterId": 21,
+        "unit": "theme_park",
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4742,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
+    },
+    {
+        "id": 4210765,
+        "groupId": 4210765,
+        "gameCharacterId": 21,
+        "unit": "school_refusal",
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4743,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
+    },
+    {
+        "id": 4210766,
+        "groupId": 4210766,
+        "gameCharacterId": 21,
+        "unit": "piapro",
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4744,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
+    },
+    {
         "id": 4220004,
         "groupId": 4220004,
         "gameCharacterId": 22,
@@ -92962,6 +93218,17 @@
         "externalId": 4631,
         "isNextGrade": true,
         "displayStartAt": 1725084000000
+    },
+    {
+        "id": 4220122,
+        "groupId": 4220122,
+        "gameCharacterId": 22,
+        "unit": "piapro",
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4745,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
     },
     {
         "id": 4230004,
@@ -93976,6 +94243,17 @@
         "displayStartAt": 1725084000000
     },
     {
+        "id": 4230122,
+        "groupId": 4230122,
+        "gameCharacterId": 23,
+        "unit": "piapro",
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4746,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
+    },
+    {
         "id": 4240004,
         "groupId": 4240004,
         "gameCharacterId": 24,
@@ -94986,6 +95264,17 @@
         "externalId": 4637,
         "isNextGrade": true,
         "displayStartAt": 1725084000000
+    },
+    {
+        "id": 4240122,
+        "groupId": 4240122,
+        "gameCharacterId": 24,
+        "unit": "piapro",
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4747,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
     },
     {
         "id": 4250004,
@@ -96000,6 +96289,17 @@
         "displayStartAt": 1725084000000
     },
     {
+        "id": 4250122,
+        "groupId": 4250122,
+        "gameCharacterId": 25,
+        "unit": "piapro",
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4748,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
+    },
+    {
         "id": 4260004,
         "groupId": 4260004,
         "gameCharacterId": 26,
@@ -97010,6 +97310,17 @@
         "externalId": 4643,
         "isNextGrade": true,
         "displayStartAt": 1725084000000
+    },
+    {
+        "id": 4260122,
+        "groupId": 4260122,
+        "gameCharacterId": 26,
+        "unit": "piapro",
+        "characterArchiveVoiceType": "comment_live_top",
+        "characterArchiveVoiceTagId": 4,
+        "externalId": 4749,
+        "isNextGrade": true,
+        "displayStartAt": 1730300400000
     },
     {
         "id": 5010001,
