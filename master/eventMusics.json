@@ -538,5 +538,11 @@
         "musicId": 478,
         "seq": 1,
         "releaseConditionId": 1
+    },
+    {
+        "eventId": 147,
+        "musicId": 546,
+        "seq": 1,
+        "releaseConditionId": 1
     }
 ]
