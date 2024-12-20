@@ -6096,6 +6096,12 @@
         "seq": 0
     },
     {
+        "id": 1080,
+        "musicId": 557,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 1092,
         "musicId": 569,
         "musicTag": "all",
@@ -7078,5 +7084,11 @@
         "musicId": 498,
         "musicTag": "idol",
         "seq": 4
+    },
+    {
+        "id": 1506,
+        "musicId": 557,
+        "musicTag": "street",
+        "seq": 3
     }
 ]
