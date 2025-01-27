@@ -6162,6 +6162,12 @@
         "seq": 0
     },
     {
+        "id": 1087,
+        "musicId": 564,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 1088,
         "musicId": 565,
         "musicTag": "all",
@@ -7282,5 +7288,11 @@
         "musicId": 576,
         "musicTag": "street",
         "seq": 3
+    },
+    {
+        "id": 1526,
+        "musicId": 564,
+        "musicTag": "school_refusal",
+        "seq": 5
     }
 ]
