@@ -2336,5 +2336,19 @@
         "eventStoryId": 157,
         "unit": "idol",
         "eventStoryUnitRelation": "main"
+    },
+    {
+        "id": 352,
+        "seq": 352,
+        "eventStoryId": 158,
+        "unit": "light_sound",
+        "eventStoryUnitRelation": "sub"
+    },
+    {
+        "id": 353,
+        "seq": 353,
+        "eventStoryId": 158,
+        "unit": "theme_park",
+        "eventStoryUnitRelation": "sub"
     }
 ]
