@@ -39055,6 +39055,30 @@
         "releaseConditionTypeId": 44
     },
     {
+        "id": 1000300,
+        "sentence": "2025エイプリルフールの導入ストーリーを読む",
+        "releaseConditionType": "special_story",
+        "releaseConditionTypeId": 58
+    },
+    {
+        "id": 1000301,
+        "sentence": "2025エイプリルフールの1～6話を読む",
+        "releaseConditionType": "read_all_action_set_in_group",
+        "releaseConditionTypeId": 2
+    },
+    {
+        "id": 1000302,
+        "sentence": "2025エイプリルフールの7～29話を読む",
+        "releaseConditionType": "read_all_action_set_in_group",
+        "releaseConditionTypeId": 3
+    },
+    {
+        "id": 1000303,
+        "sentence": "2025エイプリルフールの30～31話を読む",
+        "releaseConditionType": "read_all_action_set_in_group",
+        "releaseConditionTypeId": 4
+    },
+    {
         "id": 1010201,
         "sentence": "星乃一歌と天馬咲希のキズナランクを16まで上げよう。",
         "releaseConditionType": "bonds_rank",
