@@ -3,9 +3,9 @@
     "systemProfile": "production",
     "appVersion": "5.2.0",
     "multiPlayVersion": "miku",
-    "assetVersion": "5.2.0.20",
+    "assetVersion": "5.2.0.30",
     "appVersionStatus": "available",
-    "dataVersion": "5.2.0.20",
+    "dataVersion": "5.2.0.30",
     "assetHash": "ab777c3f-61d2-a963-ee8a-1adf7ef72fd9",
     "removeAssetVersion": "1.13.0.30"
 }
