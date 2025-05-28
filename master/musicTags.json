@@ -6120,6 +6120,12 @@
         "seq": 0
     },
     {
+        "id": 1062,
+        "musicId": 539,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 1063,
         "musicId": 540,
         "musicTag": "all",
@@ -7822,5 +7828,11 @@
         "musicId": 595,
         "musicTag": "light_music_club",
         "seq": 6
+    },
+    {
+        "id": 1577,
+        "musicId": 539,
+        "musicTag": "idol",
+        "seq": 4
     }
 ]
