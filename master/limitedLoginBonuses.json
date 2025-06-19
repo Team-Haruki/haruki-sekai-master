@@ -1,3019 +1,3019 @@
 [
-    {
+  {
+    "id": 1,
+    "seq": 1,
+    "name": "リリース記念 39ログインキャンペーン",
+    "startAt": 1588273200000,
+    "endAt": 1603997999000,
+    "assetbundleName": "release_anniversary",
+    "closeAt": 1602961200000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 1,
-        "seq": 1,
-        "name": "リリース記念 39ログインキャンペーン",
-        "startAt": 1588273200000,
-        "endAt": 1603997999000,
-        "assetbundleName": "release_anniversary",
-        "closeAt": 1602961200000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 1,
-                "limitedLoginBonusId": 1,
-                "day": 1,
-                "resourceBoxId": 15
-            },
-            {
-                "id": 2,
-                "limitedLoginBonusId": 1,
-                "day": 2,
-                "resourceBoxId": 15
-            },
-            {
-                "id": 3,
-                "limitedLoginBonusId": 1,
-                "day": 3,
-                "resourceBoxId": 15
-            },
-            {
-                "id": 4,
-                "limitedLoginBonusId": 1,
-                "day": 4,
-                "resourceBoxId": 15
-            },
-            {
-                "id": 5,
-                "limitedLoginBonusId": 1,
-                "day": 5,
-                "resourceBoxId": 15
-            },
-            {
-                "id": 6,
-                "limitedLoginBonusId": 1,
-                "day": 6,
-                "resourceBoxId": 15
-            },
-            {
-                "id": 7,
-                "limitedLoginBonusId": 1,
-                "day": 7,
-                "resourceBoxId": 15
-            },
-            {
-                "id": 8,
-                "limitedLoginBonusId": 1,
-                "day": 8,
-                "resourceBoxId": 15
-            },
-            {
-                "id": 9,
-                "limitedLoginBonusId": 1,
-                "day": 9,
-                "resourceBoxId": 15
-            },
-            {
-                "id": 10,
-                "limitedLoginBonusId": 1,
-                "day": 10,
-                "resourceBoxId": 15
-            },
-            {
-                "id": 11,
-                "limitedLoginBonusId": 1,
-                "day": 11,
-                "resourceBoxId": 15
-            },
-            {
-                "id": 12,
-                "limitedLoginBonusId": 1,
-                "day": 12,
-                "resourceBoxId": 15
-            },
-            {
-                "id": 13,
-                "limitedLoginBonusId": 1,
-                "day": 13,
-                "resourceBoxId": 15
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 1,
+        "day": 1,
+        "resourceBoxId": 15
+      },
+      {
         "id": 2,
-        "seq": 2,
-        "name": "100万人突破記念ログインキャンペーン",
-        "startAt": 1601694000000,
-        "endAt": 1602269999000,
-        "assetbundleName": "100_anniversary",
-        "closeAt": 1602269999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 14,
-                "limitedLoginBonusId": 2,
-                "day": 1,
-                "resourceBoxId": 16
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 1,
+        "day": 2,
+        "resourceBoxId": 15
+      },
+      {
         "id": 3,
-        "seq": 3,
-        "name": "150万人突破記念ログインキャンペーン",
-        "startAt": 1602212400000,
-        "endAt": 1602788399000,
-        "assetbundleName": "150_anniversary",
-        "closeAt": 1602788399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 15,
-                "limitedLoginBonusId": 3,
-                "day": 1,
-                "resourceBoxId": 17
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 1,
+        "day": 3,
+        "resourceBoxId": 15
+      },
+      {
         "id": 4,
-        "seq": 4,
-        "name": "200万人突破記念ログインキャンペーン",
-        "startAt": 1603335600000,
-        "endAt": 1603911599000,
-        "assetbundleName": "200_anniversary",
-        "closeAt": 1603911599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 16,
-                "limitedLoginBonusId": 4,
-                "day": 1,
-                "resourceBoxId": 18
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 1,
+        "day": 4,
+        "resourceBoxId": 15
+      },
+      {
         "id": 5,
-        "seq": 5,
-        "name": "250万人突破記念ログインキャンペーン",
-        "startAt": 1605927600000,
-        "endAt": 1606503599000,
-        "assetbundleName": "250_anniversary",
-        "closeAt": 1606503599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 17,
-                "limitedLoginBonusId": 5,
-                "day": 1,
-                "resourceBoxId": 19
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 1,
+        "day": 5,
+        "resourceBoxId": 15
+      },
+      {
         "id": 6,
-        "seq": 6,
-        "name": "ハッピーハロウィンログインキャンペーン",
-        "startAt": 1603594800000,
-        "endAt": 1604689199000,
-        "assetbundleName": "happy_halloween_2020",
-        "closeAt": 1604170800000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 18,
-                "limitedLoginBonusId": 6,
-                "day": 1,
-                "resourceBoxId": 20
-            },
-            {
-                "id": 19,
-                "limitedLoginBonusId": 6,
-                "day": 2,
-                "resourceBoxId": 21
-            },
-            {
-                "id": 20,
-                "limitedLoginBonusId": 6,
-                "day": 3,
-                "resourceBoxId": 21
-            },
-            {
-                "id": 21,
-                "limitedLoginBonusId": 6,
-                "day": 4,
-                "resourceBoxId": 21
-            },
-            {
-                "id": 22,
-                "limitedLoginBonusId": 6,
-                "day": 5,
-                "resourceBoxId": 21
-            },
-            {
-                "id": 23,
-                "limitedLoginBonusId": 6,
-                "day": 6,
-                "resourceBoxId": 21
-            },
-            {
-                "id": 24,
-                "limitedLoginBonusId": 6,
-                "day": 7,
-                "resourceBoxId": 21
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 1,
+        "day": 6,
+        "resourceBoxId": 15
+      },
+      {
         "id": 7,
-        "seq": 7,
-        "name": "ベストオブ2020 最優秀賞 大感謝ログインキャンペーン",
-        "startAt": 1607320800000,
-        "endAt": 1609441199000,
-        "assetbundleName": "bestof2020_anniversary",
-        "closeAt": 1608404400000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 25,
-                "limitedLoginBonusId": 7,
-                "day": 1,
-                "resourceBoxId": 24
-            },
-            {
-                "id": 26,
-                "limitedLoginBonusId": 7,
-                "day": 2,
-                "resourceBoxId": 25
-            },
-            {
-                "id": 27,
-                "limitedLoginBonusId": 7,
-                "day": 3,
-                "resourceBoxId": 25
-            },
-            {
-                "id": 28,
-                "limitedLoginBonusId": 7,
-                "day": 4,
-                "resourceBoxId": 25
-            },
-            {
-                "id": 29,
-                "limitedLoginBonusId": 7,
-                "day": 5,
-                "resourceBoxId": 25
-            },
-            {
-                "id": 30,
-                "limitedLoginBonusId": 7,
-                "day": 6,
-                "resourceBoxId": 25
-            },
-            {
-                "id": 31,
-                "limitedLoginBonusId": 7,
-                "day": 7,
-                "resourceBoxId": 25
-            },
-            {
-                "id": 32,
-                "limitedLoginBonusId": 7,
-                "day": 8,
-                "resourceBoxId": 25
-            },
-            {
-                "id": 33,
-                "limitedLoginBonusId": 7,
-                "day": 9,
-                "resourceBoxId": 25
-            },
-            {
-                "id": 34,
-                "limitedLoginBonusId": 7,
-                "day": 10,
-                "resourceBoxId": 25
-            },
-            {
-                "id": 35,
-                "limitedLoginBonusId": 7,
-                "day": 11,
-                "resourceBoxId": 25
-            },
-            {
-                "id": 36,
-                "limitedLoginBonusId": 7,
-                "day": 12,
-                "resourceBoxId": 25
-            },
-            {
-                "id": 37,
-                "limitedLoginBonusId": 7,
-                "day": 13,
-                "resourceBoxId": 25
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 1,
+        "day": 7,
+        "resourceBoxId": 15
+      },
+      {
         "id": 8,
-        "seq": 8,
-        "name": "クリスマスログインキャンペーン",
-        "startAt": 1608735600000,
-        "endAt": 1608908399000,
-        "assetbundleName": "christmas_2020",
-        "closeAt": 1608908399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 38,
-                "limitedLoginBonusId": 8,
-                "day": 1,
-                "resourceBoxId": 26
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 1,
+        "day": 8,
+        "resourceBoxId": 15
+      },
+      {
         "id": 9,
-        "seq": 9,
-        "name": "年末カウントダウンログインキャンペーン",
-        "startAt": 1608908400000,
-        "endAt": 1608994799000,
-        "assetbundleName": "countdown_2020_01",
-        "closeAt": 1608994799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 39,
-                "limitedLoginBonusId": 9,
-                "day": 1,
-                "resourceBoxId": 27
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 1,
+        "day": 9,
+        "resourceBoxId": 15
+      },
+      {
         "id": 10,
-        "seq": 10,
-        "name": "年末カウントダウンログインキャンペーン",
-        "startAt": 1608994800000,
-        "endAt": 1609081199000,
-        "assetbundleName": "countdown_2020_02",
-        "closeAt": 1609081199000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 40,
-                "limitedLoginBonusId": 10,
-                "day": 1,
-                "resourceBoxId": 27
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 1,
+        "day": 10,
+        "resourceBoxId": 15
+      },
+      {
         "id": 11,
-        "seq": 11,
-        "name": "年末カウントダウンログインキャンペーン",
-        "startAt": 1609081200000,
-        "endAt": 1609167599000,
-        "assetbundleName": "countdown_2020_03",
-        "closeAt": 1609167599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 41,
-                "limitedLoginBonusId": 11,
-                "day": 1,
-                "resourceBoxId": 27
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 1,
+        "day": 11,
+        "resourceBoxId": 15
+      },
+      {
         "id": 12,
-        "seq": 12,
-        "name": "年末カウントダウンログインキャンペーン",
-        "startAt": 1609167600000,
-        "endAt": 1609253999000,
-        "assetbundleName": "countdown_2020_04",
-        "closeAt": 1609253999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 42,
-                "limitedLoginBonusId": 12,
-                "day": 1,
-                "resourceBoxId": 27
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 1,
+        "day": 12,
+        "resourceBoxId": 15
+      },
+      {
         "id": 13,
-        "seq": 13,
-        "name": "年末カウントダウンログインキャンペーン",
-        "startAt": 1609254000000,
-        "endAt": 1609340399000,
-        "assetbundleName": "countdown_2020_05",
-        "closeAt": 1609340399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 43,
-                "limitedLoginBonusId": 13,
-                "day": 1,
-                "resourceBoxId": 27
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 1,
+        "day": 13,
+        "resourceBoxId": 15
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "seq": 2,
+    "name": "100万人突破記念ログインキャンペーン",
+    "startAt": 1601694000000,
+    "endAt": 1602269999000,
+    "assetbundleName": "100_anniversary",
+    "closeAt": 1602269999000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 14,
-        "seq": 14,
-        "name": "年末カウントダウンログインキャンペーン",
-        "startAt": 1609340400000,
-        "endAt": 1609426799000,
-        "assetbundleName": "countdown_2020_06",
-        "closeAt": 1609426799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 44,
-                "limitedLoginBonusId": 14,
-                "day": 1,
-                "resourceBoxId": 27
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 2,
+        "day": 1,
+        "resourceBoxId": 16
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "seq": 3,
+    "name": "150万人突破記念ログインキャンペーン",
+    "startAt": 1602212400000,
+    "endAt": 1602788399000,
+    "assetbundleName": "150_anniversary",
+    "closeAt": 1602788399000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 15,
-        "seq": 15,
-        "name": "300万人突破記念ログインキャンペーン",
-        "startAt": 1612753200000,
-        "endAt": 1613329199000,
-        "assetbundleName": "300_anniversary",
-        "closeAt": 1613329199000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 45,
-                "limitedLoginBonusId": 15,
-                "day": 1,
-                "resourceBoxId": 28
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 3,
+        "day": 1,
+        "resourceBoxId": 17
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "seq": 4,
+    "name": "200万人突破記念ログインキャンペーン",
+    "startAt": 1603335600000,
+    "endAt": 1603911599000,
+    "assetbundleName": "200_anniversary",
+    "closeAt": 1603911599000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 16,
-        "seq": 16,
-        "name": "バレンタインログインキャンペーン",
-        "startAt": 1613228400000,
-        "endAt": 1613314799000,
-        "assetbundleName": "valentine_2021",
-        "closeAt": 1613314799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 46,
-                "limitedLoginBonusId": 16,
-                "day": 1,
-                "resourceBoxId": 29
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 4,
+        "day": 1,
+        "resourceBoxId": 18
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "seq": 5,
+    "name": "250万人突破記念ログインキャンペーン",
+    "startAt": 1605927600000,
+    "endAt": 1606503599000,
+    "assetbundleName": "250_anniversary",
+    "closeAt": 1606503599000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 17,
-        "seq": 17,
-        "name": "ホワイトデーログインキャンペーン",
-        "startAt": 1615647600000,
-        "endAt": 1615733999000,
-        "assetbundleName": "whiteday_2021",
-        "closeAt": 1615733999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 47,
-                "limitedLoginBonusId": 17,
-                "day": 1,
-                "resourceBoxId": 30
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 5,
+        "day": 1,
+        "resourceBoxId": 19
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "seq": 6,
+    "name": "ハッピーハロウィンログインキャンペーン",
+    "startAt": 1603594800000,
+    "endAt": 1604689199000,
+    "assetbundleName": "happy_halloween_2020",
+    "closeAt": 1604170800000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 18,
-        "seq": 18,
-        "name": "ハーフアニバーサリーカウントダウンログインキャンペーン",
-        "startAt": 1616770800000,
-        "endAt": 1616857199000,
-        "assetbundleName": "half_anniversary_countdown_01",
-        "closeAt": 1616857199000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 48,
-                "limitedLoginBonusId": 18,
-                "day": 1,
-                "resourceBoxId": 31
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 6,
+        "day": 1,
+        "resourceBoxId": 20
+      },
+      {
         "id": 19,
-        "seq": 19,
-        "name": "ハーフアニバーサリーカウントダウンログインキャンペーン",
-        "startAt": 1616857200000,
-        "endAt": 1616943599000,
-        "assetbundleName": "half_anniversary_countdown_02",
-        "closeAt": 1616943599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 49,
-                "limitedLoginBonusId": 19,
-                "day": 1,
-                "resourceBoxId": 31
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 6,
+        "day": 2,
+        "resourceBoxId": 21
+      },
+      {
         "id": 20,
-        "seq": 20,
-        "name": "ハーフアニバーサリーカウントダウンログインキャンペーン",
-        "startAt": 1616943600000,
-        "endAt": 1617029999000,
-        "assetbundleName": "half_anniversary_countdown_03",
-        "closeAt": 1617029999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 50,
-                "limitedLoginBonusId": 20,
-                "day": 1,
-                "resourceBoxId": 31
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 6,
+        "day": 3,
+        "resourceBoxId": 21
+      },
+      {
         "id": 21,
-        "seq": 21,
-        "name": "ハーフアニバーサリー記念ログインキャンペーン",
-        "startAt": 1617073200000,
-        "endAt": 1618426799000,
-        "assetbundleName": "half_anniversary",
-        "closeAt": 1617994800000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 51,
-                "limitedLoginBonusId": 21,
-                "day": 1,
-                "resourceBoxId": 32
-            },
-            {
-                "id": 52,
-                "limitedLoginBonusId": 21,
-                "day": 2,
-                "resourceBoxId": 33
-            },
-            {
-                "id": 53,
-                "limitedLoginBonusId": 21,
-                "day": 3,
-                "resourceBoxId": 33
-            },
-            {
-                "id": 54,
-                "limitedLoginBonusId": 21,
-                "day": 4,
-                "resourceBoxId": 33
-            },
-            {
-                "id": 55,
-                "limitedLoginBonusId": 21,
-                "day": 5,
-                "resourceBoxId": 33
-            },
-            {
-                "id": 56,
-                "limitedLoginBonusId": 21,
-                "day": 6,
-                "resourceBoxId": 33
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 6,
+        "day": 4,
+        "resourceBoxId": 21
+      },
+      {
         "id": 22,
-        "seq": 22,
-        "name": "390万人突破記念ログインキャンペーン",
-        "startAt": 1618801200000,
-        "endAt": 1619377199000,
-        "assetbundleName": "390_anniversary",
-        "closeAt": 1619377199000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 57,
-                "limitedLoginBonusId": 22,
-                "day": 1,
-                "resourceBoxId": 34
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 6,
+        "day": 5,
+        "resourceBoxId": 21
+      },
+      {
         "id": 23,
-        "seq": 23,
-        "name": "GWログインキャンペーン",
-        "startAt": 1619665200000,
-        "endAt": 1621450799000,
-        "assetbundleName": "gw_2021",
-        "closeAt": 1620586800000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 58,
-                "limitedLoginBonusId": 23,
-                "day": 1,
-                "resourceBoxId": 35
-            },
-            {
-                "id": 59,
-                "limitedLoginBonusId": 23,
-                "day": 2,
-                "resourceBoxId": 36
-            },
-            {
-                "id": 60,
-                "limitedLoginBonusId": 23,
-                "day": 3,
-                "resourceBoxId": 37
-            },
-            {
-                "id": 61,
-                "limitedLoginBonusId": 23,
-                "day": 4,
-                "resourceBoxId": 38
-            },
-            {
-                "id": 62,
-                "limitedLoginBonusId": 23,
-                "day": 5,
-                "resourceBoxId": 39
-            },
-            {
-                "id": 63,
-                "limitedLoginBonusId": 23,
-                "day": 6,
-                "resourceBoxId": 40
-            },
-            {
-                "id": 64,
-                "limitedLoginBonusId": 23,
-                "day": 7,
-                "resourceBoxId": 41
-            },
-            {
-                "id": 65,
-                "limitedLoginBonusId": 23,
-                "day": 8,
-                "resourceBoxId": 42
-            },
-            {
-                "id": 66,
-                "limitedLoginBonusId": 23,
-                "day": 9,
-                "resourceBoxId": 43
-            },
-            {
-                "id": 67,
-                "limitedLoginBonusId": 23,
-                "day": 10,
-                "resourceBoxId": 44
-            },
-            {
-                "id": 68,
-                "limitedLoginBonusId": 23,
-                "day": 11,
-                "resourceBoxId": 45
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 6,
+        "day": 6,
+        "resourceBoxId": 21
+      },
+      {
         "id": 24,
-        "seq": 24,
-        "name": "ローソンタイアップ記念ログインキャンペーン",
-        "startAt": 1625540400000,
-        "endAt": 1626706799000,
-        "assetbundleName": "tieup_lawson_2021",
-        "closeAt": 1626706799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 69,
-                "limitedLoginBonusId": 24,
-                "day": 1,
-                "resourceBoxId": 46
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 6,
+        "day": 7,
+        "resourceBoxId": 21
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "seq": 7,
+    "name": "ベストオブ2020 最優秀賞 大感謝ログインキャンペーン",
+    "startAt": 1607320800000,
+    "endAt": 1609441199000,
+    "assetbundleName": "bestof2020_anniversary",
+    "closeAt": 1608404400000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 25,
-        "seq": 25,
-        "name": "500万人突破記念ログインキャンペーン",
-        "startAt": 1627268400000,
-        "endAt": 1627930799000,
-        "assetbundleName": "500_anniversary",
-        "closeAt": 1627930799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 70,
-                "limitedLoginBonusId": 25,
-                "day": 1,
-                "resourceBoxId": 47
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 7,
+        "day": 1,
+        "resourceBoxId": 24
+      },
+      {
         "id": 26,
-        "seq": 26,
-        "name": "もうすぐ1周年！カウントダウンログインキャンペーン",
-        "startAt": 1632495600000,
-        "endAt": 1632581999000,
-        "assetbundleName": "anniversary_countdown_01",
-        "closeAt": 1632581999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 71,
-                "limitedLoginBonusId": 26,
-                "day": 1,
-                "resourceBoxId": 48
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 7,
+        "day": 2,
+        "resourceBoxId": 25
+      },
+      {
         "id": 27,
-        "seq": 27,
-        "name": "もうすぐ1周年！カウントダウンログインキャンペーン",
-        "startAt": 1632582000000,
-        "endAt": 1632668399000,
-        "assetbundleName": "anniversary_countdown_02",
-        "closeAt": 1632668399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 72,
-                "limitedLoginBonusId": 27,
-                "day": 1,
-                "resourceBoxId": 49
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 7,
+        "day": 3,
+        "resourceBoxId": 25
+      },
+      {
         "id": 28,
-        "seq": 28,
-        "name": "もうすぐ1周年！カウントダウンログインキャンペーン",
-        "startAt": 1632668400000,
-        "endAt": 1632754799000,
-        "assetbundleName": "anniversary_countdown_03",
-        "closeAt": 1632754799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 73,
-                "limitedLoginBonusId": 28,
-                "day": 1,
-                "resourceBoxId": 50
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 7,
+        "day": 4,
+        "resourceBoxId": 25
+      },
+      {
         "id": 29,
-        "seq": 29,
-        "name": "もうすぐ1周年！カウントダウンログインキャンペーン",
-        "startAt": 1632754800000,
-        "endAt": 1632841199000,
-        "assetbundleName": "anniversary_countdown_04",
-        "closeAt": 1632841199000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 74,
-                "limitedLoginBonusId": 29,
-                "day": 1,
-                "resourceBoxId": 51
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 7,
+        "day": 5,
+        "resourceBoxId": 25
+      },
+      {
         "id": 30,
-        "seq": 30,
-        "name": "もうすぐ1周年！カウントダウンログインキャンペーン",
-        "startAt": 1632841200000,
-        "endAt": 1632927599000,
-        "assetbundleName": "anniversary_countdown_05",
-        "closeAt": 1632927599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 75,
-                "limitedLoginBonusId": 30,
-                "day": 1,
-                "resourceBoxId": 52
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 7,
+        "day": 6,
+        "resourceBoxId": 25
+      },
+      {
         "id": 31,
-        "seq": 31,
-        "name": "[1周年記念]ログインキャンペーン",
-        "startAt": 1632942000000,
-        "endAt": 1634065199000,
-        "assetbundleName": "1st_anniversary",
-        "closeAt": 1633546800000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 76,
-                "limitedLoginBonusId": 31,
-                "day": 1,
-                "resourceBoxId": 53
-            },
-            {
-                "id": 77,
-                "limitedLoginBonusId": 31,
-                "day": 2,
-                "resourceBoxId": 54
-            },
-            {
-                "id": 78,
-                "limitedLoginBonusId": 31,
-                "day": 3,
-                "resourceBoxId": 54
-            },
-            {
-                "id": 79,
-                "limitedLoginBonusId": 31,
-                "day": 4,
-                "resourceBoxId": 54
-            },
-            {
-                "id": 80,
-                "limitedLoginBonusId": 31,
-                "day": 5,
-                "resourceBoxId": 54
-            },
-            {
-                "id": 81,
-                "limitedLoginBonusId": 31,
-                "day": 6,
-                "resourceBoxId": 54
-            },
-            {
-                "id": 82,
-                "limitedLoginBonusId": 31,
-                "day": 7,
-                "resourceBoxId": 54
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 7,
+        "day": 7,
+        "resourceBoxId": 25
+      },
+      {
         "id": 32,
-        "seq": 32,
-        "name": "ハロウィンログインキャンペーン",
-        "startAt": 1635606000000,
-        "endAt": 1635778799000,
-        "assetbundleName": "halloween_2021",
-        "closeAt": 1635778799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 83,
-                "limitedLoginBonusId": 32,
-                "day": 1,
-                "resourceBoxId": 55
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 7,
+        "day": 8,
+        "resourceBoxId": 25
+      },
+      {
         "id": 33,
-        "seq": 33,
-        "name": "[プロセカ×悪ノ大罪シリーズ]コラボ記念ログインキャンペーン",
-        "startAt": 1639375200000,
-        "endAt": 1640584799000,
-        "assetbundleName": "collaboration_akuno",
-        "closeAt": 1640584799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 84,
-                "limitedLoginBonusId": 33,
-                "day": 1,
-                "resourceBoxId": 56
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 7,
+        "day": 9,
+        "resourceBoxId": 25
+      },
+      {
         "id": 34,
-        "seq": 34,
-        "name": "クリスマスログインキャンペーン",
-        "startAt": 1640271600000,
-        "endAt": 1640444399000,
-        "assetbundleName": "christmas_2021",
-        "closeAt": 1640444399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 85,
-                "limitedLoginBonusId": 34,
-                "day": 1,
-                "resourceBoxId": 57
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 7,
+        "day": 10,
+        "resourceBoxId": 25
+      },
+      {
         "id": 35,
-        "seq": 35,
-        "name": "[もうすぐ2022]年末カウントダウンログインキャンペーン",
-        "startAt": 1640617200000,
-        "endAt": 1640703599000,
-        "assetbundleName": "countdown_2021_01",
-        "closeAt": 1640703599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 86,
-                "limitedLoginBonusId": 35,
-                "day": 1,
-                "resourceBoxId": 58
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 7,
+        "day": 11,
+        "resourceBoxId": 25
+      },
+      {
         "id": 36,
-        "seq": 36,
-        "name": "[もうすぐ2022]年末カウントダウンログインキャンペーン",
-        "startAt": 1640703600000,
-        "endAt": 1640789999000,
-        "assetbundleName": "countdown_2021_02",
-        "closeAt": 1640789999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 87,
-                "limitedLoginBonusId": 36,
-                "day": 1,
-                "resourceBoxId": 58
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 7,
+        "day": 12,
+        "resourceBoxId": 25
+      },
+      {
         "id": 37,
-        "seq": 37,
-        "name": "[もうすぐ2022]年末カウントダウンログインキャンペーン",
-        "startAt": 1640790000000,
-        "endAt": 1640876399000,
-        "assetbundleName": "countdown_2021_03",
-        "closeAt": 1640876399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 88,
-                "limitedLoginBonusId": 37,
-                "day": 1,
-                "resourceBoxId": 58
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 7,
+        "day": 13,
+        "resourceBoxId": 25
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "seq": 8,
+    "name": "クリスマスログインキャンペーン",
+    "startAt": 1608735600000,
+    "endAt": 1608908399000,
+    "assetbundleName": "christmas_2020",
+    "closeAt": 1608908399000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 38,
-        "seq": 38,
-        "name": "[もうすぐ2022]年末カウントダウンログインキャンペーン",
-        "startAt": 1640876400000,
-        "endAt": 1640962799000,
-        "assetbundleName": "countdown_2021_04",
-        "closeAt": 1640962799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 89,
-                "limitedLoginBonusId": 38,
-                "day": 1,
-                "resourceBoxId": 58
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 8,
+        "day": 1,
+        "resourceBoxId": 26
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "seq": 9,
+    "name": "年末カウントダウンログインキャンペーン",
+    "startAt": 1608908400000,
+    "endAt": 1608994799000,
+    "assetbundleName": "countdown_2020_01",
+    "closeAt": 1608994799000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 39,
-        "seq": 39,
-        "name": "[2022新春]お年玉ログインキャンペーン",
-        "startAt": 1640977200000,
-        "endAt": 1642100399000,
-        "assetbundleName": "newyear_2022",
-        "closeAt": 1641582000000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 90,
-                "limitedLoginBonusId": 39,
-                "day": 1,
-                "resourceBoxId": 59
-            },
-            {
-                "id": 91,
-                "limitedLoginBonusId": 39,
-                "day": 2,
-                "resourceBoxId": 59
-            },
-            {
-                "id": 92,
-                "limitedLoginBonusId": 39,
-                "day": 3,
-                "resourceBoxId": 59
-            },
-            {
-                "id": 93,
-                "limitedLoginBonusId": 39,
-                "day": 4,
-                "resourceBoxId": 59
-            },
-            {
-                "id": 94,
-                "limitedLoginBonusId": 39,
-                "day": 5,
-                "resourceBoxId": 59
-            },
-            {
-                "id": 95,
-                "limitedLoginBonusId": 39,
-                "day": 6,
-                "resourceBoxId": 59
-            },
-            {
-                "id": 96,
-                "limitedLoginBonusId": 39,
-                "day": 7,
-                "resourceBoxId": 59
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 9,
+        "day": 1,
+        "resourceBoxId": 27
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "seq": 10,
+    "name": "年末カウントダウンログインキャンペーン",
+    "startAt": 1608994800000,
+    "endAt": 1609081199000,
+    "assetbundleName": "countdown_2020_02",
+    "closeAt": 1609081199000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 40,
-        "seq": 40,
-        "name": "カップヌードルタイアップ記念ログインキャンペーン",
-        "startAt": 1642042800000,
-        "endAt": 1644245999000,
-        "assetbundleName": "collaboration_nissin",
-        "closeAt": 1644245999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 97,
-                "limitedLoginBonusId": 40,
-                "day": 1,
-                "resourceBoxId": 60
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 10,
+        "day": 1,
+        "resourceBoxId": 27
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "seq": 11,
+    "name": "年末カウントダウンログインキャンペーン",
+    "startAt": 1609081200000,
+    "endAt": 1609167599000,
+    "assetbundleName": "countdown_2020_03",
+    "closeAt": 1609167599000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 41,
-        "seq": 41,
-        "name": "バレンタインログインキャンペーン",
-        "startAt": 1644764400000,
-        "endAt": 1644937199000,
-        "assetbundleName": "valentine_2022",
-        "closeAt": 1644937199000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 98,
-                "limitedLoginBonusId": 41,
-                "day": 1,
-                "resourceBoxId": 61
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 11,
+        "day": 1,
+        "resourceBoxId": 27
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "seq": 12,
+    "name": "年末カウントダウンログインキャンペーン",
+    "startAt": 1609167600000,
+    "endAt": 1609253999000,
+    "assetbundleName": "countdown_2020_04",
+    "closeAt": 1609253999000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 42,
-        "seq": 42,
-        "name": "ホワイトデーログインキャンペーン",
-        "startAt": 1647183600000,
-        "endAt": 1647356399000,
-        "assetbundleName": "whiteday_2022",
-        "closeAt": 1647356399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 99,
-                "limitedLoginBonusId": 42,
-                "day": 1,
-                "resourceBoxId": 62
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 12,
+        "day": 1,
+        "resourceBoxId": 27
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "seq": 13,
+    "name": "年末カウントダウンログインキャンペーン",
+    "startAt": 1609254000000,
+    "endAt": 1609340399000,
+    "assetbundleName": "countdown_2020_05",
+    "closeAt": 1609340399000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 43,
-        "seq": 43,
-        "name": "1.5周年記念ログインキャンペーン",
-        "startAt": 1648620000000,
-        "endAt": 1649656799000,
-        "assetbundleName": "1.5th_anniversary",
-        "closeAt": 1649656799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 100,
-                "limitedLoginBonusId": 43,
-                "day": 1,
-                "resourceBoxId": 63
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 13,
+        "day": 1,
+        "resourceBoxId": 27
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "seq": 14,
+    "name": "年末カウントダウンログインキャンペーン",
+    "startAt": 1609340400000,
+    "endAt": 1609426799000,
+    "assetbundleName": "countdown_2020_06",
+    "closeAt": 1609426799000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 44,
-        "seq": 44,
-        "name": "GWログインキャンペーン",
-        "startAt": 1651201200000,
-        "endAt": 1652727599000,
-        "assetbundleName": "gw_2022",
-        "closeAt": 1651950000000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 101,
-                "limitedLoginBonusId": 44,
-                "day": 1,
-                "resourceBoxId": 64
-            },
-            {
-                "id": 102,
-                "limitedLoginBonusId": 44,
-                "day": 2,
-                "resourceBoxId": 65
-            },
-            {
-                "id": 103,
-                "limitedLoginBonusId": 44,
-                "day": 3,
-                "resourceBoxId": 65
-            },
-            {
-                "id": 104,
-                "limitedLoginBonusId": 44,
-                "day": 4,
-                "resourceBoxId": 65
-            },
-            {
-                "id": 105,
-                "limitedLoginBonusId": 44,
-                "day": 5,
-                "resourceBoxId": 65
-            },
-            {
-                "id": 106,
-                "limitedLoginBonusId": 44,
-                "day": 6,
-                "resourceBoxId": 65
-            },
-            {
-                "id": 107,
-                "limitedLoginBonusId": 44,
-                "day": 7,
-                "resourceBoxId": 65
-            },
-            {
-                "id": 108,
-                "limitedLoginBonusId": 44,
-                "day": 8,
-                "resourceBoxId": 65
-            },
-            {
-                "id": 109,
-                "limitedLoginBonusId": 44,
-                "day": 9,
-                "resourceBoxId": 65
-            },
-            {
-                "id": 110,
-                "limitedLoginBonusId": 44,
-                "day": 10,
-                "resourceBoxId": 66
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 14,
+        "day": 1,
+        "resourceBoxId": 27
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "seq": 15,
+    "name": "300万人突破記念ログインキャンペーン",
+    "startAt": 1612753200000,
+    "endAt": 1613329199000,
+    "assetbundleName": "300_anniversary",
+    "closeAt": 1613329199000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 45,
-        "seq": 45,
-        "name": "「ブラック★★ロックシューター DAWN FALL」放送記念タイアップログインキャンペーン",
-        "startAt": 1652162400000,
-        "endAt": 1653317999000,
-        "assetbundleName": "collaboration_brs",
-        "closeAt": 1653317999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 111,
-                "limitedLoginBonusId": 45,
-                "day": 1,
-                "resourceBoxId": 67
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 15,
+        "day": 1,
+        "resourceBoxId": 28
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "seq": 16,
+    "name": "バレンタインログインキャンペーン",
+    "startAt": 1613228400000,
+    "endAt": 1613314799000,
+    "assetbundleName": "valentine_2021",
+    "closeAt": 1613314799000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 46,
-        "seq": 46,
-        "name": "1000万人突破記念ログインキャンペーン",
-        "startAt": 1656558000000,
-        "endAt": 1657133999000,
-        "assetbundleName": "1000_anniversary",
-        "closeAt": 1657133999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 112,
-                "limitedLoginBonusId": 46,
-                "day": 1,
-                "resourceBoxId": 68
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 16,
+        "day": 1,
+        "resourceBoxId": 29
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "seq": 17,
+    "name": "ホワイトデーログインキャンペーン",
+    "startAt": 1615647600000,
+    "endAt": 1615733999000,
+    "assetbundleName": "whiteday_2021",
+    "closeAt": 1615733999000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 47,
-        "seq": 47,
-        "name": "ポカリスエットコラボ記念ログインキャンペーン",
-        "startAt": 1659322800000,
-        "endAt": 1661957999000,
-        "assetbundleName": "collaboration_pocarisweat",
-        "closeAt": 1661957999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 113,
-                "limitedLoginBonusId": 47,
-                "day": 1,
-                "resourceBoxId": 69
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 17,
+        "day": 1,
+        "resourceBoxId": 30
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "seq": 18,
+    "name": "ハーフアニバーサリーカウントダウンログインキャンペーン",
+    "startAt": 1616770800000,
+    "endAt": 1616857199000,
+    "assetbundleName": "half_anniversary_countdown_01",
+    "closeAt": 1616857199000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 48,
-        "seq": 48,
-        "name": "もうすぐ2周年！カウントダウンログインキャンペーン",
-        "startAt": 1664031600000,
-        "endAt": 1664117999000,
-        "assetbundleName": "anniversary_countdown_01",
-        "closeAt": 1664117999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 114,
-                "limitedLoginBonusId": 48,
-                "day": 1,
-                "resourceBoxId": 70
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 18,
+        "day": 1,
+        "resourceBoxId": 31
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "seq": 19,
+    "name": "ハーフアニバーサリーカウントダウンログインキャンペーン",
+    "startAt": 1616857200000,
+    "endAt": 1616943599000,
+    "assetbundleName": "half_anniversary_countdown_02",
+    "closeAt": 1616943599000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 49,
-        "seq": 49,
-        "name": "もうすぐ2周年！カウントダウンログインキャンペーン",
-        "startAt": 1664118000000,
-        "endAt": 1664204399000,
-        "assetbundleName": "anniversary_countdown_02",
-        "closeAt": 1664204399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 115,
-                "limitedLoginBonusId": 49,
-                "day": 1,
-                "resourceBoxId": 70
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 19,
+        "day": 1,
+        "resourceBoxId": 31
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "seq": 20,
+    "name": "ハーフアニバーサリーカウントダウンログインキャンペーン",
+    "startAt": 1616943600000,
+    "endAt": 1617029999000,
+    "assetbundleName": "half_anniversary_countdown_03",
+    "closeAt": 1617029999000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 50,
-        "seq": 50,
-        "name": "もうすぐ2周年！カウントダウンログインキャンペーン",
-        "startAt": 1664204400000,
-        "endAt": 1664290799000,
-        "assetbundleName": "anniversary_countdown_03",
-        "closeAt": 1664290799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 116,
-                "limitedLoginBonusId": 50,
-                "day": 1,
-                "resourceBoxId": 70
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 20,
+        "day": 1,
+        "resourceBoxId": 31
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "seq": 21,
+    "name": "ハーフアニバーサリー記念ログインキャンペーン",
+    "startAt": 1617073200000,
+    "endAt": 1618426799000,
+    "assetbundleName": "half_anniversary",
+    "closeAt": 1617994800000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 51,
-        "seq": 51,
-        "name": "もうすぐ2周年！カウントダウンログインキャンペーン",
-        "startAt": 1664290800000,
-        "endAt": 1664377199000,
-        "assetbundleName": "anniversary_countdown_04",
-        "closeAt": 1664377199000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 117,
-                "limitedLoginBonusId": 51,
-                "day": 1,
-                "resourceBoxId": 70
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 21,
+        "day": 1,
+        "resourceBoxId": 32
+      },
+      {
         "id": 52,
-        "seq": 52,
-        "name": "もうすぐ2周年！カウントダウンログインキャンペーン",
-        "startAt": 1664377200000,
-        "endAt": 1664463599000,
-        "assetbundleName": "anniversary_countdown_05",
-        "closeAt": 1664463599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 118,
-                "limitedLoginBonusId": 52,
-                "day": 1,
-                "resourceBoxId": 70
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 21,
+        "day": 2,
+        "resourceBoxId": 33
+      },
+      {
         "id": 53,
-        "seq": 53,
-        "name": "[2周年記念]ログインキャンペーン",
-        "startAt": 1664506800000,
-        "endAt": 1665601199000,
-        "assetbundleName": "2nd_anniversary",
-        "closeAt": 1665082800000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 119,
-                "limitedLoginBonusId": 53,
-                "day": 1,
-                "resourceBoxId": 71
-            },
-            {
-                "id": 120,
-                "limitedLoginBonusId": 53,
-                "day": 2,
-                "resourceBoxId": 72
-            },
-            {
-                "id": 121,
-                "limitedLoginBonusId": 53,
-                "day": 3,
-                "resourceBoxId": 72
-            },
-            {
-                "id": 122,
-                "limitedLoginBonusId": 53,
-                "day": 4,
-                "resourceBoxId": 72
-            },
-            {
-                "id": 123,
-                "limitedLoginBonusId": 53,
-                "day": 5,
-                "resourceBoxId": 72
-            },
-            {
-                "id": 124,
-                "limitedLoginBonusId": 53,
-                "day": 6,
-                "resourceBoxId": 72
-            },
-            {
-                "id": 125,
-                "limitedLoginBonusId": 53,
-                "day": 7,
-                "resourceBoxId": 72
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 21,
+        "day": 3,
+        "resourceBoxId": 33
+      },
+      {
         "id": 54,
-        "seq": 54,
-        "name": "ハロウィンログインキャンペーン",
-        "startAt": 1667142000000,
-        "endAt": 1667314799000,
-        "assetbundleName": "halloween_2022",
-        "closeAt": 1667314799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 126,
-                "limitedLoginBonusId": 54,
-                "day": 1,
-                "resourceBoxId": 75
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 21,
+        "day": 4,
+        "resourceBoxId": 33
+      },
+      {
         "id": 55,
-        "seq": 55,
-        "name": "クリスマスログインキャンペーン",
-        "startAt": 1671807600000,
-        "endAt": 1671980399000,
-        "assetbundleName": "christmas_2022",
-        "closeAt": 1671980399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 127,
-                "limitedLoginBonusId": 55,
-                "day": 1,
-                "resourceBoxId": 76
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 21,
+        "day": 5,
+        "resourceBoxId": 33
+      },
+      {
         "id": 56,
-        "seq": 56,
-        "name": "[もうすぐ2023]年末カウントダウンログインキャンペーン",
-        "startAt": 1672153200000,
-        "endAt": 1672239599000,
-        "assetbundleName": "countdown_2022_01",
-        "closeAt": 1672239599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 128,
-                "limitedLoginBonusId": 56,
-                "day": 1,
-                "resourceBoxId": 77
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 21,
+        "day": 6,
+        "resourceBoxId": 33
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "seq": 22,
+    "name": "390万人突破記念ログインキャンペーン",
+    "startAt": 1618801200000,
+    "endAt": 1619377199000,
+    "assetbundleName": "390_anniversary",
+    "closeAt": 1619377199000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 57,
-        "seq": 57,
-        "name": "[もうすぐ2023]年末カウントダウンログインキャンペーン",
-        "startAt": 1672239600000,
-        "endAt": 1672325999000,
-        "assetbundleName": "countdown_2022_02",
-        "closeAt": 1672325999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 129,
-                "limitedLoginBonusId": 57,
-                "day": 1,
-                "resourceBoxId": 77
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 22,
+        "day": 1,
+        "resourceBoxId": 34
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "seq": 23,
+    "name": "GWログインキャンペーン",
+    "startAt": 1619665200000,
+    "endAt": 1621450799000,
+    "assetbundleName": "gw_2021",
+    "closeAt": 1620586800000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 58,
-        "seq": 58,
-        "name": "[もうすぐ2023]年末カウントダウンログインキャンペーン",
-        "startAt": 1672326000000,
-        "endAt": 1672412399000,
-        "assetbundleName": "countdown_2022_03",
-        "closeAt": 1672412399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 130,
-                "limitedLoginBonusId": 58,
-                "day": 1,
-                "resourceBoxId": 77
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 23,
+        "day": 1,
+        "resourceBoxId": 35
+      },
+      {
         "id": 59,
-        "seq": 59,
-        "name": "[もうすぐ2023]年末カウントダウンログインキャンペーン",
-        "startAt": 1672412400000,
-        "endAt": 1672498799000,
-        "assetbundleName": "countdown_2022_04",
-        "closeAt": 1672498799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 131,
-                "limitedLoginBonusId": 59,
-                "day": 1,
-                "resourceBoxId": 77
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 23,
+        "day": 2,
+        "resourceBoxId": 36
+      },
+      {
         "id": 60,
-        "seq": 60,
-        "name": "[2023新春]お年玉ログインキャンペーン",
-        "startAt": 1672542000000,
-        "endAt": 1673636399000,
-        "assetbundleName": "newyear_2023",
-        "closeAt": 1673118000000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 132,
-                "limitedLoginBonusId": 60,
-                "day": 1,
-                "resourceBoxId": 78
-            },
-            {
-                "id": 133,
-                "limitedLoginBonusId": 60,
-                "day": 2,
-                "resourceBoxId": 78
-            },
-            {
-                "id": 134,
-                "limitedLoginBonusId": 60,
-                "day": 3,
-                "resourceBoxId": 78
-            },
-            {
-                "id": 135,
-                "limitedLoginBonusId": 60,
-                "day": 4,
-                "resourceBoxId": 78
-            },
-            {
-                "id": 136,
-                "limitedLoginBonusId": 60,
-                "day": 5,
-                "resourceBoxId": 78
-            },
-            {
-                "id": 137,
-                "limitedLoginBonusId": 60,
-                "day": 6,
-                "resourceBoxId": 78
-            },
-            {
-                "id": 138,
-                "limitedLoginBonusId": 60,
-                "day": 7,
-                "resourceBoxId": 78
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 23,
+        "day": 3,
+        "resourceBoxId": 37
+      },
+      {
         "id": 61,
-        "seq": 61,
-        "name": "ローソンタイアップ記念ログインキャンペーン",
-        "startAt": 1673924400000,
-        "endAt": 1675090799000,
-        "assetbundleName": "tieup_lawson_2023",
-        "closeAt": 1675090799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 139,
-                "limitedLoginBonusId": 61,
-                "day": 1,
-                "resourceBoxId": 79
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 23,
+        "day": 4,
+        "resourceBoxId": 38
+      },
+      {
         "id": 62,
-        "seq": 62,
-        "name": "バレンタインログインキャンペーン",
-        "startAt": 1676300400000,
-        "endAt": 1676473199000,
-        "assetbundleName": "valentine_2023",
-        "closeAt": 1676473199000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 140,
-                "limitedLoginBonusId": 62,
-                "day": 1,
-                "resourceBoxId": 80
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 23,
+        "day": 5,
+        "resourceBoxId": 39
+      },
+      {
         "id": 63,
-        "seq": 63,
-        "name": "ミクの日記念ログインキャンペーン",
-        "startAt": 1678287600000,
-        "endAt": 1678373999000,
-        "assetbundleName": "mikusday_2023",
-        "closeAt": 1678373999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 141,
-                "limitedLoginBonusId": 63,
-                "day": 1,
-                "resourceBoxId": 81
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 23,
+        "day": 6,
+        "resourceBoxId": 40
+      },
+      {
         "id": 64,
-        "seq": 64,
-        "name": "ホワイトデーログインキャンペーン",
-        "startAt": 1678719600000,
-        "endAt": 1678892399000,
-        "assetbundleName": "whiteday_2023",
-        "closeAt": 1678892399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 142,
-                "limitedLoginBonusId": 64,
-                "day": 1,
-                "resourceBoxId": 82
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 23,
+        "day": 7,
+        "resourceBoxId": 41
+      },
+      {
         "id": 65,
-        "seq": 65,
-        "name": "2.5周年記念ログインキャンペーン",
-        "startAt": 1680145200000,
-        "endAt": 1681239599000,
-        "assetbundleName": "2.5th_anniversary",
-        "closeAt": 1680721200000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 143,
-                "limitedLoginBonusId": 65,
-                "day": 1,
-                "resourceBoxId": 83
-            },
-            {
-                "id": 144,
-                "limitedLoginBonusId": 65,
-                "day": 2,
-                "resourceBoxId": 84
-            },
-            {
-                "id": 145,
-                "limitedLoginBonusId": 65,
-                "day": 3,
-                "resourceBoxId": 84
-            },
-            {
-                "id": 146,
-                "limitedLoginBonusId": 65,
-                "day": 4,
-                "resourceBoxId": 84
-            },
-            {
-                "id": 147,
-                "limitedLoginBonusId": 65,
-                "day": 5,
-                "resourceBoxId": 84
-            },
-            {
-                "id": 148,
-                "limitedLoginBonusId": 65,
-                "day": 6,
-                "resourceBoxId": 84
-            },
-            {
-                "id": 149,
-                "limitedLoginBonusId": 65,
-                "day": 7,
-                "resourceBoxId": 84
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 23,
+        "day": 8,
+        "resourceBoxId": 42
+      },
+      {
         "id": 66,
-        "seq": 66,
-        "name": "GWログインキャンペーン",
-        "startAt": 1682737200000,
-        "endAt": 1684177199000,
-        "assetbundleName": "gw_2023",
-        "closeAt": 1683486000000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 150,
-                "limitedLoginBonusId": 66,
-                "day": 1,
-                "resourceBoxId": 85
-            },
-            {
-                "id": 151,
-                "limitedLoginBonusId": 66,
-                "day": 2,
-                "resourceBoxId": 86
-            },
-            {
-                "id": 152,
-                "limitedLoginBonusId": 66,
-                "day": 3,
-                "resourceBoxId": 87
-            },
-            {
-                "id": 153,
-                "limitedLoginBonusId": 66,
-                "day": 4,
-                "resourceBoxId": 88
-            },
-            {
-                "id": 154,
-                "limitedLoginBonusId": 66,
-                "day": 5,
-                "resourceBoxId": 89
-            },
-            {
-                "id": 155,
-                "limitedLoginBonusId": 66,
-                "day": 6,
-                "resourceBoxId": 90
-            },
-            {
-                "id": 156,
-                "limitedLoginBonusId": 66,
-                "day": 7,
-                "resourceBoxId": 91
-            },
-            {
-                "id": 157,
-                "limitedLoginBonusId": 66,
-                "day": 8,
-                "resourceBoxId": 92
-            },
-            {
-                "id": 158,
-                "limitedLoginBonusId": 66,
-                "day": 9,
-                "resourceBoxId": 93
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 23,
+        "day": 9,
+        "resourceBoxId": 43
+      },
+      {
         "id": 67,
-        "seq": 67,
-        "name": "[復刻][プロセカ×悪ノ大罪シリーズ]コラボ記念ログインキャンペーン",
-        "startAt": 1683082800000,
-        "endAt": 1684292399000,
-        "assetbundleName": "collaboration_akuno_revival",
-        "closeAt": 1684292399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 159,
-                "limitedLoginBonusId": 67,
-                "day": 1,
-                "resourceBoxId": 94
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 23,
+        "day": 10,
+        "resourceBoxId": 44
+      },
+      {
         "id": 68,
-        "seq": 68,
-        "name": "初音ミク16周年記念ログインキャンペーン",
-        "startAt": 1693407600000,
-        "endAt": 1693493999000,
-        "assetbundleName": "miku_anniversary_2023",
-        "closeAt": 1693493999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 160,
-                "limitedLoginBonusId": 68,
-                "day": 1,
-                "resourceBoxId": 96
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 23,
+        "day": 11,
+        "resourceBoxId": 45
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "seq": 24,
+    "name": "ローソンタイアップ記念ログインキャンペーン",
+    "startAt": 1625540400000,
+    "endAt": 1626706799000,
+    "assetbundleName": "tieup_lawson_2021",
+    "closeAt": 1626706799000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 69,
-        "seq": 69,
-        "name": "[3周年直前生放送配信記念]ログインキャンペーン",
-        "startAt": 1695740400000,
-        "endAt": 1695826799000,
-        "assetbundleName": "livebroadcast_3rdspecial",
-        "closeAt": 1695826799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 161,
-                "limitedLoginBonusId": 69,
-                "day": 1,
-                "resourceBoxId": 97
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 24,
+        "day": 1,
+        "resourceBoxId": 46
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "seq": 25,
+    "name": "500万人突破記念ログインキャンペーン",
+    "startAt": 1627268400000,
+    "endAt": 1627930799000,
+    "assetbundleName": "500_anniversary",
+    "closeAt": 1627930799000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 70,
-        "seq": 70,
-        "name": "もうすぐ3周年！カウントダウンログインキャンペーン",
-        "startAt": 1695826800000,
-        "endAt": 1695913199000,
-        "assetbundleName": "3rd_anniversary_countdown_01",
-        "closeAt": 1695913199000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 162,
-                "limitedLoginBonusId": 70,
-                "day": 1,
-                "resourceBoxId": 98
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 25,
+        "day": 1,
+        "resourceBoxId": 47
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "seq": 26,
+    "name": "もうすぐ1周年！カウントダウンログインキャンペーン",
+    "startAt": 1632495600000,
+    "endAt": 1632581999000,
+    "assetbundleName": "anniversary_countdown_01",
+    "closeAt": 1632581999000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 71,
-        "seq": 71,
-        "name": "もうすぐ3周年！カウントダウンログインキャンペーン",
-        "startAt": 1695913200000,
-        "endAt": 1695999599000,
-        "assetbundleName": "3rd_anniversary_countdown_02",
-        "closeAt": 1695999599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 163,
-                "limitedLoginBonusId": 71,
-                "day": 1,
-                "resourceBoxId": 99
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 26,
+        "day": 1,
+        "resourceBoxId": 48
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "seq": 27,
+    "name": "もうすぐ1周年！カウントダウンログインキャンペーン",
+    "startAt": 1632582000000,
+    "endAt": 1632668399000,
+    "assetbundleName": "anniversary_countdown_02",
+    "closeAt": 1632668399000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 72,
-        "seq": 72,
-        "name": "[3周年記念]ログインキャンペーン",
-        "startAt": 1695999600000,
-        "endAt": 1697569199000,
-        "assetbundleName": "3rd_anniversary",
-        "closeAt": 1697050800000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 164,
-                "limitedLoginBonusId": 72,
-                "day": 1,
-                "resourceBoxId": 100
-            },
-            {
-                "id": 165,
-                "limitedLoginBonusId": 72,
-                "day": 2,
-                "resourceBoxId": 101
-            },
-            {
-                "id": 166,
-                "limitedLoginBonusId": 72,
-                "day": 3,
-                "resourceBoxId": 101
-            },
-            {
-                "id": 167,
-                "limitedLoginBonusId": 72,
-                "day": 4,
-                "resourceBoxId": 101
-            },
-            {
-                "id": 168,
-                "limitedLoginBonusId": 72,
-                "day": 5,
-                "resourceBoxId": 101
-            },
-            {
-                "id": 169,
-                "limitedLoginBonusId": 72,
-                "day": 6,
-                "resourceBoxId": 101
-            },
-            {
-                "id": 170,
-                "limitedLoginBonusId": 72,
-                "day": 7,
-                "resourceBoxId": 101
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 27,
+        "day": 1,
+        "resourceBoxId": 49
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "seq": 28,
+    "name": "もうすぐ1周年！カウントダウンログインキャンペーン",
+    "startAt": 1632668400000,
+    "endAt": 1632754799000,
+    "assetbundleName": "anniversary_countdown_03",
+    "closeAt": 1632754799000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 73,
-        "seq": 73,
-        "name": "ユニットPV公開記念ログインキャンペーン",
-        "startAt": 1695308400000,
-        "endAt": 1695394799000,
-        "assetbundleName": "unit_pv_01",
-        "closeAt": 1695394799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 171,
-                "limitedLoginBonusId": 73,
-                "day": 1,
-                "resourceBoxId": 102
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 28,
+        "day": 1,
+        "resourceBoxId": 50
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "seq": 29,
+    "name": "もうすぐ1周年！カウントダウンログインキャンペーン",
+    "startAt": 1632754800000,
+    "endAt": 1632841199000,
+    "assetbundleName": "anniversary_countdown_04",
+    "closeAt": 1632841199000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 74,
-        "seq": 74,
-        "name": "ユニットPV公開記念ログインキャンペーン",
-        "startAt": 1695394800000,
-        "endAt": 1695481199000,
-        "assetbundleName": "unit_pv_02",
-        "closeAt": 1695481199000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 172,
-                "limitedLoginBonusId": 74,
-                "day": 1,
-                "resourceBoxId": 102
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 29,
+        "day": 1,
+        "resourceBoxId": 51
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "seq": 30,
+    "name": "もうすぐ1周年！カウントダウンログインキャンペーン",
+    "startAt": 1632841200000,
+    "endAt": 1632927599000,
+    "assetbundleName": "anniversary_countdown_05",
+    "closeAt": 1632927599000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 75,
-        "seq": 75,
-        "name": "ユニットPV公開記念ログインキャンペーン",
-        "startAt": 1695481200000,
-        "endAt": 1695567599000,
-        "assetbundleName": "unit_pv_03",
-        "closeAt": 1695567599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 173,
-                "limitedLoginBonusId": 75,
-                "day": 1,
-                "resourceBoxId": 102
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 30,
+        "day": 1,
+        "resourceBoxId": 52
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "seq": 31,
+    "name": "[1周年記念]ログインキャンペーン",
+    "startAt": 1632942000000,
+    "endAt": 1634065199000,
+    "assetbundleName": "1st_anniversary",
+    "closeAt": 1633546800000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 76,
-        "seq": 76,
-        "name": "ユニットPV公開記念ログインキャンペーン",
-        "startAt": 1695567600000,
-        "endAt": 1695653999000,
-        "assetbundleName": "unit_pv_04",
-        "closeAt": 1695653999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 174,
-                "limitedLoginBonusId": 76,
-                "day": 1,
-                "resourceBoxId": 102
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 31,
+        "day": 1,
+        "resourceBoxId": 53
+      },
+      {
         "id": 77,
-        "seq": 77,
-        "name": "ユニットPV公開記念ログインキャンペーン",
-        "startAt": 1695654000000,
-        "endAt": 1695740399000,
-        "assetbundleName": "unit_pv_05",
-        "closeAt": 1695740399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 175,
-                "limitedLoginBonusId": 77,
-                "day": 1,
-                "resourceBoxId": 102
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 31,
+        "day": 2,
+        "resourceBoxId": 54
+      },
+      {
         "id": 78,
-        "seq": 78,
-        "name": "ハロウィンログインキャンペーン",
-        "startAt": 1698678000000,
-        "endAt": 1698850799000,
-        "assetbundleName": "halloween_2023",
-        "closeAt": 1698850799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 176,
-                "limitedLoginBonusId": 78,
-                "day": 1,
-                "resourceBoxId": 103
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 31,
+        "day": 3,
+        "resourceBoxId": 54
+      },
+      {
         "id": 79,
-        "seq": 79,
-        "name": "[プロセカ×サンリオキャラクターズ]コラボ記念ログインキャンペーン",
-        "startAt": 1701745200000,
-        "endAt": 1702997999000,
-        "assetbundleName": "sanrio_collab_2023",
-        "closeAt": 1702997999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 177,
-                "limitedLoginBonusId": 79,
-                "day": 1,
-                "resourceBoxId": 104
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 31,
+        "day": 4,
+        "resourceBoxId": 54
+      },
+      {
         "id": 80,
-        "seq": 80,
-        "name": "クリスマスログインキャンペーン",
-        "startAt": 1703343600000,
-        "endAt": 1703516399000,
-        "assetbundleName": "christmas_2023",
-        "closeAt": 1703516399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 178,
-                "limitedLoginBonusId": 80,
-                "day": 1,
-                "resourceBoxId": 105
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 31,
+        "day": 5,
+        "resourceBoxId": 54
+      },
+      {
         "id": 81,
-        "seq": 81,
-        "name": "[もうすぐ2024]年末ログインキャンペーン",
-        "startAt": 1703732400000,
-        "endAt": 1703775599000,
-        "assetbundleName": "countdown_2023",
-        "closeAt": 1703775599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 179,
-                "limitedLoginBonusId": 81,
-                "day": 1,
-                "resourceBoxId": 106
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 31,
+        "day": 6,
+        "resourceBoxId": 54
+      },
+      {
         "id": 82,
-        "seq": 82,
-        "name": "[もうすぐ2024]年末ログインキャンペーン",
-        "startAt": 1703775600000,
-        "endAt": 1703861999000,
-        "assetbundleName": "countdown_2023",
-        "closeAt": 1703861999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 180,
-                "limitedLoginBonusId": 82,
-                "day": 1,
-                "resourceBoxId": 107
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 31,
+        "day": 7,
+        "resourceBoxId": 54
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "seq": 32,
+    "name": "ハロウィンログインキャンペーン",
+    "startAt": 1635606000000,
+    "endAt": 1635778799000,
+    "assetbundleName": "halloween_2021",
+    "closeAt": 1635778799000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 83,
-        "seq": 83,
-        "name": "[もうすぐ2024]年末ログインキャンペーン",
-        "startAt": 1703862000000,
-        "endAt": 1703948399000,
-        "assetbundleName": "countdown_2023",
-        "closeAt": 1703948399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 181,
-                "limitedLoginBonusId": 83,
-                "day": 1,
-                "resourceBoxId": 108
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 32,
+        "day": 1,
+        "resourceBoxId": 55
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "seq": 33,
+    "name": "[プロセカ×悪ノ大罪シリーズ]コラボ記念ログインキャンペーン",
+    "startAt": 1639375200000,
+    "endAt": 1640584799000,
+    "assetbundleName": "collaboration_akuno",
+    "closeAt": 1640584799000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 84,
-        "seq": 84,
-        "name": "行く年来る年ログインキャンペーン",
-        "startAt": 1703991600000,
-        "endAt": 1705085999000,
-        "assetbundleName": "newyear_2024",
-        "closeAt": 1704567600000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 182,
-                "limitedLoginBonusId": 84,
-                "day": 1,
-                "resourceBoxId": 109
-            },
-            {
-                "id": 183,
-                "limitedLoginBonusId": 84,
-                "day": 2,
-                "resourceBoxId": 110
-            },
-            {
-                "id": 184,
-                "limitedLoginBonusId": 84,
-                "day": 3,
-                "resourceBoxId": 110
-            },
-            {
-                "id": 185,
-                "limitedLoginBonusId": 84,
-                "day": 4,
-                "resourceBoxId": 110
-            },
-            {
-                "id": 186,
-                "limitedLoginBonusId": 84,
-                "day": 5,
-                "resourceBoxId": 110
-            },
-            {
-                "id": 187,
-                "limitedLoginBonusId": 84,
-                "day": 6,
-                "resourceBoxId": 110
-            },
-            {
-                "id": 188,
-                "limitedLoginBonusId": 84,
-                "day": 7,
-                "resourceBoxId": 110
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 33,
+        "day": 1,
+        "resourceBoxId": 56
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "seq": 34,
+    "name": "クリスマスログインキャンペーン",
+    "startAt": 1640271600000,
+    "endAt": 1640444399000,
+    "assetbundleName": "christmas_2021",
+    "closeAt": 1640444399000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 85,
-        "seq": 85,
-        "name": "バレンタインログインキャンペーン",
-        "startAt": 1707836400000,
-        "endAt": 1708009199000,
-        "assetbundleName": "valentine_2024",
-        "closeAt": 1708009199000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 189,
-                "limitedLoginBonusId": 85,
-                "day": 1,
-                "resourceBoxId": 111
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 34,
+        "day": 1,
+        "resourceBoxId": 57
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "seq": 35,
+    "name": "[もうすぐ2022]年末カウントダウンログインキャンペーン",
+    "startAt": 1640617200000,
+    "endAt": 1640703599000,
+    "assetbundleName": "countdown_2021_01",
+    "closeAt": 1640703599000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 86,
-        "seq": 86,
-        "name": "ミクの日記念ログインキャンペーン",
-        "startAt": 1709910000000,
-        "endAt": 1709996399000,
-        "assetbundleName": "mikusday_2024",
-        "closeAt": 1709996399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 190,
-                "limitedLoginBonusId": 86,
-                "day": 1,
-                "resourceBoxId": 112
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 35,
+        "day": 1,
+        "resourceBoxId": 58
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "seq": 36,
+    "name": "[もうすぐ2022]年末カウントダウンログインキャンペーン",
+    "startAt": 1640703600000,
+    "endAt": 1640789999000,
+    "assetbundleName": "countdown_2021_02",
+    "closeAt": 1640789999000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 87,
-        "seq": 87,
-        "name": "ホワイトデーログインキャンペーン",
-        "startAt": 1710342000000,
-        "endAt": 1710514799000,
-        "assetbundleName": "whiteday_2024",
-        "closeAt": 1710514799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 191,
-                "limitedLoginBonusId": 87,
-                "day": 1,
-                "resourceBoxId": 113
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 36,
+        "day": 1,
+        "resourceBoxId": 58
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "seq": 37,
+    "name": "[もうすぐ2022]年末カウントダウンログインキャンペーン",
+    "startAt": 1640790000000,
+    "endAt": 1640876399000,
+    "assetbundleName": "countdown_2021_03",
+    "closeAt": 1640876399000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 88,
-        "seq": 88,
-        "name": "3900's前夜祭ログインキャンペーン",
-        "startAt": 1711594800000,
-        "endAt": 1711767599000,
-        "assetbundleName": "world_3900_pre_anniversary",
-        "closeAt": 1711767599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 192,
-                "limitedLoginBonusId": 88,
-                "day": 1,
-                "resourceBoxId": 114
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 37,
+        "day": 1,
+        "resourceBoxId": 58
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "seq": 38,
+    "name": "[もうすぐ2022]年末カウントダウンログインキャンペーン",
+    "startAt": 1640876400000,
+    "endAt": 1640962799000,
+    "assetbundleName": "countdown_2021_04",
+    "closeAt": 1640962799000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 89,
-        "seq": 89,
-        "name": "3900'sログインキャンペーン",
-        "startAt": 1711767600000,
-        "endAt": 1712861999000,
-        "assetbundleName": "world_3900_anniversary",
-        "closeAt": 1712343600000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 193,
-                "limitedLoginBonusId": 89,
-                "day": 1,
-                "resourceBoxId": 115
-            },
-            {
-                "id": 194,
-                "limitedLoginBonusId": 89,
-                "day": 2,
-                "resourceBoxId": 116
-            },
-            {
-                "id": 195,
-                "limitedLoginBonusId": 89,
-                "day": 3,
-                "resourceBoxId": 116
-            },
-            {
-                "id": 196,
-                "limitedLoginBonusId": 89,
-                "day": 4,
-                "resourceBoxId": 116
-            },
-            {
-                "id": 197,
-                "limitedLoginBonusId": 89,
-                "day": 5,
-                "resourceBoxId": 116
-            },
-            {
-                "id": 198,
-                "limitedLoginBonusId": 89,
-                "day": 6,
-                "resourceBoxId": 116
-            },
-            {
-                "id": 199,
-                "limitedLoginBonusId": 89,
-                "day": 7,
-                "resourceBoxId": 116
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 38,
+        "day": 1,
+        "resourceBoxId": 58
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "seq": 39,
+    "name": "[2022新春]お年玉ログインキャンペーン",
+    "startAt": 1640977200000,
+    "endAt": 1642100399000,
+    "assetbundleName": "newyear_2022",
+    "closeAt": 1641582000000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 90,
-        "seq": 90,
-        "name": "[World Championship 2024 Spring開催記念]ログインキャンペーン",
-        "startAt": 1712934000000,
-        "endAt": 1713020399000,
-        "assetbundleName": "world_championship_2024_spring",
-        "closeAt": 1713020399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 200,
-                "limitedLoginBonusId": 90,
-                "day": 1,
-                "resourceBoxId": 117
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 39,
+        "day": 1,
+        "resourceBoxId": 59
+      },
+      {
         "id": 91,
-        "seq": 91,
-        "name": "GWログインキャンペーン",
-        "startAt": 1714359600000,
-        "endAt": 1715799599000,
-        "assetbundleName": "gw_2024",
-        "closeAt": 1715108400000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 201,
-                "limitedLoginBonusId": 91,
-                "day": 1,
-                "resourceBoxId": 118
-            },
-            {
-                "id": 202,
-                "limitedLoginBonusId": 91,
-                "day": 2,
-                "resourceBoxId": 119
-            },
-            {
-                "id": 203,
-                "limitedLoginBonusId": 91,
-                "day": 3,
-                "resourceBoxId": 120
-            },
-            {
-                "id": 204,
-                "limitedLoginBonusId": 91,
-                "day": 4,
-                "resourceBoxId": 121
-            },
-            {
-                "id": 205,
-                "limitedLoginBonusId": 91,
-                "day": 5,
-                "resourceBoxId": 122
-            },
-            {
-                "id": 206,
-                "limitedLoginBonusId": 91,
-                "day": 6,
-                "resourceBoxId": 123
-            },
-            {
-                "id": 207,
-                "limitedLoginBonusId": 91,
-                "day": 7,
-                "resourceBoxId": 124
-            },
-            {
-                "id": 208,
-                "limitedLoginBonusId": 91,
-                "day": 8,
-                "resourceBoxId": 125
-            },
-            {
-                "id": 209,
-                "limitedLoginBonusId": 91,
-                "day": 9,
-                "resourceBoxId": 126
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 39,
+        "day": 2,
+        "resourceBoxId": 59
+      },
+      {
         "id": 92,
-        "seq": 92,
-        "name": "[コネクトライブ RESONANCE BEATS!!]カウントダウンログインキャンペーン",
-        "startAt": 1718204400000,
-        "endAt": 1718290799000,
-        "assetbundleName": "countdown_connectlive_000_joint_lon_vbs_01",
-        "closeAt": 1718290799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 210,
-                "limitedLoginBonusId": 92,
-                "day": 1,
-                "resourceBoxId": 127
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 39,
+        "day": 3,
+        "resourceBoxId": 59
+      },
+      {
         "id": 93,
-        "seq": 93,
-        "name": "[コネクトライブ RESONANCE BEATS!!]カウントダウンログインキャンペーン",
-        "startAt": 1718290800000,
-        "endAt": 1718377199000,
-        "assetbundleName": "countdown_connectlive_000_joint_lon_vbs_02",
-        "closeAt": 1718377199000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 211,
-                "limitedLoginBonusId": 93,
-                "day": 1,
-                "resourceBoxId": 127
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 39,
+        "day": 4,
+        "resourceBoxId": 59
+      },
+      {
         "id": 94,
-        "seq": 94,
-        "name": "[コネクトライブ RESONANCE BEATS!!]カウントダウンログインキャンペーン",
-        "startAt": 1718377200000,
-        "endAt": 1718463599000,
-        "assetbundleName": "countdown_connectlive_000_joint_lon_vbs_03",
-        "closeAt": 1718463599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 212,
-                "limitedLoginBonusId": 94,
-                "day": 1,
-                "resourceBoxId": 127
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 39,
+        "day": 5,
+        "resourceBoxId": 59
+      },
+      {
         "id": 95,
-        "seq": 95,
-        "name": "[マジカルミライ2024]ログインキャンペーン",
-        "startAt": 1724986800000,
-        "endAt": 1725159599000,
-        "assetbundleName": "magicalmirai_2024",
-        "closeAt": 1725159599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 213,
-                "limitedLoginBonusId": 95,
-                "day": 1,
-                "resourceBoxId": 128
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 39,
+        "day": 6,
+        "resourceBoxId": 59
+      },
+      {
         "id": 96,
-        "seq": 96,
-        "name": "4周年前夜祭カウントダウンログインキャンペーン",
-        "startAt": 1727362800000,
-        "endAt": 1727449199000,
-        "assetbundleName": "4th_anniversary_countdown_01",
-        "closeAt": 1727449199000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 214,
-                "limitedLoginBonusId": 96,
-                "day": 1,
-                "resourceBoxId": 129
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 39,
+        "day": 7,
+        "resourceBoxId": 59
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "seq": 40,
+    "name": "カップヌードルタイアップ記念ログインキャンペーン",
+    "startAt": 1642042800000,
+    "endAt": 1644245999000,
+    "assetbundleName": "collaboration_nissin",
+    "closeAt": 1644245999000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 97,
-        "seq": 97,
-        "name": "4周年前夜祭カウントダウンログインキャンペーン",
-        "startAt": 1727449200000,
-        "endAt": 1727535599000,
-        "assetbundleName": "4th_anniversary_countdown_02",
-        "closeAt": 1727535599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 215,
-                "limitedLoginBonusId": 97,
-                "day": 1,
-                "resourceBoxId": 130
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 40,
+        "day": 1,
+        "resourceBoxId": 60
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "seq": 41,
+    "name": "バレンタインログインキャンペーン",
+    "startAt": 1644764400000,
+    "endAt": 1644937199000,
+    "assetbundleName": "valentine_2022",
+    "closeAt": 1644937199000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 98,
-        "seq": 98,
-        "name": "4周年前夜祭カウントダウンログインキャンペーン",
-        "startAt": 1727535600000,
-        "endAt": 1727621999000,
-        "assetbundleName": "4th_anniversary_countdown_03",
-        "closeAt": 1727621999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 216,
-                "limitedLoginBonusId": 98,
-                "day": 1,
-                "resourceBoxId": 131
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 41,
+        "day": 1,
+        "resourceBoxId": 61
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "seq": 42,
+    "name": "ホワイトデーログインキャンペーン",
+    "startAt": 1647183600000,
+    "endAt": 1647356399000,
+    "assetbundleName": "whiteday_2022",
+    "closeAt": 1647356399000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 99,
-        "seq": 99,
-        "name": "4周年記念ログインキャンペーン",
-        "startAt": 1727665200000,
-        "endAt": 1728759599000,
-        "assetbundleName": "4th_anniversary",
-        "closeAt": 1728241200000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 217,
-                "limitedLoginBonusId": 99,
-                "day": 1,
-                "resourceBoxId": 132
-            },
-            {
-                "id": 218,
-                "limitedLoginBonusId": 99,
-                "day": 2,
-                "resourceBoxId": 133
-            },
-            {
-                "id": 219,
-                "limitedLoginBonusId": 99,
-                "day": 3,
-                "resourceBoxId": 133
-            },
-            {
-                "id": 220,
-                "limitedLoginBonusId": 99,
-                "day": 4,
-                "resourceBoxId": 133
-            },
-            {
-                "id": 221,
-                "limitedLoginBonusId": 99,
-                "day": 5,
-                "resourceBoxId": 133
-            },
-            {
-                "id": 222,
-                "limitedLoginBonusId": 99,
-                "day": 6,
-                "resourceBoxId": 133
-            },
-            {
-                "id": 223,
-                "limitedLoginBonusId": 99,
-                "day": 7,
-                "resourceBoxId": 133
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 42,
+        "day": 1,
+        "resourceBoxId": 62
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "seq": 43,
+    "name": "1.5周年記念ログインキャンペーン",
+    "startAt": 1648620000000,
+    "endAt": 1649656799000,
+    "assetbundleName": "1.5th_anniversary",
+    "closeAt": 1649656799000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 100,
-        "seq": 100,
-        "name": "[4周年記念]Present 4 youキャンペーン",
-        "startAt": 1727665200000,
-        "endAt": 1728615599000,
-        "assetbundleName": "4th_present4you_001",
-        "closeAt": 1728615599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 224,
-                "limitedLoginBonusId": 100,
-                "day": 1,
-                "resourceBoxId": 134
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 43,
+        "day": 1,
+        "resourceBoxId": 63
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "seq": 44,
+    "name": "GWログインキャンペーン",
+    "startAt": 1651201200000,
+    "endAt": 1652727599000,
+    "assetbundleName": "gw_2022",
+    "closeAt": 1651950000000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 101,
-        "seq": 101,
-        "name": "[4周年記念]Present 4 youキャンペーン",
-        "startAt": 1727967600000,
-        "endAt": 1728053999000,
-        "assetbundleName": "4th_present4you_002",
-        "closeAt": 1728053999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 225,
-                "limitedLoginBonusId": 101,
-                "day": 1,
-                "resourceBoxId": 135
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 44,
+        "day": 1,
+        "resourceBoxId": 64
+      },
+      {
         "id": 102,
-        "seq": 102,
-        "name": "[4周年記念]Present 4 youキャンペーン",
-        "startAt": 1728723600000,
-        "endAt": 1729349999000,
-        "assetbundleName": "4th_present4you_003",
-        "closeAt": 1729349999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 226,
-                "limitedLoginBonusId": 102,
-                "day": 1,
-                "resourceBoxId": 138
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 44,
+        "day": 2,
+        "resourceBoxId": 65
+      },
+      {
         "id": 103,
-        "seq": 103,
-        "name": "[4周年記念]Present 4 youキャンペーン",
-        "startAt": 1728831600000,
-        "endAt": 1728917999000,
-        "assetbundleName": "4th_present4you_004",
-        "closeAt": 1728917999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 227,
-                "limitedLoginBonusId": 103,
-                "day": 1,
-                "resourceBoxId": 139
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 44,
+        "day": 3,
+        "resourceBoxId": 65
+      },
+      {
         "id": 104,
-        "seq": 104,
-        "name": "[4周年記念]Present 4 youキャンペーン",
-        "startAt": 1729695600000,
-        "endAt": 1729781999000,
-        "assetbundleName": "4th_present4you_005",
-        "closeAt": 1729781999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 228,
-                "limitedLoginBonusId": 104,
-                "day": 1,
-                "resourceBoxId": 140
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 44,
+        "day": 4,
+        "resourceBoxId": 65
+      },
+      {
         "id": 105,
-        "seq": 105,
-        "name": "ハロウィンログインキャンペーン",
-        "startAt": 1730300400000,
-        "endAt": 1730473199000,
-        "assetbundleName": "halloween_2024",
-        "closeAt": 1730473199000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 229,
-                "limitedLoginBonusId": 105,
-                "day": 1,
-                "resourceBoxId": 141
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 44,
+        "day": 5,
+        "resourceBoxId": 65
+      },
+      {
         "id": 106,
-        "seq": 106,
-        "name": "クリスマスログインキャンペーン",
-        "startAt": 1734966000000,
-        "endAt": 1735138799000,
-        "assetbundleName": "christmas_2024",
-        "closeAt": 1735138799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 230,
-                "limitedLoginBonusId": 106,
-                "day": 1,
-                "resourceBoxId": 142
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 44,
+        "day": 6,
+        "resourceBoxId": 65
+      },
+      {
         "id": 107,
-        "seq": 107,
-        "name": "[もうすぐ2025]年末ログインキャンペーン",
-        "startAt": 1735311600000,
-        "endAt": 1735397999000,
-        "assetbundleName": "countdown_2025",
-        "closeAt": 1735397999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 231,
-                "limitedLoginBonusId": 107,
-                "day": 1,
-                "resourceBoxId": 143
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 44,
+        "day": 7,
+        "resourceBoxId": 65
+      },
+      {
         "id": 108,
-        "seq": 108,
-        "name": "[もうすぐ2025]年末ログインキャンペーン",
-        "startAt": 1735398000000,
-        "endAt": 1735484399000,
-        "assetbundleName": "countdown_2025",
-        "closeAt": 1735484399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 232,
-                "limitedLoginBonusId": 108,
-                "day": 1,
-                "resourceBoxId": 144
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 44,
+        "day": 8,
+        "resourceBoxId": 65
+      },
+      {
         "id": 109,
-        "seq": 109,
-        "name": "[もうすぐ2025]年末ログインキャンペーン",
-        "startAt": 1735484400000,
-        "endAt": 1735570799000,
-        "assetbundleName": "countdown_2025",
-        "closeAt": 1735570799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 233,
-                "limitedLoginBonusId": 109,
-                "day": 1,
-                "resourceBoxId": 145
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 44,
+        "day": 9,
+        "resourceBoxId": 65
+      },
+      {
         "id": 110,
-        "seq": 110,
-        "name": "行く年来る年ログインキャンペーン",
-        "startAt": 1735614000000,
-        "endAt": 1736708399000,
-        "assetbundleName": "newyear_2025",
-        "closeAt": 1736190000000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 234,
-                "limitedLoginBonusId": 110,
-                "day": 1,
-                "resourceBoxId": 146
-            },
-            {
-                "id": 235,
-                "limitedLoginBonusId": 110,
-                "day": 2,
-                "resourceBoxId": 147
-            },
-            {
-                "id": 236,
-                "limitedLoginBonusId": 110,
-                "day": 3,
-                "resourceBoxId": 147
-            },
-            {
-                "id": 237,
-                "limitedLoginBonusId": 110,
-                "day": 4,
-                "resourceBoxId": 147
-            },
-            {
-                "id": 238,
-                "limitedLoginBonusId": 110,
-                "day": 5,
-                "resourceBoxId": 147
-            },
-            {
-                "id": 239,
-                "limitedLoginBonusId": 110,
-                "day": 6,
-                "resourceBoxId": 147
-            },
-            {
-                "id": 240,
-                "limitedLoginBonusId": 110,
-                "day": 7,
-                "resourceBoxId": 147
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 44,
+        "day": 10,
+        "resourceBoxId": 66
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "seq": 45,
+    "name": "「ブラック★★ロックシューター DAWN FALL」放送記念タイアップログインキャンペーン",
+    "startAt": 1652162400000,
+    "endAt": 1653317999000,
+    "assetbundleName": "collaboration_brs",
+    "closeAt": 1653317999000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 111,
-        "seq": 111,
-        "name": "[劇場版プロジェクトセカイ]カウントダウンログインキャンペーン",
-        "startAt": 1736521200000,
-        "endAt": 1736607599000,
-        "assetbundleName": "movie_countdown_01",
-        "closeAt": 1736607599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 241,
-                "limitedLoginBonusId": 111,
-                "day": 1,
-                "resourceBoxId": 148
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 45,
+        "day": 1,
+        "resourceBoxId": 67
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "seq": 46,
+    "name": "1000万人突破記念ログインキャンペーン",
+    "startAt": 1656558000000,
+    "endAt": 1657133999000,
+    "assetbundleName": "1000_anniversary",
+    "closeAt": 1657133999000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 112,
-        "seq": 112,
-        "name": "[劇場版プロジェクトセカイ]カウントダウンログインキャンペーン",
-        "startAt": 1736607600000,
-        "endAt": 1736693999000,
-        "assetbundleName": "movie_countdown_02",
-        "closeAt": 1736693999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 242,
-                "limitedLoginBonusId": 112,
-                "day": 1,
-                "resourceBoxId": 149
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 46,
+        "day": 1,
+        "resourceBoxId": 68
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "seq": 47,
+    "name": "ポカリスエットコラボ記念ログインキャンペーン",
+    "startAt": 1659322800000,
+    "endAt": 1661957999000,
+    "assetbundleName": "collaboration_pocarisweat",
+    "closeAt": 1661957999000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 113,
-        "seq": 113,
-        "name": "[劇場版プロジェクトセカイ]カウントダウンログインキャンペーン",
-        "startAt": 1736694000000,
-        "endAt": 1736780399000,
-        "assetbundleName": "movie_countdown_03",
-        "closeAt": 1736780399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 243,
-                "limitedLoginBonusId": 113,
-                "day": 1,
-                "resourceBoxId": 150
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 47,
+        "day": 1,
+        "resourceBoxId": 69
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "seq": 48,
+    "name": "もうすぐ2周年！カウントダウンログインキャンペーン",
+    "startAt": 1664031600000,
+    "endAt": 1664117999000,
+    "assetbundleName": "anniversary_countdown_01",
+    "closeAt": 1664117999000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 114,
-        "seq": 114,
-        "name": "[劇場版プロジェクトセカイ]カウントダウンログインキャンペーン",
-        "startAt": 1736780400000,
-        "endAt": 1736866799000,
-        "assetbundleName": "movie_countdown_04",
-        "closeAt": 1736866799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 244,
-                "limitedLoginBonusId": 114,
-                "day": 1,
-                "resourceBoxId": 151
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 48,
+        "day": 1,
+        "resourceBoxId": 70
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "seq": 49,
+    "name": "もうすぐ2周年！カウントダウンログインキャンペーン",
+    "startAt": 1664118000000,
+    "endAt": 1664204399000,
+    "assetbundleName": "anniversary_countdown_02",
+    "closeAt": 1664204399000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 115,
-        "seq": 115,
-        "name": "[劇場版プロジェクトセカイ]カウントダウンログインキャンペーン",
-        "startAt": 1736866800000,
-        "endAt": 1736953199000,
-        "assetbundleName": "movie_countdown_05",
-        "closeAt": 1736953199000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 245,
-                "limitedLoginBonusId": 115,
-                "day": 1,
-                "resourceBoxId": 152
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 49,
+        "day": 1,
+        "resourceBoxId": 70
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "seq": 50,
+    "name": "もうすぐ2周年！カウントダウンログインキャンペーン",
+    "startAt": 1664204400000,
+    "endAt": 1664290799000,
+    "assetbundleName": "anniversary_countdown_03",
+    "closeAt": 1664290799000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 116,
-        "seq": 116,
-        "name": "[劇場版プロジェクトセカイ]カウントダウンログインキャンペーン",
-        "startAt": 1736953200000,
-        "endAt": 1737039599000,
-        "assetbundleName": "movie_countdown_06",
-        "closeAt": 1737039599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 246,
-                "limitedLoginBonusId": 116,
-                "day": 1,
-                "resourceBoxId": 153
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 50,
+        "day": 1,
+        "resourceBoxId": 70
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "seq": 51,
+    "name": "もうすぐ2周年！カウントダウンログインキャンペーン",
+    "startAt": 1664290800000,
+    "endAt": 1664377199000,
+    "assetbundleName": "anniversary_countdown_04",
+    "closeAt": 1664377199000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 117,
-        "seq": 117,
-        "name": "[劇場版プロジェクトセカイ]公開記念ログインキャンペーン",
-        "startAt": 1737039600000,
-        "endAt": 1739717999000,
-        "assetbundleName": "cinema_logincp_2025",
-        "closeAt": 1739717999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 247,
-                "limitedLoginBonusId": 117,
-                "day": 1,
-                "resourceBoxId": 154
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 51,
+        "day": 1,
+        "resourceBoxId": 70
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "seq": 52,
+    "name": "もうすぐ2周年！カウントダウンログインキャンペーン",
+    "startAt": 1664377200000,
+    "endAt": 1664463599000,
+    "assetbundleName": "anniversary_countdown_05",
+    "closeAt": 1664463599000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 118,
-        "seq": 118,
-        "name": "バレンタインログインキャンペーン",
-        "startAt": 1739458800000,
-        "endAt": 1739631599000,
-        "assetbundleName": "valentine_2025",
-        "closeAt": 1739631599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 248,
-                "limitedLoginBonusId": 118,
-                "day": 1,
-                "resourceBoxId": 155
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 52,
+        "day": 1,
+        "resourceBoxId": 70
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "seq": 53,
+    "name": "[2周年記念]ログインキャンペーン",
+    "startAt": 1664506800000,
+    "endAt": 1665601199000,
+    "assetbundleName": "2nd_anniversary",
+    "closeAt": 1665082800000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 119,
-        "seq": 119,
-        "name": "[プロセカ×あんさんぶるスターズ！！]コラボ記念ログインキャンペーン",
-        "startAt": 1739599200000,
-        "endAt": 1740927599000,
-        "assetbundleName": "ensemble_collab_2025",
-        "closeAt": 1740927599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 249,
-                "limitedLoginBonusId": 119,
-                "day": 1,
-                "resourceBoxId": 156
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 53,
+        "day": 1,
+        "resourceBoxId": 71
+      },
+      {
         "id": 120,
-        "seq": 120,
-        "name": "ミクの日記念ログインキャンペーン",
-        "startAt": 1741446000000,
-        "endAt": 1741532399000,
-        "assetbundleName": "mikusday_2025",
-        "closeAt": 1741532399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 250,
-                "limitedLoginBonusId": 120,
-                "day": 1,
-                "resourceBoxId": 157
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 53,
+        "day": 2,
+        "resourceBoxId": 72
+      },
+      {
         "id": 121,
-        "seq": 121,
-        "name": "ホワイトデーログインキャンペーン",
-        "startAt": 1741878000000,
-        "endAt": 1742050799000,
-        "assetbundleName": "whiteday_2025",
-        "closeAt": 1742050799000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 251,
-                "limitedLoginBonusId": 121,
-                "day": 1,
-                "resourceBoxId": 158
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 53,
+        "day": 3,
+        "resourceBoxId": 72
+      },
+      {
         "id": 122,
-        "seq": 122,
-        "name": "もうすぐ4.5周年！ログインキャンペーン",
-        "startAt": 1743001200000,
-        "endAt": 1743087599000,
-        "assetbundleName": "4-5th_pre_anniversary",
-        "closeAt": 1743087599000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 252,
-                "limitedLoginBonusId": 122,
-                "day": 1,
-                "resourceBoxId": 159
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 53,
+        "day": 4,
+        "resourceBoxId": 72
+      },
+      {
         "id": 123,
-        "seq": 123,
-        "name": "もうすぐ4.5周年！ログインキャンペーン",
-        "startAt": 1743087600000,
-        "endAt": 1743173999000,
-        "assetbundleName": "4-5th_pre_anniversary",
-        "closeAt": 1743173999000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 253,
-                "limitedLoginBonusId": 123,
-                "day": 1,
-                "resourceBoxId": 160
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 53,
+        "day": 5,
+        "resourceBoxId": 72
+      },
+      {
         "id": 124,
-        "seq": 124,
-        "name": "もうすぐ4.5周年！ログインキャンペーン",
-        "startAt": 1743174000000,
-        "endAt": 1743260399000,
-        "assetbundleName": "4-5th_pre_anniversary",
-        "closeAt": 1743260399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 254,
-                "limitedLoginBonusId": 124,
-                "day": 1,
-                "resourceBoxId": 161
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 53,
+        "day": 6,
+        "resourceBoxId": 72
+      },
+      {
         "id": 125,
-        "seq": 125,
-        "name": "[4.5周年記念]ログインキャンペーン",
-        "startAt": 1743303600000,
-        "endAt": 1744397999000,
-        "assetbundleName": "4-5th_anniversary",
-        "closeAt": 1743879600000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 255,
-                "limitedLoginBonusId": 125,
-                "day": 1,
-                "resourceBoxId": 162
-            },
-            {
-                "id": 256,
-                "limitedLoginBonusId": 125,
-                "day": 2,
-                "resourceBoxId": 163
-            },
-            {
-                "id": 257,
-                "limitedLoginBonusId": 125,
-                "day": 3,
-                "resourceBoxId": 163
-            },
-            {
-                "id": 258,
-                "limitedLoginBonusId": 125,
-                "day": 4,
-                "resourceBoxId": 164
-            },
-            {
-                "id": 259,
-                "limitedLoginBonusId": 125,
-                "day": 5,
-                "resourceBoxId": 163
-            },
-            {
-                "id": 260,
-                "limitedLoginBonusId": 125,
-                "day": 6,
-                "resourceBoxId": 163
-            },
-            {
-                "id": 261,
-                "limitedLoginBonusId": 125,
-                "day": 7,
-                "resourceBoxId": 164
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 53,
+        "day": 7,
+        "resourceBoxId": 72
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "seq": 54,
+    "name": "ハロウィンログインキャンペーン",
+    "startAt": 1667142000000,
+    "endAt": 1667314799000,
+    "assetbundleName": "halloween_2022",
+    "closeAt": 1667314799000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 126,
-        "seq": 126,
-        "name": "マイセカイ応援 GWログインキャンペーン",
-        "startAt": 1745895600000,
-        "endAt": 1747162799000,
-        "assetbundleName": "gw_2025",
-        "closeAt": 1746558000000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 262,
-                "limitedLoginBonusId": 126,
-                "day": 1,
-                "resourceBoxId": 165
-            },
-            {
-                "id": 263,
-                "limitedLoginBonusId": 126,
-                "day": 2,
-                "resourceBoxId": 166
-            },
-            {
-                "id": 264,
-                "limitedLoginBonusId": 126,
-                "day": 3,
-                "resourceBoxId": 167
-            },
-            {
-                "id": 265,
-                "limitedLoginBonusId": 126,
-                "day": 4,
-                "resourceBoxId": 166
-            },
-            {
-                "id": 266,
-                "limitedLoginBonusId": 126,
-                "day": 5,
-                "resourceBoxId": 167
-            },
-            {
-                "id": 267,
-                "limitedLoginBonusId": 126,
-                "day": 6,
-                "resourceBoxId": 166
-            },
-            {
-                "id": 268,
-                "limitedLoginBonusId": 126,
-                "day": 7,
-                "resourceBoxId": 167
-            },
-            {
-                "id": 269,
-                "limitedLoginBonusId": 126,
-                "day": 8,
-                "resourceBoxId": 168
-            }
-        ]
-    },
-    {
+        "limitedLoginBonusId": 54,
+        "day": 1,
+        "resourceBoxId": 75
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "seq": 55,
+    "name": "クリスマスログインキャンペーン",
+    "startAt": 1671807600000,
+    "endAt": 1671980399000,
+    "assetbundleName": "christmas_2022",
+    "closeAt": 1671980399000,
+    "limitedLoginBonusDetails": [
+      {
         "id": 127,
-        "seq": 127,
-        "name": "[東方Projectコラボ記念]ログインキャンペーン",
-        "startAt": 1746241200000,
-        "endAt": 1747148399000,
-        "assetbundleName": "touhouproject_collab_2025",
-        "closeAt": 1747148399000,
-        "limitedLoginBonusDetails": [
-            {
-                "id": 270,
-                "limitedLoginBonusId": 127,
-                "day": 1,
-                "resourceBoxId": 169
-            }
-        ]
-    }
+        "limitedLoginBonusId": 55,
+        "day": 1,
+        "resourceBoxId": 76
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "seq": 56,
+    "name": "[もうすぐ2023]年末カウントダウンログインキャンペーン",
+    "startAt": 1672153200000,
+    "endAt": 1672239599000,
+    "assetbundleName": "countdown_2022_01",
+    "closeAt": 1672239599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 128,
+        "limitedLoginBonusId": 56,
+        "day": 1,
+        "resourceBoxId": 77
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "seq": 57,
+    "name": "[もうすぐ2023]年末カウントダウンログインキャンペーン",
+    "startAt": 1672239600000,
+    "endAt": 1672325999000,
+    "assetbundleName": "countdown_2022_02",
+    "closeAt": 1672325999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 129,
+        "limitedLoginBonusId": 57,
+        "day": 1,
+        "resourceBoxId": 77
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "seq": 58,
+    "name": "[もうすぐ2023]年末カウントダウンログインキャンペーン",
+    "startAt": 1672326000000,
+    "endAt": 1672412399000,
+    "assetbundleName": "countdown_2022_03",
+    "closeAt": 1672412399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 130,
+        "limitedLoginBonusId": 58,
+        "day": 1,
+        "resourceBoxId": 77
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "seq": 59,
+    "name": "[もうすぐ2023]年末カウントダウンログインキャンペーン",
+    "startAt": 1672412400000,
+    "endAt": 1672498799000,
+    "assetbundleName": "countdown_2022_04",
+    "closeAt": 1672498799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 131,
+        "limitedLoginBonusId": 59,
+        "day": 1,
+        "resourceBoxId": 77
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "seq": 60,
+    "name": "[2023新春]お年玉ログインキャンペーン",
+    "startAt": 1672542000000,
+    "endAt": 1673636399000,
+    "assetbundleName": "newyear_2023",
+    "closeAt": 1673118000000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 132,
+        "limitedLoginBonusId": 60,
+        "day": 1,
+        "resourceBoxId": 78
+      },
+      {
+        "id": 133,
+        "limitedLoginBonusId": 60,
+        "day": 2,
+        "resourceBoxId": 78
+      },
+      {
+        "id": 134,
+        "limitedLoginBonusId": 60,
+        "day": 3,
+        "resourceBoxId": 78
+      },
+      {
+        "id": 135,
+        "limitedLoginBonusId": 60,
+        "day": 4,
+        "resourceBoxId": 78
+      },
+      {
+        "id": 136,
+        "limitedLoginBonusId": 60,
+        "day": 5,
+        "resourceBoxId": 78
+      },
+      {
+        "id": 137,
+        "limitedLoginBonusId": 60,
+        "day": 6,
+        "resourceBoxId": 78
+      },
+      {
+        "id": 138,
+        "limitedLoginBonusId": 60,
+        "day": 7,
+        "resourceBoxId": 78
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "seq": 61,
+    "name": "ローソンタイアップ記念ログインキャンペーン",
+    "startAt": 1673924400000,
+    "endAt": 1675090799000,
+    "assetbundleName": "tieup_lawson_2023",
+    "closeAt": 1675090799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 139,
+        "limitedLoginBonusId": 61,
+        "day": 1,
+        "resourceBoxId": 79
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "seq": 62,
+    "name": "バレンタインログインキャンペーン",
+    "startAt": 1676300400000,
+    "endAt": 1676473199000,
+    "assetbundleName": "valentine_2023",
+    "closeAt": 1676473199000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 140,
+        "limitedLoginBonusId": 62,
+        "day": 1,
+        "resourceBoxId": 80
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "seq": 63,
+    "name": "ミクの日記念ログインキャンペーン",
+    "startAt": 1678287600000,
+    "endAt": 1678373999000,
+    "assetbundleName": "mikusday_2023",
+    "closeAt": 1678373999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 141,
+        "limitedLoginBonusId": 63,
+        "day": 1,
+        "resourceBoxId": 81
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "seq": 64,
+    "name": "ホワイトデーログインキャンペーン",
+    "startAt": 1678719600000,
+    "endAt": 1678892399000,
+    "assetbundleName": "whiteday_2023",
+    "closeAt": 1678892399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 142,
+        "limitedLoginBonusId": 64,
+        "day": 1,
+        "resourceBoxId": 82
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "seq": 65,
+    "name": "2.5周年記念ログインキャンペーン",
+    "startAt": 1680145200000,
+    "endAt": 1681239599000,
+    "assetbundleName": "2.5th_anniversary",
+    "closeAt": 1680721200000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 143,
+        "limitedLoginBonusId": 65,
+        "day": 1,
+        "resourceBoxId": 83
+      },
+      {
+        "id": 144,
+        "limitedLoginBonusId": 65,
+        "day": 2,
+        "resourceBoxId": 84
+      },
+      {
+        "id": 145,
+        "limitedLoginBonusId": 65,
+        "day": 3,
+        "resourceBoxId": 84
+      },
+      {
+        "id": 146,
+        "limitedLoginBonusId": 65,
+        "day": 4,
+        "resourceBoxId": 84
+      },
+      {
+        "id": 147,
+        "limitedLoginBonusId": 65,
+        "day": 5,
+        "resourceBoxId": 84
+      },
+      {
+        "id": 148,
+        "limitedLoginBonusId": 65,
+        "day": 6,
+        "resourceBoxId": 84
+      },
+      {
+        "id": 149,
+        "limitedLoginBonusId": 65,
+        "day": 7,
+        "resourceBoxId": 84
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "seq": 66,
+    "name": "GWログインキャンペーン",
+    "startAt": 1682737200000,
+    "endAt": 1684177199000,
+    "assetbundleName": "gw_2023",
+    "closeAt": 1683486000000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 150,
+        "limitedLoginBonusId": 66,
+        "day": 1,
+        "resourceBoxId": 85
+      },
+      {
+        "id": 151,
+        "limitedLoginBonusId": 66,
+        "day": 2,
+        "resourceBoxId": 86
+      },
+      {
+        "id": 152,
+        "limitedLoginBonusId": 66,
+        "day": 3,
+        "resourceBoxId": 87
+      },
+      {
+        "id": 153,
+        "limitedLoginBonusId": 66,
+        "day": 4,
+        "resourceBoxId": 88
+      },
+      {
+        "id": 154,
+        "limitedLoginBonusId": 66,
+        "day": 5,
+        "resourceBoxId": 89
+      },
+      {
+        "id": 155,
+        "limitedLoginBonusId": 66,
+        "day": 6,
+        "resourceBoxId": 90
+      },
+      {
+        "id": 156,
+        "limitedLoginBonusId": 66,
+        "day": 7,
+        "resourceBoxId": 91
+      },
+      {
+        "id": 157,
+        "limitedLoginBonusId": 66,
+        "day": 8,
+        "resourceBoxId": 92
+      },
+      {
+        "id": 158,
+        "limitedLoginBonusId": 66,
+        "day": 9,
+        "resourceBoxId": 93
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "seq": 67,
+    "name": "[復刻][プロセカ×悪ノ大罪シリーズ]コラボ記念ログインキャンペーン",
+    "startAt": 1683082800000,
+    "endAt": 1684292399000,
+    "assetbundleName": "collaboration_akuno_revival",
+    "closeAt": 1684292399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 159,
+        "limitedLoginBonusId": 67,
+        "day": 1,
+        "resourceBoxId": 94
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "seq": 68,
+    "name": "初音ミク16周年記念ログインキャンペーン",
+    "startAt": 1693407600000,
+    "endAt": 1693493999000,
+    "assetbundleName": "miku_anniversary_2023",
+    "closeAt": 1693493999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 160,
+        "limitedLoginBonusId": 68,
+        "day": 1,
+        "resourceBoxId": 96
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "seq": 69,
+    "name": "[3周年直前生放送配信記念]ログインキャンペーン",
+    "startAt": 1695740400000,
+    "endAt": 1695826799000,
+    "assetbundleName": "livebroadcast_3rdspecial",
+    "closeAt": 1695826799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 161,
+        "limitedLoginBonusId": 69,
+        "day": 1,
+        "resourceBoxId": 97
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "seq": 70,
+    "name": "もうすぐ3周年！カウントダウンログインキャンペーン",
+    "startAt": 1695826800000,
+    "endAt": 1695913199000,
+    "assetbundleName": "3rd_anniversary_countdown_01",
+    "closeAt": 1695913199000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 162,
+        "limitedLoginBonusId": 70,
+        "day": 1,
+        "resourceBoxId": 98
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "seq": 71,
+    "name": "もうすぐ3周年！カウントダウンログインキャンペーン",
+    "startAt": 1695913200000,
+    "endAt": 1695999599000,
+    "assetbundleName": "3rd_anniversary_countdown_02",
+    "closeAt": 1695999599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 163,
+        "limitedLoginBonusId": 71,
+        "day": 1,
+        "resourceBoxId": 99
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "seq": 72,
+    "name": "[3周年記念]ログインキャンペーン",
+    "startAt": 1695999600000,
+    "endAt": 1697569199000,
+    "assetbundleName": "3rd_anniversary",
+    "closeAt": 1697050800000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 164,
+        "limitedLoginBonusId": 72,
+        "day": 1,
+        "resourceBoxId": 100
+      },
+      {
+        "id": 165,
+        "limitedLoginBonusId": 72,
+        "day": 2,
+        "resourceBoxId": 101
+      },
+      {
+        "id": 166,
+        "limitedLoginBonusId": 72,
+        "day": 3,
+        "resourceBoxId": 101
+      },
+      {
+        "id": 167,
+        "limitedLoginBonusId": 72,
+        "day": 4,
+        "resourceBoxId": 101
+      },
+      {
+        "id": 168,
+        "limitedLoginBonusId": 72,
+        "day": 5,
+        "resourceBoxId": 101
+      },
+      {
+        "id": 169,
+        "limitedLoginBonusId": 72,
+        "day": 6,
+        "resourceBoxId": 101
+      },
+      {
+        "id": 170,
+        "limitedLoginBonusId": 72,
+        "day": 7,
+        "resourceBoxId": 101
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "seq": 73,
+    "name": "ユニットPV公開記念ログインキャンペーン",
+    "startAt": 1695308400000,
+    "endAt": 1695394799000,
+    "assetbundleName": "unit_pv_01",
+    "closeAt": 1695394799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 171,
+        "limitedLoginBonusId": 73,
+        "day": 1,
+        "resourceBoxId": 102
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "seq": 74,
+    "name": "ユニットPV公開記念ログインキャンペーン",
+    "startAt": 1695394800000,
+    "endAt": 1695481199000,
+    "assetbundleName": "unit_pv_02",
+    "closeAt": 1695481199000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 172,
+        "limitedLoginBonusId": 74,
+        "day": 1,
+        "resourceBoxId": 102
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "seq": 75,
+    "name": "ユニットPV公開記念ログインキャンペーン",
+    "startAt": 1695481200000,
+    "endAt": 1695567599000,
+    "assetbundleName": "unit_pv_03",
+    "closeAt": 1695567599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 173,
+        "limitedLoginBonusId": 75,
+        "day": 1,
+        "resourceBoxId": 102
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "seq": 76,
+    "name": "ユニットPV公開記念ログインキャンペーン",
+    "startAt": 1695567600000,
+    "endAt": 1695653999000,
+    "assetbundleName": "unit_pv_04",
+    "closeAt": 1695653999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 174,
+        "limitedLoginBonusId": 76,
+        "day": 1,
+        "resourceBoxId": 102
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "seq": 77,
+    "name": "ユニットPV公開記念ログインキャンペーン",
+    "startAt": 1695654000000,
+    "endAt": 1695740399000,
+    "assetbundleName": "unit_pv_05",
+    "closeAt": 1695740399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 175,
+        "limitedLoginBonusId": 77,
+        "day": 1,
+        "resourceBoxId": 102
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "seq": 78,
+    "name": "ハロウィンログインキャンペーン",
+    "startAt": 1698678000000,
+    "endAt": 1698850799000,
+    "assetbundleName": "halloween_2023",
+    "closeAt": 1698850799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 176,
+        "limitedLoginBonusId": 78,
+        "day": 1,
+        "resourceBoxId": 103
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "seq": 79,
+    "name": "[プロセカ×サンリオキャラクターズ]コラボ記念ログインキャンペーン",
+    "startAt": 1701745200000,
+    "endAt": 1702997999000,
+    "assetbundleName": "sanrio_collab_2023",
+    "closeAt": 1702997999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 177,
+        "limitedLoginBonusId": 79,
+        "day": 1,
+        "resourceBoxId": 104
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "seq": 80,
+    "name": "クリスマスログインキャンペーン",
+    "startAt": 1703343600000,
+    "endAt": 1703516399000,
+    "assetbundleName": "christmas_2023",
+    "closeAt": 1703516399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 178,
+        "limitedLoginBonusId": 80,
+        "day": 1,
+        "resourceBoxId": 105
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "seq": 81,
+    "name": "[もうすぐ2024]年末ログインキャンペーン",
+    "startAt": 1703732400000,
+    "endAt": 1703775599000,
+    "assetbundleName": "countdown_2023",
+    "closeAt": 1703775599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 179,
+        "limitedLoginBonusId": 81,
+        "day": 1,
+        "resourceBoxId": 106
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "seq": 82,
+    "name": "[もうすぐ2024]年末ログインキャンペーン",
+    "startAt": 1703775600000,
+    "endAt": 1703861999000,
+    "assetbundleName": "countdown_2023",
+    "closeAt": 1703861999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 180,
+        "limitedLoginBonusId": 82,
+        "day": 1,
+        "resourceBoxId": 107
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "seq": 83,
+    "name": "[もうすぐ2024]年末ログインキャンペーン",
+    "startAt": 1703862000000,
+    "endAt": 1703948399000,
+    "assetbundleName": "countdown_2023",
+    "closeAt": 1703948399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 181,
+        "limitedLoginBonusId": 83,
+        "day": 1,
+        "resourceBoxId": 108
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "seq": 84,
+    "name": "行く年来る年ログインキャンペーン",
+    "startAt": 1703991600000,
+    "endAt": 1705085999000,
+    "assetbundleName": "newyear_2024",
+    "closeAt": 1704567600000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 182,
+        "limitedLoginBonusId": 84,
+        "day": 1,
+        "resourceBoxId": 109
+      },
+      {
+        "id": 183,
+        "limitedLoginBonusId": 84,
+        "day": 2,
+        "resourceBoxId": 110
+      },
+      {
+        "id": 184,
+        "limitedLoginBonusId": 84,
+        "day": 3,
+        "resourceBoxId": 110
+      },
+      {
+        "id": 185,
+        "limitedLoginBonusId": 84,
+        "day": 4,
+        "resourceBoxId": 110
+      },
+      {
+        "id": 186,
+        "limitedLoginBonusId": 84,
+        "day": 5,
+        "resourceBoxId": 110
+      },
+      {
+        "id": 187,
+        "limitedLoginBonusId": 84,
+        "day": 6,
+        "resourceBoxId": 110
+      },
+      {
+        "id": 188,
+        "limitedLoginBonusId": 84,
+        "day": 7,
+        "resourceBoxId": 110
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "seq": 85,
+    "name": "バレンタインログインキャンペーン",
+    "startAt": 1707836400000,
+    "endAt": 1708009199000,
+    "assetbundleName": "valentine_2024",
+    "closeAt": 1708009199000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 189,
+        "limitedLoginBonusId": 85,
+        "day": 1,
+        "resourceBoxId": 111
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "seq": 86,
+    "name": "ミクの日記念ログインキャンペーン",
+    "startAt": 1709910000000,
+    "endAt": 1709996399000,
+    "assetbundleName": "mikusday_2024",
+    "closeAt": 1709996399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 190,
+        "limitedLoginBonusId": 86,
+        "day": 1,
+        "resourceBoxId": 112
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "seq": 87,
+    "name": "ホワイトデーログインキャンペーン",
+    "startAt": 1710342000000,
+    "endAt": 1710514799000,
+    "assetbundleName": "whiteday_2024",
+    "closeAt": 1710514799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 191,
+        "limitedLoginBonusId": 87,
+        "day": 1,
+        "resourceBoxId": 113
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "seq": 88,
+    "name": "3900's前夜祭ログインキャンペーン",
+    "startAt": 1711594800000,
+    "endAt": 1711767599000,
+    "assetbundleName": "world_3900_pre_anniversary",
+    "closeAt": 1711767599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 192,
+        "limitedLoginBonusId": 88,
+        "day": 1,
+        "resourceBoxId": 114
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "seq": 89,
+    "name": "3900'sログインキャンペーン",
+    "startAt": 1711767600000,
+    "endAt": 1712861999000,
+    "assetbundleName": "world_3900_anniversary",
+    "closeAt": 1712343600000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 193,
+        "limitedLoginBonusId": 89,
+        "day": 1,
+        "resourceBoxId": 115
+      },
+      {
+        "id": 194,
+        "limitedLoginBonusId": 89,
+        "day": 2,
+        "resourceBoxId": 116
+      },
+      {
+        "id": 195,
+        "limitedLoginBonusId": 89,
+        "day": 3,
+        "resourceBoxId": 116
+      },
+      {
+        "id": 196,
+        "limitedLoginBonusId": 89,
+        "day": 4,
+        "resourceBoxId": 116
+      },
+      {
+        "id": 197,
+        "limitedLoginBonusId": 89,
+        "day": 5,
+        "resourceBoxId": 116
+      },
+      {
+        "id": 198,
+        "limitedLoginBonusId": 89,
+        "day": 6,
+        "resourceBoxId": 116
+      },
+      {
+        "id": 199,
+        "limitedLoginBonusId": 89,
+        "day": 7,
+        "resourceBoxId": 116
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "seq": 90,
+    "name": "[World Championship 2024 Spring開催記念]ログインキャンペーン",
+    "startAt": 1712934000000,
+    "endAt": 1713020399000,
+    "assetbundleName": "world_championship_2024_spring",
+    "closeAt": 1713020399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 200,
+        "limitedLoginBonusId": 90,
+        "day": 1,
+        "resourceBoxId": 117
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "seq": 91,
+    "name": "GWログインキャンペーン",
+    "startAt": 1714359600000,
+    "endAt": 1715799599000,
+    "assetbundleName": "gw_2024",
+    "closeAt": 1715108400000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 201,
+        "limitedLoginBonusId": 91,
+        "day": 1,
+        "resourceBoxId": 118
+      },
+      {
+        "id": 202,
+        "limitedLoginBonusId": 91,
+        "day": 2,
+        "resourceBoxId": 119
+      },
+      {
+        "id": 203,
+        "limitedLoginBonusId": 91,
+        "day": 3,
+        "resourceBoxId": 120
+      },
+      {
+        "id": 204,
+        "limitedLoginBonusId": 91,
+        "day": 4,
+        "resourceBoxId": 121
+      },
+      {
+        "id": 205,
+        "limitedLoginBonusId": 91,
+        "day": 5,
+        "resourceBoxId": 122
+      },
+      {
+        "id": 206,
+        "limitedLoginBonusId": 91,
+        "day": 6,
+        "resourceBoxId": 123
+      },
+      {
+        "id": 207,
+        "limitedLoginBonusId": 91,
+        "day": 7,
+        "resourceBoxId": 124
+      },
+      {
+        "id": 208,
+        "limitedLoginBonusId": 91,
+        "day": 8,
+        "resourceBoxId": 125
+      },
+      {
+        "id": 209,
+        "limitedLoginBonusId": 91,
+        "day": 9,
+        "resourceBoxId": 126
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "seq": 92,
+    "name": "[コネクトライブ RESONANCE BEATS!!]カウントダウンログインキャンペーン",
+    "startAt": 1718204400000,
+    "endAt": 1718290799000,
+    "assetbundleName": "countdown_connectlive_000_joint_lon_vbs_01",
+    "closeAt": 1718290799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 210,
+        "limitedLoginBonusId": 92,
+        "day": 1,
+        "resourceBoxId": 127
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "seq": 93,
+    "name": "[コネクトライブ RESONANCE BEATS!!]カウントダウンログインキャンペーン",
+    "startAt": 1718290800000,
+    "endAt": 1718377199000,
+    "assetbundleName": "countdown_connectlive_000_joint_lon_vbs_02",
+    "closeAt": 1718377199000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 211,
+        "limitedLoginBonusId": 93,
+        "day": 1,
+        "resourceBoxId": 127
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "seq": 94,
+    "name": "[コネクトライブ RESONANCE BEATS!!]カウントダウンログインキャンペーン",
+    "startAt": 1718377200000,
+    "endAt": 1718463599000,
+    "assetbundleName": "countdown_connectlive_000_joint_lon_vbs_03",
+    "closeAt": 1718463599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 212,
+        "limitedLoginBonusId": 94,
+        "day": 1,
+        "resourceBoxId": 127
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "seq": 95,
+    "name": "[マジカルミライ2024]ログインキャンペーン",
+    "startAt": 1724986800000,
+    "endAt": 1725159599000,
+    "assetbundleName": "magicalmirai_2024",
+    "closeAt": 1725159599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 213,
+        "limitedLoginBonusId": 95,
+        "day": 1,
+        "resourceBoxId": 128
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "seq": 96,
+    "name": "4周年前夜祭カウントダウンログインキャンペーン",
+    "startAt": 1727362800000,
+    "endAt": 1727449199000,
+    "assetbundleName": "4th_anniversary_countdown_01",
+    "closeAt": 1727449199000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 214,
+        "limitedLoginBonusId": 96,
+        "day": 1,
+        "resourceBoxId": 129
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "seq": 97,
+    "name": "4周年前夜祭カウントダウンログインキャンペーン",
+    "startAt": 1727449200000,
+    "endAt": 1727535599000,
+    "assetbundleName": "4th_anniversary_countdown_02",
+    "closeAt": 1727535599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 215,
+        "limitedLoginBonusId": 97,
+        "day": 1,
+        "resourceBoxId": 130
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "seq": 98,
+    "name": "4周年前夜祭カウントダウンログインキャンペーン",
+    "startAt": 1727535600000,
+    "endAt": 1727621999000,
+    "assetbundleName": "4th_anniversary_countdown_03",
+    "closeAt": 1727621999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 216,
+        "limitedLoginBonusId": 98,
+        "day": 1,
+        "resourceBoxId": 131
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "seq": 99,
+    "name": "4周年記念ログインキャンペーン",
+    "startAt": 1727665200000,
+    "endAt": 1728759599000,
+    "assetbundleName": "4th_anniversary",
+    "closeAt": 1728241200000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 217,
+        "limitedLoginBonusId": 99,
+        "day": 1,
+        "resourceBoxId": 132
+      },
+      {
+        "id": 218,
+        "limitedLoginBonusId": 99,
+        "day": 2,
+        "resourceBoxId": 133
+      },
+      {
+        "id": 219,
+        "limitedLoginBonusId": 99,
+        "day": 3,
+        "resourceBoxId": 133
+      },
+      {
+        "id": 220,
+        "limitedLoginBonusId": 99,
+        "day": 4,
+        "resourceBoxId": 133
+      },
+      {
+        "id": 221,
+        "limitedLoginBonusId": 99,
+        "day": 5,
+        "resourceBoxId": 133
+      },
+      {
+        "id": 222,
+        "limitedLoginBonusId": 99,
+        "day": 6,
+        "resourceBoxId": 133
+      },
+      {
+        "id": 223,
+        "limitedLoginBonusId": 99,
+        "day": 7,
+        "resourceBoxId": 133
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "seq": 100,
+    "name": "[4周年記念]Present 4 youキャンペーン",
+    "startAt": 1727665200000,
+    "endAt": 1728615599000,
+    "assetbundleName": "4th_present4you_001",
+    "closeAt": 1728615599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 224,
+        "limitedLoginBonusId": 100,
+        "day": 1,
+        "resourceBoxId": 134
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "seq": 101,
+    "name": "[4周年記念]Present 4 youキャンペーン",
+    "startAt": 1727967600000,
+    "endAt": 1728053999000,
+    "assetbundleName": "4th_present4you_002",
+    "closeAt": 1728053999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 225,
+        "limitedLoginBonusId": 101,
+        "day": 1,
+        "resourceBoxId": 135
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "seq": 102,
+    "name": "[4周年記念]Present 4 youキャンペーン",
+    "startAt": 1728723600000,
+    "endAt": 1729349999000,
+    "assetbundleName": "4th_present4you_003",
+    "closeAt": 1729349999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 226,
+        "limitedLoginBonusId": 102,
+        "day": 1,
+        "resourceBoxId": 138
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "seq": 103,
+    "name": "[4周年記念]Present 4 youキャンペーン",
+    "startAt": 1728831600000,
+    "endAt": 1728917999000,
+    "assetbundleName": "4th_present4you_004",
+    "closeAt": 1728917999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 227,
+        "limitedLoginBonusId": 103,
+        "day": 1,
+        "resourceBoxId": 139
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "seq": 104,
+    "name": "[4周年記念]Present 4 youキャンペーン",
+    "startAt": 1729695600000,
+    "endAt": 1729781999000,
+    "assetbundleName": "4th_present4you_005",
+    "closeAt": 1729781999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 228,
+        "limitedLoginBonusId": 104,
+        "day": 1,
+        "resourceBoxId": 140
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "seq": 105,
+    "name": "ハロウィンログインキャンペーン",
+    "startAt": 1730300400000,
+    "endAt": 1730473199000,
+    "assetbundleName": "halloween_2024",
+    "closeAt": 1730473199000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 229,
+        "limitedLoginBonusId": 105,
+        "day": 1,
+        "resourceBoxId": 141
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "seq": 106,
+    "name": "クリスマスログインキャンペーン",
+    "startAt": 1734966000000,
+    "endAt": 1735138799000,
+    "assetbundleName": "christmas_2024",
+    "closeAt": 1735138799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 230,
+        "limitedLoginBonusId": 106,
+        "day": 1,
+        "resourceBoxId": 142
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "seq": 107,
+    "name": "[もうすぐ2025]年末ログインキャンペーン",
+    "startAt": 1735311600000,
+    "endAt": 1735397999000,
+    "assetbundleName": "countdown_2025",
+    "closeAt": 1735397999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 231,
+        "limitedLoginBonusId": 107,
+        "day": 1,
+        "resourceBoxId": 143
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "seq": 108,
+    "name": "[もうすぐ2025]年末ログインキャンペーン",
+    "startAt": 1735398000000,
+    "endAt": 1735484399000,
+    "assetbundleName": "countdown_2025",
+    "closeAt": 1735484399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 232,
+        "limitedLoginBonusId": 108,
+        "day": 1,
+        "resourceBoxId": 144
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "seq": 109,
+    "name": "[もうすぐ2025]年末ログインキャンペーン",
+    "startAt": 1735484400000,
+    "endAt": 1735570799000,
+    "assetbundleName": "countdown_2025",
+    "closeAt": 1735570799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 233,
+        "limitedLoginBonusId": 109,
+        "day": 1,
+        "resourceBoxId": 145
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "seq": 110,
+    "name": "行く年来る年ログインキャンペーン",
+    "startAt": 1735614000000,
+    "endAt": 1736708399000,
+    "assetbundleName": "newyear_2025",
+    "closeAt": 1736190000000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 234,
+        "limitedLoginBonusId": 110,
+        "day": 1,
+        "resourceBoxId": 146
+      },
+      {
+        "id": 235,
+        "limitedLoginBonusId": 110,
+        "day": 2,
+        "resourceBoxId": 147
+      },
+      {
+        "id": 236,
+        "limitedLoginBonusId": 110,
+        "day": 3,
+        "resourceBoxId": 147
+      },
+      {
+        "id": 237,
+        "limitedLoginBonusId": 110,
+        "day": 4,
+        "resourceBoxId": 147
+      },
+      {
+        "id": 238,
+        "limitedLoginBonusId": 110,
+        "day": 5,
+        "resourceBoxId": 147
+      },
+      {
+        "id": 239,
+        "limitedLoginBonusId": 110,
+        "day": 6,
+        "resourceBoxId": 147
+      },
+      {
+        "id": 240,
+        "limitedLoginBonusId": 110,
+        "day": 7,
+        "resourceBoxId": 147
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "seq": 111,
+    "name": "[劇場版プロジェクトセカイ]カウントダウンログインキャンペーン",
+    "startAt": 1736521200000,
+    "endAt": 1736607599000,
+    "assetbundleName": "movie_countdown_01",
+    "closeAt": 1736607599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 241,
+        "limitedLoginBonusId": 111,
+        "day": 1,
+        "resourceBoxId": 148
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "seq": 112,
+    "name": "[劇場版プロジェクトセカイ]カウントダウンログインキャンペーン",
+    "startAt": 1736607600000,
+    "endAt": 1736693999000,
+    "assetbundleName": "movie_countdown_02",
+    "closeAt": 1736693999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 242,
+        "limitedLoginBonusId": 112,
+        "day": 1,
+        "resourceBoxId": 149
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "seq": 113,
+    "name": "[劇場版プロジェクトセカイ]カウントダウンログインキャンペーン",
+    "startAt": 1736694000000,
+    "endAt": 1736780399000,
+    "assetbundleName": "movie_countdown_03",
+    "closeAt": 1736780399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 243,
+        "limitedLoginBonusId": 113,
+        "day": 1,
+        "resourceBoxId": 150
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "seq": 114,
+    "name": "[劇場版プロジェクトセカイ]カウントダウンログインキャンペーン",
+    "startAt": 1736780400000,
+    "endAt": 1736866799000,
+    "assetbundleName": "movie_countdown_04",
+    "closeAt": 1736866799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 244,
+        "limitedLoginBonusId": 114,
+        "day": 1,
+        "resourceBoxId": 151
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "seq": 115,
+    "name": "[劇場版プロジェクトセカイ]カウントダウンログインキャンペーン",
+    "startAt": 1736866800000,
+    "endAt": 1736953199000,
+    "assetbundleName": "movie_countdown_05",
+    "closeAt": 1736953199000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 245,
+        "limitedLoginBonusId": 115,
+        "day": 1,
+        "resourceBoxId": 152
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "seq": 116,
+    "name": "[劇場版プロジェクトセカイ]カウントダウンログインキャンペーン",
+    "startAt": 1736953200000,
+    "endAt": 1737039599000,
+    "assetbundleName": "movie_countdown_06",
+    "closeAt": 1737039599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 246,
+        "limitedLoginBonusId": 116,
+        "day": 1,
+        "resourceBoxId": 153
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "seq": 117,
+    "name": "[劇場版プロジェクトセカイ]公開記念ログインキャンペーン",
+    "startAt": 1737039600000,
+    "endAt": 1739717999000,
+    "assetbundleName": "cinema_logincp_2025",
+    "closeAt": 1739717999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 247,
+        "limitedLoginBonusId": 117,
+        "day": 1,
+        "resourceBoxId": 154
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "seq": 118,
+    "name": "バレンタインログインキャンペーン",
+    "startAt": 1739458800000,
+    "endAt": 1739631599000,
+    "assetbundleName": "valentine_2025",
+    "closeAt": 1739631599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 248,
+        "limitedLoginBonusId": 118,
+        "day": 1,
+        "resourceBoxId": 155
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "seq": 119,
+    "name": "[プロセカ×あんさんぶるスターズ！！]コラボ記念ログインキャンペーン",
+    "startAt": 1739599200000,
+    "endAt": 1740927599000,
+    "assetbundleName": "ensemble_collab_2025",
+    "closeAt": 1740927599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 249,
+        "limitedLoginBonusId": 119,
+        "day": 1,
+        "resourceBoxId": 156
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "seq": 120,
+    "name": "ミクの日記念ログインキャンペーン",
+    "startAt": 1741446000000,
+    "endAt": 1741532399000,
+    "assetbundleName": "mikusday_2025",
+    "closeAt": 1741532399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 250,
+        "limitedLoginBonusId": 120,
+        "day": 1,
+        "resourceBoxId": 157
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "seq": 121,
+    "name": "ホワイトデーログインキャンペーン",
+    "startAt": 1741878000000,
+    "endAt": 1742050799000,
+    "assetbundleName": "whiteday_2025",
+    "closeAt": 1742050799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 251,
+        "limitedLoginBonusId": 121,
+        "day": 1,
+        "resourceBoxId": 158
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "seq": 122,
+    "name": "もうすぐ4.5周年！ログインキャンペーン",
+    "startAt": 1743001200000,
+    "endAt": 1743087599000,
+    "assetbundleName": "4-5th_pre_anniversary",
+    "closeAt": 1743087599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 252,
+        "limitedLoginBonusId": 122,
+        "day": 1,
+        "resourceBoxId": 159
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "seq": 123,
+    "name": "もうすぐ4.5周年！ログインキャンペーン",
+    "startAt": 1743087600000,
+    "endAt": 1743173999000,
+    "assetbundleName": "4-5th_pre_anniversary",
+    "closeAt": 1743173999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 253,
+        "limitedLoginBonusId": 123,
+        "day": 1,
+        "resourceBoxId": 160
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "seq": 124,
+    "name": "もうすぐ4.5周年！ログインキャンペーン",
+    "startAt": 1743174000000,
+    "endAt": 1743260399000,
+    "assetbundleName": "4-5th_pre_anniversary",
+    "closeAt": 1743260399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 254,
+        "limitedLoginBonusId": 124,
+        "day": 1,
+        "resourceBoxId": 161
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "seq": 125,
+    "name": "[4.5周年記念]ログインキャンペーン",
+    "startAt": 1743303600000,
+    "endAt": 1744397999000,
+    "assetbundleName": "4-5th_anniversary",
+    "closeAt": 1743879600000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 255,
+        "limitedLoginBonusId": 125,
+        "day": 1,
+        "resourceBoxId": 162
+      },
+      {
+        "id": 256,
+        "limitedLoginBonusId": 125,
+        "day": 2,
+        "resourceBoxId": 163
+      },
+      {
+        "id": 257,
+        "limitedLoginBonusId": 125,
+        "day": 3,
+        "resourceBoxId": 163
+      },
+      {
+        "id": 258,
+        "limitedLoginBonusId": 125,
+        "day": 4,
+        "resourceBoxId": 164
+      },
+      {
+        "id": 259,
+        "limitedLoginBonusId": 125,
+        "day": 5,
+        "resourceBoxId": 163
+      },
+      {
+        "id": 260,
+        "limitedLoginBonusId": 125,
+        "day": 6,
+        "resourceBoxId": 163
+      },
+      {
+        "id": 261,
+        "limitedLoginBonusId": 125,
+        "day": 7,
+        "resourceBoxId": 164
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "seq": 126,
+    "name": "マイセカイ応援 GWログインキャンペーン",
+    "startAt": 1745895600000,
+    "endAt": 1747162799000,
+    "assetbundleName": "gw_2025",
+    "closeAt": 1746558000000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 262,
+        "limitedLoginBonusId": 126,
+        "day": 1,
+        "resourceBoxId": 165
+      },
+      {
+        "id": 263,
+        "limitedLoginBonusId": 126,
+        "day": 2,
+        "resourceBoxId": 166
+      },
+      {
+        "id": 264,
+        "limitedLoginBonusId": 126,
+        "day": 3,
+        "resourceBoxId": 167
+      },
+      {
+        "id": 265,
+        "limitedLoginBonusId": 126,
+        "day": 4,
+        "resourceBoxId": 166
+      },
+      {
+        "id": 266,
+        "limitedLoginBonusId": 126,
+        "day": 5,
+        "resourceBoxId": 167
+      },
+      {
+        "id": 267,
+        "limitedLoginBonusId": 126,
+        "day": 6,
+        "resourceBoxId": 166
+      },
+      {
+        "id": 268,
+        "limitedLoginBonusId": 126,
+        "day": 7,
+        "resourceBoxId": 167
+      },
+      {
+        "id": 269,
+        "limitedLoginBonusId": 126,
+        "day": 8,
+        "resourceBoxId": 168
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "seq": 127,
+    "name": "[東方Projectコラボ記念]ログインキャンペーン",
+    "startAt": 1746241200000,
+    "endAt": 1747148399000,
+    "assetbundleName": "touhouproject_collab_2025",
+    "closeAt": 1747148399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 270,
+        "limitedLoginBonusId": 127,
+        "day": 1,
+        "resourceBoxId": 169
+      }
+    ]
+  }
 ]

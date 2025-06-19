@@ -1,18 +1,18 @@
 [
-    {
-        "id": 1,
-        "facilityType": "skill_practice",
-        "releaseConditionId": 10030
-    },
-    {
-        "id": 2,
-        "facilityType": "challenge_live",
-        "releaseConditionId": 10005
-    },
-    {
-        "id": 3,
-        "facilityType": "rank_match",
-        "releaseConditionId": 10050,
-        "andReleaseConditionId": 1000000
-    }
+  {
+    "id": 1,
+    "facilityType": "skill_practice",
+    "releaseConditionId": 10030
+  },
+  {
+    "id": 2,
+    "facilityType": "challenge_live",
+    "releaseConditionId": 10005
+  },
+  {
+    "id": 3,
+    "facilityType": "rank_match",
+    "releaseConditionId": 10050,
+    "andReleaseConditionId": 1000000
+  }
 ]

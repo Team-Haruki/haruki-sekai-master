@@ -1,2242 +1,2252 @@
 [
-    {
-        "id": 1,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1622008800000,
-        "endAt": 1622699999000,
-        "appealReadConditionType": "transition",
-        "text": "★4メンバー確定ガチャ開催"
-    },
-    {
-        "id": 2,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1622440800000,
-        "endAt": 1623391199000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 3,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1625032800000,
-        "endAt": 1625464799000,
-        "appealReadConditionType": "transition",
-        "text": "フェス限定メンバー登場"
-    },
-    {
-        "id": 4,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1627279200000,
-        "endAt": 1628056799000,
-        "appealReadConditionType": "transition",
-        "text": "セレクトリストガチャ開催"
-    },
-    {
-        "id": 5,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1627711200000,
-        "endAt": 1628575199000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 6,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1629957600000,
-        "endAt": 1630735199000,
-        "appealReadConditionType": "transition",
-        "text": "★4メンバー確定ガチャ開催"
-    },
-    {
-        "id": 7,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1630389600000,
-        "endAt": 1631253599000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 8,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1633068000000,
-        "endAt": 1633413599000,
-        "appealReadConditionType": "transition",
-        "text": "フェス限定メンバー登場"
-    },
-    {
-        "id": 9,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1633413600000,
-        "endAt": 1633931999000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 10,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1633359600000,
-        "endAt": 1633964399000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 11,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1635260400000,
-        "endAt": 1635865199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 12,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1635660000000,
-        "endAt": 1636610399000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 13,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1636038000000,
-        "endAt": 1636642799000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 14,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1636642800000,
-        "endAt": 1637247599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 15,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1637906400000,
-        "endAt": 1638597599000,
-        "appealReadConditionType": "transition",
-        "text": "セレクトリストガチャ開催"
-    },
-    {
-        "id": 16,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1638252000000,
-        "endAt": 1639115999000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 17,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1638716400000,
-        "endAt": 1639321199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 18,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1639375200000,
-        "endAt": 1640584799000,
-        "appealReadConditionType": "transition",
-        "text": "コラボ限定メンバー登場"
-    },
-    {
-        "id": 19,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1640530800000,
-        "endAt": 1641135599000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 20,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1640930400000,
-        "endAt": 1641275999000,
-        "appealReadConditionType": "transition",
-        "text": "フェス限定メンバー登場"
-    },
-    {
-        "id": 21,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1641276000000,
-        "endAt": 1641967199000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 22,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1641567600000,
-        "endAt": 1642172399000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 23,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1643209200000,
-        "endAt": 1643813999000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 24,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1643468400000,
-        "endAt": 1644073199000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 25,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1643608800000,
-        "endAt": 1644386399000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 26,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1644040800000,
-        "endAt": 1644645599000,
-        "appealReadConditionType": "transition",
-        "text": "コラボガチャ登場"
-    },
-    {
-        "id": 27,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1644418800000,
-        "endAt": 1645023599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 28,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1645023600000,
-        "endAt": 1645628399000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 29,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1645596000000,
-        "endAt": 1646373599000,
-        "appealReadConditionType": "transition",
-        "text": "セレクトリストガチャ開催"
-    },
-    {
-        "id": 30,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1646028000000,
-        "endAt": 1646978399000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 31,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1646146800000,
-        "endAt": 1646751599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 32,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1647615600000,
-        "endAt": 1648220399000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 33,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1648620000000,
-        "endAt": 1649051999000,
-        "appealReadConditionType": "transition",
-        "text": "フェス限定メンバー登場"
-    },
-    {
-        "id": 34,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1649052000000,
-        "endAt": 1649656799000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 35,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1649862000000,
-        "endAt": 1650466799000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 36,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1651244400000,
-        "endAt": 1651849199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 37,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1651287600000,
-        "endAt": 1652151599000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 38,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1652022000000,
-        "endAt": 1652626799000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 39,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1652497200000,
-        "endAt": 1653361199000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 40,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1652713200000,
-        "endAt": 1653317999000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 41,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1653404400000,
-        "endAt": 1654009199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 42,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1653534000000,
-        "endAt": 1654225199000,
-        "appealReadConditionType": "transition",
-        "text": "セレクトリストガチャ開催"
-    },
-    {
-        "id": 43,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1653966000000,
-        "endAt": 1654829999000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 44,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1655996400000,
-        "endAt": 1656601199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 45,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1656558000000,
-        "endAt": 1656903599000,
-        "appealReadConditionType": "transition",
-        "text": "フェス限定メンバー登場"
-    },
-    {
-        "id": 46,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1656903600000,
-        "endAt": 1657508399000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 47,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1658242800000,
-        "endAt": 1658847599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 48,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1658761200000,
-        "endAt": 1659365999000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 49,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1659150000000,
-        "endAt": 1659927599000,
-        "appealReadConditionType": "transition",
-        "text": "ハピネスパッケージガチャ開催"
-    },
-    {
-        "id": 50,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1659236400000,
-        "endAt": 1660100399000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 51,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1660143600000,
-        "endAt": 1660748399000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 52,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1661396400000,
-        "endAt": 1662346799000,
-        "appealReadConditionType": "transition",
-        "text": "セレクトリストガチャ開催"
-    },
-    {
-        "id": 53,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1661526000000,
-        "endAt": 1662130799000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 54,
-        "seq": 4,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1661871600000,
-        "endAt": 1662476399000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 55,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1661914800000,
-        "endAt": 1662692399000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 56,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1662649200000,
-        "endAt": 1663253999000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 57,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1664506800000,
-        "endAt": 1664852399000,
-        "appealReadConditionType": "transition",
-        "text": "カラフェス限定メンバー登場"
-    },
-    {
-        "id": 58,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1664852400000,
-        "endAt": 1665543599000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 59,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1664895600000,
-        "endAt": 1665500399000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 60,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1666753200000,
-        "endAt": 1667530799000,
-        "appealReadConditionType": "transition",
-        "text": "ハピネスパッケージガチャ開催"
-    },
-    {
-        "id": 61,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1666796400000,
-        "endAt": 1667401199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 62,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1667185200000,
-        "endAt": 1668135599000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 63,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1667574000000,
-        "endAt": 1668178799000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 64,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1668178800000,
-        "endAt": 1668783599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 65,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1669258800000,
-        "endAt": 1670122799000,
-        "appealReadConditionType": "transition",
-        "text": "セレクトリストガチャ開催"
-    },
-    {
-        "id": 66,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1669777200000,
-        "endAt": 1670727599000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 67,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1670252400000,
-        "endAt": 1670857199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 68,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1672066800000,
-        "endAt": 1672671599000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 69,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1672455600000,
-        "endAt": 1672801199000,
-        "appealReadConditionType": "transition",
-        "text": "カラフェス限定メンバー登場"
-    },
-    {
-        "id": 70,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1672801200000,
-        "endAt": 1673319599000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 71,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1673103600000,
-        "endAt": 1673708399000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 72,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1674615600000,
-        "endAt": 1675479599000,
-        "appealReadConditionType": "transition",
-        "text": "ハピネスパッケージガチャ開催"
-    },
-    {
-        "id": 73,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1674745200000,
-        "endAt": 1675349999000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 74,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1675004400000,
-        "endAt": 1675609199000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 75,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1675134000000,
-        "endAt": 1675997999000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 76,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1675954800000,
-        "endAt": 1676559599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 77,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1676559600000,
-        "endAt": 1677164399000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 78,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1677121200000,
-        "endAt": 1677898799000,
-        "appealReadConditionType": "transition",
-        "text": "セレクトリストガチャ開催"
-    },
-    {
-        "id": 79,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1677553200000,
-        "endAt": 1678503599000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 80,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1677682800000,
-        "endAt": 1678287599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 81,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1679151600000,
-        "endAt": 1679756399000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 82,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1680145200000,
-        "endAt": 1680577199000,
-        "appealReadConditionType": "transition",
-        "text": "カラフェス限定メンバー登場"
-    },
-    {
-        "id": 83,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1680145200000,
-        "endAt": 1681181999000,
-        "appealReadConditionType": "transition",
-        "text": "ベストコレクションガチャ開催"
-    },
-    {
-        "id": 84,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1680577200000,
-        "endAt": 1681181999000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 85,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1681398000000,
-        "endAt": 1682002799000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 86,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1682391600000,
-        "endAt": 1683169199000,
-        "appealReadConditionType": "transition",
-        "text": "ハピネスパッケージガチャ開催"
-    },
-    {
-        "id": 87,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1682780400000,
-        "endAt": 1683385199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 88,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1682823600000,
-        "endAt": 1683773999000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 89,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1683082800000,
-        "endAt": 1684292399000,
-        "appealReadConditionType": "transition",
-        "text": "コラボガチャ登場"
-    },
-    {
-        "id": 90,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1683558000000,
-        "endAt": 1684162799000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 91,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1684249200000,
-        "endAt": 1684853999000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 92,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1684940400000,
-        "endAt": 1685545199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 93,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1685070000000,
-        "endAt": 1685761199000,
-        "appealReadConditionType": "transition",
-        "text": "セレクトリストガチャ開催"
-    },
-    {
-        "id": 94,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1685502059000,
-        "endAt": 1686365999000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 95,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1687532400000,
-        "endAt": 1688137199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 96,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1688094000000,
-        "endAt": 1688439599000,
-        "appealReadConditionType": "transition",
-        "text": "カラフェス限定メンバー登場"
-    },
-    {
-        "id": 97,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1688439600000,
-        "endAt": 1689044399000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 98,
-        "seq": 4,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1689778800000,
-        "endAt": 1690383599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 99,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1690297200000,
-        "endAt": 1690901999000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 100,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1690340400000,
-        "endAt": 1691117999000,
-        "appealReadConditionType": "transition",
-        "text": "ハピネスパッケージガチャ開催"
-    },
-    {
-        "id": 101,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1690772400000,
-        "endAt": 1691636399000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 102,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1691679600000,
-        "endAt": 1692284399000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 103,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1692932400000,
-        "endAt": 1693882799000,
-        "appealReadConditionType": "transition",
-        "text": "セレクトリストガチャ開催"
-    },
-    {
-        "id": 104,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1693062000000,
-        "endAt": 1693666799000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 105,
-        "seq": 4,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1693407600000,
-        "endAt": 1694012399000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 106,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1693450800000,
-        "endAt": 1694401199000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 107,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1694185200000,
-        "endAt": 1694789999000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 108,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1695999600000,
-        "endAt": 1697079599000,
-        "appealReadConditionType": "transition",
-        "text": "セレクトリストガチャ LIMITED EDITION開催"
-    },
-    {
-        "id": 109,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1696042800000,
-        "endAt": 1696388399000,
-        "appealReadConditionType": "transition",
-        "text": "カラフェス限定メンバー登場"
-    },
-    {
-        "id": 110,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1696388400000,
-        "endAt": 1697079599000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 111,
-        "seq": 4,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1696431600000,
-        "endAt": 1697036399000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 112,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1698289200000,
-        "endAt": 1699066799000,
-        "appealReadConditionType": "transition",
-        "text": "ハピネスパッケージガチャ開催"
-    },
-    {
-        "id": 113,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1698332400000,
-        "endAt": 1698937199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 114,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1698721200000,
-        "endAt": 1699412399000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 115,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1699110000000,
-        "endAt": 1699714799000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 116,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1699412400000,
-        "endAt": 1700621999000,
-        "appealReadConditionType": "transition",
-        "text": "ユニットイベント限定メンバー登場"
-    },
-    {
-        "id": 117,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1699714800000,
-        "endAt": 1700319599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 118,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1700881200000,
-        "endAt": 1701658799000,
-        "appealReadConditionType": "transition",
-        "text": "セレクトリストガチャ開催"
-    },
-    {
-        "id": 119,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1701313200000,
-        "endAt": 1702177199000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 120,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1701745200000,
-        "endAt": 1702997999000,
-        "appealReadConditionType": "transition",
-        "text": "コラボガチャ登場"
-    },
-    {
-        "id": 121,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1701788400000,
-        "endAt": 1702393199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 122,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1703602800000,
-        "endAt": 1704207599000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 123,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1703991600000,
-        "endAt": 1704337199000,
-        "appealReadConditionType": "transition",
-        "text": "カラフェス限定メンバー登場"
-    },
-    {
-        "id": 124,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1704337200000,
-        "endAt": 1704769199000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 125,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1704639600000,
-        "endAt": 1705244399000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 126,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1704769200000,
-        "endAt": 1705978799000,
-        "appealReadConditionType": "transition",
-        "text": "ユニットイベント限定メンバー登場"
-    },
-    {
-        "id": 127,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1706238000000,
-        "endAt": 1707015599000,
-        "appealReadConditionType": "transition",
-        "text": "セレクトリストガチャ開催"
-    },
-    {
-        "id": 128,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1706281200000,
-        "endAt": 1706885999000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 129,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1706540400000,
-        "endAt": 1707145199000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 130,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1706670000000,
-        "endAt": 1707533999000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 131,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1707490800000,
-        "endAt": 1708095599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 132,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1708095600000,
-        "endAt": 1708700399000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 133,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1708743600000,
-        "endAt": 1709521199000,
-        "appealReadConditionType": "transition",
-        "text": "ハピネスパッケージガチャ開催"
-    },
-    {
-        "id": 134,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1709175600000,
-        "endAt": 1709866799000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 135,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1709305200000,
-        "endAt": 1709909999000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 136,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1709866800000,
-        "endAt": 1711076399000,
-        "appealReadConditionType": "transition",
-        "text": "ユニットイベント限定メンバー登場"
-    },
-    {
-        "id": 137,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1710774000000,
-        "endAt": 1711378799000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 138,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1711594800000,
-        "endAt": 1711767599000,
-        "appealReadConditionType": "transition",
-        "text": "3900's前夜祭ハピネスパッケージガチャ開催"
-    },
-    {
-        "id": 139,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1711767600000,
-        "endAt": 1712199599000,
-        "appealReadConditionType": "transition",
-        "text": "カラフェス限定メンバー登場"
-    },
-    {
-        "id": 140,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1712199600000,
-        "endAt": 1712717999000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 141,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1713020400000,
-        "endAt": 1713625199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 142,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1712977200000,
-        "endAt": 1714489199000,
-        "appealReadConditionType": "transition",
-        "text": "プレミアムプレゼントガチャ WCS 2024 EDITION開催"
-    },
-    {
-        "id": 143,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1714402800000,
-        "endAt": 1715007599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 144,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1713754800000,
-        "endAt": 1714489199000,
-        "appealReadConditionType": "transition",
-        "text": "プレミアムプレゼントガチャ GLOBAL EDITION開催"
-    },
-    {
-        "id": 145,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1714446000000,
-        "endAt": 1715223599000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 146,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1715180400000,
-        "endAt": 1715785199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 147,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1715223600000,
-        "endAt": 1716433199000,
-        "appealReadConditionType": "transition",
-        "text": "ユニットイベント限定メンバー登場"
-    },
-    {
-        "id": 148,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1715871600000,
-        "endAt": 1716476399000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 149,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1716562800000,
-        "endAt": 1717167599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 150,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1716692400000,
-        "endAt": 1717469999000,
-        "appealReadConditionType": "transition",
-        "text": "セレクトリストガチャ開催"
-    },
-    {
-        "id": 151,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1717124400000,
-        "endAt": 1717988399000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 152,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1719154800000,
-        "endAt": 1719759599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 153,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1719716400000,
-        "endAt": 1720061999000,
-        "appealReadConditionType": "transition",
-        "text": "ブルフェス限定メンバー登場"
-    },
-    {
-        "id": 154,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1720062000000,
-        "endAt": 1720493999000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 155,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1721185200000,
-        "endAt": 1722394799000,
-        "appealReadConditionType": "transition",
-        "text": "ユニットイベント限定メンバー登場"
-    },
-    {
-        "id": 156,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1721401200000,
-        "endAt": 1722005999000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 157,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1721919600000,
-        "endAt": 1722524399000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 158,
-        "seq": 4,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1721962800000,
-        "endAt": 1722740399000,
-        "appealReadConditionType": "transition",
-        "text": "ハピネスパッケージガチャ開催"
-    },
-    {
-        "id": 159,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1722394800000,
-        "endAt": 1723172399000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 160,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1723302000000,
-        "endAt": 1723906799000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 161,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1723863600000,
-        "endAt": 1725073199000,
-        "appealReadConditionType": "transition",
-        "text": "ユニットイベント限定メンバー登場"
-    },
-    {
-        "id": 162,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1724684400000,
-        "endAt": 1725289199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 163,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1725030000000,
-        "endAt": 1725634799000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 164,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1724814000000,
-        "endAt": 1725159599000,
-        "appealReadConditionType": "transition",
-        "text": "リコレクションフェスティバルガチャ開催"
-    },
-    {
-        "id": 165,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1724986800000,
-        "endAt": 1725505199000,
-        "appealReadConditionType": "transition",
-        "text": "[マジカルミライ2024]プレミアムプレゼントガチャ開催"
-    },
-    {
-        "id": 166,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1725073200000,
-        "endAt": 1725937199000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 167,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1725807600000,
-        "endAt": 1726412399000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 168,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1727492400000,
-        "endAt": 1727665199000,
-        "appealReadConditionType": "transition",
-        "text": "4周年前夜祭スペシャルプライズガチャ開催"
-    },
-    {
-        "id": 169,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1727622000000,
-        "endAt": 1730343599000,
-        "appealReadConditionType": "transition",
-        "text": "セレクトリストガチャ LIMITED EDITION開催"
-    },
-    {
-        "id": 170,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1727665200000,
-        "endAt": 1728010799000,
-        "appealReadConditionType": "transition",
-        "text": "ブルフェス限定メンバー登場"
-    },
-    {
-        "id": 171,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1728010800000,
-        "endAt": 1728723599000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 172,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1728054000000,
-        "endAt": 1728658799000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 173,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1728788400000,
-        "endAt": 1730343599000,
-        "appealReadConditionType": "transition",
-        "text": "[4周年記念]ハピネスパッケージガチャ開催"
-    },
-    {
-        "id": 174,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1729954800000,
-        "endAt": 1730559599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 175,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1729998000000,
-        "endAt": 1730343599000,
-        "appealReadConditionType": "transition",
-        "text": "[4周年後夜祭]フラワーアソートガチャ開催"
-    },
-    {
-        "id": 176,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1730343600000,
-        "endAt": 1731207599000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 177,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1730732400000,
-        "endAt": 1731337199000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 178,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1731337200000,
-        "endAt": 1731941999000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 179,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1732590000000,
-        "endAt": 1733281199000,
-        "appealReadConditionType": "transition",
-        "text": "セレクトリストガチャ開催"
-    },
-    {
-        "id": 180,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1732935600000,
-        "endAt": 1733885999000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 181,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1733410800000,
-        "endAt": 1734015599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 182,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1733626800000,
-        "endAt": 1734404399000,
-        "appealReadConditionType": "transition",
-        "text": "[CS2024Autumn開催記念]プレミアムプレゼントガチャ開催"
-    },
-    {
-        "id": 183,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1735225200000,
-        "endAt": 1735829999000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 184,
-        "seq": 5,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1735614000000,
-        "endAt": 1735959599000,
-        "appealReadConditionType": "transition",
-        "text": "ブルフェス限定メンバー登場"
-    },
-    {
-        "id": 185,
-        "seq": 4,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1735614000000,
-        "endAt": 1736564399000,
-        "appealReadConditionType": "transition",
-        "text": "[2025新春]プレミアムプレゼントガチャ開催"
-    },
-    {
-        "id": 186,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1735657200000,
-        "endAt": 1736564399000,
-        "appealReadConditionType": "transition",
-        "text": "[2025新春]運試し1\/2セレクトリストガチャ開催"
-    },
-    {
-        "id": 187,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1735657200000,
-        "endAt": 1735916399000,
-        "appealReadConditionType": "transition",
-        "text": "[2025新春]初夢お年玉ガチャ開催"
-    },
-    {
-        "id": 188,
-        "seq": 5,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1735959600000,
-        "endAt": 1736564399000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 189,
-        "seq": 6,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1736262000000,
-        "endAt": 1736866799000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 190,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1737082800000,
-        "endAt": 1737514799000,
-        "appealReadConditionType": "transition",
-        "text": "[Leo\/need]リコレクションガチャ開催"
-    },
-    {
-        "id": 191,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1737514800000,
-        "endAt": 1737946799000,
-        "appealReadConditionType": "transition",
-        "text": "[MORE MORE JUMP！]リコレクションガチャ開催"
-    },
-    {
-        "id": 192,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1737946800000,
-        "endAt": 1738378799000,
-        "appealReadConditionType": "transition",
-        "text": "[Vivid BAD SQUAD]リコレクションガチャ開催"
-    },
-    {
-        "id": 193,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1738378800000,
-        "endAt": 1738810799000,
-        "appealReadConditionType": "transition",
-        "text": "[ワンダーランズ×ショウタイム]リコレクションガチャ開催"
-    },
-    {
-        "id": 194,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1738810800000,
-        "endAt": 1739242799000,
-        "appealReadConditionType": "transition",
-        "text": "[25時、ナイトコードで。]リコレクションガチャ開催"
-    },
-    {
-        "id": 195,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1737860400000,
-        "endAt": 1738637999000,
-        "appealReadConditionType": "transition",
-        "text": "ハピネスパッケージガチャ開催"
-    },
-    {
-        "id": 196,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1737903600000,
-        "endAt": 1738508399000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 197,
-        "seq": 4,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1738162800000,
-        "endAt": 1738767599000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 198,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1738292400000,
-        "endAt": 1739156399000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 199,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1739113200000,
-        "endAt": 1739717999000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 200,
-        "seq": 4,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1739718000000,
-        "endAt": 1740322799000,
-        "appealReadConditionType": "transition",
-        "text": "アニバーサリーメンバー登場"
-    },
-    {
-        "id": 201,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1739599200000,
-        "endAt": 1740927599000,
-        "appealReadConditionType": "transition",
-        "text": "コラボ限定メンバー登場"
-    },
-    {
-        "id": 202,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1739599200000,
-        "endAt": 1740927599000,
-        "appealReadConditionType": "transition",
-        "text": "コラボ記念プレミアムプレゼントガチャ開催"
-    },
-    {
-        "id": 203,
-        "seq": 5,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1740279600000,
-        "endAt": 1741057199000,
-        "appealReadConditionType": "transition",
-        "text": "セレクトリストガチャ開催"
-    },
-    {
-        "id": 204,
-        "seq": 6,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1740711600000,
-        "endAt": 1741575599000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 205,
-        "seq": 7,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1740841200000,
-        "endAt": 1741445999000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 206,
-        "seq": 7,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1741446000000,
-        "endAt": 1742050799000,
-        "appealReadConditionType": "transition",
-        "text": "[ミクの日記念]プレミアムプレゼントガチャ開催"
-    },
-    {
-        "id": 207,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1742310000000,
-        "endAt": 1742914799000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 208,
-        "seq": 4,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1743303600000,
-        "endAt": 1743735599000,
-        "appealReadConditionType": "transition",
-        "text": "ブルフェス限定メンバー登場"
-    },
-    {
-        "id": 209,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1743303600000,
-        "endAt": 1744081199000,
-        "appealReadConditionType": "transition",
-        "text": "[4.5周年記念]プレミアムプレゼントガチャ開催"
-    },
-    {
-        "id": 210,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1743303600000,
-        "endAt": 1744081199000,
-        "appealReadConditionType": "transition",
-        "text": "[4.5周年記念]セレクトリストガチャ LIMITED EDITION開催"
-    },
-    {
-        "id": 211,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1743303600000,
-        "endAt": 1744081199000,
-        "appealReadConditionType": "transition",
-        "text": "[4.5周年記念]ハートフルギフトガチャ開催"
-    },
-    {
-        "id": 212,
-        "seq": 4,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1743735600000,
-        "endAt": 1744081199000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 213,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1744081200000,
-        "endAt": 1745290799000,
-        "appealReadConditionType": "transition",
-        "text": "ユニットイベント限定メンバー登場"
-    },
-    {
-        "id": 214,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1744556400000,
-        "endAt": 1745161199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 215,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1745938800000,
-        "endAt": 1746543599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 216,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1745982000000,
-        "endAt": 1746759599000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 217,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1746716400000,
-        "endAt": 1747321199000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 218,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1746241200000,
-        "endAt": 1747148399000,
-        "appealReadConditionType": "transition",
-        "text": "コラボ限定メンバー登場"
-    },
-    {
-        "id": 219,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1746759600000,
-        "endAt": 1747969199000,
-        "appealReadConditionType": "transition",
-        "text": "ユニットイベント限定メンバー登場"
-    },
-    {
-        "id": 220,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1747407600000,
-        "endAt": 1748012399000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 221,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1748098800000,
-        "endAt": 1748703599000,
-        "appealReadConditionType": "transition",
-        "text": "バースデーメンバー登場"
-    },
-    {
-        "id": 222,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1748228400000,
-        "endAt": 1749005999000,
-        "appealReadConditionType": "transition",
-        "text": "ハピネスパッケージガチャ開催"
-    },
-    {
-        "id": 223,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1748660400000,
-        "endAt": 1749437999000,
-        "appealReadConditionType": "transition",
-        "text": "期間限定メンバー登場"
-    },
-    {
-        "id": 224,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "once",
-        "startAt": 1749438000000,
-        "endAt": 1750647599000,
-        "appealReadConditionType": "transition",
-        "text": "ユニットイベント限定メンバー登場"
-    }
+  {
+    "id": 1,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1622008800000,
+    "endAt": 1622699999000,
+    "appealReadConditionType": "transition",
+    "text": "★4メンバー確定ガチャ開催"
+  },
+  {
+    "id": 2,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1622440800000,
+    "endAt": 1623391199000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 3,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1625032800000,
+    "endAt": 1625464799000,
+    "appealReadConditionType": "transition",
+    "text": "フェス限定メンバー登場"
+  },
+  {
+    "id": 4,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1627279200000,
+    "endAt": 1628056799000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ開催"
+  },
+  {
+    "id": 5,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1627711200000,
+    "endAt": 1628575199000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 6,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1629957600000,
+    "endAt": 1630735199000,
+    "appealReadConditionType": "transition",
+    "text": "★4メンバー確定ガチャ開催"
+  },
+  {
+    "id": 7,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1630389600000,
+    "endAt": 1631253599000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 8,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1633068000000,
+    "endAt": 1633413599000,
+    "appealReadConditionType": "transition",
+    "text": "フェス限定メンバー登場"
+  },
+  {
+    "id": 9,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1633413600000,
+    "endAt": 1633931999000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 10,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1633359600000,
+    "endAt": 1633964399000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 11,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1635260400000,
+    "endAt": 1635865199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 12,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1635660000000,
+    "endAt": 1636610399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 13,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1636038000000,
+    "endAt": 1636642799000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 14,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1636642800000,
+    "endAt": 1637247599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 15,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1637906400000,
+    "endAt": 1638597599000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ開催"
+  },
+  {
+    "id": 16,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1638252000000,
+    "endAt": 1639115999000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 17,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1638716400000,
+    "endAt": 1639321199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 18,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1639375200000,
+    "endAt": 1640584799000,
+    "appealReadConditionType": "transition",
+    "text": "コラボ限定メンバー登場"
+  },
+  {
+    "id": 19,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1640530800000,
+    "endAt": 1641135599000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 20,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1640930400000,
+    "endAt": 1641275999000,
+    "appealReadConditionType": "transition",
+    "text": "フェス限定メンバー登場"
+  },
+  {
+    "id": 21,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1641276000000,
+    "endAt": 1641967199000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 22,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1641567600000,
+    "endAt": 1642172399000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 23,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1643209200000,
+    "endAt": 1643813999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 24,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1643468400000,
+    "endAt": 1644073199000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 25,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1643608800000,
+    "endAt": 1644386399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 26,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1644040800000,
+    "endAt": 1644645599000,
+    "appealReadConditionType": "transition",
+    "text": "コラボガチャ登場"
+  },
+  {
+    "id": 27,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1644418800000,
+    "endAt": 1645023599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 28,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1645023600000,
+    "endAt": 1645628399000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 29,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1645596000000,
+    "endAt": 1646373599000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ開催"
+  },
+  {
+    "id": 30,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1646028000000,
+    "endAt": 1646978399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 31,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1646146800000,
+    "endAt": 1646751599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 32,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1647615600000,
+    "endAt": 1648220399000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 33,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1648620000000,
+    "endAt": 1649051999000,
+    "appealReadConditionType": "transition",
+    "text": "フェス限定メンバー登場"
+  },
+  {
+    "id": 34,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1649052000000,
+    "endAt": 1649656799000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 35,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1649862000000,
+    "endAt": 1650466799000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 36,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1651244400000,
+    "endAt": 1651849199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 37,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1651287600000,
+    "endAt": 1652151599000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 38,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1652022000000,
+    "endAt": 1652626799000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 39,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1652497200000,
+    "endAt": 1653361199000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 40,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1652713200000,
+    "endAt": 1653317999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 41,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1653404400000,
+    "endAt": 1654009199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 42,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1653534000000,
+    "endAt": 1654225199000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ開催"
+  },
+  {
+    "id": 43,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1653966000000,
+    "endAt": 1654829999000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 44,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1655996400000,
+    "endAt": 1656601199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 45,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1656558000000,
+    "endAt": 1656903599000,
+    "appealReadConditionType": "transition",
+    "text": "フェス限定メンバー登場"
+  },
+  {
+    "id": 46,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1656903600000,
+    "endAt": 1657508399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 47,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1658242800000,
+    "endAt": 1658847599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 48,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1658761200000,
+    "endAt": 1659365999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 49,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1659150000000,
+    "endAt": 1659927599000,
+    "appealReadConditionType": "transition",
+    "text": "ハピネスパッケージガチャ開催"
+  },
+  {
+    "id": 50,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1659236400000,
+    "endAt": 1660100399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 51,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1660143600000,
+    "endAt": 1660748399000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 52,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1661396400000,
+    "endAt": 1662346799000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ開催"
+  },
+  {
+    "id": 53,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1661526000000,
+    "endAt": 1662130799000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 54,
+    "seq": 4,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1661871600000,
+    "endAt": 1662476399000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 55,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1661914800000,
+    "endAt": 1662692399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 56,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1662649200000,
+    "endAt": 1663253999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 57,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1664506800000,
+    "endAt": 1664852399000,
+    "appealReadConditionType": "transition",
+    "text": "カラフェス限定メンバー登場"
+  },
+  {
+    "id": 58,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1664852400000,
+    "endAt": 1665543599000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 59,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1664895600000,
+    "endAt": 1665500399000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 60,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1666753200000,
+    "endAt": 1667530799000,
+    "appealReadConditionType": "transition",
+    "text": "ハピネスパッケージガチャ開催"
+  },
+  {
+    "id": 61,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1666796400000,
+    "endAt": 1667401199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 62,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1667185200000,
+    "endAt": 1668135599000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 63,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1667574000000,
+    "endAt": 1668178799000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 64,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1668178800000,
+    "endAt": 1668783599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 65,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1669258800000,
+    "endAt": 1670122799000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ開催"
+  },
+  {
+    "id": 66,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1669777200000,
+    "endAt": 1670727599000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 67,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1670252400000,
+    "endAt": 1670857199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 68,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1672066800000,
+    "endAt": 1672671599000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 69,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1672455600000,
+    "endAt": 1672801199000,
+    "appealReadConditionType": "transition",
+    "text": "カラフェス限定メンバー登場"
+  },
+  {
+    "id": 70,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1672801200000,
+    "endAt": 1673319599000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 71,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1673103600000,
+    "endAt": 1673708399000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 72,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1674615600000,
+    "endAt": 1675479599000,
+    "appealReadConditionType": "transition",
+    "text": "ハピネスパッケージガチャ開催"
+  },
+  {
+    "id": 73,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1674745200000,
+    "endAt": 1675349999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 74,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1675004400000,
+    "endAt": 1675609199000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 75,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1675134000000,
+    "endAt": 1675997999000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 76,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1675954800000,
+    "endAt": 1676559599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 77,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1676559600000,
+    "endAt": 1677164399000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 78,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1677121200000,
+    "endAt": 1677898799000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ開催"
+  },
+  {
+    "id": 79,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1677553200000,
+    "endAt": 1678503599000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 80,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1677682800000,
+    "endAt": 1678287599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 81,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1679151600000,
+    "endAt": 1679756399000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 82,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1680145200000,
+    "endAt": 1680577199000,
+    "appealReadConditionType": "transition",
+    "text": "カラフェス限定メンバー登場"
+  },
+  {
+    "id": 83,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1680145200000,
+    "endAt": 1681181999000,
+    "appealReadConditionType": "transition",
+    "text": "ベストコレクションガチャ開催"
+  },
+  {
+    "id": 84,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1680577200000,
+    "endAt": 1681181999000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 85,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1681398000000,
+    "endAt": 1682002799000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 86,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1682391600000,
+    "endAt": 1683169199000,
+    "appealReadConditionType": "transition",
+    "text": "ハピネスパッケージガチャ開催"
+  },
+  {
+    "id": 87,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1682780400000,
+    "endAt": 1683385199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 88,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1682823600000,
+    "endAt": 1683773999000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 89,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1683082800000,
+    "endAt": 1684292399000,
+    "appealReadConditionType": "transition",
+    "text": "コラボガチャ登場"
+  },
+  {
+    "id": 90,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1683558000000,
+    "endAt": 1684162799000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 91,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1684249200000,
+    "endAt": 1684853999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 92,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1684940400000,
+    "endAt": 1685545199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 93,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1685070000000,
+    "endAt": 1685761199000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ開催"
+  },
+  {
+    "id": 94,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1685502059000,
+    "endAt": 1686365999000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 95,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1687532400000,
+    "endAt": 1688137199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 96,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1688094000000,
+    "endAt": 1688439599000,
+    "appealReadConditionType": "transition",
+    "text": "カラフェス限定メンバー登場"
+  },
+  {
+    "id": 97,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1688439600000,
+    "endAt": 1689044399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 98,
+    "seq": 4,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1689778800000,
+    "endAt": 1690383599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 99,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1690297200000,
+    "endAt": 1690901999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 100,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1690340400000,
+    "endAt": 1691117999000,
+    "appealReadConditionType": "transition",
+    "text": "ハピネスパッケージガチャ開催"
+  },
+  {
+    "id": 101,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1690772400000,
+    "endAt": 1691636399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 102,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1691679600000,
+    "endAt": 1692284399000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 103,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1692932400000,
+    "endAt": 1693882799000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ開催"
+  },
+  {
+    "id": 104,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1693062000000,
+    "endAt": 1693666799000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 105,
+    "seq": 4,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1693407600000,
+    "endAt": 1694012399000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 106,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1693450800000,
+    "endAt": 1694401199000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 107,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1694185200000,
+    "endAt": 1694789999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 108,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1695999600000,
+    "endAt": 1697079599000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ LIMITED EDITION開催"
+  },
+  {
+    "id": 109,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1696042800000,
+    "endAt": 1696388399000,
+    "appealReadConditionType": "transition",
+    "text": "カラフェス限定メンバー登場"
+  },
+  {
+    "id": 110,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1696388400000,
+    "endAt": 1697079599000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 111,
+    "seq": 4,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1696431600000,
+    "endAt": 1697036399000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 112,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1698289200000,
+    "endAt": 1699066799000,
+    "appealReadConditionType": "transition",
+    "text": "ハピネスパッケージガチャ開催"
+  },
+  {
+    "id": 113,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1698332400000,
+    "endAt": 1698937199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 114,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1698721200000,
+    "endAt": 1699412399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 115,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1699110000000,
+    "endAt": 1699714799000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 116,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1699412400000,
+    "endAt": 1700621999000,
+    "appealReadConditionType": "transition",
+    "text": "ユニットイベント限定メンバー登場"
+  },
+  {
+    "id": 117,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1699714800000,
+    "endAt": 1700319599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 118,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1700881200000,
+    "endAt": 1701658799000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ開催"
+  },
+  {
+    "id": 119,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1701313200000,
+    "endAt": 1702177199000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 120,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1701745200000,
+    "endAt": 1702997999000,
+    "appealReadConditionType": "transition",
+    "text": "コラボガチャ登場"
+  },
+  {
+    "id": 121,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1701788400000,
+    "endAt": 1702393199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 122,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1703602800000,
+    "endAt": 1704207599000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 123,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1703991600000,
+    "endAt": 1704337199000,
+    "appealReadConditionType": "transition",
+    "text": "カラフェス限定メンバー登場"
+  },
+  {
+    "id": 124,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1704337200000,
+    "endAt": 1704769199000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 125,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1704639600000,
+    "endAt": 1705244399000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 126,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1704769200000,
+    "endAt": 1705978799000,
+    "appealReadConditionType": "transition",
+    "text": "ユニットイベント限定メンバー登場"
+  },
+  {
+    "id": 127,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1706238000000,
+    "endAt": 1707015599000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ開催"
+  },
+  {
+    "id": 128,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1706281200000,
+    "endAt": 1706885999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 129,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1706540400000,
+    "endAt": 1707145199000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 130,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1706670000000,
+    "endAt": 1707533999000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 131,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1707490800000,
+    "endAt": 1708095599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 132,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1708095600000,
+    "endAt": 1708700399000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 133,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1708743600000,
+    "endAt": 1709521199000,
+    "appealReadConditionType": "transition",
+    "text": "ハピネスパッケージガチャ開催"
+  },
+  {
+    "id": 134,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1709175600000,
+    "endAt": 1709866799000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 135,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1709305200000,
+    "endAt": 1709909999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 136,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1709866800000,
+    "endAt": 1711076399000,
+    "appealReadConditionType": "transition",
+    "text": "ユニットイベント限定メンバー登場"
+  },
+  {
+    "id": 137,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1710774000000,
+    "endAt": 1711378799000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 138,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1711594800000,
+    "endAt": 1711767599000,
+    "appealReadConditionType": "transition",
+    "text": "3900's前夜祭ハピネスパッケージガチャ開催"
+  },
+  {
+    "id": 139,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1711767600000,
+    "endAt": 1712199599000,
+    "appealReadConditionType": "transition",
+    "text": "カラフェス限定メンバー登場"
+  },
+  {
+    "id": 140,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1712199600000,
+    "endAt": 1712717999000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 141,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1713020400000,
+    "endAt": 1713625199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 142,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1712977200000,
+    "endAt": 1714489199000,
+    "appealReadConditionType": "transition",
+    "text": "プレミアムプレゼントガチャ WCS 2024 EDITION開催"
+  },
+  {
+    "id": 143,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1714402800000,
+    "endAt": 1715007599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 144,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1713754800000,
+    "endAt": 1714489199000,
+    "appealReadConditionType": "transition",
+    "text": "プレミアムプレゼントガチャ GLOBAL EDITION開催"
+  },
+  {
+    "id": 145,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1714446000000,
+    "endAt": 1715223599000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 146,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1715180400000,
+    "endAt": 1715785199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 147,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1715223600000,
+    "endAt": 1716433199000,
+    "appealReadConditionType": "transition",
+    "text": "ユニットイベント限定メンバー登場"
+  },
+  {
+    "id": 148,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1715871600000,
+    "endAt": 1716476399000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 149,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1716562800000,
+    "endAt": 1717167599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 150,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1716692400000,
+    "endAt": 1717469999000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ開催"
+  },
+  {
+    "id": 151,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1717124400000,
+    "endAt": 1717988399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 152,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1719154800000,
+    "endAt": 1719759599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 153,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1719716400000,
+    "endAt": 1720061999000,
+    "appealReadConditionType": "transition",
+    "text": "ブルフェス限定メンバー登場"
+  },
+  {
+    "id": 154,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1720062000000,
+    "endAt": 1720493999000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 155,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1721185200000,
+    "endAt": 1722394799000,
+    "appealReadConditionType": "transition",
+    "text": "ユニットイベント限定メンバー登場"
+  },
+  {
+    "id": 156,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1721401200000,
+    "endAt": 1722005999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 157,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1721919600000,
+    "endAt": 1722524399000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 158,
+    "seq": 4,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1721962800000,
+    "endAt": 1722740399000,
+    "appealReadConditionType": "transition",
+    "text": "ハピネスパッケージガチャ開催"
+  },
+  {
+    "id": 159,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1722394800000,
+    "endAt": 1723172399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 160,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1723302000000,
+    "endAt": 1723906799000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 161,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1723863600000,
+    "endAt": 1725073199000,
+    "appealReadConditionType": "transition",
+    "text": "ユニットイベント限定メンバー登場"
+  },
+  {
+    "id": 162,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1724684400000,
+    "endAt": 1725289199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 163,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1725030000000,
+    "endAt": 1725634799000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 164,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1724814000000,
+    "endAt": 1725159599000,
+    "appealReadConditionType": "transition",
+    "text": "リコレクションフェスティバルガチャ開催"
+  },
+  {
+    "id": 165,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1724986800000,
+    "endAt": 1725505199000,
+    "appealReadConditionType": "transition",
+    "text": "[マジカルミライ2024]プレミアムプレゼントガチャ開催"
+  },
+  {
+    "id": 166,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1725073200000,
+    "endAt": 1725937199000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 167,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1725807600000,
+    "endAt": 1726412399000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 168,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1727492400000,
+    "endAt": 1727665199000,
+    "appealReadConditionType": "transition",
+    "text": "4周年前夜祭スペシャルプライズガチャ開催"
+  },
+  {
+    "id": 169,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1727622000000,
+    "endAt": 1730343599000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ LIMITED EDITION開催"
+  },
+  {
+    "id": 170,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1727665200000,
+    "endAt": 1728010799000,
+    "appealReadConditionType": "transition",
+    "text": "ブルフェス限定メンバー登場"
+  },
+  {
+    "id": 171,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1728010800000,
+    "endAt": 1728723599000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 172,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1728054000000,
+    "endAt": 1728658799000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 173,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1728788400000,
+    "endAt": 1730343599000,
+    "appealReadConditionType": "transition",
+    "text": "[4周年記念]ハピネスパッケージガチャ開催"
+  },
+  {
+    "id": 174,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1729954800000,
+    "endAt": 1730559599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 175,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1729998000000,
+    "endAt": 1730343599000,
+    "appealReadConditionType": "transition",
+    "text": "[4周年後夜祭]フラワーアソートガチャ開催"
+  },
+  {
+    "id": 176,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1730343600000,
+    "endAt": 1731207599000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 177,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1730732400000,
+    "endAt": 1731337199000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 178,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1731337200000,
+    "endAt": 1731941999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 179,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1732590000000,
+    "endAt": 1733281199000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ開催"
+  },
+  {
+    "id": 180,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1732935600000,
+    "endAt": 1733885999000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 181,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1733410800000,
+    "endAt": 1734015599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 182,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1733626800000,
+    "endAt": 1734404399000,
+    "appealReadConditionType": "transition",
+    "text": "[CS2024Autumn開催記念]プレミアムプレゼントガチャ開催"
+  },
+  {
+    "id": 183,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1735225200000,
+    "endAt": 1735829999000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 184,
+    "seq": 5,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1735614000000,
+    "endAt": 1735959599000,
+    "appealReadConditionType": "transition",
+    "text": "ブルフェス限定メンバー登場"
+  },
+  {
+    "id": 185,
+    "seq": 4,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1735614000000,
+    "endAt": 1736564399000,
+    "appealReadConditionType": "transition",
+    "text": "[2025新春]プレミアムプレゼントガチャ開催"
+  },
+  {
+    "id": 186,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1735657200000,
+    "endAt": 1736564399000,
+    "appealReadConditionType": "transition",
+    "text": "[2025新春]運試し1/2セレクトリストガチャ開催"
+  },
+  {
+    "id": 187,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1735657200000,
+    "endAt": 1735916399000,
+    "appealReadConditionType": "transition",
+    "text": "[2025新春]初夢お年玉ガチャ開催"
+  },
+  {
+    "id": 188,
+    "seq": 5,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1735959600000,
+    "endAt": 1736564399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 189,
+    "seq": 6,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1736262000000,
+    "endAt": 1736866799000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 190,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1737082800000,
+    "endAt": 1737514799000,
+    "appealReadConditionType": "transition",
+    "text": "[Leo/need]リコレクションガチャ開催"
+  },
+  {
+    "id": 191,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1737514800000,
+    "endAt": 1737946799000,
+    "appealReadConditionType": "transition",
+    "text": "[MORE MORE JUMP！]リコレクションガチャ開催"
+  },
+  {
+    "id": 192,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1737946800000,
+    "endAt": 1738378799000,
+    "appealReadConditionType": "transition",
+    "text": "[Vivid BAD SQUAD]リコレクションガチャ開催"
+  },
+  {
+    "id": 193,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1738378800000,
+    "endAt": 1738810799000,
+    "appealReadConditionType": "transition",
+    "text": "[ワンダーランズ×ショウタイム]リコレクションガチャ開催"
+  },
+  {
+    "id": 194,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1738810800000,
+    "endAt": 1739242799000,
+    "appealReadConditionType": "transition",
+    "text": "[25時、ナイトコードで。]リコレクションガチャ開催"
+  },
+  {
+    "id": 195,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1737860400000,
+    "endAt": 1738637999000,
+    "appealReadConditionType": "transition",
+    "text": "ハピネスパッケージガチャ開催"
+  },
+  {
+    "id": 196,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1737903600000,
+    "endAt": 1738508399000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 197,
+    "seq": 4,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1738162800000,
+    "endAt": 1738767599000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 198,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1738292400000,
+    "endAt": 1739156399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 199,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1739113200000,
+    "endAt": 1739717999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 200,
+    "seq": 4,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1739718000000,
+    "endAt": 1740322799000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 201,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1739599200000,
+    "endAt": 1740927599000,
+    "appealReadConditionType": "transition",
+    "text": "コラボ限定メンバー登場"
+  },
+  {
+    "id": 202,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1739599200000,
+    "endAt": 1740927599000,
+    "appealReadConditionType": "transition",
+    "text": "コラボ記念プレミアムプレゼントガチャ開催"
+  },
+  {
+    "id": 203,
+    "seq": 5,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1740279600000,
+    "endAt": 1741057199000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ開催"
+  },
+  {
+    "id": 204,
+    "seq": 6,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1740711600000,
+    "endAt": 1741575599000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 205,
+    "seq": 7,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1740841200000,
+    "endAt": 1741445999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 206,
+    "seq": 7,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1741446000000,
+    "endAt": 1742050799000,
+    "appealReadConditionType": "transition",
+    "text": "[ミクの日記念]プレミアムプレゼントガチャ開催"
+  },
+  {
+    "id": 207,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1742310000000,
+    "endAt": 1742914799000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 208,
+    "seq": 4,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1743303600000,
+    "endAt": 1743735599000,
+    "appealReadConditionType": "transition",
+    "text": "ブルフェス限定メンバー登場"
+  },
+  {
+    "id": 209,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1743303600000,
+    "endAt": 1744081199000,
+    "appealReadConditionType": "transition",
+    "text": "[4.5周年記念]プレミアムプレゼントガチャ開催"
+  },
+  {
+    "id": 210,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1743303600000,
+    "endAt": 1744081199000,
+    "appealReadConditionType": "transition",
+    "text": "[4.5周年記念]セレクトリストガチャ LIMITED EDITION開催"
+  },
+  {
+    "id": 211,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1743303600000,
+    "endAt": 1744081199000,
+    "appealReadConditionType": "transition",
+    "text": "[4.5周年記念]ハートフルギフトガチャ開催"
+  },
+  {
+    "id": 212,
+    "seq": 4,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1743735600000,
+    "endAt": 1744081199000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 213,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1744081200000,
+    "endAt": 1745290799000,
+    "appealReadConditionType": "transition",
+    "text": "ユニットイベント限定メンバー登場"
+  },
+  {
+    "id": 214,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1744556400000,
+    "endAt": 1745161199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 215,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1745938800000,
+    "endAt": 1746543599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 216,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1745982000000,
+    "endAt": 1746759599000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 217,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1746716400000,
+    "endAt": 1747321199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 218,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1746241200000,
+    "endAt": 1747148399000,
+    "appealReadConditionType": "transition",
+    "text": "コラボ限定メンバー登場"
+  },
+  {
+    "id": 219,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1746759600000,
+    "endAt": 1747969199000,
+    "appealReadConditionType": "transition",
+    "text": "ユニットイベント限定メンバー登場"
+  },
+  {
+    "id": 220,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1747407600000,
+    "endAt": 1748012399000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 221,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1748098800000,
+    "endAt": 1748703599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 222,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1748228400000,
+    "endAt": 1749005999000,
+    "appealReadConditionType": "transition",
+    "text": "ハピネスパッケージガチャ開催"
+  },
+  {
+    "id": 223,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1748660400000,
+    "endAt": 1749437999000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 224,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1749438000000,
+    "endAt": 1750647599000,
+    "appealReadConditionType": "transition",
+    "text": "ユニットイベント限定メンバー登場"
+  },
+  {
+    "id": 225,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1750690800000,
+    "endAt": 1751295599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  }
 ]

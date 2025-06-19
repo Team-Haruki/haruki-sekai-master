@@ -1,970 +1,970 @@
 [
-    {
-        "configKey": "date_change_hour",
-        "value": "4"
-    },
-    {
-        "configKey": "tutorial_action_set_ids",
-        "value": "1,2"
-    },
-    {
-        "configKey": "tutorial_boost_count",
-        "value": "0"
-    },
-    {
-        "configKey": "boost_max_count",
-        "value": "999"
-    },
-    {
-        "configKey": "boost_recovery_max_count",
-        "value": "25"
-    },
-    {
-        "configKey": "boost_recovery_second",
-        "value": "1800"
-    },
-    {
-        "configKey": "boost_scale",
-        "value": "5"
-    },
-    {
-        "configKey": "boost_use_max_count",
-        "value": "5"
-    },
-    {
-        "configKey": "rank_up_recover_boost_count",
-        "value": "10"
-    },
-    {
-        "configKey": "max_user_level",
-        "value": "700"
-    },
-    {
-        "configKey": "max_unit_level",
-        "value": "20"
-    },
-    {
-        "configKey": "max_character_rank",
-        "value": "160"
-    },
-    {
-        "configKey": "user_name_max_length",
-        "value": "10"
-    },
-    {
-        "configKey": "profile_word_max_length",
-        "value": "30"
-    },
-    {
-        "configKey": "tutorial_in_game_deck",
-        "value": "81,89,93,97,101"
-    },
-    {
-        "configKey": "default_theme_park_deck_member",
-        "value": "85,49,53,57,61"
-    },
-    {
-        "configKey": "default_idol_deck_member",
-        "value": "83,17,21,25,29"
-    },
-    {
-        "configKey": "default_street_deck_member",
-        "value": "84,33,37,41,45"
-    },
-    {
-        "configKey": "default_light_sound_deck_member",
-        "value": "82,1,5,9,13"
-    },
-    {
-        "configKey": "default_school_refusal_deck_member",
-        "value": "86,65,69,73,77"
-    },
-    {
-        "configKey": "default_deck_name",
-        "value": "ユニット01"
-    },
-    {
-        "configKey": "tutorial_theme_park_unit_story_id",
-        "value": "20000"
-    },
-    {
-        "configKey": "tutorial_idol_unit_story_id",
-        "value": "30000"
-    },
-    {
-        "configKey": "tutorial_street_unit_story_id",
-        "value": "40000"
-    },
-    {
-        "configKey": "tutorial_light_sound_unit_story_id",
-        "value": "50000"
-    },
-    {
-        "configKey": "tutorial_school_refusal_unit_story_id",
-        "value": "60000"
-    },
-    {
-        "configKey": "TutorialMusicStartTimeMs",
-        "value": "0"
-    },
-    {
-        "configKey": "story_favorite_count_limit",
-        "value": "10"
-    },
-    {
-        "configKey": "story_favorite_comment_length_limit",
-        "value": "1000"
-    },
-    {
-        "configKey": "action_set_reward_jewel_quantity",
-        "value": "10"
-    },
-    {
-        "configKey": "action_set_base_unit_exp",
-        "value": "30"
-    },
-    {
-        "configKey": "event_archive_complete_read_reward_jewel_quantity",
-        "value": "50"
-    },
-    {
-        "configKey": "obtain_live_point",
-        "value": "1"
-    },
-    {
-        "configKey": "obtain_live_point_for_challenge_live",
-        "value": "30"
-    },
-    {
-        "configKey": "auto_live_daily_play_count_limit",
-        "value": "10"
-    },
-    {
-        "configKey": "auto_live_available_boost_item_ids",
-        "value": "1,2"
-    },
-    {
-        "configKey": "multi_live_power_range_upper_limit_init",
-        "value": "10000"
-    },
-    {
-        "configKey": "multi_live_power_range_lower_limit_init",
-        "value": "10000"
-    },
-    {
-        "configKey": "multi_live_power_range_upper_limit_spread",
-        "value": "5000"
-    },
-    {
-        "configKey": "multi_live_power_range_lower_limit_spread",
-        "value": "5000"
-    },
-    {
-        "configKey": "multi_live_power_range_spread_second",
-        "value": "3000"
-    },
-    {
-        "configKey": "multi_live_cutin_max_count",
-        "value": "5"
-    },
-    {
-        "configKey": "multi_live_super_star",
-        "value": "1.3"
-    },
-    {
-        "configKey": "weekly_reset_reference",
-        "value": "SUNDAY"
-    },
-    {
-        "configKey": "drawable_beginner_gacha_hour",
-        "value": "168"
-    },
-    {
-        "configKey": "beginner_material_exchangeable_hour",
-        "value": "720"
-    },
-    {
-        "configKey": "challenge_point_calc_value",
-        "value": "8000"
-    },
-    {
-        "configKey": "challenge_base_point",
-        "value": "200"
-    },
-    {
-        "configKey": "notes_slide_width_collision",
-        "value": "1.25"
-    },
-    {
-        "configKey": "notes_slide_miss_mesh",
-        "value": "2"
-    },
-    {
-        "configKey": "flick_input_judge_distance",
-        "value": "12.0"
-    },
-    {
-        "configKey": "support_unit_exp_rate",
-        "value": "0.5"
-    },
-    {
-        "configKey": "photon_lobby_count",
-        "value": "1"
-    },
-    {
-        "configKey": "photon_room_count_per_channel",
-        "value": "100"
-    },
-    {
-        "configKey": "photon_room_count_per_channel_member_count",
-        "value": "5000"
-    },
-    {
-        "configKey": "streaming_live_max_channel_count",
-        "value": "60"
-    },
-    {
-        "configKey": "virtual_live_ranking_aggregate_second_before_end",
-        "value": "0"
-    },
-    {
-        "configKey": "virtual_live_ranking_aggregate_second_after_end",
-        "value": "60"
-    },
-    {
-        "configKey": "virtual_live_sync_polling_second",
-        "value": "1"
-    },
-    {
-        "configKey": "virtual_live_lobby_count",
-        "value": "1"
-    },
-    {
-        "configKey": "virtual_live_balloon_millisecond",
-        "value": "60000"
-    },
-    {
-        "configKey": "virtual_item_reduction",
-        "value": "0.01"
-    },
-    {
-        "configKey": "virtual_item_reduction_material_id",
-        "value": "15"
-    },
-    {
-        "configKey": "virtual_live_logout_time",
-        "value": "60"
-    },
-    {
-        "configKey": "virtual_live_beginner_valid_day",
-        "value": "15"
-    },
-    {
-        "configKey": "virtual_live_cheer_point_rate_for_jewel",
-        "value": "1"
-    },
-    {
-        "configKey": "snapshot_asset_hash",
-        "value": "develop"
-    },
-    {
-        "configKey": "login_bonus_id",
-        "value": "1"
-    },
-    {
-        "configKey": "beginner_login_bonus_id",
-        "value": "1"
-    },
-    {
-        "configKey": "beginner_login_bonus_enable",
-        "value": "true"
-    },
-    {
-        "configKey": "beginner_login_bonus_start_at",
-        "value": "2020\/12\/20 04:00:00"
-    },
-    {
-        "configKey": "beginner_mission_v2_start_at",
-        "value": "2023\/09\/30 00:00:00"
-    },
-    {
-        "configKey": "under_13_billing_limit",
-        "value": "5000"
-    },
-    {
-        "configKey": "over_13_and_under_20_billing_limit",
-        "value": "20000"
-    },
-    {
-        "configKey": "default_challenge_live_deck_limit",
-        "value": "1"
-    },
-    {
-        "configKey": "favorite_stamp_max_count",
-        "value": "20"
-    },
-    {
-        "configKey": "favorite_stamp_tab_count",
-        "value": "3"
-    },
-    {
-        "configKey": "stamp_tab_name_max_length",
-        "value": "20"
-    },
-    {
-        "configKey": "favorite_avatar_motion_max_count",
-        "value": "5"
-    },
-    {
-        "configKey": "init_favorite_avatar_motion_id",
-        "value": "35,5,33,34,3"
-    },
-    {
-        "configKey": "avatar_init_skin_color_id",
-        "value": "1"
-    },
-    {
-        "configKey": "init_penlight_id",
-        "value": "1"
-    },
-    {
-        "configKey": "jump_button_press_time_min",
-        "value": "0.03"
-    },
-    {
-        "configKey": "jump_button_press_time_max",
-        "value": "0.1"
-    },
-    {
-        "configKey": "event_item_reduction",
-        "value": "10"
-    },
-    {
-        "configKey": "event_score_ceiling",
-        "value": "4500000"
-    },
-    {
-        "configKey": "develop_virtual_live_max_connection",
-        "value": "100"
-    },
-    {
-        "configKey": "debug_virtual_live_max_connection",
-        "value": "100"
-    },
-    {
-        "configKey": "load_virtual_live_max_connection",
-        "value": "100"
-    },
-    {
-        "configKey": "production_virtual_live_max_connection",
-        "value": "25000"
-    },
-    {
-        "configKey": "promotion_virtual_live_max_connection",
-        "value": "100"
-    },
-    {
-        "configKey": "review_virtual_live_max_connection",
-        "value": "100"
-    },
-    {
-        "configKey": "staging_virtual_live_max_connection",
-        "value": "100"
-    },
-    {
-        "configKey": "trial_virtual_live_max_connection",
-        "value": "25000"
-    },
-    {
-        "configKey": "virtual_live_ignore_full_user_ids",
-        "value": "1534703194930896908,1534971037077430284,1534970991011389456,1534898748709629956,1534898657923653635,1534898726076899334,1534898708179804165,1534904320951545862"
-    },
-    {
-        "configKey": "virtual_live_seconds_to_leave_from_sleep",
-        "value": "20"
-    },
-    {
-        "configKey": "apple_store_url",
-        "value": "https:\/\/play.google.com\/store\/apps\/details?id=com.sega.pjsekai"
-    },
-    {
-        "configKey": "google_store_url",
-        "value": "https:\/\/itunes.apple.com\/app\/id1489932710"
-    },
-    {
-        "configKey": "google_billing_pending_code",
-        "value": "4"
-    },
-    {
-        "configKey": "inherit_deadline_hour",
-        "value": "72"
-    },
-    {
-        "configKey": "multi_live_penalty_reset_hour",
-        "value": "6"
-    },
-    {
-        "configKey": "multi_live_penalty_reset_hour_of_event_high_rank",
-        "value": "2"
-    },
-    {
-        "configKey": "multi_live_penalty_less_than_equal_to_bad_note_rate",
-        "value": "50"
-    },
-    {
-        "configKey": "information_image_path",
-        "value": "images\/information"
-    },
-    {
-        "configKey": "special_jacket_music_ids",
-        "value": "19,189,210"
-    },
-    {
-        "configKey": "card_practice_excessive_tolerance",
-        "value": "49999"
-    },
-    {
-        "configKey": "card_skill_practice_excessive_tolerance",
-        "value": "249"
-    },
-    {
-        "configKey": "card_skill_practice_material_excessive_tolerance",
-        "value": "1999"
-    },
-    {
-        "configKey": "svl_respond_type",
-        "value": "minimal"
-    },
-    {
-        "configKey": "svl_room_capacity",
-        "value": "100"
-    },
-    {
-        "configKey": "svl_room_interval",
-        "value": "200"
-    },
-    {
-        "configKey": "svl_sync_player_interval",
-        "value": "0.1"
-    },
-    {
-        "configKey": "svl_connection_timeout",
-        "value": "60000"
-    },
-    {
-        "configKey": "private_room_attempt_range",
-        "value": "15"
-    },
-    {
-        "configKey": "virtual_live_private_room_expire_hour",
-        "value": "24"
-    },
-    {
-        "configKey": "virtual_live_dummy_private_room_expire_minute",
-        "value": "10"
-    },
-    {
-        "configKey": "virtual_live_private_room_max_room_no",
-        "value": "999999"
-    },
-    {
-        "configKey": "multi_live_private_room_expire_hour",
-        "value": "1"
-    },
-    {
-        "configKey": "multi_live_dummy_private_room_expire_minute",
-        "value": "3"
-    },
-    {
-        "configKey": "multi_live_private_room_max_room_no",
-        "value": "99999"
-    },
-    {
-        "configKey": "challenge_live_event_point_rate",
-        "value": "120"
-    },
-    {
-        "configKey": "cheerful_carnival_live_win_point",
-        "value": "2"
-    },
-    {
-        "configKey": "cheerful_carnival_live_lose_point",
-        "value": "1"
-    },
-    {
-        "configKey": "cheerful_carnival_live_draw_point",
-        "value": "1"
-    },
-    {
-        "configKey": "cheerful_carnival_live_event_point_win",
-        "value": "0"
-    },
-    {
-        "configKey": "cheerful_carnival_live_event_point_life_bonus_rate",
-        "value": "0.0002"
-    },
-    {
-        "configKey": "cheerful_carnival_announce_consecutive_win_count",
-        "value": "10"
-    },
-    {
-        "configKey": "cheerful_carnival_team_select_free_limit",
-        "value": "50000"
-    },
-    {
-        "configKey": "cheerful_carnival_team_select_solicitation_rate",
-        "value": "1.1"
-    },
-    {
-        "configKey": "cheerful_carnival_team_select_force_rate",
-        "value": "1.5"
-    },
-    {
-        "configKey": "cheerful_carnival_team_change_limit",
-        "value": "1"
-    },
-    {
-        "configKey": "cheerful_carnival_team_point_shard_count",
-        "value": "1000"
-    },
-    {
-        "configKey": "cheerful_carnival_live_able_alive_user_count",
-        "value": "0"
-    },
-    {
-        "configKey": "cheerful_carnival_announce_polling_sec",
-        "value": "30"
-    },
-    {
-        "configKey": "boost_present_receivable_limit",
-        "value": "3"
-    },
-    {
-        "configKey": "challenge_live_reset_play_days_day_of_week",
-        "value": "MONDAY"
-    },
-    {
-        "configKey": "multi_live_connection_timeout",
-        "value": "30000"
-    },
-    {
-        "configKey": "gacha_seal_ticket_exchange_to_gacha_seal_unable_at",
-        "value": "2021\/04\/30 14:59:59"
-    },
-    {
-        "configKey": "force_update_spring_bone_frame_count",
-        "value": "60"
-    },
-    {
-        "configKey": "event_piapro_point_bonus",
-        "value": "25"
-    },
-    {
-        "configKey": "multi_live_fever_progress",
-        "value": "0.7"
-    },
-    {
-        "configKey": "multi_live_super_fever_progress",
-        "value": "1.0"
-    },
-    {
-        "configKey": "virtual_live_group_message_sync_count",
-        "value": "1"
-    },
-    {
-        "configKey": "custom_profile_text_line_spacing_factor",
-        "value": "1.325"
-    },
-    {
-        "configKey": "friend_request_expire_hour",
-        "value": "168"
-    },
-    {
-        "configKey": "friend_request_message_length_limit",
-        "value": "30"
-    },
-    {
-        "configKey": "friend_count_limit",
-        "value": "200"
-    },
-    {
-        "configKey": "user_block_count_limit",
-        "value": "200"
-    },
-    {
-        "configKey": "login_status_online_expire_sec",
-        "value": "600"
-    },
-    {
-        "configKey": "login_status_solo_live_expire_sec",
-        "value": "600"
-    },
-    {
-        "configKey": "login_status_multi_live_expire_sec",
-        "value": "600"
-    },
-    {
-        "configKey": "login_status_virtual_live_expire_sec",
-        "value": "600"
-    },
-    {
-        "configKey": "invitation_polling_period_sec",
-        "value": "10"
-    },
-    {
-        "configKey": "invitation_expire_sec",
-        "value": "60"
-    },
-    {
-        "configKey": "omikuji_should_draw_ratio",
-        "value": "0.2"
-    },
-    {
-        "configKey": "custom_profile_can_snap_delta_rotation_deg",
-        "value": "1"
-    },
-    {
-        "configKey": "custom_profile_rotation_per_snap_deg",
-        "value": "45"
-    },
-    {
-        "configKey": "custom_profile_unsnapped_rotation_threshold_deg",
-        "value": "5"
-    },
-    {
-        "configKey": "custom_profile_can_snap_delta_move_value",
-        "value": "1"
-    },
-    {
-        "configKey": "custom_profile_unsnapped_move_threshold",
-        "value": "25"
-    },
-    {
-        "configKey": "custom_profile_delta_move_value_per_snap",
-        "value": "25"
-    },
-    {
-        "configKey": "custom_profile_min_content_size",
-        "value": "64"
-    },
-    {
-        "configKey": "custom_profile_max_content_scale",
-        "value": "2"
-    },
-    {
-        "configKey": "custom_profile_scale_base_size",
-        "value": "256"
-    },
-    {
-        "configKey": "custom_profile_drag_mode_long_press_time_sec",
-        "value": "0.2"
-    },
-    {
-        "configKey": "custom_profile_max_place_content_count",
-        "value": "150"
-    },
-    {
-        "configKey": "custom_profile_thumbnail_path_prefix",
-        "value": "image\/custom-profile-card\/thumbnail"
-    },
-    {
-        "configKey": "custom_profile_min_text_size",
-        "value": "24"
-    },
-    {
-        "configKey": "custom_profile_max_text_size",
-        "value": "96"
-    },
-    {
-        "configKey": "custom_profile_max_creatable",
-        "value": "10"
-    },
-    {
-        "configKey": "profile_honor_max_size",
-        "value": "3"
-    },
-    {
-        "configKey": "rank_match_win_add_point",
-        "value": "1"
-    },
-    {
-        "configKey": "rank_match_lose_add_point",
-        "value": "-1"
-    },
-    {
-        "configKey": "rank_match_draw_add_point",
-        "value": "0"
-    },
-    {
-        "configKey": "rank_match_all_perfect_draw_add_point",
-        "value": "1"
-    },
-    {
-        "configKey": "rank_match_penalty_add_point",
-        "value": "-1"
-    },
-    {
-        "configKey": "rank_match_rank_up_adjust_point",
-        "value": "1"
-    },
-    {
-        "configKey": "rank_match_rank_down_adjust_point",
-        "value": "4"
-    },
-    {
-        "configKey": "rank_match_placement_play_count",
-        "value": "3"
-    },
-    {
-        "configKey": "rank_match_placement_top_limit",
-        "value": "10"
-    },
-    {
-        "configKey": "rank_match_score_encrypt_key_size",
-        "value": "256"
-    },
-    {
-        "configKey": "rank_match_recovery_penalty_count",
-        "value": "1"
-    },
-    {
-        "configKey": "rank_match_recovery_penalty_count_hour",
-        "value": "24"
-    },
-    {
-        "configKey": "rank_match_matching_class_scale",
-        "value": "3"
-    },
-    {
-        "configKey": "redis_ranking_expire_sec",
-        "value": "7776000"
-    },
-    {
-        "configKey": "ranking_border_expire_sec",
-        "value": "300"
-    },
-    {
-        "configKey": "cheerful_carnival_party_redis_lock_enable",
-        "value": "TRUE"
-    },
-    {
-        "configKey": "redis_lock_expire",
-        "value": "16000"
-    },
-    {
-        "configKey": "redis_lock_sleep",
-        "value": "200"
-    },
-    {
-        "configKey": "redis_lock_timeout",
-        "value": "8000"
-    },
-    {
-        "configKey": "debug_auth_disable",
-        "value": "false"
-    },
-    {
-        "configKey": "is_trial",
-        "value": "false"
-    },
-    {
-        "configKey": "trial_deck_01",
-        "value": "1001,1002,1003,1004,1027"
-    },
-    {
-        "configKey": "trial_deck_02",
-        "value": "1005,1006,1007,1008,1028"
-    },
-    {
-        "configKey": "trial_deck_03",
-        "value": "1009,1010,1011,1012,1029"
-    },
-    {
-        "configKey": "trial_deck_04",
-        "value": "1013,1014,1015,1016,1030"
-    },
-    {
-        "configKey": "trial_deck_05",
-        "value": "1017,1018,1019,1020,1031"
-    },
-    {
-        "configKey": "trial_deck_06",
-        "value": "1021,1022,1023,1024,1025"
-    },
-    {
-        "configKey": "trial_deck_07",
-        "value": "1021,1022,1023,1024,1026"
-    },
-    {
-        "configKey": "trial_deck_08",
-        "value": "1021,1022,1023,1025,1026"
-    },
-    {
-        "configKey": "trial_deck_09",
-        "value": "1021,1022,1024,1025,1026"
-    },
-    {
-        "configKey": "trial_deck_10",
-        "value": "1021,1023,1024,1025,1026"
-    },
-    {
-        "configKey": "trial_banner_url",
-        "value": "https:\/\/app.adjust.com\/3jjmw0p?redirect=https%3A%2F%2Fpjsekai.sega.jp%2Fpreregistration%2Findex.html"
-    },
-    {
-        "configKey": "trial_banner_enable",
-        "value": "TRUE"
-    },
-    {
-        "configKey": "user_report_custom_profile_thumbnail_path_prefix",
-        "value": "custom-profile-card\/thumbnail"
-    },
-    {
-        "configKey": "user_report_restriction_hours",
-        "value": "24"
-    },
-    {
-        "configKey": "streaming_virtual_live_ui_sound_volume",
-        "value": "0.2"
-    },
-    {
-        "configKey": "default_ui_sound_volume",
-        "value": "0.85"
-    },
-    {
-        "configKey": "user_report_thanks_message",
-        "value": "通報いただいたプレイヤーに対して、\\nペナルティ処置を行いました。\\nご協力いただきありがとうございました。"
-    },
-    {
-        "configKey": "user_mylist_under_limit",
-        "value": "1"
-    },
-    {
-        "configKey": "user_mylist_upper_limit",
-        "value": "5"
-    },
-    {
-        "configKey": "user_mylist_name_max_length",
-        "value": "10"
-    },
-    {
-        "configKey": "colorful_pass_continuous_buy_grace_period",
-        "value": "10"
-    },
-    {
-        "configKey": "offline_event_entry_id_min_length",
-        "value": "18"
-    },
-    {
-        "configKey": "offline_event_entry_id_alphabet",
-        "value": "23456789ABCDEFGHJKMNPQRSTUVWXYZ"
-    },
-    {
-        "configKey": "weekly_gacha_reset_day_of_week",
-        "value": "MONDAY"
-    },
-    {
-        "configKey": "story_episode_bookmark_thumbnail_path_prefix",
-        "value": "image\/bookmark-story\/thumbnail"
-    },
-    {
-        "configKey": "story_episode_bookmark_count",
-        "value": "20"
-    },
-    {
-        "configKey": "story_episode_bookmark_name_max_length",
-        "value": "20"
-    },
-    {
-        "configKey": "display_story_read_status",
-        "value": "true"
-    },
-    {
-        "configKey": "story_recommend_count",
-        "value": "11"
-    },
-    {
-        "configKey": "redis_story_recommend_expire_sec",
-        "value": "7776000"
-    },
-    {
-        "configKey": "world_bloom_support_deck_event_item_correction_value",
-        "value": "0.5"
-    },
-    {
-        "configKey": "card_episode_release_ticket_material_id",
-        "value": "86"
-    },
-    {
-        "configKey": "card_episode_release_cost_quantity",
-        "value": "1"
-    },
-    {
-        "configKey": "mysekai_refresh_hour",
-        "value": "5"
-    },
-    {
-        "configKey": "mysekai_fixture_disassemble_material_rate",
-        "value": "0.5"
-    },
-    {
-        "configKey": "mysekai_gate_character_non_priority_recent_visit_count",
-        "value": "2"
-    },
-    {
-        "configKey": "mysekai_convert_time_shorten_consume_jewel_per_minute",
-        "value": "1"
-    },
-    {
-        "configKey": "mysekai_harvest_site_fixture_hp_when_last_attack",
-        "value": "0"
-    },
-    {
-        "configKey": "redis_mysekai_room_expire_sec",
-        "value": "90000"
-    },
-    {
-        "configKey": "mysekai_weekly_reference",
-        "value": "MONDAY"
-    },
-    {
-        "configKey": "mysekai_site_housing_preset_slot_thumbnail_path_prefix",
-        "value": "image\/mysekai-site-housing-preset-slot"
-    },
-    {
-        "configKey": "mysekai_site_housing_preset_slot_default_name_prefix",
-        "value": "プリセット"
-    },
-    {
-        "configKey": "mysekai_gate_skin_default_id",
-        "value": "0"
-    },
-    {
-        "configKey": "mysekai_site_housing_preset_slot_name_max_length",
-        "value": "10"
-    },
-    {
-        "configKey": "mysekai_photo_image_path_prefix",
-        "value": "image\/mysekai-photo"
-    },
-    {
-        "configKey": "mysekai_photo_initial_seq",
-        "value": "1"
-    },
-    {
-        "configKey": "mysekai_gate_change_interval_hour",
-        "value": "24"
-    },
-    {
-        "configKey": "mysekai_gate_character_reservation_interval_hour",
-        "value": "72"
-    },
-    {
-        "configKey": "mysekai_gate_visit_count_interval_ensure_character_visit_count",
-        "value": "6"
-    },
-    {
-        "configKey": "mysekai_fixture_game_character_bonus_rate_scale",
-        "value": "10"
-    }
+  {
+    "configKey": "date_change_hour",
+    "value": "4"
+  },
+  {
+    "configKey": "tutorial_action_set_ids",
+    "value": "1,2"
+  },
+  {
+    "configKey": "tutorial_boost_count",
+    "value": "0"
+  },
+  {
+    "configKey": "boost_max_count",
+    "value": "999"
+  },
+  {
+    "configKey": "boost_recovery_max_count",
+    "value": "25"
+  },
+  {
+    "configKey": "boost_recovery_second",
+    "value": "1800"
+  },
+  {
+    "configKey": "boost_scale",
+    "value": "5"
+  },
+  {
+    "configKey": "boost_use_max_count",
+    "value": "5"
+  },
+  {
+    "configKey": "rank_up_recover_boost_count",
+    "value": "10"
+  },
+  {
+    "configKey": "max_user_level",
+    "value": "700"
+  },
+  {
+    "configKey": "max_unit_level",
+    "value": "20"
+  },
+  {
+    "configKey": "max_character_rank",
+    "value": "160"
+  },
+  {
+    "configKey": "user_name_max_length",
+    "value": "10"
+  },
+  {
+    "configKey": "profile_word_max_length",
+    "value": "30"
+  },
+  {
+    "configKey": "tutorial_in_game_deck",
+    "value": "81,89,93,97,101"
+  },
+  {
+    "configKey": "default_theme_park_deck_member",
+    "value": "85,49,53,57,61"
+  },
+  {
+    "configKey": "default_idol_deck_member",
+    "value": "83,17,21,25,29"
+  },
+  {
+    "configKey": "default_street_deck_member",
+    "value": "84,33,37,41,45"
+  },
+  {
+    "configKey": "default_light_sound_deck_member",
+    "value": "82,1,5,9,13"
+  },
+  {
+    "configKey": "default_school_refusal_deck_member",
+    "value": "86,65,69,73,77"
+  },
+  {
+    "configKey": "default_deck_name",
+    "value": "ユニット01"
+  },
+  {
+    "configKey": "tutorial_theme_park_unit_story_id",
+    "value": "20000"
+  },
+  {
+    "configKey": "tutorial_idol_unit_story_id",
+    "value": "30000"
+  },
+  {
+    "configKey": "tutorial_street_unit_story_id",
+    "value": "40000"
+  },
+  {
+    "configKey": "tutorial_light_sound_unit_story_id",
+    "value": "50000"
+  },
+  {
+    "configKey": "tutorial_school_refusal_unit_story_id",
+    "value": "60000"
+  },
+  {
+    "configKey": "TutorialMusicStartTimeMs",
+    "value": "0"
+  },
+  {
+    "configKey": "story_favorite_count_limit",
+    "value": "10"
+  },
+  {
+    "configKey": "story_favorite_comment_length_limit",
+    "value": "1000"
+  },
+  {
+    "configKey": "action_set_reward_jewel_quantity",
+    "value": "10"
+  },
+  {
+    "configKey": "action_set_base_unit_exp",
+    "value": "30"
+  },
+  {
+    "configKey": "event_archive_complete_read_reward_jewel_quantity",
+    "value": "50"
+  },
+  {
+    "configKey": "obtain_live_point",
+    "value": "1"
+  },
+  {
+    "configKey": "obtain_live_point_for_challenge_live",
+    "value": "30"
+  },
+  {
+    "configKey": "auto_live_daily_play_count_limit",
+    "value": "10"
+  },
+  {
+    "configKey": "auto_live_available_boost_item_ids",
+    "value": "1,2"
+  },
+  {
+    "configKey": "multi_live_power_range_upper_limit_init",
+    "value": "10000"
+  },
+  {
+    "configKey": "multi_live_power_range_lower_limit_init",
+    "value": "10000"
+  },
+  {
+    "configKey": "multi_live_power_range_upper_limit_spread",
+    "value": "5000"
+  },
+  {
+    "configKey": "multi_live_power_range_lower_limit_spread",
+    "value": "5000"
+  },
+  {
+    "configKey": "multi_live_power_range_spread_second",
+    "value": "3000"
+  },
+  {
+    "configKey": "multi_live_cutin_max_count",
+    "value": "5"
+  },
+  {
+    "configKey": "multi_live_super_star",
+    "value": "1.3"
+  },
+  {
+    "configKey": "weekly_reset_reference",
+    "value": "SUNDAY"
+  },
+  {
+    "configKey": "drawable_beginner_gacha_hour",
+    "value": "168"
+  },
+  {
+    "configKey": "beginner_material_exchangeable_hour",
+    "value": "720"
+  },
+  {
+    "configKey": "challenge_point_calc_value",
+    "value": "8000"
+  },
+  {
+    "configKey": "challenge_base_point",
+    "value": "200"
+  },
+  {
+    "configKey": "notes_slide_width_collision",
+    "value": "1.25"
+  },
+  {
+    "configKey": "notes_slide_miss_mesh",
+    "value": "2"
+  },
+  {
+    "configKey": "flick_input_judge_distance",
+    "value": "12.0"
+  },
+  {
+    "configKey": "support_unit_exp_rate",
+    "value": "0.5"
+  },
+  {
+    "configKey": "photon_lobby_count",
+    "value": "1"
+  },
+  {
+    "configKey": "photon_room_count_per_channel",
+    "value": "100"
+  },
+  {
+    "configKey": "photon_room_count_per_channel_member_count",
+    "value": "5000"
+  },
+  {
+    "configKey": "streaming_live_max_channel_count",
+    "value": "60"
+  },
+  {
+    "configKey": "virtual_live_ranking_aggregate_second_before_end",
+    "value": "0"
+  },
+  {
+    "configKey": "virtual_live_ranking_aggregate_second_after_end",
+    "value": "60"
+  },
+  {
+    "configKey": "virtual_live_sync_polling_second",
+    "value": "1"
+  },
+  {
+    "configKey": "virtual_live_lobby_count",
+    "value": "1"
+  },
+  {
+    "configKey": "virtual_live_balloon_millisecond",
+    "value": "60000"
+  },
+  {
+    "configKey": "virtual_item_reduction",
+    "value": "0.01"
+  },
+  {
+    "configKey": "virtual_item_reduction_material_id",
+    "value": "15"
+  },
+  {
+    "configKey": "virtual_live_logout_time",
+    "value": "60"
+  },
+  {
+    "configKey": "virtual_live_beginner_valid_day",
+    "value": "15"
+  },
+  {
+    "configKey": "virtual_live_cheer_point_rate_for_jewel",
+    "value": "1"
+  },
+  {
+    "configKey": "snapshot_asset_hash",
+    "value": "develop"
+  },
+  {
+    "configKey": "login_bonus_id",
+    "value": "1"
+  },
+  {
+    "configKey": "beginner_login_bonus_id",
+    "value": "1"
+  },
+  {
+    "configKey": "beginner_login_bonus_enable",
+    "value": "true"
+  },
+  {
+    "configKey": "beginner_login_bonus_start_at",
+    "value": "2020/12/20 04:00:00"
+  },
+  {
+    "configKey": "beginner_mission_v2_start_at",
+    "value": "2023/09/30 00:00:00"
+  },
+  {
+    "configKey": "under_13_billing_limit",
+    "value": "5000"
+  },
+  {
+    "configKey": "over_13_and_under_20_billing_limit",
+    "value": "20000"
+  },
+  {
+    "configKey": "default_challenge_live_deck_limit",
+    "value": "1"
+  },
+  {
+    "configKey": "favorite_stamp_max_count",
+    "value": "20"
+  },
+  {
+    "configKey": "favorite_stamp_tab_count",
+    "value": "3"
+  },
+  {
+    "configKey": "stamp_tab_name_max_length",
+    "value": "20"
+  },
+  {
+    "configKey": "favorite_avatar_motion_max_count",
+    "value": "5"
+  },
+  {
+    "configKey": "init_favorite_avatar_motion_id",
+    "value": "35,5,33,34,3"
+  },
+  {
+    "configKey": "avatar_init_skin_color_id",
+    "value": "1"
+  },
+  {
+    "configKey": "init_penlight_id",
+    "value": "1"
+  },
+  {
+    "configKey": "jump_button_press_time_min",
+    "value": "0.03"
+  },
+  {
+    "configKey": "jump_button_press_time_max",
+    "value": "0.1"
+  },
+  {
+    "configKey": "event_item_reduction",
+    "value": "10"
+  },
+  {
+    "configKey": "event_score_ceiling",
+    "value": "4500000"
+  },
+  {
+    "configKey": "develop_virtual_live_max_connection",
+    "value": "100"
+  },
+  {
+    "configKey": "debug_virtual_live_max_connection",
+    "value": "100"
+  },
+  {
+    "configKey": "load_virtual_live_max_connection",
+    "value": "100"
+  },
+  {
+    "configKey": "production_virtual_live_max_connection",
+    "value": "25000"
+  },
+  {
+    "configKey": "promotion_virtual_live_max_connection",
+    "value": "100"
+  },
+  {
+    "configKey": "review_virtual_live_max_connection",
+    "value": "100"
+  },
+  {
+    "configKey": "staging_virtual_live_max_connection",
+    "value": "100"
+  },
+  {
+    "configKey": "trial_virtual_live_max_connection",
+    "value": "25000"
+  },
+  {
+    "configKey": "virtual_live_ignore_full_user_ids",
+    "value": "1534703194930896908,1534971037077430284,1534970991011389456,1534898748709629956,1534898657923653635,1534898726076899334,1534898708179804165,1534904320951545862"
+  },
+  {
+    "configKey": "virtual_live_seconds_to_leave_from_sleep",
+    "value": "20"
+  },
+  {
+    "configKey": "apple_store_url",
+    "value": "https://play.google.com/store/apps/details?id=com.sega.pjsekai"
+  },
+  {
+    "configKey": "google_store_url",
+    "value": "https://itunes.apple.com/app/id1489932710"
+  },
+  {
+    "configKey": "google_billing_pending_code",
+    "value": "4"
+  },
+  {
+    "configKey": "inherit_deadline_hour",
+    "value": "72"
+  },
+  {
+    "configKey": "multi_live_penalty_reset_hour",
+    "value": "6"
+  },
+  {
+    "configKey": "multi_live_penalty_reset_hour_of_event_high_rank",
+    "value": "2"
+  },
+  {
+    "configKey": "multi_live_penalty_less_than_equal_to_bad_note_rate",
+    "value": "50"
+  },
+  {
+    "configKey": "information_image_path",
+    "value": "images/information"
+  },
+  {
+    "configKey": "special_jacket_music_ids",
+    "value": "19,189,210"
+  },
+  {
+    "configKey": "card_practice_excessive_tolerance",
+    "value": "49999"
+  },
+  {
+    "configKey": "card_skill_practice_excessive_tolerance",
+    "value": "249"
+  },
+  {
+    "configKey": "card_skill_practice_material_excessive_tolerance",
+    "value": "1999"
+  },
+  {
+    "configKey": "svl_respond_type",
+    "value": "minimal"
+  },
+  {
+    "configKey": "svl_room_capacity",
+    "value": "100"
+  },
+  {
+    "configKey": "svl_room_interval",
+    "value": "200"
+  },
+  {
+    "configKey": "svl_sync_player_interval",
+    "value": "0.1"
+  },
+  {
+    "configKey": "svl_connection_timeout",
+    "value": "60000"
+  },
+  {
+    "configKey": "private_room_attempt_range",
+    "value": "15"
+  },
+  {
+    "configKey": "virtual_live_private_room_expire_hour",
+    "value": "24"
+  },
+  {
+    "configKey": "virtual_live_dummy_private_room_expire_minute",
+    "value": "10"
+  },
+  {
+    "configKey": "virtual_live_private_room_max_room_no",
+    "value": "999999"
+  },
+  {
+    "configKey": "multi_live_private_room_expire_hour",
+    "value": "1"
+  },
+  {
+    "configKey": "multi_live_dummy_private_room_expire_minute",
+    "value": "3"
+  },
+  {
+    "configKey": "multi_live_private_room_max_room_no",
+    "value": "99999"
+  },
+  {
+    "configKey": "challenge_live_event_point_rate",
+    "value": "120"
+  },
+  {
+    "configKey": "cheerful_carnival_live_win_point",
+    "value": "2"
+  },
+  {
+    "configKey": "cheerful_carnival_live_lose_point",
+    "value": "1"
+  },
+  {
+    "configKey": "cheerful_carnival_live_draw_point",
+    "value": "1"
+  },
+  {
+    "configKey": "cheerful_carnival_live_event_point_win",
+    "value": "0"
+  },
+  {
+    "configKey": "cheerful_carnival_live_event_point_life_bonus_rate",
+    "value": "0.0002"
+  },
+  {
+    "configKey": "cheerful_carnival_announce_consecutive_win_count",
+    "value": "10"
+  },
+  {
+    "configKey": "cheerful_carnival_team_select_free_limit",
+    "value": "50000"
+  },
+  {
+    "configKey": "cheerful_carnival_team_select_solicitation_rate",
+    "value": "1.1"
+  },
+  {
+    "configKey": "cheerful_carnival_team_select_force_rate",
+    "value": "1.5"
+  },
+  {
+    "configKey": "cheerful_carnival_team_change_limit",
+    "value": "1"
+  },
+  {
+    "configKey": "cheerful_carnival_team_point_shard_count",
+    "value": "1000"
+  },
+  {
+    "configKey": "cheerful_carnival_live_able_alive_user_count",
+    "value": "0"
+  },
+  {
+    "configKey": "cheerful_carnival_announce_polling_sec",
+    "value": "30"
+  },
+  {
+    "configKey": "boost_present_receivable_limit",
+    "value": "3"
+  },
+  {
+    "configKey": "challenge_live_reset_play_days_day_of_week",
+    "value": "MONDAY"
+  },
+  {
+    "configKey": "multi_live_connection_timeout",
+    "value": "30000"
+  },
+  {
+    "configKey": "gacha_seal_ticket_exchange_to_gacha_seal_unable_at",
+    "value": "2021/04/30 14:59:59"
+  },
+  {
+    "configKey": "force_update_spring_bone_frame_count",
+    "value": "60"
+  },
+  {
+    "configKey": "event_piapro_point_bonus",
+    "value": "25"
+  },
+  {
+    "configKey": "multi_live_fever_progress",
+    "value": "0.7"
+  },
+  {
+    "configKey": "multi_live_super_fever_progress",
+    "value": "1.0"
+  },
+  {
+    "configKey": "virtual_live_group_message_sync_count",
+    "value": "1"
+  },
+  {
+    "configKey": "custom_profile_text_line_spacing_factor",
+    "value": "1.325"
+  },
+  {
+    "configKey": "friend_request_expire_hour",
+    "value": "168"
+  },
+  {
+    "configKey": "friend_request_message_length_limit",
+    "value": "30"
+  },
+  {
+    "configKey": "friend_count_limit",
+    "value": "200"
+  },
+  {
+    "configKey": "user_block_count_limit",
+    "value": "200"
+  },
+  {
+    "configKey": "login_status_online_expire_sec",
+    "value": "600"
+  },
+  {
+    "configKey": "login_status_solo_live_expire_sec",
+    "value": "600"
+  },
+  {
+    "configKey": "login_status_multi_live_expire_sec",
+    "value": "600"
+  },
+  {
+    "configKey": "login_status_virtual_live_expire_sec",
+    "value": "600"
+  },
+  {
+    "configKey": "invitation_polling_period_sec",
+    "value": "10"
+  },
+  {
+    "configKey": "invitation_expire_sec",
+    "value": "60"
+  },
+  {
+    "configKey": "omikuji_should_draw_ratio",
+    "value": "0.2"
+  },
+  {
+    "configKey": "custom_profile_can_snap_delta_rotation_deg",
+    "value": "1"
+  },
+  {
+    "configKey": "custom_profile_rotation_per_snap_deg",
+    "value": "45"
+  },
+  {
+    "configKey": "custom_profile_unsnapped_rotation_threshold_deg",
+    "value": "5"
+  },
+  {
+    "configKey": "custom_profile_can_snap_delta_move_value",
+    "value": "1"
+  },
+  {
+    "configKey": "custom_profile_unsnapped_move_threshold",
+    "value": "25"
+  },
+  {
+    "configKey": "custom_profile_delta_move_value_per_snap",
+    "value": "25"
+  },
+  {
+    "configKey": "custom_profile_min_content_size",
+    "value": "64"
+  },
+  {
+    "configKey": "custom_profile_max_content_scale",
+    "value": "2"
+  },
+  {
+    "configKey": "custom_profile_scale_base_size",
+    "value": "256"
+  },
+  {
+    "configKey": "custom_profile_drag_mode_long_press_time_sec",
+    "value": "0.2"
+  },
+  {
+    "configKey": "custom_profile_max_place_content_count",
+    "value": "150"
+  },
+  {
+    "configKey": "custom_profile_thumbnail_path_prefix",
+    "value": "image/custom-profile-card/thumbnail"
+  },
+  {
+    "configKey": "custom_profile_min_text_size",
+    "value": "24"
+  },
+  {
+    "configKey": "custom_profile_max_text_size",
+    "value": "96"
+  },
+  {
+    "configKey": "custom_profile_max_creatable",
+    "value": "10"
+  },
+  {
+    "configKey": "profile_honor_max_size",
+    "value": "3"
+  },
+  {
+    "configKey": "rank_match_win_add_point",
+    "value": "1"
+  },
+  {
+    "configKey": "rank_match_lose_add_point",
+    "value": "-1"
+  },
+  {
+    "configKey": "rank_match_draw_add_point",
+    "value": "0"
+  },
+  {
+    "configKey": "rank_match_all_perfect_draw_add_point",
+    "value": "1"
+  },
+  {
+    "configKey": "rank_match_penalty_add_point",
+    "value": "-1"
+  },
+  {
+    "configKey": "rank_match_rank_up_adjust_point",
+    "value": "1"
+  },
+  {
+    "configKey": "rank_match_rank_down_adjust_point",
+    "value": "4"
+  },
+  {
+    "configKey": "rank_match_placement_play_count",
+    "value": "3"
+  },
+  {
+    "configKey": "rank_match_placement_top_limit",
+    "value": "10"
+  },
+  {
+    "configKey": "rank_match_score_encrypt_key_size",
+    "value": "256"
+  },
+  {
+    "configKey": "rank_match_recovery_penalty_count",
+    "value": "1"
+  },
+  {
+    "configKey": "rank_match_recovery_penalty_count_hour",
+    "value": "24"
+  },
+  {
+    "configKey": "rank_match_matching_class_scale",
+    "value": "3"
+  },
+  {
+    "configKey": "redis_ranking_expire_sec",
+    "value": "7776000"
+  },
+  {
+    "configKey": "ranking_border_expire_sec",
+    "value": "300"
+  },
+  {
+    "configKey": "cheerful_carnival_party_redis_lock_enable",
+    "value": "TRUE"
+  },
+  {
+    "configKey": "redis_lock_expire",
+    "value": "16000"
+  },
+  {
+    "configKey": "redis_lock_sleep",
+    "value": "200"
+  },
+  {
+    "configKey": "redis_lock_timeout",
+    "value": "8000"
+  },
+  {
+    "configKey": "debug_auth_disable",
+    "value": "false"
+  },
+  {
+    "configKey": "is_trial",
+    "value": "false"
+  },
+  {
+    "configKey": "trial_deck_01",
+    "value": "1001,1002,1003,1004,1027"
+  },
+  {
+    "configKey": "trial_deck_02",
+    "value": "1005,1006,1007,1008,1028"
+  },
+  {
+    "configKey": "trial_deck_03",
+    "value": "1009,1010,1011,1012,1029"
+  },
+  {
+    "configKey": "trial_deck_04",
+    "value": "1013,1014,1015,1016,1030"
+  },
+  {
+    "configKey": "trial_deck_05",
+    "value": "1017,1018,1019,1020,1031"
+  },
+  {
+    "configKey": "trial_deck_06",
+    "value": "1021,1022,1023,1024,1025"
+  },
+  {
+    "configKey": "trial_deck_07",
+    "value": "1021,1022,1023,1024,1026"
+  },
+  {
+    "configKey": "trial_deck_08",
+    "value": "1021,1022,1023,1025,1026"
+  },
+  {
+    "configKey": "trial_deck_09",
+    "value": "1021,1022,1024,1025,1026"
+  },
+  {
+    "configKey": "trial_deck_10",
+    "value": "1021,1023,1024,1025,1026"
+  },
+  {
+    "configKey": "trial_banner_url",
+    "value": "https://app.adjust.com/3jjmw0p?redirect=https%3A%2F%2Fpjsekai.sega.jp%2Fpreregistration%2Findex.html"
+  },
+  {
+    "configKey": "trial_banner_enable",
+    "value": "TRUE"
+  },
+  {
+    "configKey": "user_report_custom_profile_thumbnail_path_prefix",
+    "value": "custom-profile-card/thumbnail"
+  },
+  {
+    "configKey": "user_report_restriction_hours",
+    "value": "24"
+  },
+  {
+    "configKey": "streaming_virtual_live_ui_sound_volume",
+    "value": "0.2"
+  },
+  {
+    "configKey": "default_ui_sound_volume",
+    "value": "0.85"
+  },
+  {
+    "configKey": "user_report_thanks_message",
+    "value": "通報いただいたプレイヤーに対して、\\nペナルティ処置を行いました。\\nご協力いただきありがとうございました。"
+  },
+  {
+    "configKey": "user_mylist_under_limit",
+    "value": "1"
+  },
+  {
+    "configKey": "user_mylist_upper_limit",
+    "value": "5"
+  },
+  {
+    "configKey": "user_mylist_name_max_length",
+    "value": "10"
+  },
+  {
+    "configKey": "colorful_pass_continuous_buy_grace_period",
+    "value": "10"
+  },
+  {
+    "configKey": "offline_event_entry_id_min_length",
+    "value": "18"
+  },
+  {
+    "configKey": "offline_event_entry_id_alphabet",
+    "value": "23456789ABCDEFGHJKMNPQRSTUVWXYZ"
+  },
+  {
+    "configKey": "weekly_gacha_reset_day_of_week",
+    "value": "MONDAY"
+  },
+  {
+    "configKey": "story_episode_bookmark_thumbnail_path_prefix",
+    "value": "image/bookmark-story/thumbnail"
+  },
+  {
+    "configKey": "story_episode_bookmark_count",
+    "value": "20"
+  },
+  {
+    "configKey": "story_episode_bookmark_name_max_length",
+    "value": "20"
+  },
+  {
+    "configKey": "display_story_read_status",
+    "value": "true"
+  },
+  {
+    "configKey": "story_recommend_count",
+    "value": "11"
+  },
+  {
+    "configKey": "redis_story_recommend_expire_sec",
+    "value": "7776000"
+  },
+  {
+    "configKey": "world_bloom_support_deck_event_item_correction_value",
+    "value": "0.5"
+  },
+  {
+    "configKey": "card_episode_release_ticket_material_id",
+    "value": "86"
+  },
+  {
+    "configKey": "card_episode_release_cost_quantity",
+    "value": "1"
+  },
+  {
+    "configKey": "mysekai_refresh_hour",
+    "value": "5"
+  },
+  {
+    "configKey": "mysekai_fixture_disassemble_material_rate",
+    "value": "0.5"
+  },
+  {
+    "configKey": "mysekai_gate_character_non_priority_recent_visit_count",
+    "value": "2"
+  },
+  {
+    "configKey": "mysekai_convert_time_shorten_consume_jewel_per_minute",
+    "value": "1"
+  },
+  {
+    "configKey": "mysekai_harvest_site_fixture_hp_when_last_attack",
+    "value": "0"
+  },
+  {
+    "configKey": "redis_mysekai_room_expire_sec",
+    "value": "90000"
+  },
+  {
+    "configKey": "mysekai_weekly_reference",
+    "value": "MONDAY"
+  },
+  {
+    "configKey": "mysekai_site_housing_preset_slot_thumbnail_path_prefix",
+    "value": "image/mysekai-site-housing-preset-slot"
+  },
+  {
+    "configKey": "mysekai_site_housing_preset_slot_default_name_prefix",
+    "value": "プリセット"
+  },
+  {
+    "configKey": "mysekai_gate_skin_default_id",
+    "value": "0"
+  },
+  {
+    "configKey": "mysekai_site_housing_preset_slot_name_max_length",
+    "value": "10"
+  },
+  {
+    "configKey": "mysekai_photo_image_path_prefix",
+    "value": "image/mysekai-photo"
+  },
+  {
+    "configKey": "mysekai_photo_initial_seq",
+    "value": "1"
+  },
+  {
+    "configKey": "mysekai_gate_change_interval_hour",
+    "value": "24"
+  },
+  {
+    "configKey": "mysekai_gate_character_reservation_interval_hour",
+    "value": "72"
+  },
+  {
+    "configKey": "mysekai_gate_visit_count_interval_ensure_character_visit_count",
+    "value": "6"
+  },
+  {
+    "configKey": "mysekai_fixture_game_character_bonus_rate_scale",
+    "value": "10"
+  }
 ]

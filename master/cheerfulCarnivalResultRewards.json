@@ -1,2186 +1,2186 @@
 [
-    {
-        "id": 1,
-        "eventId": 18,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 1
-    },
-    {
-        "id": 2,
-        "eventId": 18,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 2
-    },
-    {
-        "id": 3,
-        "eventId": 18,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 2
-    },
-    {
-        "id": 4,
-        "eventId": 18,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 1
-    },
-    {
-        "id": 5,
-        "eventId": 18,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 2
-    },
-    {
-        "id": 6,
-        "eventId": 18,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 2
-    },
-    {
-        "id": 7,
-        "eventId": 18,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 3
-    },
-    {
-        "id": 8,
-        "eventId": 18,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 4
-    },
-    {
-        "id": 9,
-        "eventId": 21,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 1
-    },
-    {
-        "id": 10,
-        "eventId": 21,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 2
-    },
-    {
-        "id": 11,
-        "eventId": 21,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 2
-    },
-    {
-        "id": 12,
-        "eventId": 21,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 1
-    },
-    {
-        "id": 13,
-        "eventId": 21,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 2
-    },
-    {
-        "id": 14,
-        "eventId": 21,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 2
-    },
-    {
-        "id": 15,
-        "eventId": 21,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 3
-    },
-    {
-        "id": 16,
-        "eventId": 21,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 4
-    },
-    {
-        "id": 17,
-        "eventId": 24,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 1
-    },
-    {
-        "id": 18,
-        "eventId": 24,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 2
-    },
-    {
-        "id": 19,
-        "eventId": 24,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 2
-    },
-    {
-        "id": 20,
-        "eventId": 24,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 1
-    },
-    {
-        "id": 21,
-        "eventId": 24,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 2
-    },
-    {
-        "id": 22,
-        "eventId": 24,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 2
-    },
-    {
-        "id": 23,
-        "eventId": 24,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 3
-    },
-    {
-        "id": 24,
-        "eventId": 24,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 4
-    },
-    {
-        "id": 25,
-        "eventId": 27,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 1
-    },
-    {
-        "id": 26,
-        "eventId": 27,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 2
-    },
-    {
-        "id": 27,
-        "eventId": 27,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 2
-    },
-    {
-        "id": 28,
-        "eventId": 27,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 1
-    },
-    {
-        "id": 29,
-        "eventId": 27,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 2
-    },
-    {
-        "id": 30,
-        "eventId": 27,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 2
-    },
-    {
-        "id": 31,
-        "eventId": 27,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 3
-    },
-    {
-        "id": 32,
-        "eventId": 27,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 4
-    },
-    {
-        "id": 33,
-        "eventId": 30,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 17
-    },
-    {
-        "id": 34,
-        "eventId": 30,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 18
-    },
-    {
-        "id": 35,
-        "eventId": 30,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 18
-    },
-    {
-        "id": 36,
-        "eventId": 30,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 17
-    },
-    {
-        "id": 37,
-        "eventId": 30,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 18
-    },
-    {
-        "id": 38,
-        "eventId": 30,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 18
-    },
-    {
-        "id": 39,
-        "eventId": 30,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 19
-    },
-    {
-        "id": 40,
-        "eventId": 30,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 20
-    },
-    {
-        "id": 41,
-        "eventId": 33,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 21
-    },
-    {
-        "id": 42,
-        "eventId": 33,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 22
-    },
-    {
-        "id": 43,
-        "eventId": 33,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 22
-    },
-    {
-        "id": 44,
-        "eventId": 33,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 21
-    },
-    {
-        "id": 45,
-        "eventId": 33,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 22
-    },
-    {
-        "id": 46,
-        "eventId": 33,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 22
-    },
-    {
-        "id": 47,
-        "eventId": 33,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 23
-    },
-    {
-        "id": 48,
-        "eventId": 33,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 24
-    },
-    {
-        "id": 49,
-        "eventId": 36,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 25
-    },
-    {
-        "id": 50,
-        "eventId": 36,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 26
-    },
-    {
-        "id": 51,
-        "eventId": 36,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 26
-    },
-    {
-        "id": 52,
-        "eventId": 36,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 25
-    },
-    {
-        "id": 53,
-        "eventId": 36,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 26
-    },
-    {
-        "id": 54,
-        "eventId": 36,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 26
-    },
-    {
-        "id": 55,
-        "eventId": 36,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 27
-    },
-    {
-        "id": 56,
-        "eventId": 36,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 28
-    },
-    {
-        "id": 57,
-        "eventId": 39,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 29
-    },
-    {
-        "id": 58,
-        "eventId": 39,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 30
-    },
-    {
-        "id": 59,
-        "eventId": 39,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 30
-    },
-    {
-        "id": 60,
-        "eventId": 39,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 29
-    },
-    {
-        "id": 61,
-        "eventId": 39,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 30
-    },
-    {
-        "id": 62,
-        "eventId": 39,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 30
-    },
-    {
-        "id": 63,
-        "eventId": 39,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 31
-    },
-    {
-        "id": 64,
-        "eventId": 39,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 32
-    },
-    {
-        "id": 65,
-        "eventId": 42,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 33
-    },
-    {
-        "id": 66,
-        "eventId": 42,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 34
-    },
-    {
-        "id": 67,
-        "eventId": 42,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 34
-    },
-    {
-        "id": 68,
-        "eventId": 42,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 33
-    },
-    {
-        "id": 69,
-        "eventId": 42,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 34
-    },
-    {
-        "id": 70,
-        "eventId": 42,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 34
-    },
-    {
-        "id": 71,
-        "eventId": 42,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 35
-    },
-    {
-        "id": 72,
-        "eventId": 42,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 36
-    },
-    {
-        "id": 73,
-        "eventId": 45,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 37
-    },
-    {
-        "id": 74,
-        "eventId": 45,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 38
-    },
-    {
-        "id": 75,
-        "eventId": 45,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 38
-    },
-    {
-        "id": 76,
-        "eventId": 45,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 37
-    },
-    {
-        "id": 77,
-        "eventId": 45,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 38
-    },
-    {
-        "id": 78,
-        "eventId": 45,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 38
-    },
-    {
-        "id": 79,
-        "eventId": 45,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 39
-    },
-    {
-        "id": 80,
-        "eventId": 45,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 40
-    },
-    {
-        "id": 81,
-        "eventId": 48,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 41
-    },
-    {
-        "id": 82,
-        "eventId": 48,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 42
-    },
-    {
-        "id": 83,
-        "eventId": 48,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 42
-    },
-    {
-        "id": 84,
-        "eventId": 48,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 41
-    },
-    {
-        "id": 85,
-        "eventId": 48,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 42
-    },
-    {
-        "id": 86,
-        "eventId": 48,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 42
-    },
-    {
-        "id": 87,
-        "eventId": 48,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 43
-    },
-    {
-        "id": 88,
-        "eventId": 48,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 44
-    },
-    {
-        "id": 89,
-        "eventId": 51,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 45
-    },
-    {
-        "id": 90,
-        "eventId": 51,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 46
-    },
-    {
-        "id": 91,
-        "eventId": 51,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 46
-    },
-    {
-        "id": 92,
-        "eventId": 51,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 45
-    },
-    {
-        "id": 93,
-        "eventId": 51,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 46
-    },
-    {
-        "id": 94,
-        "eventId": 51,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 46
-    },
-    {
-        "id": 95,
-        "eventId": 51,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 47
-    },
-    {
-        "id": 96,
-        "eventId": 51,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 48
-    },
-    {
-        "id": 97,
-        "eventId": 54,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 49
-    },
-    {
-        "id": 98,
-        "eventId": 54,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 50
-    },
-    {
-        "id": 99,
-        "eventId": 54,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 50
-    },
-    {
-        "id": 100,
-        "eventId": 54,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 49
-    },
-    {
-        "id": 101,
-        "eventId": 54,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 50
-    },
-    {
-        "id": 102,
-        "eventId": 54,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 50
-    },
-    {
-        "id": 103,
-        "eventId": 54,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 51
-    },
-    {
-        "id": 104,
-        "eventId": 54,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 52
-    },
-    {
-        "id": 105,
-        "eventId": 57,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 53
-    },
-    {
-        "id": 106,
-        "eventId": 57,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 54
-    },
-    {
-        "id": 107,
-        "eventId": 57,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 54
-    },
-    {
-        "id": 108,
-        "eventId": 57,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 53
-    },
-    {
-        "id": 109,
-        "eventId": 57,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 54
-    },
-    {
-        "id": 110,
-        "eventId": 57,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 54
-    },
-    {
-        "id": 111,
-        "eventId": 57,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 55
-    },
-    {
-        "id": 112,
-        "eventId": 57,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 56
-    },
-    {
-        "id": 113,
-        "eventId": 60,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 57
-    },
-    {
-        "id": 114,
-        "eventId": 60,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 58
-    },
-    {
-        "id": 115,
-        "eventId": 60,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 58
-    },
-    {
-        "id": 116,
-        "eventId": 60,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 57
-    },
-    {
-        "id": 117,
-        "eventId": 60,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 58
-    },
-    {
-        "id": 118,
-        "eventId": 60,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 58
-    },
-    {
-        "id": 119,
-        "eventId": 60,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 59
-    },
-    {
-        "id": 120,
-        "eventId": 60,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 60
-    },
-    {
-        "id": 121,
-        "eventId": 63,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 61
-    },
-    {
-        "id": 122,
-        "eventId": 63,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 62
-    },
-    {
-        "id": 123,
-        "eventId": 63,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 62
-    },
-    {
-        "id": 124,
-        "eventId": 63,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 61
-    },
-    {
-        "id": 125,
-        "eventId": 63,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 62
-    },
-    {
-        "id": 126,
-        "eventId": 63,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 62
-    },
-    {
-        "id": 127,
-        "eventId": 63,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 63
-    },
-    {
-        "id": 128,
-        "eventId": 63,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 64
-    },
-    {
-        "id": 129,
-        "eventId": 66,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 65
-    },
-    {
-        "id": 130,
-        "eventId": 66,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 66
-    },
-    {
-        "id": 131,
-        "eventId": 66,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 66
-    },
-    {
-        "id": 132,
-        "eventId": 66,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 65
-    },
-    {
-        "id": 133,
-        "eventId": 66,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 66
-    },
-    {
-        "id": 134,
-        "eventId": 66,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 66
-    },
-    {
-        "id": 135,
-        "eventId": 66,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 67
-    },
-    {
-        "id": 136,
-        "eventId": 66,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 68
-    },
-    {
-        "id": 137,
-        "eventId": 69,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 69
-    },
-    {
-        "id": 138,
-        "eventId": 69,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 70
-    },
-    {
-        "id": 139,
-        "eventId": 69,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 70
-    },
-    {
-        "id": 140,
-        "eventId": 69,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 69
-    },
-    {
-        "id": 141,
-        "eventId": 69,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 70
-    },
-    {
-        "id": 142,
-        "eventId": 69,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 70
-    },
-    {
-        "id": 143,
-        "eventId": 69,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 71
-    },
-    {
-        "id": 144,
-        "eventId": 69,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 72
-    },
-    {
-        "id": 145,
-        "eventId": 72,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 73
-    },
-    {
-        "id": 146,
-        "eventId": 72,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 74
-    },
-    {
-        "id": 147,
-        "eventId": 72,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 74
-    },
-    {
-        "id": 148,
-        "eventId": 72,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 73
-    },
-    {
-        "id": 149,
-        "eventId": 72,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 74
-    },
-    {
-        "id": 150,
-        "eventId": 72,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 74
-    },
-    {
-        "id": 151,
-        "eventId": 72,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 75
-    },
-    {
-        "id": 152,
-        "eventId": 72,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 76
-    },
-    {
-        "id": 153,
-        "eventId": 75,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 77
-    },
-    {
-        "id": 154,
-        "eventId": 75,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 78
-    },
-    {
-        "id": 155,
-        "eventId": 75,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 78
-    },
-    {
-        "id": 156,
-        "eventId": 75,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 77
-    },
-    {
-        "id": 157,
-        "eventId": 75,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 78
-    },
-    {
-        "id": 158,
-        "eventId": 75,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 78
-    },
-    {
-        "id": 159,
-        "eventId": 75,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 79
-    },
-    {
-        "id": 160,
-        "eventId": 75,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 80
-    },
-    {
-        "id": 161,
-        "eventId": 78,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 81
-    },
-    {
-        "id": 162,
-        "eventId": 78,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 82
-    },
-    {
-        "id": 163,
-        "eventId": 78,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 82
-    },
-    {
-        "id": 164,
-        "eventId": 78,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 81
-    },
-    {
-        "id": 165,
-        "eventId": 78,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 82
-    },
-    {
-        "id": 166,
-        "eventId": 78,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 82
-    },
-    {
-        "id": 167,
-        "eventId": 78,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 83
-    },
-    {
-        "id": 168,
-        "eventId": 78,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 84
-    },
-    {
-        "id": 169,
-        "eventId": 81,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 85
-    },
-    {
-        "id": 170,
-        "eventId": 81,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 86
-    },
-    {
-        "id": 171,
-        "eventId": 81,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 86
-    },
-    {
-        "id": 172,
-        "eventId": 81,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 85
-    },
-    {
-        "id": 173,
-        "eventId": 81,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 86
-    },
-    {
-        "id": 174,
-        "eventId": 81,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 86
-    },
-    {
-        "id": 175,
-        "eventId": 81,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 87
-    },
-    {
-        "id": 176,
-        "eventId": 81,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 88
-    },
-    {
-        "id": 177,
-        "eventId": 84,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 89
-    },
-    {
-        "id": 178,
-        "eventId": 84,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 90
-    },
-    {
-        "id": 179,
-        "eventId": 84,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 90
-    },
-    {
-        "id": 180,
-        "eventId": 84,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 89
-    },
-    {
-        "id": 181,
-        "eventId": 84,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 90
-    },
-    {
-        "id": 182,
-        "eventId": 84,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 90
-    },
-    {
-        "id": 183,
-        "eventId": 84,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 91
-    },
-    {
-        "id": 184,
-        "eventId": 84,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 92
-    },
-    {
-        "id": 185,
-        "eventId": 87,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 93
-    },
-    {
-        "id": 186,
-        "eventId": 87,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 94
-    },
-    {
-        "id": 187,
-        "eventId": 87,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 94
-    },
-    {
-        "id": 188,
-        "eventId": 87,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 93
-    },
-    {
-        "id": 189,
-        "eventId": 87,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 94
-    },
-    {
-        "id": 190,
-        "eventId": 87,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 94
-    },
-    {
-        "id": 191,
-        "eventId": 87,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 95
-    },
-    {
-        "id": 192,
-        "eventId": 87,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 96
-    },
-    {
-        "id": 193,
-        "eventId": 90,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 97
-    },
-    {
-        "id": 194,
-        "eventId": 90,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 98
-    },
-    {
-        "id": 195,
-        "eventId": 90,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 98
-    },
-    {
-        "id": 196,
-        "eventId": 90,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 97
-    },
-    {
-        "id": 197,
-        "eventId": 90,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 98
-    },
-    {
-        "id": 198,
-        "eventId": 90,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 98
-    },
-    {
-        "id": 199,
-        "eventId": 90,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 99
-    },
-    {
-        "id": 200,
-        "eventId": 90,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 100
-    },
-    {
-        "id": 201,
-        "eventId": 93,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 101
-    },
-    {
-        "id": 202,
-        "eventId": 93,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 102
-    },
-    {
-        "id": 203,
-        "eventId": 93,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 102
-    },
-    {
-        "id": 204,
-        "eventId": 93,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 101
-    },
-    {
-        "id": 205,
-        "eventId": 93,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 102
-    },
-    {
-        "id": 206,
-        "eventId": 93,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 102
-    },
-    {
-        "id": 207,
-        "eventId": 93,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 103
-    },
-    {
-        "id": 208,
-        "eventId": 93,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 104
-    },
-    {
-        "id": 209,
-        "eventId": 96,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 105
-    },
-    {
-        "id": 210,
-        "eventId": 96,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 106
-    },
-    {
-        "id": 211,
-        "eventId": 96,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 106
-    },
-    {
-        "id": 212,
-        "eventId": 96,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 105
-    },
-    {
-        "id": 213,
-        "eventId": 96,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 106
-    },
-    {
-        "id": 214,
-        "eventId": 96,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 106
-    },
-    {
-        "id": 215,
-        "eventId": 96,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 107
-    },
-    {
-        "id": 216,
-        "eventId": 96,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 108
-    },
-    {
-        "id": 217,
-        "eventId": 99,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 109
-    },
-    {
-        "id": 218,
-        "eventId": 99,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 110
-    },
-    {
-        "id": 219,
-        "eventId": 99,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 110
-    },
-    {
-        "id": 220,
-        "eventId": 99,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 109
-    },
-    {
-        "id": 221,
-        "eventId": 99,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 110
-    },
-    {
-        "id": 222,
-        "eventId": 99,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 110
-    },
-    {
-        "id": 223,
-        "eventId": 99,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 111
-    },
-    {
-        "id": 224,
-        "eventId": 99,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 112
-    },
-    {
-        "id": 225,
-        "eventId": 102,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 113
-    },
-    {
-        "id": 226,
-        "eventId": 102,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 114
-    },
-    {
-        "id": 227,
-        "eventId": 102,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 114
-    },
-    {
-        "id": 228,
-        "eventId": 102,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 113
-    },
-    {
-        "id": 229,
-        "eventId": 102,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 114
-    },
-    {
-        "id": 230,
-        "eventId": 102,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 114
-    },
-    {
-        "id": 231,
-        "eventId": 102,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 115
-    },
-    {
-        "id": 232,
-        "eventId": 102,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 116
-    },
-    {
-        "id": 233,
-        "eventId": 105,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 117
-    },
-    {
-        "id": 234,
-        "eventId": 105,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 118
-    },
-    {
-        "id": 235,
-        "eventId": 105,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 118
-    },
-    {
-        "id": 236,
-        "eventId": 105,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 117
-    },
-    {
-        "id": 237,
-        "eventId": 105,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 118
-    },
-    {
-        "id": 238,
-        "eventId": 105,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 118
-    },
-    {
-        "id": 239,
-        "eventId": 105,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 119
-    },
-    {
-        "id": 240,
-        "eventId": 105,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 120
-    },
-    {
-        "id": 241,
-        "eventId": 108,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 121
-    },
-    {
-        "id": 242,
-        "eventId": 108,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 122
-    },
-    {
-        "id": 243,
-        "eventId": 108,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 122
-    },
-    {
-        "id": 244,
-        "eventId": 108,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 121
-    },
-    {
-        "id": 245,
-        "eventId": 108,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 122
-    },
-    {
-        "id": 246,
-        "eventId": 108,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 122
-    },
-    {
-        "id": 247,
-        "eventId": 108,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 123
-    },
-    {
-        "id": 248,
-        "eventId": 108,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 124
-    },
-    {
-        "id": 249,
-        "eventId": 111,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 125
-    },
-    {
-        "id": 250,
-        "eventId": 111,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 126
-    },
-    {
-        "id": 251,
-        "eventId": 111,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 126
-    },
-    {
-        "id": 252,
-        "eventId": 111,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 125
-    },
-    {
-        "id": 253,
-        "eventId": 111,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 126
-    },
-    {
-        "id": 254,
-        "eventId": 111,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 126
-    },
-    {
-        "id": 255,
-        "eventId": 111,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 127
-    },
-    {
-        "id": 256,
-        "eventId": 111,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 128
-    },
-    {
-        "id": 257,
-        "eventId": 114,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 129
-    },
-    {
-        "id": 258,
-        "eventId": 114,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 130
-    },
-    {
-        "id": 259,
-        "eventId": 114,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 130
-    },
-    {
-        "id": 260,
-        "eventId": 114,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 129
-    },
-    {
-        "id": 261,
-        "eventId": 114,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 130
-    },
-    {
-        "id": 262,
-        "eventId": 114,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 130
-    },
-    {
-        "id": 263,
-        "eventId": 114,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 131
-    },
-    {
-        "id": 264,
-        "eventId": 114,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 132
-    },
-    {
-        "id": 265,
-        "eventId": 117,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 133
-    },
-    {
-        "id": 266,
-        "eventId": 117,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 134
-    },
-    {
-        "id": 267,
-        "eventId": 117,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 134
-    },
-    {
-        "id": 268,
-        "eventId": 117,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 133
-    },
-    {
-        "id": 269,
-        "eventId": 117,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 134
-    },
-    {
-        "id": 270,
-        "eventId": 117,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 134
-    },
-    {
-        "id": 271,
-        "eventId": 117,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 135
-    },
-    {
-        "id": 272,
-        "eventId": 117,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 136
-    },
-    {
-        "id": 273,
-        "eventId": 120,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 137
-    },
-    {
-        "id": 274,
-        "eventId": 120,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 138
-    },
-    {
-        "id": 275,
-        "eventId": 120,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 138
-    },
-    {
-        "id": 276,
-        "eventId": 120,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 137
-    },
-    {
-        "id": 277,
-        "eventId": 120,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 138
-    },
-    {
-        "id": 278,
-        "eventId": 120,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 138
-    },
-    {
-        "id": 279,
-        "eventId": 120,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 139
-    },
-    {
-        "id": 280,
-        "eventId": 120,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 140
-    },
-    {
-        "id": 281,
-        "eventId": 123,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 141
-    },
-    {
-        "id": 282,
-        "eventId": 123,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 142
-    },
-    {
-        "id": 283,
-        "eventId": 123,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 142
-    },
-    {
-        "id": 284,
-        "eventId": 123,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 141
-    },
-    {
-        "id": 285,
-        "eventId": 123,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 142
-    },
-    {
-        "id": 286,
-        "eventId": 123,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 142
-    },
-    {
-        "id": 287,
-        "eventId": 123,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 143
-    },
-    {
-        "id": 288,
-        "eventId": 123,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 144
-    },
-    {
-        "id": 289,
-        "eventId": 126,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 145
-    },
-    {
-        "id": 290,
-        "eventId": 126,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 146
-    },
-    {
-        "id": 291,
-        "eventId": 126,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 146
-    },
-    {
-        "id": 292,
-        "eventId": 126,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 145
-    },
-    {
-        "id": 293,
-        "eventId": 126,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 146
-    },
-    {
-        "id": 294,
-        "eventId": 126,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 146
-    },
-    {
-        "id": 295,
-        "eventId": 126,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 147
-    },
-    {
-        "id": 296,
-        "eventId": 126,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 148
-    },
-    {
-        "id": 305,
-        "eventId": 132,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 153
-    },
-    {
-        "id": 306,
-        "eventId": 132,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 154
-    },
-    {
-        "id": 307,
-        "eventId": 132,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 154
-    },
-    {
-        "id": 308,
-        "eventId": 132,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 153
-    },
-    {
-        "id": 309,
-        "eventId": 132,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 154
-    },
-    {
-        "id": 310,
-        "eventId": 132,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 154
-    },
-    {
-        "id": 311,
-        "eventId": 132,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 155
-    },
-    {
-        "id": 312,
-        "eventId": 132,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 156
-    },
-    {
-        "id": 313,
-        "eventId": 166,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 153
-    },
-    {
-        "id": 314,
-        "eventId": 166,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 154
-    },
-    {
-        "id": 315,
-        "eventId": 166,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 154
-    },
-    {
-        "id": 316,
-        "eventId": 166,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 153
-    },
-    {
-        "id": 317,
-        "eventId": 166,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 154
-    },
-    {
-        "id": 318,
-        "eventId": 166,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
-        "cheerfulCarnivalResultType": "draw",
-        "resourceBoxId": 154
-    },
-    {
-        "id": 319,
-        "eventId": 166,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "victory",
-        "resourceBoxId": 155
-    },
-    {
-        "id": 320,
-        "eventId": 166,
-        "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
-        "cheerfulCarnivalResultType": "defeat",
-        "resourceBoxId": 156
-    }
+  {
+    "id": 1,
+    "eventId": 18,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 1
+  },
+  {
+    "id": 2,
+    "eventId": 18,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 2
+  },
+  {
+    "id": 3,
+    "eventId": 18,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 2
+  },
+  {
+    "id": 4,
+    "eventId": 18,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 1
+  },
+  {
+    "id": 5,
+    "eventId": 18,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 2
+  },
+  {
+    "id": 6,
+    "eventId": 18,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 2
+  },
+  {
+    "id": 7,
+    "eventId": 18,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 3
+  },
+  {
+    "id": 8,
+    "eventId": 18,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 4
+  },
+  {
+    "id": 9,
+    "eventId": 21,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 1
+  },
+  {
+    "id": 10,
+    "eventId": 21,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 2
+  },
+  {
+    "id": 11,
+    "eventId": 21,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 2
+  },
+  {
+    "id": 12,
+    "eventId": 21,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 1
+  },
+  {
+    "id": 13,
+    "eventId": 21,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 2
+  },
+  {
+    "id": 14,
+    "eventId": 21,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 2
+  },
+  {
+    "id": 15,
+    "eventId": 21,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 3
+  },
+  {
+    "id": 16,
+    "eventId": 21,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 4
+  },
+  {
+    "id": 17,
+    "eventId": 24,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 1
+  },
+  {
+    "id": 18,
+    "eventId": 24,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 2
+  },
+  {
+    "id": 19,
+    "eventId": 24,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 2
+  },
+  {
+    "id": 20,
+    "eventId": 24,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 1
+  },
+  {
+    "id": 21,
+    "eventId": 24,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 2
+  },
+  {
+    "id": 22,
+    "eventId": 24,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 2
+  },
+  {
+    "id": 23,
+    "eventId": 24,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 3
+  },
+  {
+    "id": 24,
+    "eventId": 24,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 4
+  },
+  {
+    "id": 25,
+    "eventId": 27,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 1
+  },
+  {
+    "id": 26,
+    "eventId": 27,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 2
+  },
+  {
+    "id": 27,
+    "eventId": 27,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 2
+  },
+  {
+    "id": 28,
+    "eventId": 27,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 1
+  },
+  {
+    "id": 29,
+    "eventId": 27,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 2
+  },
+  {
+    "id": 30,
+    "eventId": 27,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 2
+  },
+  {
+    "id": 31,
+    "eventId": 27,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 3
+  },
+  {
+    "id": 32,
+    "eventId": 27,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 4
+  },
+  {
+    "id": 33,
+    "eventId": 30,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 17
+  },
+  {
+    "id": 34,
+    "eventId": 30,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 18
+  },
+  {
+    "id": 35,
+    "eventId": 30,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 18
+  },
+  {
+    "id": 36,
+    "eventId": 30,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 17
+  },
+  {
+    "id": 37,
+    "eventId": 30,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 18
+  },
+  {
+    "id": 38,
+    "eventId": 30,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 18
+  },
+  {
+    "id": 39,
+    "eventId": 30,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 19
+  },
+  {
+    "id": 40,
+    "eventId": 30,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 20
+  },
+  {
+    "id": 41,
+    "eventId": 33,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 21
+  },
+  {
+    "id": 42,
+    "eventId": 33,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 22
+  },
+  {
+    "id": 43,
+    "eventId": 33,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 22
+  },
+  {
+    "id": 44,
+    "eventId": 33,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 21
+  },
+  {
+    "id": 45,
+    "eventId": 33,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 22
+  },
+  {
+    "id": 46,
+    "eventId": 33,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 22
+  },
+  {
+    "id": 47,
+    "eventId": 33,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 23
+  },
+  {
+    "id": 48,
+    "eventId": 33,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 24
+  },
+  {
+    "id": 49,
+    "eventId": 36,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 25
+  },
+  {
+    "id": 50,
+    "eventId": 36,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 26
+  },
+  {
+    "id": 51,
+    "eventId": 36,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 26
+  },
+  {
+    "id": 52,
+    "eventId": 36,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 25
+  },
+  {
+    "id": 53,
+    "eventId": 36,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 26
+  },
+  {
+    "id": 54,
+    "eventId": 36,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 26
+  },
+  {
+    "id": 55,
+    "eventId": 36,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 27
+  },
+  {
+    "id": 56,
+    "eventId": 36,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 28
+  },
+  {
+    "id": 57,
+    "eventId": 39,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 29
+  },
+  {
+    "id": 58,
+    "eventId": 39,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 30
+  },
+  {
+    "id": 59,
+    "eventId": 39,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 30
+  },
+  {
+    "id": 60,
+    "eventId": 39,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 29
+  },
+  {
+    "id": 61,
+    "eventId": 39,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 30
+  },
+  {
+    "id": 62,
+    "eventId": 39,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 30
+  },
+  {
+    "id": 63,
+    "eventId": 39,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 31
+  },
+  {
+    "id": 64,
+    "eventId": 39,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 32
+  },
+  {
+    "id": 65,
+    "eventId": 42,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 33
+  },
+  {
+    "id": 66,
+    "eventId": 42,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 34
+  },
+  {
+    "id": 67,
+    "eventId": 42,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 34
+  },
+  {
+    "id": 68,
+    "eventId": 42,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 33
+  },
+  {
+    "id": 69,
+    "eventId": 42,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 34
+  },
+  {
+    "id": 70,
+    "eventId": 42,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 34
+  },
+  {
+    "id": 71,
+    "eventId": 42,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 35
+  },
+  {
+    "id": 72,
+    "eventId": 42,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 36
+  },
+  {
+    "id": 73,
+    "eventId": 45,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 37
+  },
+  {
+    "id": 74,
+    "eventId": 45,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 38
+  },
+  {
+    "id": 75,
+    "eventId": 45,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 38
+  },
+  {
+    "id": 76,
+    "eventId": 45,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 37
+  },
+  {
+    "id": 77,
+    "eventId": 45,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 38
+  },
+  {
+    "id": 78,
+    "eventId": 45,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 38
+  },
+  {
+    "id": 79,
+    "eventId": 45,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 39
+  },
+  {
+    "id": 80,
+    "eventId": 45,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 40
+  },
+  {
+    "id": 81,
+    "eventId": 48,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 41
+  },
+  {
+    "id": 82,
+    "eventId": 48,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 42
+  },
+  {
+    "id": 83,
+    "eventId": 48,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 42
+  },
+  {
+    "id": 84,
+    "eventId": 48,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 41
+  },
+  {
+    "id": 85,
+    "eventId": 48,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 42
+  },
+  {
+    "id": 86,
+    "eventId": 48,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 42
+  },
+  {
+    "id": 87,
+    "eventId": 48,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 43
+  },
+  {
+    "id": 88,
+    "eventId": 48,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 44
+  },
+  {
+    "id": 89,
+    "eventId": 51,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 45
+  },
+  {
+    "id": 90,
+    "eventId": 51,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 46
+  },
+  {
+    "id": 91,
+    "eventId": 51,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 46
+  },
+  {
+    "id": 92,
+    "eventId": 51,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 45
+  },
+  {
+    "id": 93,
+    "eventId": 51,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 46
+  },
+  {
+    "id": 94,
+    "eventId": 51,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 46
+  },
+  {
+    "id": 95,
+    "eventId": 51,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 47
+  },
+  {
+    "id": 96,
+    "eventId": 51,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 48
+  },
+  {
+    "id": 97,
+    "eventId": 54,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 49
+  },
+  {
+    "id": 98,
+    "eventId": 54,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 50
+  },
+  {
+    "id": 99,
+    "eventId": 54,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 50
+  },
+  {
+    "id": 100,
+    "eventId": 54,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 49
+  },
+  {
+    "id": 101,
+    "eventId": 54,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 50
+  },
+  {
+    "id": 102,
+    "eventId": 54,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 50
+  },
+  {
+    "id": 103,
+    "eventId": 54,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 51
+  },
+  {
+    "id": 104,
+    "eventId": 54,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 52
+  },
+  {
+    "id": 105,
+    "eventId": 57,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 53
+  },
+  {
+    "id": 106,
+    "eventId": 57,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 54
+  },
+  {
+    "id": 107,
+    "eventId": 57,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 54
+  },
+  {
+    "id": 108,
+    "eventId": 57,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 53
+  },
+  {
+    "id": 109,
+    "eventId": 57,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 54
+  },
+  {
+    "id": 110,
+    "eventId": 57,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 54
+  },
+  {
+    "id": 111,
+    "eventId": 57,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 55
+  },
+  {
+    "id": 112,
+    "eventId": 57,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 56
+  },
+  {
+    "id": 113,
+    "eventId": 60,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 57
+  },
+  {
+    "id": 114,
+    "eventId": 60,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 58
+  },
+  {
+    "id": 115,
+    "eventId": 60,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 58
+  },
+  {
+    "id": 116,
+    "eventId": 60,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 57
+  },
+  {
+    "id": 117,
+    "eventId": 60,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 58
+  },
+  {
+    "id": 118,
+    "eventId": 60,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 58
+  },
+  {
+    "id": 119,
+    "eventId": 60,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 59
+  },
+  {
+    "id": 120,
+    "eventId": 60,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 60
+  },
+  {
+    "id": 121,
+    "eventId": 63,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 61
+  },
+  {
+    "id": 122,
+    "eventId": 63,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 62
+  },
+  {
+    "id": 123,
+    "eventId": 63,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 62
+  },
+  {
+    "id": 124,
+    "eventId": 63,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 61
+  },
+  {
+    "id": 125,
+    "eventId": 63,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 62
+  },
+  {
+    "id": 126,
+    "eventId": 63,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 62
+  },
+  {
+    "id": 127,
+    "eventId": 63,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 63
+  },
+  {
+    "id": 128,
+    "eventId": 63,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 64
+  },
+  {
+    "id": 129,
+    "eventId": 66,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 65
+  },
+  {
+    "id": 130,
+    "eventId": 66,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 66
+  },
+  {
+    "id": 131,
+    "eventId": 66,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 66
+  },
+  {
+    "id": 132,
+    "eventId": 66,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 65
+  },
+  {
+    "id": 133,
+    "eventId": 66,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 66
+  },
+  {
+    "id": 134,
+    "eventId": 66,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 66
+  },
+  {
+    "id": 135,
+    "eventId": 66,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 67
+  },
+  {
+    "id": 136,
+    "eventId": 66,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 68
+  },
+  {
+    "id": 137,
+    "eventId": 69,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 69
+  },
+  {
+    "id": 138,
+    "eventId": 69,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 70
+  },
+  {
+    "id": 139,
+    "eventId": 69,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 70
+  },
+  {
+    "id": 140,
+    "eventId": 69,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 69
+  },
+  {
+    "id": 141,
+    "eventId": 69,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 70
+  },
+  {
+    "id": 142,
+    "eventId": 69,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 70
+  },
+  {
+    "id": 143,
+    "eventId": 69,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 71
+  },
+  {
+    "id": 144,
+    "eventId": 69,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 72
+  },
+  {
+    "id": 145,
+    "eventId": 72,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 73
+  },
+  {
+    "id": 146,
+    "eventId": 72,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 74
+  },
+  {
+    "id": 147,
+    "eventId": 72,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 74
+  },
+  {
+    "id": 148,
+    "eventId": 72,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 73
+  },
+  {
+    "id": 149,
+    "eventId": 72,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 74
+  },
+  {
+    "id": 150,
+    "eventId": 72,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 74
+  },
+  {
+    "id": 151,
+    "eventId": 72,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 75
+  },
+  {
+    "id": 152,
+    "eventId": 72,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 76
+  },
+  {
+    "id": 153,
+    "eventId": 75,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 77
+  },
+  {
+    "id": 154,
+    "eventId": 75,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 78
+  },
+  {
+    "id": 155,
+    "eventId": 75,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 78
+  },
+  {
+    "id": 156,
+    "eventId": 75,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 77
+  },
+  {
+    "id": 157,
+    "eventId": 75,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 78
+  },
+  {
+    "id": 158,
+    "eventId": 75,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 78
+  },
+  {
+    "id": 159,
+    "eventId": 75,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 79
+  },
+  {
+    "id": 160,
+    "eventId": 75,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 80
+  },
+  {
+    "id": 161,
+    "eventId": 78,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 81
+  },
+  {
+    "id": 162,
+    "eventId": 78,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 82
+  },
+  {
+    "id": 163,
+    "eventId": 78,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 82
+  },
+  {
+    "id": 164,
+    "eventId": 78,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 81
+  },
+  {
+    "id": 165,
+    "eventId": 78,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 82
+  },
+  {
+    "id": 166,
+    "eventId": 78,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 82
+  },
+  {
+    "id": 167,
+    "eventId": 78,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 83
+  },
+  {
+    "id": 168,
+    "eventId": 78,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 84
+  },
+  {
+    "id": 169,
+    "eventId": 81,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 85
+  },
+  {
+    "id": 170,
+    "eventId": 81,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 86
+  },
+  {
+    "id": 171,
+    "eventId": 81,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 86
+  },
+  {
+    "id": 172,
+    "eventId": 81,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 85
+  },
+  {
+    "id": 173,
+    "eventId": 81,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 86
+  },
+  {
+    "id": 174,
+    "eventId": 81,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 86
+  },
+  {
+    "id": 175,
+    "eventId": 81,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 87
+  },
+  {
+    "id": 176,
+    "eventId": 81,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 88
+  },
+  {
+    "id": 177,
+    "eventId": 84,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 89
+  },
+  {
+    "id": 178,
+    "eventId": 84,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 90
+  },
+  {
+    "id": 179,
+    "eventId": 84,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 90
+  },
+  {
+    "id": 180,
+    "eventId": 84,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 89
+  },
+  {
+    "id": 181,
+    "eventId": 84,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 90
+  },
+  {
+    "id": 182,
+    "eventId": 84,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 90
+  },
+  {
+    "id": 183,
+    "eventId": 84,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 91
+  },
+  {
+    "id": 184,
+    "eventId": 84,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 92
+  },
+  {
+    "id": 185,
+    "eventId": 87,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 93
+  },
+  {
+    "id": 186,
+    "eventId": 87,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 94
+  },
+  {
+    "id": 187,
+    "eventId": 87,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 94
+  },
+  {
+    "id": 188,
+    "eventId": 87,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 93
+  },
+  {
+    "id": 189,
+    "eventId": 87,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 94
+  },
+  {
+    "id": 190,
+    "eventId": 87,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 94
+  },
+  {
+    "id": 191,
+    "eventId": 87,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 95
+  },
+  {
+    "id": 192,
+    "eventId": 87,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 96
+  },
+  {
+    "id": 193,
+    "eventId": 90,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 97
+  },
+  {
+    "id": 194,
+    "eventId": 90,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 98
+  },
+  {
+    "id": 195,
+    "eventId": 90,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 98
+  },
+  {
+    "id": 196,
+    "eventId": 90,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 97
+  },
+  {
+    "id": 197,
+    "eventId": 90,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 98
+  },
+  {
+    "id": 198,
+    "eventId": 90,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 98
+  },
+  {
+    "id": 199,
+    "eventId": 90,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 99
+  },
+  {
+    "id": 200,
+    "eventId": 90,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 100
+  },
+  {
+    "id": 201,
+    "eventId": 93,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 101
+  },
+  {
+    "id": 202,
+    "eventId": 93,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 102
+  },
+  {
+    "id": 203,
+    "eventId": 93,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 102
+  },
+  {
+    "id": 204,
+    "eventId": 93,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 101
+  },
+  {
+    "id": 205,
+    "eventId": 93,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 102
+  },
+  {
+    "id": 206,
+    "eventId": 93,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 102
+  },
+  {
+    "id": 207,
+    "eventId": 93,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 103
+  },
+  {
+    "id": 208,
+    "eventId": 93,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 104
+  },
+  {
+    "id": 209,
+    "eventId": 96,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 105
+  },
+  {
+    "id": 210,
+    "eventId": 96,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 106
+  },
+  {
+    "id": 211,
+    "eventId": 96,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 106
+  },
+  {
+    "id": 212,
+    "eventId": 96,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 105
+  },
+  {
+    "id": 213,
+    "eventId": 96,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 106
+  },
+  {
+    "id": 214,
+    "eventId": 96,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 106
+  },
+  {
+    "id": 215,
+    "eventId": 96,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 107
+  },
+  {
+    "id": 216,
+    "eventId": 96,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 108
+  },
+  {
+    "id": 217,
+    "eventId": 99,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 109
+  },
+  {
+    "id": 218,
+    "eventId": 99,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 110
+  },
+  {
+    "id": 219,
+    "eventId": 99,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 110
+  },
+  {
+    "id": 220,
+    "eventId": 99,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 109
+  },
+  {
+    "id": 221,
+    "eventId": 99,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 110
+  },
+  {
+    "id": 222,
+    "eventId": 99,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 110
+  },
+  {
+    "id": 223,
+    "eventId": 99,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 111
+  },
+  {
+    "id": 224,
+    "eventId": 99,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 112
+  },
+  {
+    "id": 225,
+    "eventId": 102,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 113
+  },
+  {
+    "id": 226,
+    "eventId": 102,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 114
+  },
+  {
+    "id": 227,
+    "eventId": 102,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 114
+  },
+  {
+    "id": 228,
+    "eventId": 102,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 113
+  },
+  {
+    "id": 229,
+    "eventId": 102,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 114
+  },
+  {
+    "id": 230,
+    "eventId": 102,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 114
+  },
+  {
+    "id": 231,
+    "eventId": 102,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 115
+  },
+  {
+    "id": 232,
+    "eventId": 102,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 116
+  },
+  {
+    "id": 233,
+    "eventId": 105,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 117
+  },
+  {
+    "id": 234,
+    "eventId": 105,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 118
+  },
+  {
+    "id": 235,
+    "eventId": 105,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 118
+  },
+  {
+    "id": 236,
+    "eventId": 105,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 117
+  },
+  {
+    "id": 237,
+    "eventId": 105,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 118
+  },
+  {
+    "id": 238,
+    "eventId": 105,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 118
+  },
+  {
+    "id": 239,
+    "eventId": 105,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 119
+  },
+  {
+    "id": 240,
+    "eventId": 105,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 120
+  },
+  {
+    "id": 241,
+    "eventId": 108,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 121
+  },
+  {
+    "id": 242,
+    "eventId": 108,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 122
+  },
+  {
+    "id": 243,
+    "eventId": 108,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 122
+  },
+  {
+    "id": 244,
+    "eventId": 108,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 121
+  },
+  {
+    "id": 245,
+    "eventId": 108,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 122
+  },
+  {
+    "id": 246,
+    "eventId": 108,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 122
+  },
+  {
+    "id": 247,
+    "eventId": 108,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 123
+  },
+  {
+    "id": 248,
+    "eventId": 108,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 124
+  },
+  {
+    "id": 249,
+    "eventId": 111,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 125
+  },
+  {
+    "id": 250,
+    "eventId": 111,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 126
+  },
+  {
+    "id": 251,
+    "eventId": 111,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 126
+  },
+  {
+    "id": 252,
+    "eventId": 111,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 125
+  },
+  {
+    "id": 253,
+    "eventId": 111,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 126
+  },
+  {
+    "id": 254,
+    "eventId": 111,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 126
+  },
+  {
+    "id": 255,
+    "eventId": 111,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 127
+  },
+  {
+    "id": 256,
+    "eventId": 111,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 128
+  },
+  {
+    "id": 257,
+    "eventId": 114,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 129
+  },
+  {
+    "id": 258,
+    "eventId": 114,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 130
+  },
+  {
+    "id": 259,
+    "eventId": 114,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 130
+  },
+  {
+    "id": 260,
+    "eventId": 114,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 129
+  },
+  {
+    "id": 261,
+    "eventId": 114,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 130
+  },
+  {
+    "id": 262,
+    "eventId": 114,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 130
+  },
+  {
+    "id": 263,
+    "eventId": 114,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 131
+  },
+  {
+    "id": 264,
+    "eventId": 114,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 132
+  },
+  {
+    "id": 265,
+    "eventId": 117,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 133
+  },
+  {
+    "id": 266,
+    "eventId": 117,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 134
+  },
+  {
+    "id": 267,
+    "eventId": 117,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 134
+  },
+  {
+    "id": 268,
+    "eventId": 117,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 133
+  },
+  {
+    "id": 269,
+    "eventId": 117,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 134
+  },
+  {
+    "id": 270,
+    "eventId": 117,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 134
+  },
+  {
+    "id": 271,
+    "eventId": 117,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 135
+  },
+  {
+    "id": 272,
+    "eventId": 117,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 136
+  },
+  {
+    "id": 273,
+    "eventId": 120,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 137
+  },
+  {
+    "id": 274,
+    "eventId": 120,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 138
+  },
+  {
+    "id": 275,
+    "eventId": 120,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 138
+  },
+  {
+    "id": 276,
+    "eventId": 120,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 137
+  },
+  {
+    "id": 277,
+    "eventId": 120,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 138
+  },
+  {
+    "id": 278,
+    "eventId": 120,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 138
+  },
+  {
+    "id": 279,
+    "eventId": 120,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 139
+  },
+  {
+    "id": 280,
+    "eventId": 120,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 140
+  },
+  {
+    "id": 281,
+    "eventId": 123,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 141
+  },
+  {
+    "id": 282,
+    "eventId": 123,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 142
+  },
+  {
+    "id": 283,
+    "eventId": 123,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 142
+  },
+  {
+    "id": 284,
+    "eventId": 123,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 141
+  },
+  {
+    "id": 285,
+    "eventId": 123,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 142
+  },
+  {
+    "id": 286,
+    "eventId": 123,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 142
+  },
+  {
+    "id": 287,
+    "eventId": 123,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 143
+  },
+  {
+    "id": 288,
+    "eventId": 123,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 144
+  },
+  {
+    "id": 289,
+    "eventId": 126,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 145
+  },
+  {
+    "id": 290,
+    "eventId": 126,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 146
+  },
+  {
+    "id": 291,
+    "eventId": 126,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 146
+  },
+  {
+    "id": 292,
+    "eventId": 126,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 145
+  },
+  {
+    "id": 293,
+    "eventId": 126,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 146
+  },
+  {
+    "id": 294,
+    "eventId": 126,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 146
+  },
+  {
+    "id": 295,
+    "eventId": 126,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 147
+  },
+  {
+    "id": 296,
+    "eventId": 126,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 148
+  },
+  {
+    "id": 305,
+    "eventId": 132,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 153
+  },
+  {
+    "id": 306,
+    "eventId": 132,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 154
+  },
+  {
+    "id": 307,
+    "eventId": 132,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 154
+  },
+  {
+    "id": 308,
+    "eventId": 132,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 153
+  },
+  {
+    "id": 309,
+    "eventId": 132,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 154
+  },
+  {
+    "id": 310,
+    "eventId": 132,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 154
+  },
+  {
+    "id": 311,
+    "eventId": 132,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 155
+  },
+  {
+    "id": 312,
+    "eventId": 132,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 156
+  },
+  {
+    "id": 313,
+    "eventId": 166,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 153
+  },
+  {
+    "id": 314,
+    "eventId": 166,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 154
+  },
+  {
+    "id": 315,
+    "eventId": 166,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_1st",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 154
+  },
+  {
+    "id": 316,
+    "eventId": 166,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 153
+  },
+  {
+    "id": 317,
+    "eventId": 166,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 154
+  },
+  {
+    "id": 318,
+    "eventId": 166,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_2nd",
+    "cheerfulCarnivalResultType": "draw",
+    "resourceBoxId": 154
+  },
+  {
+    "id": 319,
+    "eventId": 166,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "victory",
+    "resourceBoxId": 155
+  },
+  {
+    "id": 320,
+    "eventId": 166,
+    "cheerfulCarnivalTeamPointTermType": "cheerful_carnival_team_point_final",
+    "cheerfulCarnivalResultType": "defeat",
+    "resourceBoxId": 156
+  }
 ]

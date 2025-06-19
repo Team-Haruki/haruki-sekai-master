@@ -1,1270 +1,1270 @@
 [
-    {
-        "id": 2,
-        "seq": 1,
-        "title": "オープニング",
-        "assetbundleName": "special-story",
-        "startAt": 1577804400000,
-        "endAt": 1609340400000,
-        "episodes": [
-            {
-                "id": 4,
-                "specialStoryId": 2,
-                "episodeNo": 1,
-                "title": "オープニング1",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_sp_ts_01_01",
-                "scenarioId": "op_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": [
-                    1
-                ]
-            },
-            {
-                "id": 5,
-                "specialStoryId": 2,
-                "episodeNo": 2,
-                "title": "オープニング2",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_sp_ts_01_01",
-                "scenarioId": "op_02",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": [
-                    1
-                ]
-            },
-            {
-                "id": 6,
-                "specialStoryId": 2,
-                "episodeNo": 3,
-                "title": "エリア会話",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_sp_ts_01_01",
-                "scenarioId": "op_02area",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": [
-                    1
-                ]
-            },
-            {
-                "id": 7,
-                "specialStoryId": 2,
-                "episodeNo": 4,
-                "title": "オープニング3",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_sp_ts_01_01",
-                "scenarioId": "op_03",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "seq": 1,
-        "title": "一周年カウントダウンムービー01",
-        "assetbundleName": "special-story",
-        "startAt": 1632495600000,
-        "endAt": 1632581999000,
-        "episodes": [
-            {
-                "id": 8,
-                "specialStoryId": 3,
-                "episodeNo": 1,
-                "title": "一周年カウントダウンムービー01",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_1st_countdown",
-                "scenarioId": "1st_countdown_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+  {
+    "id": 2,
+    "seq": 1,
+    "title": "オープニング",
+    "assetbundleName": "special-story",
+    "startAt": 1577804400000,
+    "endAt": 1609340400000,
+    "episodes": [
+      {
         "id": 4,
-        "seq": 1,
-        "title": "一周年カウントダウンムービー02",
-        "assetbundleName": "special-story",
-        "startAt": 1632582000000,
-        "endAt": 1632668399000,
-        "episodes": [
-            {
-                "id": 9,
-                "specialStoryId": 4,
-                "episodeNo": 1,
-                "title": "一周年カウントダウンムービー02",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_1st_countdown",
-                "scenarioId": "1st_countdown_02",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
+        "specialStoryId": 2,
+        "episodeNo": 1,
+        "title": "オープニング1",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_sp_ts_01_01",
+        "scenarioId": "op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": [
+          1
         ]
-    },
-    {
+      },
+      {
         "id": 5,
-        "seq": 1,
-        "title": "一周年カウントダウンムービー03",
-        "assetbundleName": "special-story",
-        "startAt": 1632668400000,
-        "endAt": 1632754799000,
-        "episodes": [
-            {
-                "id": 10,
-                "specialStoryId": 5,
-                "episodeNo": 1,
-                "title": "一周年カウントダウンムービー03",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_1st_countdown",
-                "scenarioId": "1st_countdown_03",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
+        "specialStoryId": 2,
+        "episodeNo": 2,
+        "title": "オープニング2",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_sp_ts_01_01",
+        "scenarioId": "op_02",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": [
+          1
         ]
-    },
-    {
+      },
+      {
         "id": 6,
-        "seq": 1,
-        "title": "一周年カウントダウンムービー04",
-        "assetbundleName": "special-story",
-        "startAt": 1632754800000,
-        "endAt": 1632841199000,
-        "episodes": [
-            {
-                "id": 11,
-                "specialStoryId": 6,
-                "episodeNo": 1,
-                "title": "一周年カウントダウンムービー04",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_1st_countdown",
-                "scenarioId": "1st_countdown_04",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
+        "specialStoryId": 2,
+        "episodeNo": 3,
+        "title": "エリア会話",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_sp_ts_01_01",
+        "scenarioId": "op_02area",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": [
+          1
         ]
-    },
-    {
+      },
+      {
         "id": 7,
-        "seq": 1,
-        "title": "一周年カウントダウンムービー05",
-        "assetbundleName": "special-story",
-        "startAt": 1632841200000,
-        "endAt": 1632927599000,
-        "episodes": [
-            {
-                "id": 12,
-                "specialStoryId": 7,
-                "episodeNo": 1,
-                "title": "一周年カウントダウンムービー05",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_1st_countdown",
-                "scenarioId": "1st_countdown_05",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 2,
+        "episodeNo": 4,
+        "title": "オープニング3",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_sp_ts_01_01",
+        "scenarioId": "op_03",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "seq": 1,
+    "title": "一周年カウントダウンムービー01",
+    "assetbundleName": "special-story",
+    "startAt": 1632495600000,
+    "endAt": 1632581999000,
+    "episodes": [
+      {
         "id": 8,
-        "seq": 1,
-        "title": "一周年カウントダウンムービー06",
-        "assetbundleName": "special-story",
-        "startAt": 1632927600000,
-        "endAt": 1633013999000,
-        "episodes": [
-            {
-                "id": 13,
-                "specialStoryId": 8,
-                "episodeNo": 1,
-                "title": "一周年カウントダウンムービー06",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_1st_countdown",
-                "scenarioId": "1st_countdown_06",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 3,
+        "episodeNo": 1,
+        "title": "一周年カウントダウンムービー01",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_1st_countdown",
+        "scenarioId": "1st_countdown_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "seq": 1,
+    "title": "一周年カウントダウンムービー02",
+    "assetbundleName": "special-story",
+    "startAt": 1632582000000,
+    "endAt": 1632668399000,
+    "episodes": [
+      {
         "id": 9,
-        "seq": 1,
-        "title": "悪ノ大罪シリーズ導入ムービー",
-        "assetbundleName": "collaboration-akuno-story",
-        "startAt": 1639375200000,
-        "endAt": 1640584799000,
-        "episodes": [
-            {
-                "id": 14,
-                "specialStoryId": 9,
-                "episodeNo": 1,
-                "title": "遷移テスト用ストーリー_コラボのセカイ",
-                "specialStoryEpisodeType": "area",
-                "specialStoryEpisodeTypeId": 14,
-                "assetbundleName": "story_collaboration_akuno",
-                "scenarioId": "collaboration_akuno_op_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 4,
+        "episodeNo": 1,
+        "title": "一周年カウントダウンムービー02",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_1st_countdown",
+        "scenarioId": "1st_countdown_02",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "seq": 1,
+    "title": "一周年カウントダウンムービー03",
+    "assetbundleName": "special-story",
+    "startAt": 1632668400000,
+    "endAt": 1632754799000,
+    "episodes": [
+      {
         "id": 10,
-        "seq": 1,
-        "title": "エイプリルフール2022導入ムービー",
-        "assetbundleName": "aprilfool-story-2022",
-        "startAt": 1648738800000,
-        "endAt": 1648825199000,
-        "episodes": [
-            {
-                "id": 15,
-                "specialStoryId": 10,
-                "episodeNo": 1,
-                "title": "エイプリルフール2022導入ムービー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_aprilfool_2022",
-                "scenarioId": "aprilfool_2022_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": true,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 5,
+        "episodeNo": 1,
+        "title": "一周年カウントダウンムービー03",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_1st_countdown",
+        "scenarioId": "1st_countdown_03",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "seq": 1,
+    "title": "一周年カウントダウンムービー04",
+    "assetbundleName": "special-story",
+    "startAt": 1632754800000,
+    "endAt": 1632841199000,
+    "episodes": [
+      {
         "id": 11,
-        "seq": 1,
-        "title": "エイプリルフール2022後日談ムービー",
-        "assetbundleName": "aprilfool-story-2022",
-        "startAt": 1648825200000,
-        "endAt": 1648911599000,
-        "episodes": [
-            {
-                "id": 16,
-                "specialStoryId": 11,
-                "episodeNo": 1,
-                "title": "エイプリルフール2022後日談ムービー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_aprilfool_2022",
-                "scenarioId": "aprilfool_2022_02",
-                "releaseConditionId": 1000001,
-                "isAbleSkip": true,
-                "isActionSetRefresh": true,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 6,
+        "episodeNo": 1,
+        "title": "一周年カウントダウンムービー04",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_1st_countdown",
+        "scenarioId": "1st_countdown_04",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "seq": 1,
+    "title": "一周年カウントダウンムービー05",
+    "assetbundleName": "special-story",
+    "startAt": 1632841200000,
+    "endAt": 1632927599000,
+    "episodes": [
+      {
         "id": 12,
-        "seq": 1,
-        "title": "ビビバスコネクトライブ前日ストーリー",
-        "assetbundleName": "connect-live-01",
-        "startAt": 1654754400000,
-        "endAt": 1654955999000,
-        "episodes": [
-            {
-                "id": 17,
-                "specialStoryId": 12,
-                "episodeNo": 1,
-                "title": "ビビバスコネクトライブ前日ストーリー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_connect_live_01",
-                "scenarioId": "connect_live_01_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 7,
+        "episodeNo": 1,
+        "title": "一周年カウントダウンムービー05",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_1st_countdown",
+        "scenarioId": "1st_countdown_05",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "seq": 1,
+    "title": "一周年カウントダウンムービー06",
+    "assetbundleName": "special-story",
+    "startAt": 1632927600000,
+    "endAt": 1633013999000,
+    "episodes": [
+      {
         "id": 13,
-        "seq": 1,
-        "title": "ポカリスエットコラボストーリー",
-        "assetbundleName": "collaboration-pocari-story-01",
-        "startAt": 1659322800000,
-        "endAt": 1661957999000,
-        "episodes": [
-            {
-                "id": 18,
-                "specialStoryId": 13,
-                "episodeNo": 1,
-                "title": "ポカリスエットコラボストーリー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_collaboration_pocari_01",
-                "scenarioId": "collaboration_pocari_01_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 8,
+        "episodeNo": 1,
+        "title": "一周年カウントダウンムービー06",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_1st_countdown",
+        "scenarioId": "1st_countdown_06",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "seq": 1,
+    "title": "悪ノ大罪シリーズ導入ムービー",
+    "assetbundleName": "collaboration-akuno-story",
+    "startAt": 1639375200000,
+    "endAt": 1640584799000,
+    "episodes": [
+      {
         "id": 14,
-        "seq": 1,
-        "title": "2周年カウントダウンムービー01",
-        "assetbundleName": "special-story",
-        "startAt": 1664031600000,
-        "endAt": 1664117999000,
-        "episodes": [
-            {
-                "id": 19,
-                "specialStoryId": 14,
-                "episodeNo": 1,
-                "title": "2周年カウントダウンムービー01",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_2nd_countdown",
-                "scenarioId": "2nd_countdown_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 9,
+        "episodeNo": 1,
+        "title": "遷移テスト用ストーリー_コラボのセカイ",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 14,
+        "assetbundleName": "story_collaboration_akuno",
+        "scenarioId": "collaboration_akuno_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "seq": 1,
+    "title": "エイプリルフール2022導入ムービー",
+    "assetbundleName": "aprilfool-story-2022",
+    "startAt": 1648738800000,
+    "endAt": 1648825199000,
+    "episodes": [
+      {
         "id": 15,
-        "seq": 1,
-        "title": "2周年カウントダウンムービー02",
-        "assetbundleName": "special-story",
-        "startAt": 1664118000000,
-        "endAt": 1664204399000,
-        "episodes": [
-            {
-                "id": 20,
-                "specialStoryId": 15,
-                "episodeNo": 1,
-                "title": "2周年カウントダウンムービー02",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_2nd_countdown",
-                "scenarioId": "2nd_countdown_02",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 10,
+        "episodeNo": 1,
+        "title": "エイプリルフール2022導入ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2022",
+        "scenarioId": "aprilfool_2022_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "seq": 1,
+    "title": "エイプリルフール2022後日談ムービー",
+    "assetbundleName": "aprilfool-story-2022",
+    "startAt": 1648825200000,
+    "endAt": 1648911599000,
+    "episodes": [
+      {
         "id": 16,
-        "seq": 1,
-        "title": "2周年カウントダウンムービー03",
-        "assetbundleName": "special-story",
-        "startAt": 1664204400000,
-        "endAt": 1664290799000,
-        "episodes": [
-            {
-                "id": 21,
-                "specialStoryId": 16,
-                "episodeNo": 1,
-                "title": "2周年カウントダウンムービー03",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_2nd_countdown",
-                "scenarioId": "2nd_countdown_03",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 11,
+        "episodeNo": 1,
+        "title": "エイプリルフール2022後日談ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2022",
+        "scenarioId": "aprilfool_2022_02",
+        "releaseConditionId": 1000001,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "seq": 1,
+    "title": "ビビバスコネクトライブ前日ストーリー",
+    "assetbundleName": "connect-live-01",
+    "startAt": 1654754400000,
+    "endAt": 1654955999000,
+    "episodes": [
+      {
         "id": 17,
-        "seq": 1,
-        "title": "2周年カウントダウンムービー04",
-        "assetbundleName": "special-story",
-        "startAt": 1664290800000,
-        "endAt": 1664377199000,
-        "episodes": [
-            {
-                "id": 22,
-                "specialStoryId": 17,
-                "episodeNo": 1,
-                "title": "2周年カウントダウンムービー04",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_2nd_countdown",
-                "scenarioId": "2nd_countdown_04",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 12,
+        "episodeNo": 1,
+        "title": "ビビバスコネクトライブ前日ストーリー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_connect_live_01",
+        "scenarioId": "connect_live_01_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "seq": 1,
+    "title": "ポカリスエットコラボストーリー",
+    "assetbundleName": "collaboration-pocari-story-01",
+    "startAt": 1659322800000,
+    "endAt": 1661957999000,
+    "episodes": [
+      {
         "id": 18,
-        "seq": 1,
-        "title": "2周年カウントダウンムービー05",
-        "assetbundleName": "special-story",
-        "startAt": 1664377200000,
-        "endAt": 1664463599000,
-        "episodes": [
-            {
-                "id": 23,
-                "specialStoryId": 18,
-                "episodeNo": 1,
-                "title": "2周年カウントダウンムービー05",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_2nd_countdown",
-                "scenarioId": "2nd_countdown_05",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 13,
+        "episodeNo": 1,
+        "title": "ポカリスエットコラボストーリー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_pocari_01",
+        "scenarioId": "collaboration_pocari_01_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "seq": 1,
+    "title": "2周年カウントダウンムービー01",
+    "assetbundleName": "special-story",
+    "startAt": 1664031600000,
+    "endAt": 1664117999000,
+    "episodes": [
+      {
         "id": 19,
-        "seq": 1,
-        "title": "2周年カウントダウンムービー06",
-        "assetbundleName": "special-story",
-        "startAt": 1664463600000,
-        "endAt": 1664549999000,
-        "episodes": [
-            {
-                "id": 24,
-                "specialStoryId": 19,
-                "episodeNo": 1,
-                "title": "2周年カウントダウンムービー06",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_2nd_countdown",
-                "scenarioId": "2nd_countdown_06",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 14,
+        "episodeNo": 1,
+        "title": "2周年カウントダウンムービー01",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_2nd_countdown",
+        "scenarioId": "2nd_countdown_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "seq": 1,
+    "title": "2周年カウントダウンムービー02",
+    "assetbundleName": "special-story",
+    "startAt": 1664118000000,
+    "endAt": 1664204399000,
+    "episodes": [
+      {
         "id": 20,
-        "seq": 1,
-        "title": "2周年コネクトライブ前日ストーリー",
-        "assetbundleName": "connect-live-02",
-        "startAt": 1665208800000,
-        "endAt": 1665320399000,
-        "episodes": [
-            {
-                "id": 25,
-                "specialStoryId": 20,
-                "episodeNo": 1,
-                "title": "2周年コネクトライブ前日ストーリー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_connect_live_02",
-                "scenarioId": "connect_live_02_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 15,
+        "episodeNo": 1,
+        "title": "2周年カウントダウンムービー02",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_2nd_countdown",
+        "scenarioId": "2nd_countdown_02",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "seq": 1,
+    "title": "2周年カウントダウンムービー03",
+    "assetbundleName": "special-story",
+    "startAt": 1664204400000,
+    "endAt": 1664290799000,
+    "episodes": [
+      {
         "id": 21,
-        "seq": 1,
-        "title": "モモジャンコネクトライブ前日ストーリー",
-        "assetbundleName": "connect-live-01-mmj",
-        "startAt": 1679032800000,
-        "endAt": 1679227199000,
-        "episodes": [
-            {
-                "id": 26,
-                "specialStoryId": 21,
-                "episodeNo": 1,
-                "title": "モモジャンコネクトライブ前日ストーリー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_connect_live_01_mmj",
-                "scenarioId": "connect_live_01_mmj_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 16,
+        "episodeNo": 1,
+        "title": "2周年カウントダウンムービー03",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_2nd_countdown",
+        "scenarioId": "2nd_countdown_03",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "seq": 1,
+    "title": "2周年カウントダウンムービー04",
+    "assetbundleName": "special-story",
+    "startAt": 1664290800000,
+    "endAt": 1664377199000,
+    "episodes": [
+      {
         "id": 22,
-        "seq": 1,
-        "title": "エイプリルフール2023導入ムービー",
-        "assetbundleName": "aprilfool-story-2023",
-        "startAt": 1680274800000,
-        "endAt": 1680361199000,
-        "episodes": [
-            {
-                "id": 27,
-                "specialStoryId": 22,
-                "episodeNo": 1,
-                "title": "エイプリルフール2023導入ムービー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_aprilfool_2023",
-                "scenarioId": "aprilfool_2023_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": true,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 17,
+        "episodeNo": 1,
+        "title": "2周年カウントダウンムービー04",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_2nd_countdown",
+        "scenarioId": "2nd_countdown_04",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "seq": 1,
+    "title": "2周年カウントダウンムービー05",
+    "assetbundleName": "special-story",
+    "startAt": 1664377200000,
+    "endAt": 1664463599000,
+    "episodes": [
+      {
         "id": 23,
-        "seq": 1,
-        "title": "エイプリルフール2023後日談ムービー",
-        "assetbundleName": "aprilfool-story-2023",
-        "startAt": 1680361200000,
-        "endAt": 1680447599000,
-        "episodes": [
-            {
-                "id": 28,
-                "specialStoryId": 23,
-                "episodeNo": 1,
-                "title": "エイプリルフール2023後日談ムービー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_aprilfool_2023",
-                "scenarioId": "aprilfool_2023_02",
-                "releaseConditionId": 1000131,
-                "isAbleSkip": true,
-                "isActionSetRefresh": true,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 18,
+        "episodeNo": 1,
+        "title": "2周年カウントダウンムービー05",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_2nd_countdown",
+        "scenarioId": "2nd_countdown_05",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "seq": 1,
+    "title": "2周年カウントダウンムービー06",
+    "assetbundleName": "special-story",
+    "startAt": 1664463600000,
+    "endAt": 1664549999000,
+    "episodes": [
+      {
         "id": 24,
-        "seq": 1,
-        "title": "[復刻]悪ノ大罪シリーズ導入ムービー",
-        "assetbundleName": "collaboration-akuno-story",
-        "startAt": 1683082800000,
-        "endAt": 1684292399000,
-        "episodes": [
-            {
-                "id": 29,
-                "specialStoryId": 24,
-                "episodeNo": 1,
-                "title": "[復刻]悪ノ大罪シリーズ導入ムービー",
-                "specialStoryEpisodeType": "area",
-                "specialStoryEpisodeTypeId": 14,
-                "assetbundleName": "story_collaboration_akuno",
-                "scenarioId": "collaboration_akuno_op_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 19,
+        "episodeNo": 1,
+        "title": "2周年カウントダウンムービー06",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_2nd_countdown",
+        "scenarioId": "2nd_countdown_06",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "seq": 1,
+    "title": "2周年コネクトライブ前日ストーリー",
+    "assetbundleName": "connect-live-02",
+    "startAt": 1665208800000,
+    "endAt": 1665320399000,
+    "episodes": [
+      {
         "id": 25,
-        "seq": 1,
-        "title": "レオニコネクトライブ前日ストーリー",
-        "assetbundleName": "connect-live-01-lon",
-        "startAt": 1684476000000,
-        "endAt": 1684670399000,
-        "episodes": [
-            {
-                "id": 30,
-                "specialStoryId": 25,
-                "episodeNo": 1,
-                "title": "レオニコネクトライブ前日ストーリー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_connect_live_01_lon",
-                "scenarioId": "connect_live_01_lon_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 20,
+        "episodeNo": 1,
+        "title": "2周年コネクトライブ前日ストーリー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_connect_live_02",
+        "scenarioId": "connect_live_02_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "seq": 1,
+    "title": "モモジャンコネクトライブ前日ストーリー",
+    "assetbundleName": "connect-live-01-mmj",
+    "startAt": 1679032800000,
+    "endAt": 1679227199000,
+    "episodes": [
+      {
         "id": 26,
-        "seq": 1,
-        "title": "ニーゴコネクトライブ前日ストーリー",
-        "assetbundleName": "connect-live-01-nig",
-        "startAt": 1688709600000,
-        "endAt": 1688903999000,
-        "episodes": [
-            {
-                "id": 31,
-                "specialStoryId": 26,
-                "episodeNo": 1,
-                "title": "ニーゴコネクトライブ前日ストーリー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_connect_live_01_nig",
-                "scenarioId": "connect_live_01_nig_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 21,
+        "episodeNo": 1,
+        "title": "モモジャンコネクトライブ前日ストーリー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_connect_live_01_mmj",
+        "scenarioId": "connect_live_01_mmj_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "seq": 1,
+    "title": "エイプリルフール2023導入ムービー",
+    "assetbundleName": "aprilfool-story-2023",
+    "startAt": 1680274800000,
+    "endAt": 1680361199000,
+    "episodes": [
+      {
         "id": 27,
-        "seq": 1,
-        "title": "ワンダショコネクトライブ前日ストーリー",
-        "assetbundleName": "connect-live-01-wnd",
-        "startAt": 1691128800000,
-        "endAt": 1691323199000,
-        "episodes": [
-            {
-                "id": 32,
-                "specialStoryId": 27,
-                "episodeNo": 1,
-                "title": "ワンダショコネクトライブ前日ストーリー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_connect_live_01_wnd",
-                "scenarioId": "connect_live_01_wnd_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 22,
+        "episodeNo": 1,
+        "title": "エイプリルフール2023導入ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2023",
+        "scenarioId": "aprilfool_2023_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "seq": 1,
+    "title": "エイプリルフール2023後日談ムービー",
+    "assetbundleName": "aprilfool-story-2023",
+    "startAt": 1680361200000,
+    "endAt": 1680447599000,
+    "episodes": [
+      {
         "id": 28,
-        "seq": 1,
-        "title": "3周年カウントダウンムービー01",
-        "assetbundleName": "special-story",
-        "startAt": 1695222000000,
-        "endAt": 1695308399000,
-        "episodes": [
-            {
-                "id": 33,
-                "specialStoryId": 28,
-                "episodeNo": 1,
-                "title": "3周年カウントダウンムービー01",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_3rd_countdown",
-                "scenarioId": "3rd_countdown_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 23,
+        "episodeNo": 1,
+        "title": "エイプリルフール2023後日談ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2023",
+        "scenarioId": "aprilfool_2023_02",
+        "releaseConditionId": 1000131,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "seq": 1,
+    "title": "[復刻]悪ノ大罪シリーズ導入ムービー",
+    "assetbundleName": "collaboration-akuno-story",
+    "startAt": 1683082800000,
+    "endAt": 1684292399000,
+    "episodes": [
+      {
         "id": 29,
-        "seq": 1,
-        "title": "3周年カウントダウンムービー02",
-        "assetbundleName": "special-story",
-        "startAt": 1695308400000,
-        "endAt": 1695394799000,
-        "episodes": [
-            {
-                "id": 34,
-                "specialStoryId": 29,
-                "episodeNo": 1,
-                "title": "3周年カウントダウンムービー02",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_3rd_countdown",
-                "scenarioId": "3rd_countdown_02",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 24,
+        "episodeNo": 1,
+        "title": "[復刻]悪ノ大罪シリーズ導入ムービー",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 14,
+        "assetbundleName": "story_collaboration_akuno",
+        "scenarioId": "collaboration_akuno_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "seq": 1,
+    "title": "レオニコネクトライブ前日ストーリー",
+    "assetbundleName": "connect-live-01-lon",
+    "startAt": 1684476000000,
+    "endAt": 1684670399000,
+    "episodes": [
+      {
         "id": 30,
-        "seq": 1,
-        "title": "3周年カウントダウンムービー03",
-        "assetbundleName": "special-story",
-        "startAt": 1695394800000,
-        "endAt": 1695481199000,
-        "episodes": [
-            {
-                "id": 35,
-                "specialStoryId": 30,
-                "episodeNo": 1,
-                "title": "3周年カウントダウンムービー03",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_3rd_countdown",
-                "scenarioId": "3rd_countdown_03",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 25,
+        "episodeNo": 1,
+        "title": "レオニコネクトライブ前日ストーリー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_connect_live_01_lon",
+        "scenarioId": "connect_live_01_lon_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "seq": 1,
+    "title": "ニーゴコネクトライブ前日ストーリー",
+    "assetbundleName": "connect-live-01-nig",
+    "startAt": 1688709600000,
+    "endAt": 1688903999000,
+    "episodes": [
+      {
         "id": 31,
-        "seq": 1,
-        "title": "3周年カウントダウンムービー04",
-        "assetbundleName": "special-story",
-        "startAt": 1695481200000,
-        "endAt": 1695567599000,
-        "episodes": [
-            {
-                "id": 36,
-                "specialStoryId": 31,
-                "episodeNo": 1,
-                "title": "3周年カウントダウンムービー04",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_3rd_countdown",
-                "scenarioId": "3rd_countdown_04",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 26,
+        "episodeNo": 1,
+        "title": "ニーゴコネクトライブ前日ストーリー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_connect_live_01_nig",
+        "scenarioId": "connect_live_01_nig_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "seq": 1,
+    "title": "ワンダショコネクトライブ前日ストーリー",
+    "assetbundleName": "connect-live-01-wnd",
+    "startAt": 1691128800000,
+    "endAt": 1691323199000,
+    "episodes": [
+      {
         "id": 32,
-        "seq": 1,
-        "title": "3周年カウントダウンムービー05",
-        "assetbundleName": "special-story",
-        "startAt": 1695567600000,
-        "endAt": 1695653999000,
-        "episodes": [
-            {
-                "id": 37,
-                "specialStoryId": 32,
-                "episodeNo": 1,
-                "title": "3周年カウントダウンムービー05",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_3rd_countdown",
-                "scenarioId": "3rd_countdown_05",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 27,
+        "episodeNo": 1,
+        "title": "ワンダショコネクトライブ前日ストーリー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_connect_live_01_wnd",
+        "scenarioId": "connect_live_01_wnd_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "seq": 1,
+    "title": "3周年カウントダウンムービー01",
+    "assetbundleName": "special-story",
+    "startAt": 1695222000000,
+    "endAt": 1695308399000,
+    "episodes": [
+      {
         "id": 33,
-        "seq": 1,
-        "title": "3周年カウントダウンムービー06",
-        "assetbundleName": "special-story",
-        "startAt": 1695654000000,
-        "endAt": 1695740399000,
-        "episodes": [
-            {
-                "id": 38,
-                "specialStoryId": 33,
-                "episodeNo": 1,
-                "title": "3周年カウントダウンムービー06",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_3rd_countdown",
-                "scenarioId": "3rd_countdown_06",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 28,
+        "episodeNo": 1,
+        "title": "3周年カウントダウンムービー01",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_3rd_countdown",
+        "scenarioId": "3rd_countdown_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "seq": 1,
+    "title": "3周年カウントダウンムービー02",
+    "assetbundleName": "special-story",
+    "startAt": 1695308400000,
+    "endAt": 1695394799000,
+    "episodes": [
+      {
         "id": 34,
-        "seq": 1,
-        "title": "3周年ムービー",
-        "assetbundleName": "special-story",
-        "startAt": 1695999600000,
-        "endAt": 1696085999000,
-        "episodes": [
-            {
-                "id": 39,
-                "specialStoryId": 34,
-                "episodeNo": 1,
-                "title": "3周年ムービー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_3rd_anniversary",
-                "scenarioId": "3rd_anniversary",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 29,
+        "episodeNo": 1,
+        "title": "3周年カウントダウンムービー02",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_3rd_countdown",
+        "scenarioId": "3rd_countdown_02",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "seq": 1,
+    "title": "3周年カウントダウンムービー03",
+    "assetbundleName": "special-story",
+    "startAt": 1695394800000,
+    "endAt": 1695481199000,
+    "episodes": [
+      {
         "id": 35,
-        "seq": 1,
-        "title": "3周年コネクトライブ前日ストーリー",
-        "assetbundleName": "connect-live-03-anv",
-        "startAt": 1696572000000,
-        "endAt": 1696766399000,
-        "episodes": [
-            {
-                "id": 40,
-                "specialStoryId": 35,
-                "episodeNo": 1,
-                "title": "3周年コネクトライブ前日ストーリー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_connect_live_03_anv",
-                "scenarioId": "connect_live_03_anv_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 30,
+        "episodeNo": 1,
+        "title": "3周年カウントダウンムービー03",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_3rd_countdown",
+        "scenarioId": "3rd_countdown_03",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "seq": 1,
+    "title": "3周年カウントダウンムービー04",
+    "assetbundleName": "special-story",
+    "startAt": 1695481200000,
+    "endAt": 1695567599000,
+    "episodes": [
+      {
         "id": 36,
-        "seq": 1,
-        "title": "[プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリープロローグ",
-        "assetbundleName": "collaboration-sanrio-story",
-        "startAt": 1701745200000,
-        "endAt": 1702997999000,
-        "episodes": [
-            {
-                "id": 41,
-                "specialStoryId": 36,
-                "episodeNo": 1,
-                "title": "[プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリープロローグ",
-                "specialStoryEpisodeType": "area",
-                "specialStoryEpisodeTypeId": 22,
-                "assetbundleName": "story_collaboration_sanrio",
-                "scenarioId": "collaboration_sanrio_op_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": true,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 31,
+        "episodeNo": 1,
+        "title": "3周年カウントダウンムービー04",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_3rd_countdown",
+        "scenarioId": "3rd_countdown_04",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "seq": 1,
+    "title": "3周年カウントダウンムービー05",
+    "assetbundleName": "special-story",
+    "startAt": 1695567600000,
+    "endAt": 1695653999000,
+    "episodes": [
+      {
         "id": 37,
-        "seq": 1,
-        "title": "[プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリーエピローグ",
-        "assetbundleName": "collaboration-sanrio-story",
-        "startAt": 1702998000000,
-        "endAt": 1703084399000,
-        "episodes": [
-            {
-                "id": 42,
-                "specialStoryId": 37,
-                "episodeNo": 1,
-                "title": "[プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリーエピローグ",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_collaboration_sanrio",
-                "scenarioId": "collaboration_sanrio_ed_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": true,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 32,
+        "episodeNo": 1,
+        "title": "3周年カウントダウンムービー05",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_3rd_countdown",
+        "scenarioId": "3rd_countdown_05",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "seq": 1,
+    "title": "3周年カウントダウンムービー06",
+    "assetbundleName": "special-story",
+    "startAt": 1695654000000,
+    "endAt": 1695740399000,
+    "episodes": [
+      {
         "id": 38,
-        "seq": 1,
-        "title": "3900's感謝祭ムービー",
-        "assetbundleName": "world_3900_anniversary_story",
-        "startAt": 1711767600000,
-        "endAt": 1711897199000,
-        "episodes": [
-            {
-                "id": 43,
-                "specialStoryId": 38,
-                "episodeNo": 1,
-                "title": "3900's感謝祭ムービー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_world_3900_anniversary",
-                "scenarioId": "world_3900_anniversary_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": true,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 33,
+        "episodeNo": 1,
+        "title": "3周年カウントダウンムービー06",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_3rd_countdown",
+        "scenarioId": "3rd_countdown_06",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "seq": 1,
+    "title": "3周年ムービー",
+    "assetbundleName": "special-story",
+    "startAt": 1695999600000,
+    "endAt": 1696085999000,
+    "episodes": [
+      {
         "id": 39,
-        "seq": 1,
-        "title": "エイプリルフール2024導入ムービー",
-        "assetbundleName": "aprilfool-story-2024",
-        "startAt": 1711897200000,
-        "endAt": 1711983599000,
-        "episodes": [
-            {
-                "id": 44,
-                "specialStoryId": 39,
-                "episodeNo": 1,
-                "title": "エイプリルフール2024導入ムービー",
-                "specialStoryEpisodeType": "area",
-                "specialStoryEpisodeTypeId": 23,
-                "assetbundleName": "story_aprilfool_2024",
-                "scenarioId": "aprilfool_2024_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": true,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 34,
+        "episodeNo": 1,
+        "title": "3周年ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_3rd_anniversary",
+        "scenarioId": "3rd_anniversary",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "seq": 1,
+    "title": "3周年コネクトライブ前日ストーリー",
+    "assetbundleName": "connect-live-03-anv",
+    "startAt": 1696572000000,
+    "endAt": 1696766399000,
+    "episodes": [
+      {
         "id": 40,
-        "seq": 1,
-        "title": "エイプリルフール2024後日談ムービー",
-        "assetbundleName": "aprilfool-story-2024",
-        "startAt": 1711983600000,
-        "endAt": 1712069999000,
-        "episodes": [
-            {
-                "id": 45,
-                "specialStoryId": 40,
-                "episodeNo": 1,
-                "title": "エイプリルフール2024後日談ムービー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_aprilfool_2024",
-                "scenarioId": "aprilfool_2024_02",
-                "releaseConditionId": 1000236,
-                "isAbleSkip": true,
-                "isActionSetRefresh": true,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 35,
+        "episodeNo": 1,
+        "title": "3周年コネクトライブ前日ストーリー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_connect_live_03_anv",
+        "scenarioId": "connect_live_03_anv_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "seq": 1,
+    "title": "[プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリープロローグ",
+    "assetbundleName": "collaboration-sanrio-story",
+    "startAt": 1701745200000,
+    "endAt": 1702997999000,
+    "episodes": [
+      {
         "id": 41,
-        "seq": 1,
-        "title": "コネクトライブ RESONANCE BEATS!! 前日ストーリー",
-        "assetbundleName": "connect-live-resonance-beats-story",
-        "startAt": 1718334000000,
-        "endAt": 1718447399000,
-        "episodes": [
-            {
-                "id": 46,
-                "specialStoryId": 41,
-                "episodeNo": 1,
-                "title": "コネクトライブ RESONANCE BEATS!! 前日ストーリー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_connect_live_resonance-beats",
-                "scenarioId": "story_connect_live_resonance-beats_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 36,
+        "episodeNo": 1,
+        "title": "[プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリープロローグ",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 22,
+        "assetbundleName": "story_collaboration_sanrio",
+        "scenarioId": "collaboration_sanrio_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "seq": 1,
+    "title": "[プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリーエピローグ",
+    "assetbundleName": "collaboration-sanrio-story",
+    "startAt": 1702998000000,
+    "endAt": 1703084399000,
+    "episodes": [
+      {
         "id": 42,
-        "seq": 1,
-        "title": "4周年カウントダウンムービー01",
-        "assetbundleName": "special-story",
-        "startAt": 1727190000000,
-        "endAt": 1727276399000,
-        "episodes": [
-            {
-                "id": 47,
-                "specialStoryId": 42,
-                "episodeNo": 1,
-                "title": "4周年カウントダウンムービー01",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_4th_countdown",
-                "scenarioId": "4th_countdown_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 37,
+        "episodeNo": 1,
+        "title": "[プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリーエピローグ",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_sanrio",
+        "scenarioId": "collaboration_sanrio_ed_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "seq": 1,
+    "title": "3900's感謝祭ムービー",
+    "assetbundleName": "world_3900_anniversary_story",
+    "startAt": 1711767600000,
+    "endAt": 1711897199000,
+    "episodes": [
+      {
         "id": 43,
-        "seq": 1,
-        "title": "4周年カウントダウンムービー02",
-        "assetbundleName": "special-story",
-        "startAt": 1727276400000,
-        "endAt": 1727362799000,
-        "episodes": [
-            {
-                "id": 48,
-                "specialStoryId": 43,
-                "episodeNo": 1,
-                "title": "4周年カウントダウンムービー02",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_4th_countdown",
-                "scenarioId": "4th_countdown_02",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 38,
+        "episodeNo": 1,
+        "title": "3900's感謝祭ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_world_3900_anniversary",
+        "scenarioId": "world_3900_anniversary_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "seq": 1,
+    "title": "エイプリルフール2024導入ムービー",
+    "assetbundleName": "aprilfool-story-2024",
+    "startAt": 1711897200000,
+    "endAt": 1711983599000,
+    "episodes": [
+      {
         "id": 44,
-        "seq": 1,
-        "title": "4周年カウントダウンムービー03",
-        "assetbundleName": "special-story",
-        "startAt": 1727362800000,
-        "endAt": 1727449199000,
-        "episodes": [
-            {
-                "id": 49,
-                "specialStoryId": 44,
-                "episodeNo": 1,
-                "title": "4周年カウントダウンムービー03",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_4th_countdown",
-                "scenarioId": "4th_countdown_03",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 39,
+        "episodeNo": 1,
+        "title": "エイプリルフール2024導入ムービー",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 23,
+        "assetbundleName": "story_aprilfool_2024",
+        "scenarioId": "aprilfool_2024_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "seq": 1,
+    "title": "エイプリルフール2024後日談ムービー",
+    "assetbundleName": "aprilfool-story-2024",
+    "startAt": 1711983600000,
+    "endAt": 1712069999000,
+    "episodes": [
+      {
         "id": 45,
-        "seq": 1,
-        "title": "4周年カウントダウンムービー04",
-        "assetbundleName": "special-story",
-        "startAt": 1727449200000,
-        "endAt": 1727535599000,
-        "episodes": [
-            {
-                "id": 50,
-                "specialStoryId": 45,
-                "episodeNo": 1,
-                "title": "4周年カウントダウンムービー04",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_4th_countdown",
-                "scenarioId": "4th_countdown_04",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 40,
+        "episodeNo": 1,
+        "title": "エイプリルフール2024後日談ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2024",
+        "scenarioId": "aprilfool_2024_02",
+        "releaseConditionId": 1000236,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "seq": 1,
+    "title": "コネクトライブ RESONANCE BEATS!! 前日ストーリー",
+    "assetbundleName": "connect-live-resonance-beats-story",
+    "startAt": 1718334000000,
+    "endAt": 1718447399000,
+    "episodes": [
+      {
         "id": 46,
-        "seq": 1,
-        "title": "4周年カウントダウンムービー05",
-        "assetbundleName": "special-story",
-        "startAt": 1727535600000,
-        "endAt": 1727621999000,
-        "episodes": [
-            {
-                "id": 51,
-                "specialStoryId": 46,
-                "episodeNo": 1,
-                "title": "4周年カウントダウンムービー05",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_4th_countdown",
-                "scenarioId": "4th_countdown_05",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 41,
+        "episodeNo": 1,
+        "title": "コネクトライブ RESONANCE BEATS!! 前日ストーリー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_connect_live_resonance-beats",
+        "scenarioId": "story_connect_live_resonance-beats_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "seq": 1,
+    "title": "4周年カウントダウンムービー01",
+    "assetbundleName": "special-story",
+    "startAt": 1727190000000,
+    "endAt": 1727276399000,
+    "episodes": [
+      {
         "id": 47,
-        "seq": 1,
-        "title": "4周年カウントダウンムービー06",
-        "assetbundleName": "special-story",
-        "startAt": 1727622000000,
-        "endAt": 1727708399000,
-        "episodes": [
-            {
-                "id": 52,
-                "specialStoryId": 47,
-                "episodeNo": 1,
-                "title": "4周年カウントダウンムービー06",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_4th_countdown",
-                "scenarioId": "4th_countdown_06",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 42,
+        "episodeNo": 1,
+        "title": "4周年カウントダウンムービー01",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_4th_countdown",
+        "scenarioId": "4th_countdown_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "seq": 1,
+    "title": "4周年カウントダウンムービー02",
+    "assetbundleName": "special-story",
+    "startAt": 1727276400000,
+    "endAt": 1727362799000,
+    "episodes": [
+      {
         "id": 48,
-        "seq": 1,
-        "title": "コネクトライブ 4th ANNIVERSARY Brilliant Stage前日ストーリー",
-        "assetbundleName": "connect-live-4th-anniversary-story",
-        "startAt": 1728108000000,
-        "endAt": 1728214199000,
-        "episodes": [
-            {
-                "id": 53,
-                "specialStoryId": 48,
-                "episodeNo": 1,
-                "title": "コネクトライブ 4th ANNIVERSARY Brilliant Stage前日ストーリー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_connect_live_4th_anniversary",
-                "scenarioId": "story_connect_live_4th_anniversary_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 43,
+        "episodeNo": 1,
+        "title": "4周年カウントダウンムービー02",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_4th_countdown",
+        "scenarioId": "4th_countdown_02",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "seq": 1,
+    "title": "4周年カウントダウンムービー03",
+    "assetbundleName": "special-story",
+    "startAt": 1727362800000,
+    "endAt": 1727449199000,
+    "episodes": [
+      {
         "id": 49,
-        "seq": 1,
-        "title": "[プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー プロローグ",
-        "assetbundleName": "collaboration-es-story",
-        "startAt": 1739599200000,
-        "endAt": 1740401999000,
-        "episodes": [
-            {
-                "id": 54,
-                "specialStoryId": 49,
-                "episodeNo": 1,
-                "title": "[プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー プロローグ",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_collaboration_es",
-                "scenarioId": "collaboration_es_op_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 44,
+        "episodeNo": 1,
+        "title": "4周年カウントダウンムービー03",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_4th_countdown",
+        "scenarioId": "4th_countdown_03",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "seq": 1,
+    "title": "4周年カウントダウンムービー04",
+    "assetbundleName": "special-story",
+    "startAt": 1727449200000,
+    "endAt": 1727535599000,
+    "episodes": [
+      {
         "id": 50,
-        "seq": 1,
-        "title": "[プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー エピローグ",
-        "assetbundleName": "collaboration-es-story",
-        "startAt": 1740402000000,
-        "endAt": 1740927599000,
-        "episodes": [
-            {
-                "id": 55,
-                "specialStoryId": 50,
-                "episodeNo": 1,
-                "title": "[プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー エピローグ",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_collaboration_es",
-                "scenarioId": "collaboration_es_ed_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 45,
+        "episodeNo": 1,
+        "title": "4周年カウントダウンムービー04",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_4th_countdown",
+        "scenarioId": "4th_countdown_04",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "seq": 1,
+    "title": "4周年カウントダウンムービー05",
+    "assetbundleName": "special-story",
+    "startAt": 1727535600000,
+    "endAt": 1727621999000,
+    "episodes": [
+      {
         "id": 51,
-        "seq": 1,
-        "title": "[プロセカ×あんさんぶるスターズ！！]コネクトライブ前日譚ログインストーリー",
-        "assetbundleName": "collaboration-es-story",
-        "startAt": 1740117600000,
-        "endAt": 1740308399000,
-        "episodes": [
-            {
-                "id": 56,
-                "specialStoryId": 51,
-                "episodeNo": 1,
-                "title": "[プロセカ×あんさんぶるスターズ！！]コネクトライブ前日譚ログインストーリー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_collaboration_es",
-                "scenarioId": "collaboration_es_prequel_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 46,
+        "episodeNo": 1,
+        "title": "4周年カウントダウンムービー05",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_4th_countdown",
+        "scenarioId": "4th_countdown_05",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "seq": 1,
+    "title": "4周年カウントダウンムービー06",
+    "assetbundleName": "special-story",
+    "startAt": 1727622000000,
+    "endAt": 1727708399000,
+    "episodes": [
+      {
         "id": 52,
-        "seq": 1,
-        "title": "ワールドリンクイベント前日譚ログインストーリー",
-        "assetbundleName": "wl-2nd-event-pre-story",
-        "startAt": 1743303600000,
-        "endAt": 1745146799000,
-        "episodes": [
-            {
-                "id": 57,
-                "specialStoryId": 52,
-                "episodeNo": 1,
-                "title": "ワールドリンクイベント前日譚ログインストーリー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_wl_2nd_pre",
-                "scenarioId": "wl_2nd_pre_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": false,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 47,
+        "episodeNo": 1,
+        "title": "4周年カウントダウンムービー06",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_4th_countdown",
+        "scenarioId": "4th_countdown_06",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "seq": 1,
+    "title": "コネクトライブ 4th ANNIVERSARY Brilliant Stage前日ストーリー",
+    "assetbundleName": "connect-live-4th-anniversary-story",
+    "startAt": 1728108000000,
+    "endAt": 1728214199000,
+    "episodes": [
+      {
         "id": 53,
-        "seq": 1,
-        "title": "エイプリルフール2025導入ムービー",
-        "assetbundleName": "aprilfool-story-2025",
-        "startAt": 1743433200000,
-        "endAt": 1743519599000,
-        "episodes": [
-            {
-                "id": 58,
-                "specialStoryId": 53,
-                "episodeNo": 1,
-                "title": "エイプリルフール2025導入ムービー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_aprilfool_2025",
-                "scenarioId": "aprilfool_2025_01",
-                "releaseConditionId": 1,
-                "isAbleSkip": true,
-                "isActionSetRefresh": true,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    },
-    {
+        "specialStoryId": 48,
+        "episodeNo": 1,
+        "title": "コネクトライブ 4th ANNIVERSARY Brilliant Stage前日ストーリー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_connect_live_4th_anniversary",
+        "scenarioId": "story_connect_live_4th_anniversary_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "seq": 1,
+    "title": "[プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー プロローグ",
+    "assetbundleName": "collaboration-es-story",
+    "startAt": 1739599200000,
+    "endAt": 1740401999000,
+    "episodes": [
+      {
         "id": 54,
-        "seq": 1,
+        "specialStoryId": 49,
+        "episodeNo": 1,
+        "title": "[プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー プロローグ",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_es",
+        "scenarioId": "collaboration_es_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "seq": 1,
+    "title": "[プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー エピローグ",
+    "assetbundleName": "collaboration-es-story",
+    "startAt": 1740402000000,
+    "endAt": 1740927599000,
+    "episodes": [
+      {
+        "id": 55,
+        "specialStoryId": 50,
+        "episodeNo": 1,
+        "title": "[プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー エピローグ",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_es",
+        "scenarioId": "collaboration_es_ed_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "seq": 1,
+    "title": "[プロセカ×あんさんぶるスターズ！！]コネクトライブ前日譚ログインストーリー",
+    "assetbundleName": "collaboration-es-story",
+    "startAt": 1740117600000,
+    "endAt": 1740308399000,
+    "episodes": [
+      {
+        "id": 56,
+        "specialStoryId": 51,
+        "episodeNo": 1,
+        "title": "[プロセカ×あんさんぶるスターズ！！]コネクトライブ前日譚ログインストーリー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_es",
+        "scenarioId": "collaboration_es_prequel_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "seq": 1,
+    "title": "ワールドリンクイベント前日譚ログインストーリー",
+    "assetbundleName": "wl-2nd-event-pre-story",
+    "startAt": 1743303600000,
+    "endAt": 1745146799000,
+    "episodes": [
+      {
+        "id": 57,
+        "specialStoryId": 52,
+        "episodeNo": 1,
+        "title": "ワールドリンクイベント前日譚ログインストーリー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_wl_2nd_pre",
+        "scenarioId": "wl_2nd_pre_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "seq": 1,
+    "title": "エイプリルフール2025導入ムービー",
+    "assetbundleName": "aprilfool-story-2025",
+    "startAt": 1743433200000,
+    "endAt": 1743519599000,
+    "episodes": [
+      {
+        "id": 58,
+        "specialStoryId": 53,
+        "episodeNo": 1,
+        "title": "エイプリルフール2025導入ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2025",
+        "scenarioId": "aprilfool_2025_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "seq": 1,
+    "title": "エイプリルフール2025後日談ムービー",
+    "assetbundleName": "aprilfool-story-2025",
+    "startAt": 1743519600000,
+    "endAt": 1743605999000,
+    "episodes": [
+      {
+        "id": 59,
+        "specialStoryId": 54,
+        "episodeNo": 1,
         "title": "エイプリルフール2025後日談ムービー",
-        "assetbundleName": "aprilfool-story-2025",
-        "startAt": 1743519600000,
-        "endAt": 1743605999000,
-        "episodes": [
-            {
-                "id": 59,
-                "specialStoryId": 54,
-                "episodeNo": 1,
-                "title": "エイプリルフール2025後日談ムービー",
-                "specialStoryEpisodeType": "none",
-                "assetbundleName": "story_aprilfool_2025",
-                "scenarioId": "aprilfool_2025_02",
-                "releaseConditionId": 1000300,
-                "isAbleSkip": true,
-                "isActionSetRefresh": true,
-                "rewardResourceBoxIds": []
-            }
-        ]
-    }
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2025",
+        "scenarioId": "aprilfool_2025_02",
+        "releaseConditionId": 1000300,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  }
 ]

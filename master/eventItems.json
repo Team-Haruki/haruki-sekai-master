@@ -1,1463 +1,1463 @@
 [
-    {
-        "id": 1,
-        "eventId": 1,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 2,
-        "eventId": 2,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 3,
-        "eventId": 3,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 4,
-        "eventId": 4,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 5,
-        "eventId": 5,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 6,
-        "eventId": 6,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 7,
-        "eventId": 7,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 8,
-        "eventId": 8,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 9,
-        "eventId": 9,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 10,
-        "eventId": 10,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 11,
-        "eventId": 11,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 12,
-        "eventId": 12,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 13,
-        "eventId": 13,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 14,
-        "eventId": 14,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 15,
-        "eventId": 15,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 16,
-        "eventId": 16,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 17,
-        "eventId": 17,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 18,
-        "eventId": 18,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 19,
-        "eventId": 19,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 20,
-        "eventId": 20,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 21,
-        "eventId": 21,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 22,
-        "eventId": 22,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 23,
-        "eventId": 23,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 24,
-        "eventId": 24,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 25,
-        "eventId": 25,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 26,
-        "eventId": 26,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 27,
-        "eventId": 27,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 28,
-        "eventId": 28,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 29,
-        "eventId": 29,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 30,
-        "eventId": 30,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 31,
-        "eventId": 31,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 32,
-        "eventId": 32,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 33,
-        "eventId": 33,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。"
-    },
-    {
-        "id": 34,
-        "eventId": 34,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 35,
-        "eventId": 35,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 36,
-        "eventId": 36,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 37,
-        "eventId": 37,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 38,
-        "eventId": 38,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 39,
-        "eventId": 39,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 40,
-        "eventId": 40,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 41,
-        "eventId": 41,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 42,
-        "eventId": 42,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 43,
-        "eventId": 43,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 44,
-        "eventId": 44,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 45,
-        "eventId": 45,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 46,
-        "eventId": 46,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 47,
-        "eventId": 47,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 48,
-        "eventId": 48,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 49,
-        "eventId": 49,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 50,
-        "eventId": 50,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 51,
-        "eventId": 51,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 52,
-        "eventId": 52,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 53,
-        "eventId": 53,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 54,
-        "eventId": 54,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 55,
-        "eventId": 55,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 56,
-        "eventId": 56,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 57,
-        "eventId": 57,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 58,
-        "eventId": 58,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 59,
-        "eventId": 59,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 60,
-        "eventId": 60,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 61,
-        "eventId": 61,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 62,
-        "eventId": 62,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 63,
-        "eventId": 63,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 64,
-        "eventId": 64,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 65,
-        "eventId": 65,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 66,
-        "eventId": 66,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 67,
-        "eventId": 67,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 68,
-        "eventId": 68,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 69,
-        "eventId": 69,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 70,
-        "eventId": 70,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 71,
-        "eventId": 71,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 72,
-        "eventId": 72,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 73,
-        "eventId": 73,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 74,
-        "eventId": 74,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 75,
-        "eventId": 75,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 76,
-        "eventId": 76,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 77,
-        "eventId": 77,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 78,
-        "eventId": 78,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 79,
-        "eventId": 79,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 80,
-        "eventId": 80,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 81,
-        "eventId": 81,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 82,
-        "eventId": 82,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 83,
-        "eventId": 83,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 84,
-        "eventId": 84,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 85,
-        "eventId": 85,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 86,
-        "eventId": 86,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 87,
-        "eventId": 87,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 88,
-        "eventId": 88,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 89,
-        "eventId": 89,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 90,
-        "eventId": 90,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 91,
-        "eventId": 91,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 92,
-        "eventId": 92,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 93,
-        "eventId": 93,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 94,
-        "eventId": 94,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 95,
-        "eventId": 95,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 96,
-        "eventId": 96,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 97,
-        "eventId": 97,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 98,
-        "eventId": 98,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 99,
-        "eventId": 99,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 100,
-        "eventId": 100,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 101,
-        "eventId": 101,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 102,
-        "eventId": 102,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 103,
-        "eventId": 103,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 104,
-        "eventId": 104,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 105,
-        "eventId": 105,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 106,
-        "eventId": 106,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 107,
-        "eventId": 107,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 108,
-        "eventId": 108,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 109,
-        "eventId": 109,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 110,
-        "eventId": 110,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 111,
-        "eventId": 111,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 112,
-        "eventId": 112,
-        "name": "ワールドバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_school_refusal"
-    },
-    {
-        "id": 113,
-        "eventId": 112,
-        "gameCharacterId": 18,
-        "name": "チャプター1バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mafuyu"
-    },
-    {
-        "id": 114,
-        "eventId": 112,
-        "gameCharacterId": 20,
-        "name": "チャプター2バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mizuki"
-    },
-    {
-        "id": 115,
-        "eventId": 112,
-        "gameCharacterId": 19,
-        "name": "チャプター3バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_ena"
-    },
-    {
-        "id": 116,
-        "eventId": 112,
-        "gameCharacterId": 17,
-        "name": "チャプター4バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_kanade"
-    },
-    {
-        "id": 117,
-        "eventId": 113,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 118,
-        "eventId": 114,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 119,
-        "eventId": 115,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 120,
-        "eventId": 116,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 121,
-        "eventId": 117,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 122,
-        "eventId": 118,
-        "name": "ワールドバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_street"
-    },
-    {
-        "id": 123,
-        "eventId": 118,
-        "gameCharacterId": 11,
-        "name": "チャプター1バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_akito"
-    },
-    {
-        "id": 124,
-        "eventId": 118,
-        "gameCharacterId": 12,
-        "name": "チャプター2バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_touya"
-    },
-    {
-        "id": 125,
-        "eventId": 118,
-        "gameCharacterId": 10,
-        "name": "チャプター3バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_an"
-    },
-    {
-        "id": 126,
-        "eventId": 118,
-        "gameCharacterId": 9,
-        "name": "チャプター4バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_kohane"
-    },
-    {
-        "id": 127,
-        "eventId": 119,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 128,
-        "eventId": 120,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 129,
-        "eventId": 121,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 130,
-        "eventId": 122,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 131,
-        "eventId": 123,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 132,
-        "eventId": 124,
-        "name": "ワールドバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_theme_park"
-    },
-    {
-        "id": 133,
-        "eventId": 124,
-        "gameCharacterId": 16,
-        "name": "チャプター1バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_rui"
-    },
-    {
-        "id": 134,
-        "eventId": 124,
-        "gameCharacterId": 15,
-        "name": "チャプター2バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_nene"
-    },
-    {
-        "id": 135,
-        "eventId": 124,
-        "gameCharacterId": 14,
-        "name": "チャプター3バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_emu"
-    },
-    {
-        "id": 136,
-        "eventId": 124,
-        "gameCharacterId": 13,
-        "name": "チャプター4バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_tsukasa"
-    },
-    {
-        "id": 137,
-        "eventId": 125,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 138,
-        "eventId": 126,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 139,
-        "eventId": 127,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 140,
-        "eventId": 128,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 141,
-        "eventId": 129,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 151,
-        "eventId": 130,
-        "name": "ワールドバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_idol"
-    },
-    {
-        "id": 152,
-        "eventId": 130,
-        "gameCharacterId": 7,
-        "name": "チャプター1バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_airi"
-    },
-    {
-        "id": 153,
-        "eventId": 130,
-        "gameCharacterId": 6,
-        "name": "チャプター2バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_haruka"
-    },
-    {
-        "id": 154,
-        "eventId": 130,
-        "gameCharacterId": 8,
-        "name": "チャプター3バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_shizuku"
-    },
-    {
-        "id": 155,
-        "eventId": 130,
-        "gameCharacterId": 5,
-        "name": "チャプター4バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_minori"
-    },
-    {
-        "id": 156,
-        "eventId": 131,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 157,
-        "eventId": 132,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 158,
-        "eventId": 133,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 159,
-        "eventId": 134,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 160,
-        "eventId": 135,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 161,
-        "eventId": 136,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 162,
-        "eventId": 137,
-        "name": "ワールドバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_light_sound"
-    },
-    {
-        "id": 163,
-        "eventId": 137,
-        "gameCharacterId": 2,
-        "name": "チャプター1バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_saki"
-    },
-    {
-        "id": 164,
-        "eventId": 137,
-        "gameCharacterId": 3,
-        "name": "チャプター2バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_honami"
-    },
-    {
-        "id": 165,
-        "eventId": 137,
-        "gameCharacterId": 4,
-        "name": "チャプター3バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_shiho"
-    },
-    {
-        "id": 166,
-        "eventId": 137,
-        "gameCharacterId": 1,
-        "name": "チャプター4バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_ichika"
-    },
-    {
-        "id": 167,
-        "eventId": 138,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 168,
-        "eventId": 139,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 169,
-        "eventId": 140,
-        "name": "ワールドバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_piapro"
-    },
-    {
-        "id": 170,
-        "eventId": 140,
-        "gameCharacterId": 24,
-        "name": "チャプター1バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_luka"
-    },
-    {
-        "id": 171,
-        "eventId": 140,
-        "gameCharacterId": 22,
-        "name": "チャプター2バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_rin"
-    },
-    {
-        "id": 172,
-        "eventId": 140,
-        "gameCharacterId": 25,
-        "name": "チャプター3バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_meiko"
-    },
-    {
-        "id": 173,
-        "eventId": 140,
-        "gameCharacterId": 23,
-        "name": "チャプター4バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_len"
-    },
-    {
-        "id": 174,
-        "eventId": 140,
-        "gameCharacterId": 26,
-        "name": "チャプター5バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_kaito"
-    },
-    {
-        "id": 175,
-        "eventId": 140,
-        "gameCharacterId": 21,
-        "name": "チャプター6バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_miku"
-    },
-    {
-        "id": 176,
-        "eventId": 141,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 177,
-        "eventId": 142,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 178,
-        "eventId": 143,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 179,
-        "eventId": 144,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 180,
-        "eventId": 145,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 181,
-        "eventId": 146,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 182,
-        "eventId": 147,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 183,
-        "eventId": 148,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 184,
-        "eventId": 149,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 185,
-        "eventId": 150,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 186,
-        "eventId": 151,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 187,
-        "eventId": 152,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 188,
-        "eventId": 153,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 189,
-        "eventId": 154,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 190,
-        "eventId": 155,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 191,
-        "eventId": 156,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 192,
-        "eventId": 157,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 193,
-        "eventId": 158,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 194,
-        "eventId": 159,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 195,
-        "eventId": 160,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 196,
-        "eventId": 161,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 197,
-        "eventId": 162,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cool"
-    },
-    {
-        "id": 198,
-        "eventId": 163,
-        "name": "ワールドバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_street"
-    },
-    {
-        "id": 199,
-        "eventId": 163,
-        "gameCharacterId": 12,
-        "name": "チャプター1バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_touya"
-    },
-    {
-        "id": 200,
-        "eventId": 163,
-        "gameCharacterId": 11,
-        "name": "チャプター2バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_akito"
-    },
-    {
-        "id": 201,
-        "eventId": 163,
-        "gameCharacterId": 9,
-        "name": "チャプター3バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_kohane"
-    },
-    {
-        "id": 202,
-        "eventId": 163,
-        "gameCharacterId": 10,
-        "name": "チャプター4バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_an"
-    },
-    {
-        "id": 203,
-        "eventId": 164,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 204,
-        "eventId": 165,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mysterious"
-    },
-    {
-        "id": 205,
-        "eventId": 166,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_pure"
-    },
-    {
-        "id": 206,
-        "eventId": 167,
-        "name": "ワールドバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_theme_park"
-    },
-    {
-        "id": 207,
-        "eventId": 167,
-        "gameCharacterId": 16,
-        "name": "チャプター1バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_rui"
-    },
-    {
-        "id": 208,
-        "eventId": 167,
-        "gameCharacterId": 13,
-        "name": "チャプター2バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_tsukasa"
-    },
-    {
-        "id": 209,
-        "eventId": 167,
-        "gameCharacterId": 15,
-        "name": "チャプター3バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_nene"
-    },
-    {
-        "id": 210,
-        "eventId": 167,
-        "gameCharacterId": 14,
-        "name": "チャプター4バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_emu"
-    },
-    {
-        "id": 211,
-        "eventId": 168,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_happy"
-    },
-    {
-        "id": 212,
-        "eventId": 169,
-        "name": "イベントバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_cute"
-    },
-    {
-        "id": 213,
-        "eventId": 170,
-        "name": "ワールドバッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_school_refusal"
-    },
-    {
-        "id": 214,
-        "eventId": 170,
-        "gameCharacterId": 17,
-        "name": "チャプター1バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_kanade"
-    },
-    {
-        "id": 215,
-        "eventId": 170,
-        "gameCharacterId": 19,
-        "name": "チャプター2バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_ena"
-    },
-    {
-        "id": 216,
-        "eventId": 170,
-        "gameCharacterId": 20,
-        "name": "チャプター3バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mizuki"
-    },
-    {
-        "id": 217,
-        "eventId": 170,
-        "gameCharacterId": 18,
-        "name": "チャプター4バッジ",
-        "flavorText": "イベント交換所でアイテムと交換できます。",
-        "assetbundleName": "badge_mafuyu"
-    }
+  {
+    "id": 1,
+    "eventId": 1,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 2,
+    "eventId": 2,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 3,
+    "eventId": 3,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 4,
+    "eventId": 4,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 5,
+    "eventId": 5,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 6,
+    "eventId": 6,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 7,
+    "eventId": 7,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 8,
+    "eventId": 8,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 9,
+    "eventId": 9,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 10,
+    "eventId": 10,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 11,
+    "eventId": 11,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 12,
+    "eventId": 12,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 13,
+    "eventId": 13,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 14,
+    "eventId": 14,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 15,
+    "eventId": 15,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 16,
+    "eventId": 16,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 17,
+    "eventId": 17,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 18,
+    "eventId": 18,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 19,
+    "eventId": 19,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 20,
+    "eventId": 20,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 21,
+    "eventId": 21,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 22,
+    "eventId": 22,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 23,
+    "eventId": 23,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 24,
+    "eventId": 24,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 25,
+    "eventId": 25,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 26,
+    "eventId": 26,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 27,
+    "eventId": 27,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 28,
+    "eventId": 28,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 29,
+    "eventId": 29,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 30,
+    "eventId": 30,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 31,
+    "eventId": 31,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 32,
+    "eventId": 32,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 33,
+    "eventId": 33,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。"
+  },
+  {
+    "id": 34,
+    "eventId": 34,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 35,
+    "eventId": 35,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 36,
+    "eventId": 36,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 37,
+    "eventId": 37,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 38,
+    "eventId": 38,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 39,
+    "eventId": 39,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 40,
+    "eventId": 40,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 41,
+    "eventId": 41,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 42,
+    "eventId": 42,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 43,
+    "eventId": 43,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 44,
+    "eventId": 44,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 45,
+    "eventId": 45,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 46,
+    "eventId": 46,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 47,
+    "eventId": 47,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 48,
+    "eventId": 48,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 49,
+    "eventId": 49,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 50,
+    "eventId": 50,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 51,
+    "eventId": 51,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 52,
+    "eventId": 52,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 53,
+    "eventId": 53,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 54,
+    "eventId": 54,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 55,
+    "eventId": 55,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 56,
+    "eventId": 56,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 57,
+    "eventId": 57,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 58,
+    "eventId": 58,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 59,
+    "eventId": 59,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 60,
+    "eventId": 60,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 61,
+    "eventId": 61,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 62,
+    "eventId": 62,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 63,
+    "eventId": 63,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 64,
+    "eventId": 64,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 65,
+    "eventId": 65,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 66,
+    "eventId": 66,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 67,
+    "eventId": 67,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 68,
+    "eventId": 68,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 69,
+    "eventId": 69,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 70,
+    "eventId": 70,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 71,
+    "eventId": 71,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 72,
+    "eventId": 72,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 73,
+    "eventId": 73,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 74,
+    "eventId": 74,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 75,
+    "eventId": 75,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 76,
+    "eventId": 76,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 77,
+    "eventId": 77,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 78,
+    "eventId": 78,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 79,
+    "eventId": 79,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 80,
+    "eventId": 80,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 81,
+    "eventId": 81,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 82,
+    "eventId": 82,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 83,
+    "eventId": 83,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 84,
+    "eventId": 84,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 85,
+    "eventId": 85,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 86,
+    "eventId": 86,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 87,
+    "eventId": 87,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 88,
+    "eventId": 88,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 89,
+    "eventId": 89,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 90,
+    "eventId": 90,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 91,
+    "eventId": 91,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 92,
+    "eventId": 92,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 93,
+    "eventId": 93,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 94,
+    "eventId": 94,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 95,
+    "eventId": 95,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 96,
+    "eventId": 96,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 97,
+    "eventId": 97,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 98,
+    "eventId": 98,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 99,
+    "eventId": 99,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 100,
+    "eventId": 100,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 101,
+    "eventId": 101,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 102,
+    "eventId": 102,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 103,
+    "eventId": 103,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 104,
+    "eventId": 104,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 105,
+    "eventId": 105,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 106,
+    "eventId": 106,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 107,
+    "eventId": 107,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 108,
+    "eventId": 108,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 109,
+    "eventId": 109,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 110,
+    "eventId": 110,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 111,
+    "eventId": 111,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 112,
+    "eventId": 112,
+    "name": "ワールドバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_school_refusal"
+  },
+  {
+    "id": 113,
+    "eventId": 112,
+    "gameCharacterId": 18,
+    "name": "チャプター1バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mafuyu"
+  },
+  {
+    "id": 114,
+    "eventId": 112,
+    "gameCharacterId": 20,
+    "name": "チャプター2バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mizuki"
+  },
+  {
+    "id": 115,
+    "eventId": 112,
+    "gameCharacterId": 19,
+    "name": "チャプター3バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_ena"
+  },
+  {
+    "id": 116,
+    "eventId": 112,
+    "gameCharacterId": 17,
+    "name": "チャプター4バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_kanade"
+  },
+  {
+    "id": 117,
+    "eventId": 113,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 118,
+    "eventId": 114,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 119,
+    "eventId": 115,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 120,
+    "eventId": 116,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 121,
+    "eventId": 117,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 122,
+    "eventId": 118,
+    "name": "ワールドバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_street"
+  },
+  {
+    "id": 123,
+    "eventId": 118,
+    "gameCharacterId": 11,
+    "name": "チャプター1バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_akito"
+  },
+  {
+    "id": 124,
+    "eventId": 118,
+    "gameCharacterId": 12,
+    "name": "チャプター2バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_touya"
+  },
+  {
+    "id": 125,
+    "eventId": 118,
+    "gameCharacterId": 10,
+    "name": "チャプター3バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_an"
+  },
+  {
+    "id": 126,
+    "eventId": 118,
+    "gameCharacterId": 9,
+    "name": "チャプター4バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_kohane"
+  },
+  {
+    "id": 127,
+    "eventId": 119,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 128,
+    "eventId": 120,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 129,
+    "eventId": 121,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 130,
+    "eventId": 122,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 131,
+    "eventId": 123,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 132,
+    "eventId": 124,
+    "name": "ワールドバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_theme_park"
+  },
+  {
+    "id": 133,
+    "eventId": 124,
+    "gameCharacterId": 16,
+    "name": "チャプター1バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_rui"
+  },
+  {
+    "id": 134,
+    "eventId": 124,
+    "gameCharacterId": 15,
+    "name": "チャプター2バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_nene"
+  },
+  {
+    "id": 135,
+    "eventId": 124,
+    "gameCharacterId": 14,
+    "name": "チャプター3バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_emu"
+  },
+  {
+    "id": 136,
+    "eventId": 124,
+    "gameCharacterId": 13,
+    "name": "チャプター4バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_tsukasa"
+  },
+  {
+    "id": 137,
+    "eventId": 125,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 138,
+    "eventId": 126,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 139,
+    "eventId": 127,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 140,
+    "eventId": 128,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 141,
+    "eventId": 129,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 151,
+    "eventId": 130,
+    "name": "ワールドバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_idol"
+  },
+  {
+    "id": 152,
+    "eventId": 130,
+    "gameCharacterId": 7,
+    "name": "チャプター1バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_airi"
+  },
+  {
+    "id": 153,
+    "eventId": 130,
+    "gameCharacterId": 6,
+    "name": "チャプター2バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_haruka"
+  },
+  {
+    "id": 154,
+    "eventId": 130,
+    "gameCharacterId": 8,
+    "name": "チャプター3バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_shizuku"
+  },
+  {
+    "id": 155,
+    "eventId": 130,
+    "gameCharacterId": 5,
+    "name": "チャプター4バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_minori"
+  },
+  {
+    "id": 156,
+    "eventId": 131,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 157,
+    "eventId": 132,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 158,
+    "eventId": 133,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 159,
+    "eventId": 134,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 160,
+    "eventId": 135,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 161,
+    "eventId": 136,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 162,
+    "eventId": 137,
+    "name": "ワールドバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_light_sound"
+  },
+  {
+    "id": 163,
+    "eventId": 137,
+    "gameCharacterId": 2,
+    "name": "チャプター1バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_saki"
+  },
+  {
+    "id": 164,
+    "eventId": 137,
+    "gameCharacterId": 3,
+    "name": "チャプター2バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_honami"
+  },
+  {
+    "id": 165,
+    "eventId": 137,
+    "gameCharacterId": 4,
+    "name": "チャプター3バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_shiho"
+  },
+  {
+    "id": 166,
+    "eventId": 137,
+    "gameCharacterId": 1,
+    "name": "チャプター4バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_ichika"
+  },
+  {
+    "id": 167,
+    "eventId": 138,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 168,
+    "eventId": 139,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 169,
+    "eventId": 140,
+    "name": "ワールドバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_piapro"
+  },
+  {
+    "id": 170,
+    "eventId": 140,
+    "gameCharacterId": 24,
+    "name": "チャプター1バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_luka"
+  },
+  {
+    "id": 171,
+    "eventId": 140,
+    "gameCharacterId": 22,
+    "name": "チャプター2バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_rin"
+  },
+  {
+    "id": 172,
+    "eventId": 140,
+    "gameCharacterId": 25,
+    "name": "チャプター3バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_meiko"
+  },
+  {
+    "id": 173,
+    "eventId": 140,
+    "gameCharacterId": 23,
+    "name": "チャプター4バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_len"
+  },
+  {
+    "id": 174,
+    "eventId": 140,
+    "gameCharacterId": 26,
+    "name": "チャプター5バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_kaito"
+  },
+  {
+    "id": 175,
+    "eventId": 140,
+    "gameCharacterId": 21,
+    "name": "チャプター6バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_miku"
+  },
+  {
+    "id": 176,
+    "eventId": 141,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 177,
+    "eventId": 142,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 178,
+    "eventId": 143,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 179,
+    "eventId": 144,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 180,
+    "eventId": 145,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 181,
+    "eventId": 146,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 182,
+    "eventId": 147,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 183,
+    "eventId": 148,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 184,
+    "eventId": 149,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 185,
+    "eventId": 150,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 186,
+    "eventId": 151,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 187,
+    "eventId": 152,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 188,
+    "eventId": 153,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 189,
+    "eventId": 154,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 190,
+    "eventId": 155,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 191,
+    "eventId": 156,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 192,
+    "eventId": 157,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 193,
+    "eventId": 158,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 194,
+    "eventId": 159,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 195,
+    "eventId": 160,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 196,
+    "eventId": 161,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 197,
+    "eventId": 162,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 198,
+    "eventId": 163,
+    "name": "ワールドバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_street"
+  },
+  {
+    "id": 199,
+    "eventId": 163,
+    "gameCharacterId": 12,
+    "name": "チャプター1バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_touya"
+  },
+  {
+    "id": 200,
+    "eventId": 163,
+    "gameCharacterId": 11,
+    "name": "チャプター2バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_akito"
+  },
+  {
+    "id": 201,
+    "eventId": 163,
+    "gameCharacterId": 9,
+    "name": "チャプター3バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_kohane"
+  },
+  {
+    "id": 202,
+    "eventId": 163,
+    "gameCharacterId": 10,
+    "name": "チャプター4バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_an"
+  },
+  {
+    "id": 203,
+    "eventId": 164,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 204,
+    "eventId": 165,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
+  },
+  {
+    "id": 205,
+    "eventId": 166,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_pure"
+  },
+  {
+    "id": 206,
+    "eventId": 167,
+    "name": "ワールドバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_theme_park"
+  },
+  {
+    "id": 207,
+    "eventId": 167,
+    "gameCharacterId": 16,
+    "name": "チャプター1バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_rui"
+  },
+  {
+    "id": 208,
+    "eventId": 167,
+    "gameCharacterId": 13,
+    "name": "チャプター2バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_tsukasa"
+  },
+  {
+    "id": 209,
+    "eventId": 167,
+    "gameCharacterId": 15,
+    "name": "チャプター3バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_nene"
+  },
+  {
+    "id": 210,
+    "eventId": 167,
+    "gameCharacterId": 14,
+    "name": "チャプター4バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_emu"
+  },
+  {
+    "id": 211,
+    "eventId": 168,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_happy"
+  },
+  {
+    "id": 212,
+    "eventId": 169,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_cute"
+  },
+  {
+    "id": 213,
+    "eventId": 170,
+    "name": "ワールドバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_school_refusal"
+  },
+  {
+    "id": 214,
+    "eventId": 170,
+    "gameCharacterId": 17,
+    "name": "チャプター1バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_kanade"
+  },
+  {
+    "id": 215,
+    "eventId": 170,
+    "gameCharacterId": 19,
+    "name": "チャプター2バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_ena"
+  },
+  {
+    "id": 216,
+    "eventId": 170,
+    "gameCharacterId": 20,
+    "name": "チャプター3バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mizuki"
+  },
+  {
+    "id": 217,
+    "eventId": 170,
+    "gameCharacterId": 18,
+    "name": "チャプター4バッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mafuyu"
+  }
 ]

@@ -1,5342 +1,5342 @@
 [
-    {
-        "id": 1,
-        "groupId": 10102,
-        "characterId1": 1,
-        "characterId2": 2
-    },
-    {
-        "id": 2,
-        "groupId": 10102,
-        "characterId1": 2,
-        "characterId2": 1
-    },
-    {
-        "id": 3,
-        "groupId": 10103,
-        "characterId1": 1,
-        "characterId2": 3
-    },
-    {
-        "id": 4,
-        "groupId": 10103,
-        "characterId1": 3,
-        "characterId2": 1
-    },
-    {
-        "id": 5,
-        "groupId": 10104,
-        "characterId1": 1,
-        "characterId2": 4
-    },
-    {
-        "id": 6,
-        "groupId": 10104,
-        "characterId1": 4,
-        "characterId2": 1
-    },
-    {
-        "id": 7,
-        "groupId": 10121,
-        "characterId1": 1,
-        "characterId2": 21
-    },
-    {
-        "id": 8,
-        "groupId": 10121,
-        "characterId1": 21,
-        "characterId2": 1
-    },
-    {
-        "id": 9,
-        "groupId": 10124,
-        "characterId1": 1,
-        "characterId2": 24
-    },
-    {
-        "id": 10,
-        "groupId": 10124,
-        "characterId1": 24,
-        "characterId2": 1
-    },
-    {
-        "id": 11,
-        "groupId": 10203,
-        "characterId1": 2,
-        "characterId2": 3
-    },
-    {
-        "id": 12,
-        "groupId": 10203,
-        "characterId1": 3,
-        "characterId2": 2
-    },
-    {
-        "id": 13,
-        "groupId": 10204,
-        "characterId1": 2,
-        "characterId2": 4
-    },
-    {
-        "id": 14,
-        "groupId": 10204,
-        "characterId1": 4,
-        "characterId2": 2
-    },
-    {
-        "id": 15,
-        "groupId": 10221,
-        "characterId1": 2,
-        "characterId2": 21
-    },
-    {
-        "id": 16,
-        "groupId": 10221,
-        "characterId1": 21,
-        "characterId2": 2
-    },
-    {
-        "id": 17,
-        "groupId": 10224,
-        "characterId1": 2,
-        "characterId2": 24
-    },
-    {
-        "id": 18,
-        "groupId": 10224,
-        "characterId1": 24,
-        "characterId2": 2
-    },
-    {
-        "id": 19,
-        "groupId": 10304,
-        "characterId1": 3,
-        "characterId2": 4
-    },
-    {
-        "id": 20,
-        "groupId": 10304,
-        "characterId1": 4,
-        "characterId2": 3
-    },
-    {
-        "id": 21,
-        "groupId": 10321,
-        "characterId1": 3,
-        "characterId2": 21
-    },
-    {
-        "id": 22,
-        "groupId": 10321,
-        "characterId1": 21,
-        "characterId2": 3
-    },
-    {
-        "id": 23,
-        "groupId": 10324,
-        "characterId1": 3,
-        "characterId2": 24
-    },
-    {
-        "id": 24,
-        "groupId": 10324,
-        "characterId1": 24,
-        "characterId2": 3
-    },
-    {
-        "id": 25,
-        "groupId": 10421,
-        "characterId1": 4,
-        "characterId2": 21
-    },
-    {
-        "id": 26,
-        "groupId": 10421,
-        "characterId1": 21,
-        "characterId2": 4
-    },
-    {
-        "id": 27,
-        "groupId": 10424,
-        "characterId1": 4,
-        "characterId2": 24
-    },
-    {
-        "id": 28,
-        "groupId": 10424,
-        "characterId1": 24,
-        "characterId2": 4
-    },
-    {
-        "id": 29,
-        "groupId": 10506,
-        "characterId1": 5,
-        "characterId2": 6
-    },
-    {
-        "id": 30,
-        "groupId": 10506,
-        "characterId1": 6,
-        "characterId2": 5
-    },
-    {
-        "id": 31,
-        "groupId": 10507,
-        "characterId1": 5,
-        "characterId2": 7
-    },
-    {
-        "id": 32,
-        "groupId": 10507,
-        "characterId1": 7,
-        "characterId2": 5
-    },
-    {
-        "id": 33,
-        "groupId": 10508,
-        "characterId1": 5,
-        "characterId2": 8
-    },
-    {
-        "id": 34,
-        "groupId": 10508,
-        "characterId1": 8,
-        "characterId2": 5
-    },
-    {
-        "id": 35,
-        "groupId": 10521,
-        "characterId1": 5,
-        "characterId2": 21
-    },
-    {
-        "id": 36,
-        "groupId": 10521,
-        "characterId1": 21,
-        "characterId2": 5
-    },
-    {
-        "id": 37,
-        "groupId": 10522,
-        "characterId1": 5,
-        "characterId2": 22
-    },
-    {
-        "id": 38,
-        "groupId": 10522,
-        "characterId1": 22,
-        "characterId2": 5
-    },
-    {
-        "id": 39,
-        "groupId": 10607,
-        "characterId1": 6,
-        "characterId2": 7
-    },
-    {
-        "id": 40,
-        "groupId": 10607,
-        "characterId1": 7,
-        "characterId2": 6
-    },
-    {
-        "id": 41,
-        "groupId": 10608,
-        "characterId1": 6,
-        "characterId2": 8
-    },
-    {
-        "id": 42,
-        "groupId": 10608,
-        "characterId1": 8,
-        "characterId2": 6
-    },
-    {
-        "id": 43,
-        "groupId": 10621,
-        "characterId1": 6,
-        "characterId2": 21
-    },
-    {
-        "id": 44,
-        "groupId": 10621,
-        "characterId1": 21,
-        "characterId2": 6
-    },
-    {
-        "id": 45,
-        "groupId": 10622,
-        "characterId1": 6,
-        "characterId2": 22
-    },
-    {
-        "id": 46,
-        "groupId": 10622,
-        "characterId1": 22,
-        "characterId2": 6
-    },
-    {
-        "id": 47,
-        "groupId": 10708,
-        "characterId1": 7,
-        "characterId2": 8
-    },
-    {
-        "id": 48,
-        "groupId": 10708,
-        "characterId1": 8,
-        "characterId2": 7
-    },
-    {
-        "id": 49,
-        "groupId": 10721,
-        "characterId1": 7,
-        "characterId2": 21
-    },
-    {
-        "id": 50,
-        "groupId": 10721,
-        "characterId1": 21,
-        "characterId2": 7
-    },
-    {
-        "id": 51,
-        "groupId": 10722,
-        "characterId1": 7,
-        "characterId2": 22
-    },
-    {
-        "id": 52,
-        "groupId": 10722,
-        "characterId1": 22,
-        "characterId2": 7
-    },
-    {
-        "id": 53,
-        "groupId": 10821,
-        "characterId1": 8,
-        "characterId2": 21
-    },
-    {
-        "id": 54,
-        "groupId": 10821,
-        "characterId1": 21,
-        "characterId2": 8
-    },
-    {
-        "id": 55,
-        "groupId": 10822,
-        "characterId1": 8,
-        "characterId2": 22
-    },
-    {
-        "id": 56,
-        "groupId": 10822,
-        "characterId1": 22,
-        "characterId2": 8
-    },
-    {
-        "id": 57,
-        "groupId": 10910,
-        "characterId1": 9,
-        "characterId2": 10
-    },
-    {
-        "id": 58,
-        "groupId": 10910,
-        "characterId1": 10,
-        "characterId2": 9
-    },
-    {
-        "id": 59,
-        "groupId": 10911,
-        "characterId1": 9,
-        "characterId2": 11
-    },
-    {
-        "id": 60,
-        "groupId": 10911,
-        "characterId1": 11,
-        "characterId2": 9
-    },
-    {
-        "id": 61,
-        "groupId": 10912,
-        "characterId1": 9,
-        "characterId2": 12
-    },
-    {
-        "id": 62,
-        "groupId": 10912,
-        "characterId1": 12,
-        "characterId2": 9
-    },
-    {
-        "id": 63,
-        "groupId": 10921,
-        "characterId1": 9,
-        "characterId2": 21
-    },
-    {
-        "id": 64,
-        "groupId": 10921,
-        "characterId1": 21,
-        "characterId2": 9
-    },
-    {
-        "id": 65,
-        "groupId": 10923,
-        "characterId1": 9,
-        "characterId2": 23
-    },
-    {
-        "id": 66,
-        "groupId": 10923,
-        "characterId1": 23,
-        "characterId2": 9
-    },
-    {
-        "id": 67,
-        "groupId": 10925,
-        "characterId1": 9,
-        "characterId2": 25
-    },
-    {
-        "id": 68,
-        "groupId": 10925,
-        "characterId1": 25,
-        "characterId2": 9
-    },
-    {
-        "id": 69,
-        "groupId": 11011,
-        "characterId1": 10,
-        "characterId2": 11
-    },
-    {
-        "id": 70,
-        "groupId": 11011,
-        "characterId1": 11,
-        "characterId2": 10
-    },
-    {
-        "id": 71,
-        "groupId": 11012,
-        "characterId1": 10,
-        "characterId2": 12
-    },
-    {
-        "id": 72,
-        "groupId": 11012,
-        "characterId1": 12,
-        "characterId2": 10
-    },
-    {
-        "id": 73,
-        "groupId": 11021,
-        "characterId1": 10,
-        "characterId2": 21
-    },
-    {
-        "id": 74,
-        "groupId": 11021,
-        "characterId1": 21,
-        "characterId2": 10
-    },
-    {
-        "id": 75,
-        "groupId": 11023,
-        "characterId1": 10,
-        "characterId2": 23
-    },
-    {
-        "id": 76,
-        "groupId": 11023,
-        "characterId1": 23,
-        "characterId2": 10
-    },
-    {
-        "id": 77,
-        "groupId": 11025,
-        "characterId1": 10,
-        "characterId2": 25
-    },
-    {
-        "id": 78,
-        "groupId": 11025,
-        "characterId1": 25,
-        "characterId2": 10
-    },
-    {
-        "id": 79,
-        "groupId": 11112,
-        "characterId1": 11,
-        "characterId2": 12
-    },
-    {
-        "id": 80,
-        "groupId": 11112,
-        "characterId1": 12,
-        "characterId2": 11
-    },
-    {
-        "id": 81,
-        "groupId": 11121,
-        "characterId1": 11,
-        "characterId2": 21
-    },
-    {
-        "id": 82,
-        "groupId": 11121,
-        "characterId1": 21,
-        "characterId2": 11
-    },
-    {
-        "id": 83,
-        "groupId": 11123,
-        "characterId1": 11,
-        "characterId2": 23
-    },
-    {
-        "id": 84,
-        "groupId": 11123,
-        "characterId1": 23,
-        "characterId2": 11
-    },
-    {
-        "id": 85,
-        "groupId": 11125,
-        "characterId1": 11,
-        "characterId2": 25
-    },
-    {
-        "id": 86,
-        "groupId": 11125,
-        "characterId1": 25,
-        "characterId2": 11
-    },
-    {
-        "id": 87,
-        "groupId": 11221,
-        "characterId1": 12,
-        "characterId2": 21
-    },
-    {
-        "id": 88,
-        "groupId": 11221,
-        "characterId1": 21,
-        "characterId2": 12
-    },
-    {
-        "id": 89,
-        "groupId": 11223,
-        "characterId1": 12,
-        "characterId2": 23
-    },
-    {
-        "id": 90,
-        "groupId": 11223,
-        "characterId1": 23,
-        "characterId2": 12
-    },
-    {
-        "id": 91,
-        "groupId": 11225,
-        "characterId1": 12,
-        "characterId2": 25
-    },
-    {
-        "id": 92,
-        "groupId": 11225,
-        "characterId1": 25,
-        "characterId2": 12
-    },
-    {
-        "id": 93,
-        "groupId": 11314,
-        "characterId1": 13,
-        "characterId2": 14
-    },
-    {
-        "id": 94,
-        "groupId": 11314,
-        "characterId1": 14,
-        "characterId2": 13
-    },
-    {
-        "id": 95,
-        "groupId": 11315,
-        "characterId1": 13,
-        "characterId2": 15
-    },
-    {
-        "id": 96,
-        "groupId": 11315,
-        "characterId1": 15,
-        "characterId2": 13
-    },
-    {
-        "id": 97,
-        "groupId": 11316,
-        "characterId1": 13,
-        "characterId2": 16
-    },
-    {
-        "id": 98,
-        "groupId": 11316,
-        "characterId1": 16,
-        "characterId2": 13
-    },
-    {
-        "id": 99,
-        "groupId": 11321,
-        "characterId1": 13,
-        "characterId2": 21
-    },
-    {
-        "id": 100,
-        "groupId": 11321,
-        "characterId1": 21,
-        "characterId2": 13
-    },
-    {
-        "id": 101,
-        "groupId": 11326,
-        "characterId1": 13,
-        "characterId2": 26
-    },
-    {
-        "id": 102,
-        "groupId": 11326,
-        "characterId1": 26,
-        "characterId2": 13
-    },
-    {
-        "id": 103,
-        "groupId": 11415,
-        "characterId1": 14,
-        "characterId2": 15
-    },
-    {
-        "id": 104,
-        "groupId": 11415,
-        "characterId1": 15,
-        "characterId2": 14
-    },
-    {
-        "id": 105,
-        "groupId": 11416,
-        "characterId1": 14,
-        "characterId2": 16
-    },
-    {
-        "id": 106,
-        "groupId": 11416,
-        "characterId1": 16,
-        "characterId2": 14
-    },
-    {
-        "id": 107,
-        "groupId": 11421,
-        "characterId1": 14,
-        "characterId2": 21
-    },
-    {
-        "id": 108,
-        "groupId": 11421,
-        "characterId1": 21,
-        "characterId2": 14
-    },
-    {
-        "id": 109,
-        "groupId": 11426,
-        "characterId1": 14,
-        "characterId2": 26
-    },
-    {
-        "id": 110,
-        "groupId": 11426,
-        "characterId1": 26,
-        "characterId2": 14
-    },
-    {
-        "id": 111,
-        "groupId": 11516,
-        "characterId1": 15,
-        "characterId2": 16
-    },
-    {
-        "id": 112,
-        "groupId": 11516,
-        "characterId1": 16,
-        "characterId2": 15
-    },
-    {
-        "id": 113,
-        "groupId": 11521,
-        "characterId1": 15,
-        "characterId2": 21
-    },
-    {
-        "id": 114,
-        "groupId": 11521,
-        "characterId1": 21,
-        "characterId2": 15
-    },
-    {
-        "id": 115,
-        "groupId": 11526,
-        "characterId1": 15,
-        "characterId2": 26
-    },
-    {
-        "id": 116,
-        "groupId": 11526,
-        "characterId1": 26,
-        "characterId2": 15
-    },
-    {
-        "id": 117,
-        "groupId": 11621,
-        "characterId1": 16,
-        "characterId2": 21
-    },
-    {
-        "id": 118,
-        "groupId": 11621,
-        "characterId1": 21,
-        "characterId2": 16
-    },
-    {
-        "id": 119,
-        "groupId": 11626,
-        "characterId1": 16,
-        "characterId2": 26
-    },
-    {
-        "id": 120,
-        "groupId": 11626,
-        "characterId1": 26,
-        "characterId2": 16
-    },
-    {
-        "id": 121,
-        "groupId": 11718,
-        "characterId1": 17,
-        "characterId2": 18
-    },
-    {
-        "id": 122,
-        "groupId": 11718,
-        "characterId1": 18,
-        "characterId2": 17
-    },
-    {
-        "id": 123,
-        "groupId": 11719,
-        "characterId1": 17,
-        "characterId2": 19
-    },
-    {
-        "id": 124,
-        "groupId": 11719,
-        "characterId1": 19,
-        "characterId2": 17
-    },
-    {
-        "id": 125,
-        "groupId": 11720,
-        "characterId1": 17,
-        "characterId2": 20
-    },
-    {
-        "id": 126,
-        "groupId": 11720,
-        "characterId1": 20,
-        "characterId2": 17
-    },
-    {
-        "id": 127,
-        "groupId": 11721,
-        "characterId1": 17,
-        "characterId2": 21
-    },
-    {
-        "id": 128,
-        "groupId": 11721,
-        "characterId1": 21,
-        "characterId2": 17
-    },
-    {
-        "id": 129,
-        "groupId": 11819,
-        "characterId1": 18,
-        "characterId2": 19
-    },
-    {
-        "id": 130,
-        "groupId": 11819,
-        "characterId1": 19,
-        "characterId2": 18
-    },
-    {
-        "id": 131,
-        "groupId": 11820,
-        "characterId1": 18,
-        "characterId2": 20
-    },
-    {
-        "id": 132,
-        "groupId": 11820,
-        "characterId1": 20,
-        "characterId2": 18
-    },
-    {
-        "id": 133,
-        "groupId": 11821,
-        "characterId1": 18,
-        "characterId2": 21
-    },
-    {
-        "id": 134,
-        "groupId": 11821,
-        "characterId1": 21,
-        "characterId2": 18
-    },
-    {
-        "id": 135,
-        "groupId": 11920,
-        "characterId1": 19,
-        "characterId2": 20
-    },
-    {
-        "id": 136,
-        "groupId": 11920,
-        "characterId1": 20,
-        "characterId2": 19
-    },
-    {
-        "id": 137,
-        "groupId": 11921,
-        "characterId1": 19,
-        "characterId2": 21
-    },
-    {
-        "id": 138,
-        "groupId": 11921,
-        "characterId1": 21,
-        "characterId2": 19
-    },
-    {
-        "id": 139,
-        "groupId": 12021,
-        "characterId1": 20,
-        "characterId2": 21
-    },
-    {
-        "id": 140,
-        "groupId": 12021,
-        "characterId1": 21,
-        "characterId2": 20
-    },
-    {
-        "id": 141,
-        "groupId": 12122,
-        "characterId1": 21,
-        "characterId2": 22
-    },
-    {
-        "id": 142,
-        "groupId": 12122,
-        "characterId1": 22,
-        "characterId2": 21
-    },
-    {
-        "id": 143,
-        "groupId": 12123,
-        "characterId1": 21,
-        "characterId2": 23
-    },
-    {
-        "id": 144,
-        "groupId": 12123,
-        "characterId1": 23,
-        "characterId2": 21
-    },
-    {
-        "id": 145,
-        "groupId": 12124,
-        "characterId1": 21,
-        "characterId2": 24
-    },
-    {
-        "id": 146,
-        "groupId": 12124,
-        "characterId1": 24,
-        "characterId2": 21
-    },
-    {
-        "id": 147,
-        "groupId": 12125,
-        "characterId1": 21,
-        "characterId2": 25
-    },
-    {
-        "id": 148,
-        "groupId": 12125,
-        "characterId1": 25,
-        "characterId2": 21
-    },
-    {
-        "id": 149,
-        "groupId": 12126,
-        "characterId1": 21,
-        "characterId2": 26
-    },
-    {
-        "id": 150,
-        "groupId": 12126,
-        "characterId1": 26,
-        "characterId2": 21
-    },
-    {
-        "id": 151,
-        "groupId": 12223,
-        "characterId1": 22,
-        "characterId2": 23
-    },
-    {
-        "id": 152,
-        "groupId": 12223,
-        "characterId1": 23,
-        "characterId2": 22
-    },
-    {
-        "id": 153,
-        "groupId": 12224,
-        "characterId1": 22,
-        "characterId2": 24
-    },
-    {
-        "id": 154,
-        "groupId": 12224,
-        "characterId1": 24,
-        "characterId2": 22
-    },
-    {
-        "id": 155,
-        "groupId": 12225,
-        "characterId1": 22,
-        "characterId2": 25
-    },
-    {
-        "id": 156,
-        "groupId": 12225,
-        "characterId1": 25,
-        "characterId2": 22
-    },
-    {
-        "id": 157,
-        "groupId": 12226,
-        "characterId1": 22,
-        "characterId2": 26
-    },
-    {
-        "id": 158,
-        "groupId": 12226,
-        "characterId1": 26,
-        "characterId2": 22
-    },
-    {
-        "id": 159,
-        "groupId": 12324,
-        "characterId1": 23,
-        "characterId2": 24
-    },
-    {
-        "id": 160,
-        "groupId": 12324,
-        "characterId1": 24,
-        "characterId2": 23
-    },
-    {
-        "id": 161,
-        "groupId": 12325,
-        "characterId1": 23,
-        "characterId2": 25
-    },
-    {
-        "id": 162,
-        "groupId": 12325,
-        "characterId1": 25,
-        "characterId2": 23
-    },
-    {
-        "id": 163,
-        "groupId": 12326,
-        "characterId1": 23,
-        "characterId2": 26
-    },
-    {
-        "id": 164,
-        "groupId": 12326,
-        "characterId1": 26,
-        "characterId2": 23
-    },
-    {
-        "id": 165,
-        "groupId": 12425,
-        "characterId1": 24,
-        "characterId2": 25
-    },
-    {
-        "id": 166,
-        "groupId": 12425,
-        "characterId1": 25,
-        "characterId2": 24
-    },
-    {
-        "id": 167,
-        "groupId": 12426,
-        "characterId1": 24,
-        "characterId2": 26
-    },
-    {
-        "id": 168,
-        "groupId": 12426,
-        "characterId1": 26,
-        "characterId2": 24
-    },
-    {
-        "id": 169,
-        "groupId": 12526,
-        "characterId1": 25,
-        "characterId2": 26
-    },
-    {
-        "id": 170,
-        "groupId": 12526,
-        "characterId1": 26,
-        "characterId2": 25
-    },
-    {
-        "id": 171,
-        "groupId": 10213,
-        "characterId1": 2,
-        "characterId2": 13
-    },
-    {
-        "id": 172,
-        "groupId": 10213,
-        "characterId1": 13,
-        "characterId2": 2
-    },
-    {
-        "id": 173,
-        "groupId": 10408,
-        "characterId1": 4,
-        "characterId2": 8
-    },
-    {
-        "id": 174,
-        "groupId": 10408,
-        "characterId1": 8,
-        "characterId2": 4
-    },
-    {
-        "id": 175,
-        "groupId": 11119,
-        "characterId1": 11,
-        "characterId2": 19
-    },
-    {
-        "id": 176,
-        "groupId": 11119,
-        "characterId1": 19,
-        "characterId2": 11
-    },
-    {
-        "id": 177,
-        "groupId": 10610,
-        "characterId1": 6,
-        "characterId2": 10
-    },
-    {
-        "id": 178,
-        "groupId": 10610,
-        "characterId1": 10,
-        "characterId2": 6
-    },
-    {
-        "id": 179,
-        "groupId": 10719,
-        "characterId1": 7,
-        "characterId2": 19
-    },
-    {
-        "id": 180,
-        "groupId": 10719,
-        "characterId1": 19,
-        "characterId2": 7
-    },
-    {
-        "id": 181,
-        "groupId": 11213,
-        "characterId1": 12,
-        "characterId2": 13
-    },
-    {
-        "id": 182,
-        "groupId": 11213,
-        "characterId1": 13,
-        "characterId2": 12
-    },
-    {
-        "id": 183,
-        "groupId": 10212,
-        "characterId1": 2,
-        "characterId2": 12
-    },
-    {
-        "id": 184,
-        "groupId": 10212,
-        "characterId1": 12,
-        "characterId2": 2
-    },
-    {
-        "id": 185,
-        "groupId": 11620,
-        "characterId1": 16,
-        "characterId2": 20
-    },
-    {
-        "id": 186,
-        "groupId": 11620,
-        "characterId1": 20,
-        "characterId2": 16
-    },
-    {
-        "id": 187,
-        "groupId": 11020,
-        "characterId1": 10,
-        "characterId2": 20
-    },
-    {
-        "id": 188,
-        "groupId": 11020,
-        "characterId1": 20,
-        "characterId2": 10
-    },
-    {
-        "id": 189,
-        "groupId": 10509,
-        "characterId1": 5,
-        "characterId2": 9
-    },
-    {
-        "id": 190,
-        "groupId": 10509,
-        "characterId1": 9,
-        "characterId2": 5
-    },
-    {
-        "id": 191,
-        "groupId": 10314,
-        "characterId1": 3,
-        "characterId2": 14
-    },
-    {
-        "id": 192,
-        "groupId": 10314,
-        "characterId1": 14,
-        "characterId2": 3
-    },
-    {
-        "id": 193,
-        "groupId": 10405,
-        "characterId1": 4,
-        "characterId2": 5
-    },
-    {
-        "id": 194,
-        "groupId": 10405,
-        "characterId1": 5,
-        "characterId2": 4
-    },
-    {
-        "id": 195,
-        "groupId": 10409,
-        "characterId1": 4,
-        "characterId2": 9
-    },
-    {
-        "id": 196,
-        "groupId": 10409,
-        "characterId1": 9,
-        "characterId2": 4
-    },
-    {
-        "id": 197,
-        "groupId": 10206,
-        "characterId1": 2,
-        "characterId2": 6
-    },
-    {
-        "id": 198,
-        "groupId": 10206,
-        "characterId1": 6,
-        "characterId2": 2
-    },
-    {
-        "id": 199,
-        "groupId": 10106,
-        "characterId1": 1,
-        "characterId2": 6
-    },
-    {
-        "id": 200,
-        "groupId": 10106,
-        "characterId1": 6,
-        "characterId2": 1
-    },
-    {
-        "id": 201,
-        "groupId": 10317,
-        "characterId1": 3,
-        "characterId2": 17
-    },
-    {
-        "id": 202,
-        "groupId": 10317,
-        "characterId1": 17,
-        "characterId2": 3
-    },
-    {
-        "id": 203,
-        "groupId": 10308,
-        "characterId1": 3,
-        "characterId2": 8
-    },
-    {
-        "id": 204,
-        "groupId": 10308,
-        "characterId1": 8,
-        "characterId2": 3
-    },
-    {
-        "id": 205,
-        "groupId": 10105,
-        "characterId1": 1,
-        "characterId2": 5
-    },
-    {
-        "id": 206,
-        "groupId": 10105,
-        "characterId1": 5,
-        "characterId2": 1
-    },
-    {
-        "id": 207,
-        "groupId": 10205,
-        "characterId1": 2,
-        "characterId2": 5
-    },
-    {
-        "id": 208,
-        "groupId": 10205,
-        "characterId1": 5,
-        "characterId2": 2
-    },
-    {
-        "id": 209,
-        "groupId": 10818,
-        "characterId1": 8,
-        "characterId2": 18
-    },
-    {
-        "id": 210,
-        "groupId": 10818,
-        "characterId1": 18,
-        "characterId2": 8
-    },
-    {
-        "id": 211,
-        "groupId": 10108,
-        "characterId1": 1,
-        "characterId2": 8
-    },
-    {
-        "id": 212,
-        "groupId": 10108,
-        "characterId1": 8,
-        "characterId2": 1
-    },
-    {
-        "id": 213,
-        "groupId": 10208,
-        "characterId1": 2,
-        "characterId2": 8
-    },
-    {
-        "id": 214,
-        "groupId": 10208,
-        "characterId1": 8,
-        "characterId2": 2
-    },
-    {
-        "id": 215,
-        "groupId": 10113,
-        "characterId1": 1,
-        "characterId2": 13
-    },
-    {
-        "id": 216,
-        "groupId": 10113,
-        "characterId1": 13,
-        "characterId2": 1
-    },
-    {
-        "id": 217,
-        "groupId": 10313,
-        "characterId1": 3,
-        "characterId2": 13
-    },
-    {
-        "id": 218,
-        "groupId": 10313,
-        "characterId1": 13,
-        "characterId2": 3
-    },
-    {
-        "id": 219,
-        "groupId": 10413,
-        "characterId1": 4,
-        "characterId2": 13
-    },
-    {
-        "id": 220,
-        "groupId": 10413,
-        "characterId1": 13,
-        "characterId2": 4
-    },
-    {
-        "id": 221,
-        "groupId": 10118,
-        "characterId1": 1,
-        "characterId2": 18
-    },
-    {
-        "id": 222,
-        "groupId": 10118,
-        "characterId1": 18,
-        "characterId2": 1
-    },
-    {
-        "id": 223,
-        "groupId": 10813,
-        "characterId1": 8,
-        "characterId2": 13
-    },
-    {
-        "id": 224,
-        "groupId": 10813,
-        "characterId1": 13,
-        "characterId2": 8
-    },
-    {
-        "id": 225,
-        "groupId": 10126,
-        "characterId1": 1,
-        "characterId2": 26
-    },
-    {
-        "id": 226,
-        "groupId": 10126,
-        "characterId1": 26,
-        "characterId2": 1
-    },
-    {
-        "id": 227,
-        "groupId": 10325,
-        "characterId1": 3,
-        "characterId2": 25
-    },
-    {
-        "id": 228,
-        "groupId": 10325,
-        "characterId1": 25,
-        "characterId2": 3
-    },
-    {
-        "id": 229,
-        "groupId": 10425,
-        "characterId1": 4,
-        "characterId2": 25
-    },
-    {
-        "id": 230,
-        "groupId": 10425,
-        "characterId1": 25,
-        "characterId2": 4
-    },
-    {
-        "id": 231,
-        "groupId": 10426,
-        "characterId1": 4,
-        "characterId2": 26
-    },
-    {
-        "id": 232,
-        "groupId": 10426,
-        "characterId1": 26,
-        "characterId2": 4
-    },
-    {
-        "id": 233,
-        "groupId": 10524,
-        "characterId1": 5,
-        "characterId2": 24
-    },
-    {
-        "id": 234,
-        "groupId": 10524,
-        "characterId1": 24,
-        "characterId2": 5
-    },
-    {
-        "id": 235,
-        "groupId": 10723,
-        "characterId1": 7,
-        "characterId2": 23
-    },
-    {
-        "id": 236,
-        "groupId": 10723,
-        "characterId1": 23,
-        "characterId2": 7
-    },
-    {
-        "id": 237,
-        "groupId": 10824,
-        "characterId1": 8,
-        "characterId2": 24
-    },
-    {
-        "id": 238,
-        "groupId": 10824,
-        "characterId1": 24,
-        "characterId2": 8
-    },
-    {
-        "id": 239,
-        "groupId": 10922,
-        "characterId1": 9,
-        "characterId2": 22
-    },
-    {
-        "id": 240,
-        "groupId": 10922,
-        "characterId1": 22,
-        "characterId2": 9
-    },
-    {
-        "id": 241,
-        "groupId": 11022,
-        "characterId1": 10,
-        "characterId2": 22
-    },
-    {
-        "id": 242,
-        "groupId": 11022,
-        "characterId1": 22,
-        "characterId2": 10
-    },
-    {
-        "id": 243,
-        "groupId": 11122,
-        "characterId1": 11,
-        "characterId2": 22
-    },
-    {
-        "id": 244,
-        "groupId": 11122,
-        "characterId1": 22,
-        "characterId2": 11
-    },
-    {
-        "id": 245,
-        "groupId": 11126,
-        "characterId1": 11,
-        "characterId2": 26
-    },
-    {
-        "id": 246,
-        "groupId": 11126,
-        "characterId1": 26,
-        "characterId2": 11
-    },
-    {
-        "id": 247,
-        "groupId": 11222,
-        "characterId1": 12,
-        "characterId2": 22
-    },
-    {
-        "id": 248,
-        "groupId": 11222,
-        "characterId1": 22,
-        "characterId2": 12
-    },
-    {
-        "id": 249,
-        "groupId": 11226,
-        "characterId1": 12,
-        "characterId2": 26
-    },
-    {
-        "id": 250,
-        "groupId": 11226,
-        "characterId1": 26,
-        "characterId2": 12
-    },
-    {
-        "id": 251,
-        "groupId": 11324,
-        "characterId1": 13,
-        "characterId2": 24
-    },
-    {
-        "id": 252,
-        "groupId": 11324,
-        "characterId1": 24,
-        "characterId2": 13
-    },
-    {
-        "id": 253,
-        "groupId": 11423,
-        "characterId1": 14,
-        "characterId2": 23
-    },
-    {
-        "id": 254,
-        "groupId": 11423,
-        "characterId1": 23,
-        "characterId2": 14
-    },
-    {
-        "id": 255,
-        "groupId": 11524,
-        "characterId1": 15,
-        "characterId2": 24
-    },
-    {
-        "id": 256,
-        "groupId": 11524,
-        "characterId1": 24,
-        "characterId2": 15
-    },
-    {
-        "id": 257,
-        "groupId": 11623,
-        "characterId1": 16,
-        "characterId2": 23
-    },
-    {
-        "id": 258,
-        "groupId": 11623,
-        "characterId1": 23,
-        "characterId2": 16
-    },
-    {
-        "id": 259,
-        "groupId": 11624,
-        "characterId1": 16,
-        "characterId2": 24
-    },
-    {
-        "id": 260,
-        "groupId": 11624,
-        "characterId1": 24,
-        "characterId2": 16
-    },
-    {
-        "id": 261,
-        "groupId": 11722,
-        "characterId1": 17,
-        "characterId2": 22
-    },
-    {
-        "id": 262,
-        "groupId": 11722,
-        "characterId1": 22,
-        "characterId2": 17
-    },
-    {
-        "id": 263,
-        "groupId": 11822,
-        "characterId1": 18,
-        "characterId2": 22
-    },
-    {
-        "id": 264,
-        "groupId": 11822,
-        "characterId1": 22,
-        "characterId2": 18
-    },
-    {
-        "id": 265,
-        "groupId": 11922,
-        "characterId1": 19,
-        "characterId2": 22
-    },
-    {
-        "id": 266,
-        "groupId": 11922,
-        "characterId1": 22,
-        "characterId2": 19
-    },
-    {
-        "id": 267,
-        "groupId": 11925,
-        "characterId1": 19,
-        "characterId2": 25
-    },
-    {
-        "id": 268,
-        "groupId": 11925,
-        "characterId1": 25,
-        "characterId2": 19
-    },
-    {
-        "id": 269,
-        "groupId": 12022,
-        "characterId1": 20,
-        "characterId2": 22
-    },
-    {
-        "id": 270,
-        "groupId": 12022,
-        "characterId1": 22,
-        "characterId2": 20
-    },
-    {
-        "id": 271,
-        "groupId": 12025,
-        "characterId1": 20,
-        "characterId2": 25
-    },
-    {
-        "id": 272,
-        "groupId": 12025,
-        "characterId1": 25,
-        "characterId2": 20
-    },
-    {
-        "id": 273,
-        "groupId": 10121,
-        "characterId1": 1,
-        "characterId2": 27
-    },
-    {
-        "id": 274,
-        "groupId": 10121,
-        "characterId1": 27,
-        "characterId2": 1
-    },
-    {
-        "id": 275,
-        "groupId": 10124,
-        "characterId1": 1,
-        "characterId2": 42
-    },
-    {
-        "id": 276,
-        "groupId": 10124,
-        "characterId1": 42,
-        "characterId2": 1
-    },
-    {
-        "id": 277,
-        "groupId": 10126,
-        "characterId1": 1,
-        "characterId2": 52
-    },
-    {
-        "id": 278,
-        "groupId": 10126,
-        "characterId1": 52,
-        "characterId2": 1
-    },
-    {
-        "id": 279,
-        "groupId": 10221,
-        "characterId1": 2,
-        "characterId2": 27
-    },
-    {
-        "id": 280,
-        "groupId": 10221,
-        "characterId1": 27,
-        "characterId2": 2
-    },
-    {
-        "id": 281,
-        "groupId": 10224,
-        "characterId1": 2,
-        "characterId2": 42
-    },
-    {
-        "id": 282,
-        "groupId": 10224,
-        "characterId1": 42,
-        "characterId2": 2
-    },
-    {
-        "id": 283,
-        "groupId": 10321,
-        "characterId1": 3,
-        "characterId2": 27
-    },
-    {
-        "id": 284,
-        "groupId": 10321,
-        "characterId1": 27,
-        "characterId2": 3
-    },
-    {
-        "id": 285,
-        "groupId": 10324,
-        "characterId1": 3,
-        "characterId2": 42
-    },
-    {
-        "id": 286,
-        "groupId": 10324,
-        "characterId1": 42,
-        "characterId2": 3
-    },
-    {
-        "id": 287,
-        "groupId": 10325,
-        "characterId1": 3,
-        "characterId2": 47
-    },
-    {
-        "id": 288,
-        "groupId": 10325,
-        "characterId1": 47,
-        "characterId2": 3
-    },
-    {
-        "id": 289,
-        "groupId": 10421,
-        "characterId1": 4,
-        "characterId2": 27
-    },
-    {
-        "id": 290,
-        "groupId": 10421,
-        "characterId1": 27,
-        "characterId2": 4
-    },
-    {
-        "id": 291,
-        "groupId": 10424,
-        "characterId1": 4,
-        "characterId2": 42
-    },
-    {
-        "id": 292,
-        "groupId": 10424,
-        "characterId1": 42,
-        "characterId2": 4
-    },
-    {
-        "id": 293,
-        "groupId": 10425,
-        "characterId1": 4,
-        "characterId2": 47
-    },
-    {
-        "id": 294,
-        "groupId": 10425,
-        "characterId1": 47,
-        "characterId2": 4
-    },
-    {
-        "id": 295,
-        "groupId": 10426,
-        "characterId1": 4,
-        "characterId2": 52
-    },
-    {
-        "id": 296,
-        "groupId": 10426,
-        "characterId1": 52,
-        "characterId2": 4
-    },
-    {
-        "id": 297,
-        "groupId": 10521,
-        "characterId1": 5,
-        "characterId2": 28
-    },
-    {
-        "id": 298,
-        "groupId": 10521,
-        "characterId1": 28,
-        "characterId2": 5
-    },
-    {
-        "id": 299,
-        "groupId": 10522,
-        "characterId1": 5,
-        "characterId2": 33
-    },
-    {
-        "id": 300,
-        "groupId": 10522,
-        "characterId1": 33,
-        "characterId2": 5
-    },
-    {
-        "id": 301,
-        "groupId": 10524,
-        "characterId1": 5,
-        "characterId2": 43
-    },
-    {
-        "id": 302,
-        "groupId": 10524,
-        "characterId1": 43,
-        "characterId2": 5
-    },
-    {
-        "id": 303,
-        "groupId": 10621,
-        "characterId1": 6,
-        "characterId2": 28
-    },
-    {
-        "id": 304,
-        "groupId": 10621,
-        "characterId1": 28,
-        "characterId2": 6
-    },
-    {
-        "id": 305,
-        "groupId": 10622,
-        "characterId1": 6,
-        "characterId2": 33
-    },
-    {
-        "id": 306,
-        "groupId": 10622,
-        "characterId1": 33,
-        "characterId2": 6
-    },
-    {
-        "id": 307,
-        "groupId": 10721,
-        "characterId1": 7,
-        "characterId2": 28
-    },
-    {
-        "id": 308,
-        "groupId": 10721,
-        "characterId1": 28,
-        "characterId2": 7
-    },
-    {
-        "id": 309,
-        "groupId": 10722,
-        "characterId1": 7,
-        "characterId2": 33
-    },
-    {
-        "id": 310,
-        "groupId": 10722,
-        "characterId1": 33,
-        "characterId2": 7
-    },
-    {
-        "id": 311,
-        "groupId": 10723,
-        "characterId1": 7,
-        "characterId2": 38
-    },
-    {
-        "id": 312,
-        "groupId": 10723,
-        "characterId1": 38,
-        "characterId2": 7
-    },
-    {
-        "id": 313,
-        "groupId": 10821,
-        "characterId1": 8,
-        "characterId2": 28
-    },
-    {
-        "id": 314,
-        "groupId": 10821,
-        "characterId1": 28,
-        "characterId2": 8
-    },
-    {
-        "id": 315,
-        "groupId": 10822,
-        "characterId1": 8,
-        "characterId2": 33
-    },
-    {
-        "id": 316,
-        "groupId": 10822,
-        "characterId1": 33,
-        "characterId2": 8
-    },
-    {
-        "id": 317,
-        "groupId": 10824,
-        "characterId1": 8,
-        "characterId2": 43
-    },
-    {
-        "id": 318,
-        "groupId": 10824,
-        "characterId1": 43,
-        "characterId2": 8
-    },
-    {
-        "id": 319,
-        "groupId": 10921,
-        "characterId1": 9,
-        "characterId2": 29
-    },
-    {
-        "id": 320,
-        "groupId": 10921,
-        "characterId1": 29,
-        "characterId2": 9
-    },
-    {
-        "id": 321,
-        "groupId": 10922,
-        "characterId1": 9,
-        "characterId2": 34
-    },
-    {
-        "id": 322,
-        "groupId": 10922,
-        "characterId1": 34,
-        "characterId2": 9
-    },
-    {
-        "id": 323,
-        "groupId": 10923,
-        "characterId1": 9,
-        "characterId2": 39
-    },
-    {
-        "id": 324,
-        "groupId": 10923,
-        "characterId1": 39,
-        "characterId2": 9
-    },
-    {
-        "id": 325,
-        "groupId": 10925,
-        "characterId1": 9,
-        "characterId2": 49
-    },
-    {
-        "id": 326,
-        "groupId": 10925,
-        "characterId1": 49,
-        "characterId2": 9
-    },
-    {
-        "id": 327,
-        "groupId": 11021,
-        "characterId1": 10,
-        "characterId2": 29
-    },
-    {
-        "id": 328,
-        "groupId": 11021,
-        "characterId1": 29,
-        "characterId2": 10
-    },
-    {
-        "id": 329,
-        "groupId": 11022,
-        "characterId1": 10,
-        "characterId2": 34
-    },
-    {
-        "id": 330,
-        "groupId": 11022,
-        "characterId1": 34,
-        "characterId2": 10
-    },
-    {
-        "id": 331,
-        "groupId": 11023,
-        "characterId1": 10,
-        "characterId2": 39
-    },
-    {
-        "id": 332,
-        "groupId": 11023,
-        "characterId1": 39,
-        "characterId2": 10
-    },
-    {
-        "id": 333,
-        "groupId": 11025,
-        "characterId1": 10,
-        "characterId2": 49
-    },
-    {
-        "id": 334,
-        "groupId": 11025,
-        "characterId1": 49,
-        "characterId2": 10
-    },
-    {
-        "id": 335,
-        "groupId": 11121,
-        "characterId1": 11,
-        "characterId2": 29
-    },
-    {
-        "id": 336,
-        "groupId": 11121,
-        "characterId1": 29,
-        "characterId2": 11
-    },
-    {
-        "id": 337,
-        "groupId": 11122,
-        "characterId1": 11,
-        "characterId2": 34
-    },
-    {
-        "id": 338,
-        "groupId": 11122,
-        "characterId1": 34,
-        "characterId2": 11
-    },
-    {
-        "id": 339,
-        "groupId": 11123,
-        "characterId1": 11,
-        "characterId2": 39
-    },
-    {
-        "id": 340,
-        "groupId": 11123,
-        "characterId1": 39,
-        "characterId2": 11
-    },
-    {
-        "id": 341,
-        "groupId": 11125,
-        "characterId1": 11,
-        "characterId2": 49
-    },
-    {
-        "id": 342,
-        "groupId": 11125,
-        "characterId1": 49,
-        "characterId2": 11
-    },
-    {
-        "id": 343,
-        "groupId": 11126,
-        "characterId1": 11,
-        "characterId2": 54
-    },
-    {
-        "id": 344,
-        "groupId": 11126,
-        "characterId1": 54,
-        "characterId2": 11
-    },
-    {
-        "id": 345,
-        "groupId": 11221,
-        "characterId1": 12,
-        "characterId2": 29
-    },
-    {
-        "id": 346,
-        "groupId": 11221,
-        "characterId1": 29,
-        "characterId2": 12
-    },
-    {
-        "id": 347,
-        "groupId": 11222,
-        "characterId1": 12,
-        "characterId2": 34
-    },
-    {
-        "id": 348,
-        "groupId": 11222,
-        "characterId1": 34,
-        "characterId2": 12
-    },
-    {
-        "id": 349,
-        "groupId": 11223,
-        "characterId1": 12,
-        "characterId2": 39
-    },
-    {
-        "id": 350,
-        "groupId": 11223,
-        "characterId1": 39,
-        "characterId2": 12
-    },
-    {
-        "id": 351,
-        "groupId": 11225,
-        "characterId1": 12,
-        "characterId2": 49
-    },
-    {
-        "id": 352,
-        "groupId": 11225,
-        "characterId1": 49,
-        "characterId2": 12
-    },
-    {
-        "id": 353,
-        "groupId": 11226,
-        "characterId1": 12,
-        "characterId2": 54
-    },
-    {
-        "id": 354,
-        "groupId": 11226,
-        "characterId1": 54,
-        "characterId2": 12
-    },
-    {
-        "id": 355,
-        "groupId": 11321,
-        "characterId1": 13,
-        "characterId2": 30
-    },
-    {
-        "id": 356,
-        "groupId": 11321,
-        "characterId1": 30,
-        "characterId2": 13
-    },
-    {
-        "id": 357,
-        "groupId": 11324,
-        "characterId1": 13,
-        "characterId2": 45
-    },
-    {
-        "id": 358,
-        "groupId": 11324,
-        "characterId1": 45,
-        "characterId2": 13
-    },
-    {
-        "id": 359,
-        "groupId": 11326,
-        "characterId1": 13,
-        "characterId2": 55
-    },
-    {
-        "id": 360,
-        "groupId": 11326,
-        "characterId1": 55,
-        "characterId2": 13
-    },
-    {
-        "id": 361,
-        "groupId": 11421,
-        "characterId1": 14,
-        "characterId2": 30
-    },
-    {
-        "id": 362,
-        "groupId": 11421,
-        "characterId1": 30,
-        "characterId2": 14
-    },
-    {
-        "id": 363,
-        "groupId": 11423,
-        "characterId1": 14,
-        "characterId2": 40
-    },
-    {
-        "id": 364,
-        "groupId": 11423,
-        "characterId1": 40,
-        "characterId2": 14
-    },
-    {
-        "id": 365,
-        "groupId": 11426,
-        "characterId1": 14,
-        "characterId2": 55
-    },
-    {
-        "id": 366,
-        "groupId": 11426,
-        "characterId1": 55,
-        "characterId2": 14
-    },
-    {
-        "id": 367,
-        "groupId": 11521,
-        "characterId1": 15,
-        "characterId2": 30
-    },
-    {
-        "id": 368,
-        "groupId": 11521,
-        "characterId1": 30,
-        "characterId2": 15
-    },
-    {
-        "id": 369,
-        "groupId": 11524,
-        "characterId1": 15,
-        "characterId2": 45
-    },
-    {
-        "id": 370,
-        "groupId": 11524,
-        "characterId1": 45,
-        "characterId2": 15
-    },
-    {
-        "id": 371,
-        "groupId": 11526,
-        "characterId1": 15,
-        "characterId2": 55
-    },
-    {
-        "id": 372,
-        "groupId": 11526,
-        "characterId1": 55,
-        "characterId2": 15
-    },
-    {
-        "id": 373,
-        "groupId": 11621,
-        "characterId1": 16,
-        "characterId2": 30
-    },
-    {
-        "id": 374,
-        "groupId": 11621,
-        "characterId1": 30,
-        "characterId2": 16
-    },
-    {
-        "id": 375,
-        "groupId": 11623,
-        "characterId1": 16,
-        "characterId2": 40
-    },
-    {
-        "id": 376,
-        "groupId": 11623,
-        "characterId1": 40,
-        "characterId2": 16
-    },
-    {
-        "id": 377,
-        "groupId": 11624,
-        "characterId1": 16,
-        "characterId2": 45
-    },
-    {
-        "id": 378,
-        "groupId": 11624,
-        "characterId1": 45,
-        "characterId2": 16
-    },
-    {
-        "id": 379,
-        "groupId": 11626,
-        "characterId1": 16,
-        "characterId2": 55
-    },
-    {
-        "id": 380,
-        "groupId": 11626,
-        "characterId1": 55,
-        "characterId2": 16
-    },
-    {
-        "id": 381,
-        "groupId": 11721,
-        "characterId1": 17,
-        "characterId2": 31
-    },
-    {
-        "id": 382,
-        "groupId": 11721,
-        "characterId1": 31,
-        "characterId2": 17
-    },
-    {
-        "id": 383,
-        "groupId": 11722,
-        "characterId1": 17,
-        "characterId2": 36
-    },
-    {
-        "id": 384,
-        "groupId": 11722,
-        "characterId1": 36,
-        "characterId2": 17
-    },
-    {
-        "id": 385,
-        "groupId": 11821,
-        "characterId1": 18,
-        "characterId2": 31
-    },
-    {
-        "id": 386,
-        "groupId": 11821,
-        "characterId1": 31,
-        "characterId2": 18
-    },
-    {
-        "id": 387,
-        "groupId": 11822,
-        "characterId1": 18,
-        "characterId2": 36
-    },
-    {
-        "id": 388,
-        "groupId": 11822,
-        "characterId1": 36,
-        "characterId2": 18
-    },
-    {
-        "id": 389,
-        "groupId": 11921,
-        "characterId1": 19,
-        "characterId2": 31
-    },
-    {
-        "id": 390,
-        "groupId": 11921,
-        "characterId1": 31,
-        "characterId2": 19
-    },
-    {
-        "id": 391,
-        "groupId": 11922,
-        "characterId1": 19,
-        "characterId2": 36
-    },
-    {
-        "id": 392,
-        "groupId": 11922,
-        "characterId1": 36,
-        "characterId2": 19
-    },
-    {
-        "id": 393,
-        "groupId": 11925,
-        "characterId1": 19,
-        "characterId2": 51
-    },
-    {
-        "id": 394,
-        "groupId": 11925,
-        "characterId1": 51,
-        "characterId2": 19
-    },
-    {
-        "id": 395,
-        "groupId": 12021,
-        "characterId1": 20,
-        "characterId2": 31
-    },
-    {
-        "id": 396,
-        "groupId": 12021,
-        "characterId1": 31,
-        "characterId2": 20
-    },
-    {
-        "id": 397,
-        "groupId": 12022,
-        "characterId1": 20,
-        "characterId2": 36
-    },
-    {
-        "id": 398,
-        "groupId": 12022,
-        "characterId1": 36,
-        "characterId2": 20
-    },
-    {
-        "id": 399,
-        "groupId": 12025,
-        "characterId1": 20,
-        "characterId2": 51
-    },
-    {
-        "id": 400,
-        "groupId": 12025,
-        "characterId1": 51,
-        "characterId2": 20
-    },
-    {
-        "id": 401,
-        "groupId": 11418,
-        "characterId1": 14,
-        "characterId2": 18
-    },
-    {
-        "id": 402,
-        "groupId": 11418,
-        "characterId1": 18,
-        "characterId2": 14
-    },
-    {
-        "id": 403,
-        "groupId": 10614,
-        "characterId1": 6,
-        "characterId2": 14
-    },
-    {
-        "id": 404,
-        "groupId": 10614,
-        "characterId1": 14,
-        "characterId2": 6
-    },
-    {
-        "id": 405,
-        "groupId": 10214,
-        "characterId1": 2,
-        "characterId2": 14
-    },
-    {
-        "id": 406,
-        "groupId": 10214,
-        "characterId1": 14,
-        "characterId2": 2
-    },
-    {
-        "id": 407,
-        "groupId": 11113,
-        "characterId1": 11,
-        "characterId2": 13
-    },
-    {
-        "id": 408,
-        "groupId": 11113,
-        "characterId1": 13,
-        "characterId2": 11
-    },
-    {
-        "id": 409,
-        "groupId": 11120,
-        "characterId1": 11,
-        "characterId2": 20
-    },
-    {
-        "id": 410,
-        "groupId": 11120,
-        "characterId1": 20,
-        "characterId2": 11
-    },
-    {
-        "id": 411,
-        "groupId": 11220,
-        "characterId1": 12,
-        "characterId2": 20
-    },
-    {
-        "id": 412,
-        "groupId": 11220,
-        "characterId1": 20,
-        "characterId2": 12
-    },
-    {
-        "id": 413,
-        "groupId": 11320,
-        "characterId1": 13,
-        "characterId2": 20
-    },
-    {
-        "id": 414,
-        "groupId": 11320,
-        "characterId1": 20,
-        "characterId2": 13
-    },
-    {
-        "id": 415,
-        "groupId": 10115,
-        "characterId1": 1,
-        "characterId2": 15
-    },
-    {
-        "id": 416,
-        "groupId": 10115,
-        "characterId1": 15,
-        "characterId2": 1
-    },
-    {
-        "id": 417,
-        "groupId": 10819,
-        "characterId1": 8,
-        "characterId2": 19
-    },
-    {
-        "id": 418,
-        "groupId": 10819,
-        "characterId1": 19,
-        "characterId2": 8
-    },
-    {
-        "id": 419,
-        "groupId": 10820,
-        "characterId1": 8,
-        "characterId2": 20
-    },
-    {
-        "id": 420,
-        "groupId": 10820,
-        "characterId1": 20,
-        "characterId2": 8
-    },
-    {
-        "id": 421,
-        "groupId": 10720,
-        "characterId1": 7,
-        "characterId2": 20
-    },
-    {
-        "id": 422,
-        "groupId": 10720,
-        "characterId1": 20,
-        "characterId2": 7
-    },
-    {
-        "id": 423,
-        "groupId": 11116,
-        "characterId1": 11,
-        "characterId2": 16
-    },
-    {
-        "id": 424,
-        "groupId": 11116,
-        "characterId1": 16,
-        "characterId2": 11
-    },
-    {
-        "id": 425,
-        "groupId": 11216,
-        "characterId1": 12,
-        "characterId2": 16
-    },
-    {
-        "id": 426,
-        "groupId": 11216,
-        "characterId1": 16,
-        "characterId2": 12
-    },
-    {
-        "id": 427,
-        "groupId": 10711,
-        "characterId1": 7,
-        "characterId2": 11
-    },
-    {
-        "id": 428,
-        "groupId": 10711,
-        "characterId1": 11,
-        "characterId2": 7
-    },
-    {
-        "id": 429,
-        "groupId": 10109,
-        "characterId1": 1,
-        "characterId2": 9
-    },
-    {
-        "id": 430,
-        "groupId": 10109,
-        "characterId1": 9,
-        "characterId2": 1
-    },
-    {
-        "id": 431,
-        "groupId": 10510,
-        "characterId1": 5,
-        "characterId2": 10
-    },
-    {
-        "id": 432,
-        "groupId": 10510,
-        "characterId1": 10,
-        "characterId2": 5
-    },
-    {
-        "id": 433,
-        "groupId": 10609,
-        "characterId1": 6,
-        "characterId2": 9
-    },
-    {
-        "id": 434,
-        "groupId": 10609,
-        "characterId1": 9,
-        "characterId2": 6
-    },
-    {
-        "id": 435,
-        "groupId": 10117,
-        "characterId1": 1,
-        "characterId2": 17
-    },
-    {
-        "id": 436,
-        "groupId": 10117,
-        "characterId1": 17,
-        "characterId2": 1
-    },
-    {
-        "id": 437,
-        "groupId": 10207,
-        "characterId1": 2,
-        "characterId2": 7
-    },
-    {
-        "id": 438,
-        "groupId": 10207,
-        "characterId1": 7,
-        "characterId2": 2
-    },
-    {
-        "id": 439,
-        "groupId": 10714,
-        "characterId1": 7,
-        "characterId2": 14
-    },
-    {
-        "id": 440,
-        "groupId": 10714,
-        "characterId1": 14,
-        "characterId2": 7
-    },
-    {
-        "id": 441,
-        "groupId": 10709,
-        "characterId1": 7,
-        "characterId2": 9
-    },
-    {
-        "id": 442,
-        "groupId": 10709,
-        "characterId1": 9,
-        "characterId2": 7
-    },
-    {
-        "id": 443,
-        "groupId": 10710,
-        "characterId1": 7,
-        "characterId2": 10
-    },
-    {
-        "id": 444,
-        "groupId": 10710,
-        "characterId1": 10,
-        "characterId2": 7
-    },
-    {
-        "id": 445,
-        "groupId": 10809,
-        "characterId1": 8,
-        "characterId2": 9
-    },
-    {
-        "id": 446,
-        "groupId": 10809,
-        "characterId1": 9,
-        "characterId2": 8
-    },
-    {
-        "id": 447,
-        "groupId": 10810,
-        "characterId1": 8,
-        "characterId2": 10
-    },
-    {
-        "id": 448,
-        "groupId": 10810,
-        "characterId1": 10,
-        "characterId2": 8
-    },
-    {
-        "id": 449,
-        "groupId": 10517,
-        "characterId1": 5,
-        "characterId2": 17
-    },
-    {
-        "id": 450,
-        "groupId": 10517,
-        "characterId1": 17,
-        "characterId2": 5
-    },
-    {
-        "id": 451,
-        "groupId": 10319,
-        "characterId1": 3,
-        "characterId2": 19
-    },
-    {
-        "id": 452,
-        "groupId": 10319,
-        "characterId1": 19,
-        "characterId2": 3
-    },
-    {
-        "id": 453,
-        "groupId": 11419,
-        "characterId1": 14,
-        "characterId2": 19
-    },
-    {
-        "id": 454,
-        "groupId": 11419,
-        "characterId1": 19,
-        "characterId2": 14
-    },
-    {
-        "id": 455,
-        "groupId": 11215,
-        "characterId1": 12,
-        "characterId2": 15
-    },
-    {
-        "id": 456,
-        "groupId": 11215,
-        "characterId1": 15,
-        "characterId2": 12
-    },
-    {
-        "id": 457,
-        "groupId": 10122,
-        "characterId1": 1,
-        "characterId2": 22
-    },
-    {
-        "id": 458,
-        "groupId": 10122,
-        "characterId1": 22,
-        "characterId2": 1
-    },
-    {
-        "id": 459,
-        "groupId": 10122,
-        "characterId1": 1,
-        "characterId2": 32
-    },
-    {
-        "id": 460,
-        "groupId": 10122,
-        "characterId1": 32,
-        "characterId2": 1
-    },
-    {
-        "id": 461,
-        "groupId": 10222,
-        "characterId1": 2,
-        "characterId2": 22
-    },
-    {
-        "id": 462,
-        "groupId": 10222,
-        "characterId1": 22,
-        "characterId2": 2
-    },
-    {
-        "id": 463,
-        "groupId": 10222,
-        "characterId1": 2,
-        "characterId2": 32
-    },
-    {
-        "id": 464,
-        "groupId": 10222,
-        "characterId1": 32,
-        "characterId2": 2
-    },
-    {
-        "id": 465,
-        "groupId": 10323,
-        "characterId1": 3,
-        "characterId2": 23
-    },
-    {
-        "id": 466,
-        "groupId": 10323,
-        "characterId1": 23,
-        "characterId2": 3
-    },
-    {
-        "id": 467,
-        "groupId": 10323,
-        "characterId1": 3,
-        "characterId2": 37
-    },
-    {
-        "id": 468,
-        "groupId": 10323,
-        "characterId1": 37,
-        "characterId2": 3
-    },
-    {
-        "id": 469,
-        "groupId": 10526,
-        "characterId1": 5,
-        "characterId2": 26
-    },
-    {
-        "id": 470,
-        "groupId": 10526,
-        "characterId1": 26,
-        "characterId2": 5
-    },
-    {
-        "id": 471,
-        "groupId": 10526,
-        "characterId1": 5,
-        "characterId2": 53
-    },
-    {
-        "id": 472,
-        "groupId": 10526,
-        "characterId1": 53,
-        "characterId2": 5
-    },
-    {
-        "id": 473,
-        "groupId": 10625,
-        "characterId1": 6,
-        "characterId2": 25
-    },
-    {
-        "id": 474,
-        "groupId": 10625,
-        "characterId1": 25,
-        "characterId2": 6
-    },
-    {
-        "id": 475,
-        "groupId": 10625,
-        "characterId1": 6,
-        "characterId2": 48
-    },
-    {
-        "id": 476,
-        "groupId": 10625,
-        "characterId1": 48,
-        "characterId2": 6
-    },
-    {
-        "id": 477,
-        "groupId": 10626,
-        "characterId1": 6,
-        "characterId2": 26
-    },
-    {
-        "id": 478,
-        "groupId": 10626,
-        "characterId1": 26,
-        "characterId2": 6
-    },
-    {
-        "id": 479,
-        "groupId": 10626,
-        "characterId1": 6,
-        "characterId2": 53
-    },
-    {
-        "id": 480,
-        "groupId": 10626,
-        "characterId1": 53,
-        "characterId2": 6
-    },
-    {
-        "id": 481,
-        "groupId": 10924,
-        "characterId1": 9,
-        "characterId2": 24
-    },
-    {
-        "id": 482,
-        "groupId": 10924,
-        "characterId1": 24,
-        "characterId2": 9
-    },
-    {
-        "id": 483,
-        "groupId": 10924,
-        "characterId1": 9,
-        "characterId2": 44
-    },
-    {
-        "id": 484,
-        "groupId": 10924,
-        "characterId1": 44,
-        "characterId2": 9
-    },
-    {
-        "id": 485,
-        "groupId": 11024,
-        "characterId1": 10,
-        "characterId2": 24
-    },
-    {
-        "id": 486,
-        "groupId": 11024,
-        "characterId1": 24,
-        "characterId2": 10
-    },
-    {
-        "id": 487,
-        "groupId": 11024,
-        "characterId1": 10,
-        "characterId2": 44
-    },
-    {
-        "id": 488,
-        "groupId": 11024,
-        "characterId1": 44,
-        "characterId2": 10
-    },
-    {
-        "id": 489,
-        "groupId": 11224,
-        "characterId1": 12,
-        "characterId2": 24
-    },
-    {
-        "id": 490,
-        "groupId": 11224,
-        "characterId1": 24,
-        "characterId2": 12
-    },
-    {
-        "id": 491,
-        "groupId": 11224,
-        "characterId1": 12,
-        "characterId2": 44
-    },
-    {
-        "id": 492,
-        "groupId": 11224,
-        "characterId1": 44,
-        "characterId2": 12
-    },
-    {
-        "id": 493,
-        "groupId": 11522,
-        "characterId1": 15,
-        "characterId2": 22
-    },
-    {
-        "id": 494,
-        "groupId": 11522,
-        "characterId1": 22,
-        "characterId2": 15
-    },
-    {
-        "id": 495,
-        "groupId": 11522,
-        "characterId1": 15,
-        "characterId2": 35
-    },
-    {
-        "id": 496,
-        "groupId": 11522,
-        "characterId1": 35,
-        "characterId2": 15
-    },
-    {
-        "id": 497,
-        "groupId": 11525,
-        "characterId1": 15,
-        "characterId2": 25
-    },
-    {
-        "id": 498,
-        "groupId": 11525,
-        "characterId1": 25,
-        "characterId2": 15
-    },
-    {
-        "id": 499,
-        "groupId": 11525,
-        "characterId1": 15,
-        "characterId2": 50
-    },
-    {
-        "id": 500,
-        "groupId": 11525,
-        "characterId1": 50,
-        "characterId2": 15
-    },
-    {
-        "id": 501,
-        "groupId": 11724,
-        "characterId1": 17,
-        "characterId2": 24
-    },
-    {
-        "id": 502,
-        "groupId": 11724,
-        "characterId1": 24,
-        "characterId2": 17
-    },
-    {
-        "id": 503,
-        "groupId": 11724,
-        "characterId1": 17,
-        "characterId2": 46
-    },
-    {
-        "id": 504,
-        "groupId": 11724,
-        "characterId1": 46,
-        "characterId2": 17
-    },
-    {
-        "id": 505,
-        "groupId": 11823,
-        "characterId1": 18,
-        "characterId2": 23
-    },
-    {
-        "id": 506,
-        "groupId": 11823,
-        "characterId1": 23,
-        "characterId2": 18
-    },
-    {
-        "id": 507,
-        "groupId": 11823,
-        "characterId1": 18,
-        "characterId2": 41
-    },
-    {
-        "id": 508,
-        "groupId": 11823,
-        "characterId1": 41,
-        "characterId2": 18
-    },
-    {
-        "id": 509,
-        "groupId": 11824,
-        "characterId1": 18,
-        "characterId2": 24
-    },
-    {
-        "id": 510,
-        "groupId": 11824,
-        "characterId1": 24,
-        "characterId2": 18
-    },
-    {
-        "id": 511,
-        "groupId": 11824,
-        "characterId1": 18,
-        "characterId2": 46
-    },
-    {
-        "id": 512,
-        "groupId": 11824,
-        "characterId1": 46,
-        "characterId2": 18
-    },
-    {
-        "id": 513,
-        "groupId": 12024,
-        "characterId1": 20,
-        "characterId2": 24
-    },
-    {
-        "id": 514,
-        "groupId": 12024,
-        "characterId1": 24,
-        "characterId2": 20
-    },
-    {
-        "id": 515,
-        "groupId": 12024,
-        "characterId1": 20,
-        "characterId2": 46
-    },
-    {
-        "id": 516,
-        "groupId": 12024,
-        "characterId1": 46,
-        "characterId2": 20
-    },
-    {
-        "id": 517,
-        "groupId": 10422,
-        "characterId1": 4,
-        "characterId2": 22
-    },
-    {
-        "id": 518,
-        "groupId": 10422,
-        "characterId1": 22,
-        "characterId2": 4
-    },
-    {
-        "id": 519,
-        "groupId": 10422,
-        "characterId1": 4,
-        "characterId2": 32
-    },
-    {
-        "id": 520,
-        "groupId": 10422,
-        "characterId1": 32,
-        "characterId2": 4
-    },
-    {
-        "id": 521,
-        "groupId": 11323,
-        "characterId1": 13,
-        "characterId2": 23
-    },
-    {
-        "id": 522,
-        "groupId": 11323,
-        "characterId1": 23,
-        "characterId2": 13
-    },
-    {
-        "id": 523,
-        "groupId": 11323,
-        "characterId1": 13,
-        "characterId2": 40
-    },
-    {
-        "id": 524,
-        "groupId": 11323,
-        "characterId1": 40,
-        "characterId2": 13
-    },
-    {
-        "id": 525,
-        "groupId": 11924,
-        "characterId1": 19,
-        "characterId2": 24
-    },
-    {
-        "id": 526,
-        "groupId": 11924,
-        "characterId1": 24,
-        "characterId2": 19
-    },
-    {
-        "id": 527,
-        "groupId": 11924,
-        "characterId1": 19,
-        "characterId2": 46
-    },
-    {
-        "id": 528,
-        "groupId": 11924,
-        "characterId1": 46,
-        "characterId2": 19
-    },
-    {
-        "id": 529,
-        "groupId": 10226,
-        "characterId1": 2,
-        "characterId2": 26
-    },
-    {
-        "id": 530,
-        "groupId": 10226,
-        "characterId1": 26,
-        "characterId2": 2
-    },
-    {
-        "id": 531,
-        "groupId": 10226,
-        "characterId1": 2,
-        "characterId2": 52
-    },
-    {
-        "id": 532,
-        "groupId": 10226,
-        "characterId1": 52,
-        "characterId2": 2
-    },
-    {
-        "id": 533,
-        "groupId": 10926,
-        "characterId1": 9,
-        "characterId2": 26
-    },
-    {
-        "id": 534,
-        "groupId": 10926,
-        "characterId1": 26,
-        "characterId2": 9
-    },
-    {
-        "id": 535,
-        "groupId": 10926,
-        "characterId1": 9,
-        "characterId2": 54
-    },
-    {
-        "id": 536,
-        "groupId": 10926,
-        "characterId1": 54,
-        "characterId2": 9
-    },
-    {
-        "id": 537,
-        "groupId": 11124,
-        "characterId1": 11,
-        "characterId2": 24
-    },
-    {
-        "id": 538,
-        "groupId": 11124,
-        "characterId1": 24,
-        "characterId2": 11
-    },
-    {
-        "id": 539,
-        "groupId": 11124,
-        "characterId1": 11,
-        "characterId2": 44
-    },
-    {
-        "id": 540,
-        "groupId": 11124,
-        "characterId1": 44,
-        "characterId2": 11
-    },
-    {
-        "id": 541,
-        "groupId": 11425,
-        "characterId1": 14,
-        "characterId2": 25
-    },
-    {
-        "id": 542,
-        "groupId": 11425,
-        "characterId1": 25,
-        "characterId2": 14
-    },
-    {
-        "id": 543,
-        "groupId": 11425,
-        "characterId1": 14,
-        "characterId2": 50
-    },
-    {
-        "id": 544,
-        "groupId": 11425,
-        "characterId1": 50,
-        "characterId2": 14
-    },
-    {
-        "id": 545,
-        "groupId": 10725,
-        "characterId1": 7,
-        "characterId2": 25
-    },
-    {
-        "id": 546,
-        "groupId": 10725,
-        "characterId1": 25,
-        "characterId2": 7
-    },
-    {
-        "id": 547,
-        "groupId": 10725,
-        "characterId1": 7,
-        "characterId2": 48
-    },
-    {
-        "id": 548,
-        "groupId": 10725,
-        "characterId1": 48,
-        "characterId2": 7
-    },
-    {
-        "id": 549,
-        "groupId": 10826,
-        "characterId1": 8,
-        "characterId2": 26
-    },
-    {
-        "id": 550,
-        "groupId": 10826,
-        "characterId1": 26,
-        "characterId2": 8
-    },
-    {
-        "id": 551,
-        "groupId": 10826,
-        "characterId1": 8,
-        "characterId2": 53
-    },
-    {
-        "id": 552,
-        "groupId": 10826,
-        "characterId1": 53,
-        "characterId2": 8
-    },
-    {
-        "id": 553,
-        "groupId": 11723,
-        "characterId1": 17,
-        "characterId2": 23
-    },
-    {
-        "id": 554,
-        "groupId": 11723,
-        "characterId1": 23,
-        "characterId2": 17
-    },
-    {
-        "id": 555,
-        "groupId": 11723,
-        "characterId1": 17,
-        "characterId2": 41
-    },
-    {
-        "id": 556,
-        "groupId": 11723,
-        "characterId1": 41,
-        "characterId2": 17
-    },
-    {
-        "id": 557,
-        "groupId": 12023,
-        "characterId1": 20,
-        "characterId2": 23
-    },
-    {
-        "id": 558,
-        "groupId": 12023,
-        "characterId1": 23,
-        "characterId2": 20
-    },
-    {
-        "id": 559,
-        "groupId": 12023,
-        "characterId1": 20,
-        "characterId2": 41
-    },
-    {
-        "id": 560,
-        "groupId": 12023,
-        "characterId1": 41,
-        "characterId2": 20
-    },
-    {
-        "id": 561,
-        "groupId": 10406,
-        "characterId1": 4,
-        "characterId2": 6
-    },
-    {
-        "id": 562,
-        "groupId": 10406,
-        "characterId1": 6,
-        "characterId2": 4
-    },
-    {
-        "id": 563,
-        "groupId": 10513,
-        "characterId1": 5,
-        "characterId2": 13
-    },
-    {
-        "id": 564,
-        "groupId": 10513,
-        "characterId1": 13,
-        "characterId2": 5
-    },
-    {
-        "id": 565,
-        "groupId": 10913,
-        "characterId1": 9,
-        "characterId2": 13
-    },
-    {
-        "id": 566,
-        "groupId": 10913,
-        "characterId1": 13,
-        "characterId2": 9
-    },
-    {
-        "id": 567,
-        "groupId": 11826,
-        "characterId1": 18,
-        "characterId2": 26
-    },
-    {
-        "id": 568,
-        "groupId": 11826,
-        "characterId1": 26,
-        "characterId2": 18
-    },
-    {
-        "id": 569,
-        "groupId": 11826,
-        "characterId1": 18,
-        "characterId2": 56
-    },
-    {
-        "id": 570,
-        "groupId": 11826,
-        "characterId1": 56,
-        "characterId2": 18
-    },
-    {
-        "id": 573,
-        "groupId": 10306,
-        "characterId1": 3,
-        "characterId2": 6
-    },
-    {
-        "id": 574,
-        "groupId": 10306,
-        "characterId1": 6,
-        "characterId2": 3
-    },
-    {
-        "id": 575,
-        "groupId": 10407,
-        "characterId1": 4,
-        "characterId2": 7
-    },
-    {
-        "id": 576,
-        "groupId": 10407,
-        "characterId1": 7,
-        "characterId2": 4
-    },
-    {
-        "id": 577,
-        "groupId": 11015,
-        "characterId1": 10,
-        "characterId2": 15
-    },
-    {
-        "id": 578,
-        "groupId": 11015,
-        "characterId1": 15,
-        "characterId2": 10
-    },
-    {
-        "id": 579,
-        "groupId": 11115,
-        "characterId1": 11,
-        "characterId2": 15
-    },
-    {
-        "id": 580,
-        "groupId": 11115,
-        "characterId1": 15,
-        "characterId2": 11
-    },
-    {
-        "id": 581,
-        "groupId": 11726,
-        "characterId1": 17,
-        "characterId2": 26
-    },
-    {
-        "id": 582,
-        "groupId": 11726,
-        "characterId1": 26,
-        "characterId2": 17
-    },
-    {
-        "id": 583,
-        "groupId": 11726,
-        "characterId1": 17,
-        "characterId2": 56
-    },
-    {
-        "id": 584,
-        "groupId": 11726,
-        "characterId1": 56,
-        "characterId2": 17
-    },
-    {
-        "id": 585,
-        "groupId": 10223,
-        "characterId1": 2,
-        "characterId2": 23
-    },
-    {
-        "id": 586,
-        "groupId": 10223,
-        "characterId1": 23,
-        "characterId2": 2
-    },
-    {
-        "id": 587,
-        "groupId": 10223,
-        "characterId1": 2,
-        "characterId2": 37
-    },
-    {
-        "id": 588,
-        "groupId": 10223,
-        "characterId1": 37,
-        "characterId2": 2
-    },
-    {
-        "id": 589,
-        "groupId": 10523,
-        "characterId1": 5,
-        "characterId2": 23
-    },
-    {
-        "id": 590,
-        "groupId": 10523,
-        "characterId1": 23,
-        "characterId2": 5
-    },
-    {
-        "id": 591,
-        "groupId": 10523,
-        "characterId1": 5,
-        "characterId2": 38
-    },
-    {
-        "id": 592,
-        "groupId": 10523,
-        "characterId1": 38,
-        "characterId2": 5
-    },
-    {
-        "id": 597,
-        "groupId": 11625,
-        "characterId1": 16,
-        "characterId2": 25
-    },
-    {
-        "id": 598,
-        "groupId": 11625,
-        "characterId1": 25,
-        "characterId2": 16
-    },
-    {
-        "id": 599,
-        "groupId": 11625,
-        "characterId1": 16,
-        "characterId2": 50
-    },
-    {
-        "id": 600,
-        "groupId": 11625,
-        "characterId1": 50,
-        "characterId2": 16
-    },
-    {
-        "id": 601,
-        "groupId": 10119,
-        "characterId1": 1,
-        "characterId2": 19
-    },
-    {
-        "id": 602,
-        "groupId": 10119,
-        "characterId1": 19,
-        "characterId2": 1
-    },
-    {
-        "id": 603,
-        "groupId": 11114,
-        "characterId1": 11,
-        "characterId2": 14
-    },
-    {
-        "id": 604,
-        "groupId": 11114,
-        "characterId1": 14,
-        "characterId2": 11
-    },
-    {
-        "id": 605,
-        "groupId": 11214,
-        "characterId1": 12,
-        "characterId2": 14
-    },
-    {
-        "id": 606,
-        "groupId": 11214,
-        "characterId1": 14,
-        "characterId2": 12
-    },
-    {
-        "id": 607,
-        "groupId": 10305,
-        "characterId1": 3,
-        "characterId2": 5
-    },
-    {
-        "id": 608,
-        "groupId": 10305,
-        "characterId1": 5,
-        "characterId2": 3
-    },
-    {
-        "id": 609,
-        "groupId": 11016,
-        "characterId1": 10,
-        "characterId2": 16
-    },
-    {
-        "id": 610,
-        "groupId": 11016,
-        "characterId1": 16,
-        "characterId2": 10
-    },
-    {
-        "id": 611,
-        "groupId": 11618,
-        "characterId1": 16,
-        "characterId2": 18
-    },
-    {
-        "id": 612,
-        "groupId": 11618,
-        "characterId1": 18,
-        "characterId2": 16
-    },
-    {
-        "id": 619,
-        "groupId": 10623,
-        "characterId1": 6,
-        "characterId2": 23
-    },
-    {
-        "id": 620,
-        "groupId": 10623,
-        "characterId1": 23,
-        "characterId2": 6
-    },
-    {
-        "id": 621,
-        "groupId": 10623,
-        "characterId1": 6,
-        "characterId2": 38
-    },
-    {
-        "id": 622,
-        "groupId": 10623,
-        "characterId1": 38,
-        "characterId2": 6
-    },
-    {
-        "id": 623,
-        "groupId": 10318,
-        "characterId1": 3,
-        "characterId2": 18
-    },
-    {
-        "id": 624,
-        "groupId": 10318,
-        "characterId1": 18,
-        "characterId2": 3
-    },
-    {
-        "id": 625,
-        "groupId": 10220,
-        "characterId1": 2,
-        "characterId2": 20
-    },
-    {
-        "id": 626,
-        "groupId": 10220,
-        "characterId1": 20,
-        "characterId2": 2
-    },
-    {
-        "id": 627,
-        "groupId": 10123,
-        "characterId1": 1,
-        "characterId2": 23
-    },
-    {
-        "id": 628,
-        "groupId": 10123,
-        "characterId1": 23,
-        "characterId2": 1
-    },
-    {
-        "id": 629,
-        "groupId": 10123,
-        "characterId1": 1,
-        "characterId2": 37
-    },
-    {
-        "id": 630,
-        "groupId": 10123,
-        "characterId1": 37,
-        "characterId2": 1
-    },
-    {
-        "id": 631,
-        "groupId": 10125,
-        "characterId1": 1,
-        "characterId2": 25
-    },
-    {
-        "id": 632,
-        "groupId": 10125,
-        "characterId1": 25,
-        "characterId2": 1
-    },
-    {
-        "id": 633,
-        "groupId": 10125,
-        "characterId1": 1,
-        "characterId2": 47
-    },
-    {
-        "id": 634,
-        "groupId": 10125,
-        "characterId1": 47,
-        "characterId2": 1
-    },
-    {
-        "id": 635,
-        "groupId": 10225,
-        "characterId1": 2,
-        "characterId2": 25
-    },
-    {
-        "id": 636,
-        "groupId": 10225,
-        "characterId1": 25,
-        "characterId2": 2
-    },
-    {
-        "id": 637,
-        "groupId": 10225,
-        "characterId1": 2,
-        "characterId2": 47
-    },
-    {
-        "id": 638,
-        "groupId": 10225,
-        "characterId1": 47,
-        "characterId2": 2
-    },
-    {
-        "id": 643,
-        "groupId": 10322,
-        "characterId1": 3,
-        "characterId2": 22
-    },
-    {
-        "id": 644,
-        "groupId": 10322,
-        "characterId1": 22,
-        "characterId2": 3
-    },
-    {
-        "id": 645,
-        "groupId": 10322,
-        "characterId1": 3,
-        "characterId2": 32
-    },
-    {
-        "id": 646,
-        "groupId": 10322,
-        "characterId1": 32,
-        "characterId2": 3
-    },
-    {
-        "id": 647,
-        "groupId": 10326,
-        "characterId1": 3,
-        "characterId2": 26
-    },
-    {
-        "id": 648,
-        "groupId": 10326,
-        "characterId1": 26,
-        "characterId2": 3
-    },
-    {
-        "id": 649,
-        "groupId": 10326,
-        "characterId1": 3,
-        "characterId2": 52
-    },
-    {
-        "id": 650,
-        "groupId": 10326,
-        "characterId1": 52,
-        "characterId2": 3
-    },
-    {
-        "id": 651,
-        "groupId": 10423,
-        "characterId1": 4,
-        "characterId2": 23
-    },
-    {
-        "id": 652,
-        "groupId": 10423,
-        "characterId1": 23,
-        "characterId2": 4
-    },
-    {
-        "id": 653,
-        "groupId": 10423,
-        "characterId1": 4,
-        "characterId2": 37
-    },
-    {
-        "id": 654,
-        "groupId": 10423,
-        "characterId1": 37,
-        "characterId2": 4
-    },
-    {
-        "id": 655,
-        "groupId": 10525,
-        "characterId1": 5,
-        "characterId2": 25
-    },
-    {
-        "id": 656,
-        "groupId": 10525,
-        "characterId1": 25,
-        "characterId2": 5
-    },
-    {
-        "id": 657,
-        "groupId": 10525,
-        "characterId1": 5,
-        "characterId2": 48
-    },
-    {
-        "id": 658,
-        "groupId": 10525,
-        "characterId1": 48,
-        "characterId2": 5
-    },
-    {
-        "id": 659,
-        "groupId": 10624,
-        "characterId1": 6,
-        "characterId2": 24
-    },
-    {
-        "id": 660,
-        "groupId": 10624,
-        "characterId1": 24,
-        "characterId2": 6
-    },
-    {
-        "id": 661,
-        "groupId": 10624,
-        "characterId1": 6,
-        "characterId2": 43
-    },
-    {
-        "id": 662,
-        "groupId": 10624,
-        "characterId1": 43,
-        "characterId2": 6
-    },
-    {
-        "id": 663,
-        "groupId": 10724,
-        "characterId1": 7,
-        "characterId2": 24
-    },
-    {
-        "id": 664,
-        "groupId": 10724,
-        "characterId1": 24,
-        "characterId2": 7
-    },
-    {
-        "id": 665,
-        "groupId": 10724,
-        "characterId1": 7,
-        "characterId2": 43
-    },
-    {
-        "id": 666,
-        "groupId": 10724,
-        "characterId1": 43,
-        "characterId2": 7
-    },
-    {
-        "id": 667,
-        "groupId": 10726,
-        "characterId1": 7,
-        "characterId2": 26
-    },
-    {
-        "id": 668,
-        "groupId": 10726,
-        "characterId1": 26,
-        "characterId2": 7
-    },
-    {
-        "id": 669,
-        "groupId": 10726,
-        "characterId1": 7,
-        "characterId2": 53
-    },
-    {
-        "id": 670,
-        "groupId": 10726,
-        "characterId1": 53,
-        "characterId2": 7
-    },
-    {
-        "id": 671,
-        "groupId": 10823,
-        "characterId1": 8,
-        "characterId2": 23
-    },
-    {
-        "id": 672,
-        "groupId": 10823,
-        "characterId1": 23,
-        "characterId2": 8
-    },
-    {
-        "id": 673,
-        "groupId": 10823,
-        "characterId1": 8,
-        "characterId2": 38
-    },
-    {
-        "id": 674,
-        "groupId": 10823,
-        "characterId1": 38,
-        "characterId2": 8
-    },
-    {
-        "id": 675,
-        "groupId": 10825,
-        "characterId1": 8,
-        "characterId2": 25
-    },
-    {
-        "id": 676,
-        "groupId": 10825,
-        "characterId1": 25,
-        "characterId2": 8
-    },
-    {
-        "id": 677,
-        "groupId": 10825,
-        "characterId1": 8,
-        "characterId2": 48
-    },
-    {
-        "id": 678,
-        "groupId": 10825,
-        "characterId1": 48,
-        "characterId2": 8
-    },
-    {
-        "id": 679,
-        "groupId": 11026,
-        "characterId1": 10,
-        "characterId2": 26
-    },
-    {
-        "id": 680,
-        "groupId": 11026,
-        "characterId1": 26,
-        "characterId2": 10
-    },
-    {
-        "id": 681,
-        "groupId": 11026,
-        "characterId1": 10,
-        "characterId2": 54
-    },
-    {
-        "id": 682,
-        "groupId": 11026,
-        "characterId1": 54,
-        "characterId2": 10
-    },
-    {
-        "id": 683,
-        "groupId": 11322,
-        "characterId1": 13,
-        "characterId2": 22
-    },
-    {
-        "id": 684,
-        "groupId": 11322,
-        "characterId1": 22,
-        "characterId2": 13
-    },
-    {
-        "id": 685,
-        "groupId": 11322,
-        "characterId1": 13,
-        "characterId2": 35
-    },
-    {
-        "id": 686,
-        "groupId": 11322,
-        "characterId1": 35,
-        "characterId2": 13
-    },
-    {
-        "id": 687,
-        "groupId": 11325,
-        "characterId1": 13,
-        "characterId2": 25
-    },
-    {
-        "id": 688,
-        "groupId": 11325,
-        "characterId1": 25,
-        "characterId2": 13
-    },
-    {
-        "id": 689,
-        "groupId": 11325,
-        "characterId1": 13,
-        "characterId2": 50
-    },
-    {
-        "id": 690,
-        "groupId": 11325,
-        "characterId1": 50,
-        "characterId2": 13
-    },
-    {
-        "id": 691,
-        "groupId": 11422,
-        "characterId1": 14,
-        "characterId2": 22
-    },
-    {
-        "id": 692,
-        "groupId": 11422,
-        "characterId1": 22,
-        "characterId2": 14
-    },
-    {
-        "id": 693,
-        "groupId": 11422,
-        "characterId1": 14,
-        "characterId2": 35
-    },
-    {
-        "id": 694,
-        "groupId": 11422,
-        "characterId1": 35,
-        "characterId2": 14
-    },
-    {
-        "id": 695,
-        "groupId": 11424,
-        "characterId1": 14,
-        "characterId2": 24
-    },
-    {
-        "id": 696,
-        "groupId": 11424,
-        "characterId1": 24,
-        "characterId2": 14
-    },
-    {
-        "id": 697,
-        "groupId": 11424,
-        "characterId1": 14,
-        "characterId2": 45
-    },
-    {
-        "id": 698,
-        "groupId": 11424,
-        "characterId1": 45,
-        "characterId2": 14
-    },
-    {
-        "id": 699,
-        "groupId": 11523,
-        "characterId1": 15,
-        "characterId2": 23
-    },
-    {
-        "id": 700,
-        "groupId": 11523,
-        "characterId1": 23,
-        "characterId2": 15
-    },
-    {
-        "id": 701,
-        "groupId": 11523,
-        "characterId1": 15,
-        "characterId2": 40
-    },
-    {
-        "id": 702,
-        "groupId": 11523,
-        "characterId1": 40,
-        "characterId2": 15
-    },
-    {
-        "id": 703,
-        "groupId": 11622,
-        "characterId1": 16,
-        "characterId2": 22
-    },
-    {
-        "id": 704,
-        "groupId": 11622,
-        "characterId1": 22,
-        "characterId2": 16
-    },
-    {
-        "id": 705,
-        "groupId": 11622,
-        "characterId1": 16,
-        "characterId2": 35
-    },
-    {
-        "id": 706,
-        "groupId": 11622,
-        "characterId1": 35,
-        "characterId2": 16
-    },
-    {
-        "id": 707,
-        "groupId": 11725,
-        "characterId1": 17,
-        "characterId2": 25
-    },
-    {
-        "id": 708,
-        "groupId": 11725,
-        "characterId1": 25,
-        "characterId2": 17
-    },
-    {
-        "id": 709,
-        "groupId": 11725,
-        "characterId1": 17,
-        "characterId2": 51
-    },
-    {
-        "id": 710,
-        "groupId": 11725,
-        "characterId1": 51,
-        "characterId2": 17
-    },
-    {
-        "id": 711,
-        "groupId": 11825,
-        "characterId1": 18,
-        "characterId2": 25
-    },
-    {
-        "id": 712,
-        "groupId": 11825,
-        "characterId1": 25,
-        "characterId2": 18
-    },
-    {
-        "id": 713,
-        "groupId": 11825,
-        "characterId1": 18,
-        "characterId2": 51
-    },
-    {
-        "id": 714,
-        "groupId": 11825,
-        "characterId1": 51,
-        "characterId2": 18
-    },
-    {
-        "id": 715,
-        "groupId": 11923,
-        "characterId1": 19,
-        "characterId2": 23
-    },
-    {
-        "id": 716,
-        "groupId": 11923,
-        "characterId1": 23,
-        "characterId2": 19
-    },
-    {
-        "id": 717,
-        "groupId": 11923,
-        "characterId1": 19,
-        "characterId2": 41
-    },
-    {
-        "id": 718,
-        "groupId": 11923,
-        "characterId1": 41,
-        "characterId2": 19
-    },
-    {
-        "id": 719,
-        "groupId": 11926,
-        "characterId1": 19,
-        "characterId2": 26
-    },
-    {
-        "id": 720,
-        "groupId": 11926,
-        "characterId1": 26,
-        "characterId2": 19
-    },
-    {
-        "id": 721,
-        "groupId": 11926,
-        "characterId1": 19,
-        "characterId2": 56
-    },
-    {
-        "id": 722,
-        "groupId": 11926,
-        "characterId1": 56,
-        "characterId2": 19
-    },
-    {
-        "id": 723,
-        "groupId": 12026,
-        "characterId1": 20,
-        "characterId2": 26
-    },
-    {
-        "id": 724,
-        "groupId": 12026,
-        "characterId1": 26,
-        "characterId2": 20
-    },
-    {
-        "id": 725,
-        "groupId": 12026,
-        "characterId1": 20,
-        "characterId2": 56
-    },
-    {
-        "id": 726,
-        "groupId": 12026,
-        "characterId1": 56,
-        "characterId2": 20
-    },
-    {
-        "id": 727,
-        "groupId": 10107,
-        "characterId1": 1,
-        "characterId2": 7
-    },
-    {
-        "id": 728,
-        "groupId": 10107,
-        "characterId1": 7,
-        "characterId2": 1
-    },
-    {
-        "id": 729,
-        "groupId": 10110,
-        "characterId1": 1,
-        "characterId2": 10
-    },
-    {
-        "id": 730,
-        "groupId": 10110,
-        "characterId1": 10,
-        "characterId2": 1
-    },
-    {
-        "id": 731,
-        "groupId": 10111,
-        "characterId1": 1,
-        "characterId2": 11
-    },
-    {
-        "id": 732,
-        "groupId": 10111,
-        "characterId1": 11,
-        "characterId2": 1
-    },
-    {
-        "id": 733,
-        "groupId": 10112,
-        "characterId1": 1,
-        "characterId2": 12
-    },
-    {
-        "id": 734,
-        "groupId": 10112,
-        "characterId1": 12,
-        "characterId2": 1
-    },
-    {
-        "id": 735,
-        "groupId": 10114,
-        "characterId1": 1,
-        "characterId2": 14
-    },
-    {
-        "id": 736,
-        "groupId": 10114,
-        "characterId1": 14,
-        "characterId2": 1
-    },
-    {
-        "id": 737,
-        "groupId": 10116,
-        "characterId1": 1,
-        "characterId2": 16
-    },
-    {
-        "id": 738,
-        "groupId": 10116,
-        "characterId1": 16,
-        "characterId2": 1
-    },
-    {
-        "id": 739,
-        "groupId": 10120,
-        "characterId1": 1,
-        "characterId2": 20
-    },
-    {
-        "id": 740,
-        "groupId": 10120,
-        "characterId1": 20,
-        "characterId2": 1
-    },
-    {
-        "id": 741,
-        "groupId": 10209,
-        "characterId1": 2,
-        "characterId2": 9
-    },
-    {
-        "id": 742,
-        "groupId": 10209,
-        "characterId1": 9,
-        "characterId2": 2
-    },
-    {
-        "id": 743,
-        "groupId": 10210,
-        "characterId1": 2,
-        "characterId2": 10
-    },
-    {
-        "id": 744,
-        "groupId": 10210,
-        "characterId1": 10,
-        "characterId2": 2
-    },
-    {
-        "id": 745,
-        "groupId": 10211,
-        "characterId1": 2,
-        "characterId2": 11
-    },
-    {
-        "id": 746,
-        "groupId": 10211,
-        "characterId1": 11,
-        "characterId2": 2
-    },
-    {
-        "id": 747,
-        "groupId": 10215,
-        "characterId1": 2,
-        "characterId2": 15
-    },
-    {
-        "id": 748,
-        "groupId": 10215,
-        "characterId1": 15,
-        "characterId2": 2
-    },
-    {
-        "id": 749,
-        "groupId": 10216,
-        "characterId1": 2,
-        "characterId2": 16
-    },
-    {
-        "id": 750,
-        "groupId": 10216,
-        "characterId1": 16,
-        "characterId2": 2
-    },
-    {
-        "id": 751,
-        "groupId": 10217,
-        "characterId1": 2,
-        "characterId2": 17
-    },
-    {
-        "id": 752,
-        "groupId": 10217,
-        "characterId1": 17,
-        "characterId2": 2
-    },
-    {
-        "id": 753,
-        "groupId": 10218,
-        "characterId1": 2,
-        "characterId2": 18
-    },
-    {
-        "id": 754,
-        "groupId": 10218,
-        "characterId1": 18,
-        "characterId2": 2
-    },
-    {
-        "id": 755,
-        "groupId": 10219,
-        "characterId1": 2,
-        "characterId2": 19
-    },
-    {
-        "id": 756,
-        "groupId": 10219,
-        "characterId1": 19,
-        "characterId2": 2
-    },
-    {
-        "id": 757,
-        "groupId": 10307,
-        "characterId1": 3,
-        "characterId2": 7
-    },
-    {
-        "id": 758,
-        "groupId": 10307,
-        "characterId1": 7,
-        "characterId2": 3
-    },
-    {
-        "id": 759,
-        "groupId": 10309,
-        "characterId1": 3,
-        "characterId2": 9
-    },
-    {
-        "id": 760,
-        "groupId": 10309,
-        "characterId1": 9,
-        "characterId2": 3
-    },
-    {
-        "id": 761,
-        "groupId": 10310,
-        "characterId1": 3,
-        "characterId2": 10
-    },
-    {
-        "id": 762,
-        "groupId": 10310,
-        "characterId1": 10,
-        "characterId2": 3
-    },
-    {
-        "id": 763,
-        "groupId": 10311,
-        "characterId1": 3,
-        "characterId2": 11
-    },
-    {
-        "id": 764,
-        "groupId": 10311,
-        "characterId1": 11,
-        "characterId2": 3
-    },
-    {
-        "id": 765,
-        "groupId": 10312,
-        "characterId1": 3,
-        "characterId2": 12
-    },
-    {
-        "id": 766,
-        "groupId": 10312,
-        "characterId1": 12,
-        "characterId2": 3
-    },
-    {
-        "id": 767,
-        "groupId": 10315,
-        "characterId1": 3,
-        "characterId2": 15
-    },
-    {
-        "id": 768,
-        "groupId": 10315,
-        "characterId1": 15,
-        "characterId2": 3
-    },
-    {
-        "id": 769,
-        "groupId": 10316,
-        "characterId1": 3,
-        "characterId2": 16
-    },
-    {
-        "id": 770,
-        "groupId": 10316,
-        "characterId1": 16,
-        "characterId2": 3
-    },
-    {
-        "id": 771,
-        "groupId": 10320,
-        "characterId1": 3,
-        "characterId2": 20
-    },
-    {
-        "id": 772,
-        "groupId": 10320,
-        "characterId1": 20,
-        "characterId2": 3
-    },
-    {
-        "id": 773,
-        "groupId": 10410,
-        "characterId1": 4,
-        "characterId2": 10
-    },
-    {
-        "id": 774,
-        "groupId": 10410,
-        "characterId1": 10,
-        "characterId2": 4
-    },
-    {
-        "id": 775,
-        "groupId": 10411,
-        "characterId1": 4,
-        "characterId2": 11
-    },
-    {
-        "id": 776,
-        "groupId": 10411,
-        "characterId1": 11,
-        "characterId2": 4
-    },
-    {
-        "id": 777,
-        "groupId": 10412,
-        "characterId1": 4,
-        "characterId2": 12
-    },
-    {
-        "id": 778,
-        "groupId": 10412,
-        "characterId1": 12,
-        "characterId2": 4
-    },
-    {
-        "id": 779,
-        "groupId": 10414,
-        "characterId1": 4,
-        "characterId2": 14
-    },
-    {
-        "id": 780,
-        "groupId": 10414,
-        "characterId1": 14,
-        "characterId2": 4
-    },
-    {
-        "id": 781,
-        "groupId": 10415,
-        "characterId1": 4,
-        "characterId2": 15
-    },
-    {
-        "id": 782,
-        "groupId": 10415,
-        "characterId1": 15,
-        "characterId2": 4
-    },
-    {
-        "id": 783,
-        "groupId": 10416,
-        "characterId1": 4,
-        "characterId2": 16
-    },
-    {
-        "id": 784,
-        "groupId": 10416,
-        "characterId1": 16,
-        "characterId2": 4
-    },
-    {
-        "id": 785,
-        "groupId": 10417,
-        "characterId1": 4,
-        "characterId2": 17
-    },
-    {
-        "id": 786,
-        "groupId": 10417,
-        "characterId1": 17,
-        "characterId2": 4
-    },
-    {
-        "id": 787,
-        "groupId": 10418,
-        "characterId1": 4,
-        "characterId2": 18
-    },
-    {
-        "id": 788,
-        "groupId": 10418,
-        "characterId1": 18,
-        "characterId2": 4
-    },
-    {
-        "id": 789,
-        "groupId": 10419,
-        "characterId1": 4,
-        "characterId2": 19
-    },
-    {
-        "id": 790,
-        "groupId": 10419,
-        "characterId1": 19,
-        "characterId2": 4
-    },
-    {
-        "id": 791,
-        "groupId": 10420,
-        "characterId1": 4,
-        "characterId2": 20
-    },
-    {
-        "id": 792,
-        "groupId": 10420,
-        "characterId1": 20,
-        "characterId2": 4
-    },
-    {
-        "id": 793,
-        "groupId": 10511,
-        "characterId1": 5,
-        "characterId2": 11
-    },
-    {
-        "id": 794,
-        "groupId": 10511,
-        "characterId1": 11,
-        "characterId2": 5
-    },
-    {
-        "id": 795,
-        "groupId": 10512,
-        "characterId1": 5,
-        "characterId2": 12
-    },
-    {
-        "id": 796,
-        "groupId": 10512,
-        "characterId1": 12,
-        "characterId2": 5
-    },
-    {
-        "id": 797,
-        "groupId": 10514,
-        "characterId1": 5,
-        "characterId2": 14
-    },
-    {
-        "id": 798,
-        "groupId": 10514,
-        "characterId1": 14,
-        "characterId2": 5
-    },
-    {
-        "id": 799,
-        "groupId": 10515,
-        "characterId1": 5,
-        "characterId2": 15
-    },
-    {
-        "id": 800,
-        "groupId": 10515,
-        "characterId1": 15,
-        "characterId2": 5
-    },
-    {
-        "id": 801,
-        "groupId": 10516,
-        "characterId1": 5,
-        "characterId2": 16
-    },
-    {
-        "id": 802,
-        "groupId": 10516,
-        "characterId1": 16,
-        "characterId2": 5
-    },
-    {
-        "id": 803,
-        "groupId": 10518,
-        "characterId1": 5,
-        "characterId2": 18
-    },
-    {
-        "id": 804,
-        "groupId": 10518,
-        "characterId1": 18,
-        "characterId2": 5
-    },
-    {
-        "id": 805,
-        "groupId": 10519,
-        "characterId1": 5,
-        "characterId2": 19
-    },
-    {
-        "id": 806,
-        "groupId": 10519,
-        "characterId1": 19,
-        "characterId2": 5
-    },
-    {
-        "id": 807,
-        "groupId": 10520,
-        "characterId1": 5,
-        "characterId2": 20
-    },
-    {
-        "id": 808,
-        "groupId": 10520,
-        "characterId1": 20,
-        "characterId2": 5
-    },
-    {
-        "id": 809,
-        "groupId": 10611,
-        "characterId1": 6,
-        "characterId2": 11
-    },
-    {
-        "id": 810,
-        "groupId": 10611,
-        "characterId1": 11,
-        "characterId2": 6
-    },
-    {
-        "id": 811,
-        "groupId": 10612,
-        "characterId1": 6,
-        "characterId2": 12
-    },
-    {
-        "id": 812,
-        "groupId": 10612,
-        "characterId1": 12,
-        "characterId2": 6
-    },
-    {
-        "id": 813,
-        "groupId": 10613,
-        "characterId1": 6,
-        "characterId2": 13
-    },
-    {
-        "id": 814,
-        "groupId": 10613,
-        "characterId1": 13,
-        "characterId2": 6
-    },
-    {
-        "id": 815,
-        "groupId": 10615,
-        "characterId1": 6,
-        "characterId2": 15
-    },
-    {
-        "id": 816,
-        "groupId": 10615,
-        "characterId1": 15,
-        "characterId2": 6
-    },
-    {
-        "id": 817,
-        "groupId": 10616,
-        "characterId1": 6,
-        "characterId2": 16
-    },
-    {
-        "id": 818,
-        "groupId": 10616,
-        "characterId1": 16,
-        "characterId2": 6
-    },
-    {
-        "id": 819,
-        "groupId": 10617,
-        "characterId1": 6,
-        "characterId2": 17
-    },
-    {
-        "id": 820,
-        "groupId": 10617,
-        "characterId1": 17,
-        "characterId2": 6
-    },
-    {
-        "id": 821,
-        "groupId": 10618,
-        "characterId1": 6,
-        "characterId2": 18
-    },
-    {
-        "id": 822,
-        "groupId": 10618,
-        "characterId1": 18,
-        "characterId2": 6
-    },
-    {
-        "id": 823,
-        "groupId": 10619,
-        "characterId1": 6,
-        "characterId2": 19
-    },
-    {
-        "id": 824,
-        "groupId": 10619,
-        "characterId1": 19,
-        "characterId2": 6
-    },
-    {
-        "id": 825,
-        "groupId": 10620,
-        "characterId1": 6,
-        "characterId2": 20
-    },
-    {
-        "id": 826,
-        "groupId": 10620,
-        "characterId1": 20,
-        "characterId2": 6
-    },
-    {
-        "id": 827,
-        "groupId": 10712,
-        "characterId1": 7,
-        "characterId2": 12
-    },
-    {
-        "id": 828,
-        "groupId": 10712,
-        "characterId1": 12,
-        "characterId2": 7
-    },
-    {
-        "id": 829,
-        "groupId": 10713,
-        "characterId1": 7,
-        "characterId2": 13
-    },
-    {
-        "id": 830,
-        "groupId": 10713,
-        "characterId1": 13,
-        "characterId2": 7
-    },
-    {
-        "id": 831,
-        "groupId": 10715,
-        "characterId1": 7,
-        "characterId2": 15
-    },
-    {
-        "id": 832,
-        "groupId": 10715,
-        "characterId1": 15,
-        "characterId2": 7
-    },
-    {
-        "id": 833,
-        "groupId": 10716,
-        "characterId1": 7,
-        "characterId2": 16
-    },
-    {
-        "id": 834,
-        "groupId": 10716,
-        "characterId1": 16,
-        "characterId2": 7
-    },
-    {
-        "id": 835,
-        "groupId": 10717,
-        "characterId1": 7,
-        "characterId2": 17
-    },
-    {
-        "id": 836,
-        "groupId": 10717,
-        "characterId1": 17,
-        "characterId2": 7
-    },
-    {
-        "id": 837,
-        "groupId": 10718,
-        "characterId1": 7,
-        "characterId2": 18
-    },
-    {
-        "id": 838,
-        "groupId": 10718,
-        "characterId1": 18,
-        "characterId2": 7
-    },
-    {
-        "id": 839,
-        "groupId": 10811,
-        "characterId1": 8,
-        "characterId2": 11
-    },
-    {
-        "id": 840,
-        "groupId": 10811,
-        "characterId1": 11,
-        "characterId2": 8
-    },
-    {
-        "id": 841,
-        "groupId": 10812,
-        "characterId1": 8,
-        "characterId2": 12
-    },
-    {
-        "id": 842,
-        "groupId": 10812,
-        "characterId1": 12,
-        "characterId2": 8
-    },
-    {
-        "id": 843,
-        "groupId": 10814,
-        "characterId1": 8,
-        "characterId2": 14
-    },
-    {
-        "id": 844,
-        "groupId": 10814,
-        "characterId1": 14,
-        "characterId2": 8
-    },
-    {
-        "id": 845,
-        "groupId": 10815,
-        "characterId1": 8,
-        "characterId2": 15
-    },
-    {
-        "id": 846,
-        "groupId": 10815,
-        "characterId1": 15,
-        "characterId2": 8
-    },
-    {
-        "id": 847,
-        "groupId": 10816,
-        "characterId1": 8,
-        "characterId2": 16
-    },
-    {
-        "id": 848,
-        "groupId": 10816,
-        "characterId1": 16,
-        "characterId2": 8
-    },
-    {
-        "id": 849,
-        "groupId": 10817,
-        "characterId1": 8,
-        "characterId2": 17
-    },
-    {
-        "id": 850,
-        "groupId": 10817,
-        "characterId1": 17,
-        "characterId2": 8
-    },
-    {
-        "id": 851,
-        "groupId": 10914,
-        "characterId1": 9,
-        "characterId2": 14
-    },
-    {
-        "id": 852,
-        "groupId": 10914,
-        "characterId1": 14,
-        "characterId2": 9
-    },
-    {
-        "id": 853,
-        "groupId": 10915,
-        "characterId1": 9,
-        "characterId2": 15
-    },
-    {
-        "id": 854,
-        "groupId": 10915,
-        "characterId1": 15,
-        "characterId2": 9
-    },
-    {
-        "id": 855,
-        "groupId": 10916,
-        "characterId1": 9,
-        "characterId2": 16
-    },
-    {
-        "id": 856,
-        "groupId": 10916,
-        "characterId1": 16,
-        "characterId2": 9
-    },
-    {
-        "id": 857,
-        "groupId": 10917,
-        "characterId1": 9,
-        "characterId2": 17
-    },
-    {
-        "id": 858,
-        "groupId": 10917,
-        "characterId1": 17,
-        "characterId2": 9
-    },
-    {
-        "id": 859,
-        "groupId": 10918,
-        "characterId1": 9,
-        "characterId2": 18
-    },
-    {
-        "id": 860,
-        "groupId": 10918,
-        "characterId1": 18,
-        "characterId2": 9
-    },
-    {
-        "id": 861,
-        "groupId": 10919,
-        "characterId1": 9,
-        "characterId2": 19
-    },
-    {
-        "id": 862,
-        "groupId": 10919,
-        "characterId1": 19,
-        "characterId2": 9
-    },
-    {
-        "id": 863,
-        "groupId": 10920,
-        "characterId1": 9,
-        "characterId2": 20
-    },
-    {
-        "id": 864,
-        "groupId": 10920,
-        "characterId1": 20,
-        "characterId2": 9
-    },
-    {
-        "id": 865,
-        "groupId": 11013,
-        "characterId1": 10,
-        "characterId2": 13
-    },
-    {
-        "id": 866,
-        "groupId": 11013,
-        "characterId1": 13,
-        "characterId2": 10
-    },
-    {
-        "id": 867,
-        "groupId": 11014,
-        "characterId1": 10,
-        "characterId2": 14
-    },
-    {
-        "id": 868,
-        "groupId": 11014,
-        "characterId1": 14,
-        "characterId2": 10
-    },
-    {
-        "id": 869,
-        "groupId": 11017,
-        "characterId1": 10,
-        "characterId2": 17
-    },
-    {
-        "id": 870,
-        "groupId": 11017,
-        "characterId1": 17,
-        "characterId2": 10
-    },
-    {
-        "id": 871,
-        "groupId": 11018,
-        "characterId1": 10,
-        "characterId2": 18
-    },
-    {
-        "id": 872,
-        "groupId": 11018,
-        "characterId1": 18,
-        "characterId2": 10
-    },
-    {
-        "id": 873,
-        "groupId": 11019,
-        "characterId1": 10,
-        "characterId2": 19
-    },
-    {
-        "id": 874,
-        "groupId": 11019,
-        "characterId1": 19,
-        "characterId2": 10
-    },
-    {
-        "id": 875,
-        "groupId": 11117,
-        "characterId1": 11,
-        "characterId2": 17
-    },
-    {
-        "id": 876,
-        "groupId": 11117,
-        "characterId1": 17,
-        "characterId2": 11
-    },
-    {
-        "id": 877,
-        "groupId": 11118,
-        "characterId1": 11,
-        "characterId2": 18
-    },
-    {
-        "id": 878,
-        "groupId": 11118,
-        "characterId1": 18,
-        "characterId2": 11
-    },
-    {
-        "id": 879,
-        "groupId": 11217,
-        "characterId1": 12,
-        "characterId2": 17
-    },
-    {
-        "id": 880,
-        "groupId": 11217,
-        "characterId1": 17,
-        "characterId2": 12
-    },
-    {
-        "id": 881,
-        "groupId": 11218,
-        "characterId1": 12,
-        "characterId2": 18
-    },
-    {
-        "id": 882,
-        "groupId": 11218,
-        "characterId1": 18,
-        "characterId2": 12
-    },
-    {
-        "id": 883,
-        "groupId": 11219,
-        "characterId1": 12,
-        "characterId2": 19
-    },
-    {
-        "id": 884,
-        "groupId": 11219,
-        "characterId1": 19,
-        "characterId2": 12
-    },
-    {
-        "id": 885,
-        "groupId": 11317,
-        "characterId1": 13,
-        "characterId2": 17
-    },
-    {
-        "id": 886,
-        "groupId": 11317,
-        "characterId1": 17,
-        "characterId2": 13
-    },
-    {
-        "id": 887,
-        "groupId": 11318,
-        "characterId1": 13,
-        "characterId2": 18
-    },
-    {
-        "id": 888,
-        "groupId": 11318,
-        "characterId1": 18,
-        "characterId2": 13
-    },
-    {
-        "id": 889,
-        "groupId": 11319,
-        "characterId1": 13,
-        "characterId2": 19
-    },
-    {
-        "id": 890,
-        "groupId": 11319,
-        "characterId1": 19,
-        "characterId2": 13
-    },
-    {
-        "id": 891,
-        "groupId": 11417,
-        "characterId1": 14,
-        "characterId2": 17
-    },
-    {
-        "id": 892,
-        "groupId": 11417,
-        "characterId1": 17,
-        "characterId2": 14
-    },
-    {
-        "id": 893,
-        "groupId": 11420,
-        "characterId1": 14,
-        "characterId2": 20
-    },
-    {
-        "id": 894,
-        "groupId": 11420,
-        "characterId1": 20,
-        "characterId2": 14
-    },
-    {
-        "id": 895,
-        "groupId": 11517,
-        "characterId1": 15,
-        "characterId2": 17
-    },
-    {
-        "id": 896,
-        "groupId": 11517,
-        "characterId1": 17,
-        "characterId2": 15
-    },
-    {
-        "id": 897,
-        "groupId": 11518,
-        "characterId1": 15,
-        "characterId2": 18
-    },
-    {
-        "id": 898,
-        "groupId": 11518,
-        "characterId1": 18,
-        "characterId2": 15
-    },
-    {
-        "id": 899,
-        "groupId": 11519,
-        "characterId1": 15,
-        "characterId2": 19
-    },
-    {
-        "id": 900,
-        "groupId": 11519,
-        "characterId1": 19,
-        "characterId2": 15
-    },
-    {
-        "id": 901,
-        "groupId": 11520,
-        "characterId1": 15,
-        "characterId2": 20
-    },
-    {
-        "id": 902,
-        "groupId": 11520,
-        "characterId1": 20,
-        "characterId2": 15
-    },
-    {
-        "id": 903,
-        "groupId": 11617,
-        "characterId1": 16,
-        "characterId2": 17
-    },
-    {
-        "id": 904,
-        "groupId": 11617,
-        "characterId1": 17,
-        "characterId2": 16
-    },
-    {
-        "id": 905,
-        "groupId": 11619,
-        "characterId1": 16,
-        "characterId2": 19
-    },
-    {
-        "id": 906,
-        "groupId": 11619,
-        "characterId1": 19,
-        "characterId2": 16
-    }
+  {
+    "id": 1,
+    "groupId": 10102,
+    "characterId1": 1,
+    "characterId2": 2
+  },
+  {
+    "id": 2,
+    "groupId": 10102,
+    "characterId1": 2,
+    "characterId2": 1
+  },
+  {
+    "id": 3,
+    "groupId": 10103,
+    "characterId1": 1,
+    "characterId2": 3
+  },
+  {
+    "id": 4,
+    "groupId": 10103,
+    "characterId1": 3,
+    "characterId2": 1
+  },
+  {
+    "id": 5,
+    "groupId": 10104,
+    "characterId1": 1,
+    "characterId2": 4
+  },
+  {
+    "id": 6,
+    "groupId": 10104,
+    "characterId1": 4,
+    "characterId2": 1
+  },
+  {
+    "id": 7,
+    "groupId": 10121,
+    "characterId1": 1,
+    "characterId2": 21
+  },
+  {
+    "id": 8,
+    "groupId": 10121,
+    "characterId1": 21,
+    "characterId2": 1
+  },
+  {
+    "id": 9,
+    "groupId": 10124,
+    "characterId1": 1,
+    "characterId2": 24
+  },
+  {
+    "id": 10,
+    "groupId": 10124,
+    "characterId1": 24,
+    "characterId2": 1
+  },
+  {
+    "id": 11,
+    "groupId": 10203,
+    "characterId1": 2,
+    "characterId2": 3
+  },
+  {
+    "id": 12,
+    "groupId": 10203,
+    "characterId1": 3,
+    "characterId2": 2
+  },
+  {
+    "id": 13,
+    "groupId": 10204,
+    "characterId1": 2,
+    "characterId2": 4
+  },
+  {
+    "id": 14,
+    "groupId": 10204,
+    "characterId1": 4,
+    "characterId2": 2
+  },
+  {
+    "id": 15,
+    "groupId": 10221,
+    "characterId1": 2,
+    "characterId2": 21
+  },
+  {
+    "id": 16,
+    "groupId": 10221,
+    "characterId1": 21,
+    "characterId2": 2
+  },
+  {
+    "id": 17,
+    "groupId": 10224,
+    "characterId1": 2,
+    "characterId2": 24
+  },
+  {
+    "id": 18,
+    "groupId": 10224,
+    "characterId1": 24,
+    "characterId2": 2
+  },
+  {
+    "id": 19,
+    "groupId": 10304,
+    "characterId1": 3,
+    "characterId2": 4
+  },
+  {
+    "id": 20,
+    "groupId": 10304,
+    "characterId1": 4,
+    "characterId2": 3
+  },
+  {
+    "id": 21,
+    "groupId": 10321,
+    "characterId1": 3,
+    "characterId2": 21
+  },
+  {
+    "id": 22,
+    "groupId": 10321,
+    "characterId1": 21,
+    "characterId2": 3
+  },
+  {
+    "id": 23,
+    "groupId": 10324,
+    "characterId1": 3,
+    "characterId2": 24
+  },
+  {
+    "id": 24,
+    "groupId": 10324,
+    "characterId1": 24,
+    "characterId2": 3
+  },
+  {
+    "id": 25,
+    "groupId": 10421,
+    "characterId1": 4,
+    "characterId2": 21
+  },
+  {
+    "id": 26,
+    "groupId": 10421,
+    "characterId1": 21,
+    "characterId2": 4
+  },
+  {
+    "id": 27,
+    "groupId": 10424,
+    "characterId1": 4,
+    "characterId2": 24
+  },
+  {
+    "id": 28,
+    "groupId": 10424,
+    "characterId1": 24,
+    "characterId2": 4
+  },
+  {
+    "id": 29,
+    "groupId": 10506,
+    "characterId1": 5,
+    "characterId2": 6
+  },
+  {
+    "id": 30,
+    "groupId": 10506,
+    "characterId1": 6,
+    "characterId2": 5
+  },
+  {
+    "id": 31,
+    "groupId": 10507,
+    "characterId1": 5,
+    "characterId2": 7
+  },
+  {
+    "id": 32,
+    "groupId": 10507,
+    "characterId1": 7,
+    "characterId2": 5
+  },
+  {
+    "id": 33,
+    "groupId": 10508,
+    "characterId1": 5,
+    "characterId2": 8
+  },
+  {
+    "id": 34,
+    "groupId": 10508,
+    "characterId1": 8,
+    "characterId2": 5
+  },
+  {
+    "id": 35,
+    "groupId": 10521,
+    "characterId1": 5,
+    "characterId2": 21
+  },
+  {
+    "id": 36,
+    "groupId": 10521,
+    "characterId1": 21,
+    "characterId2": 5
+  },
+  {
+    "id": 37,
+    "groupId": 10522,
+    "characterId1": 5,
+    "characterId2": 22
+  },
+  {
+    "id": 38,
+    "groupId": 10522,
+    "characterId1": 22,
+    "characterId2": 5
+  },
+  {
+    "id": 39,
+    "groupId": 10607,
+    "characterId1": 6,
+    "characterId2": 7
+  },
+  {
+    "id": 40,
+    "groupId": 10607,
+    "characterId1": 7,
+    "characterId2": 6
+  },
+  {
+    "id": 41,
+    "groupId": 10608,
+    "characterId1": 6,
+    "characterId2": 8
+  },
+  {
+    "id": 42,
+    "groupId": 10608,
+    "characterId1": 8,
+    "characterId2": 6
+  },
+  {
+    "id": 43,
+    "groupId": 10621,
+    "characterId1": 6,
+    "characterId2": 21
+  },
+  {
+    "id": 44,
+    "groupId": 10621,
+    "characterId1": 21,
+    "characterId2": 6
+  },
+  {
+    "id": 45,
+    "groupId": 10622,
+    "characterId1": 6,
+    "characterId2": 22
+  },
+  {
+    "id": 46,
+    "groupId": 10622,
+    "characterId1": 22,
+    "characterId2": 6
+  },
+  {
+    "id": 47,
+    "groupId": 10708,
+    "characterId1": 7,
+    "characterId2": 8
+  },
+  {
+    "id": 48,
+    "groupId": 10708,
+    "characterId1": 8,
+    "characterId2": 7
+  },
+  {
+    "id": 49,
+    "groupId": 10721,
+    "characterId1": 7,
+    "characterId2": 21
+  },
+  {
+    "id": 50,
+    "groupId": 10721,
+    "characterId1": 21,
+    "characterId2": 7
+  },
+  {
+    "id": 51,
+    "groupId": 10722,
+    "characterId1": 7,
+    "characterId2": 22
+  },
+  {
+    "id": 52,
+    "groupId": 10722,
+    "characterId1": 22,
+    "characterId2": 7
+  },
+  {
+    "id": 53,
+    "groupId": 10821,
+    "characterId1": 8,
+    "characterId2": 21
+  },
+  {
+    "id": 54,
+    "groupId": 10821,
+    "characterId1": 21,
+    "characterId2": 8
+  },
+  {
+    "id": 55,
+    "groupId": 10822,
+    "characterId1": 8,
+    "characterId2": 22
+  },
+  {
+    "id": 56,
+    "groupId": 10822,
+    "characterId1": 22,
+    "characterId2": 8
+  },
+  {
+    "id": 57,
+    "groupId": 10910,
+    "characterId1": 9,
+    "characterId2": 10
+  },
+  {
+    "id": 58,
+    "groupId": 10910,
+    "characterId1": 10,
+    "characterId2": 9
+  },
+  {
+    "id": 59,
+    "groupId": 10911,
+    "characterId1": 9,
+    "characterId2": 11
+  },
+  {
+    "id": 60,
+    "groupId": 10911,
+    "characterId1": 11,
+    "characterId2": 9
+  },
+  {
+    "id": 61,
+    "groupId": 10912,
+    "characterId1": 9,
+    "characterId2": 12
+  },
+  {
+    "id": 62,
+    "groupId": 10912,
+    "characterId1": 12,
+    "characterId2": 9
+  },
+  {
+    "id": 63,
+    "groupId": 10921,
+    "characterId1": 9,
+    "characterId2": 21
+  },
+  {
+    "id": 64,
+    "groupId": 10921,
+    "characterId1": 21,
+    "characterId2": 9
+  },
+  {
+    "id": 65,
+    "groupId": 10923,
+    "characterId1": 9,
+    "characterId2": 23
+  },
+  {
+    "id": 66,
+    "groupId": 10923,
+    "characterId1": 23,
+    "characterId2": 9
+  },
+  {
+    "id": 67,
+    "groupId": 10925,
+    "characterId1": 9,
+    "characterId2": 25
+  },
+  {
+    "id": 68,
+    "groupId": 10925,
+    "characterId1": 25,
+    "characterId2": 9
+  },
+  {
+    "id": 69,
+    "groupId": 11011,
+    "characterId1": 10,
+    "characterId2": 11
+  },
+  {
+    "id": 70,
+    "groupId": 11011,
+    "characterId1": 11,
+    "characterId2": 10
+  },
+  {
+    "id": 71,
+    "groupId": 11012,
+    "characterId1": 10,
+    "characterId2": 12
+  },
+  {
+    "id": 72,
+    "groupId": 11012,
+    "characterId1": 12,
+    "characterId2": 10
+  },
+  {
+    "id": 73,
+    "groupId": 11021,
+    "characterId1": 10,
+    "characterId2": 21
+  },
+  {
+    "id": 74,
+    "groupId": 11021,
+    "characterId1": 21,
+    "characterId2": 10
+  },
+  {
+    "id": 75,
+    "groupId": 11023,
+    "characterId1": 10,
+    "characterId2": 23
+  },
+  {
+    "id": 76,
+    "groupId": 11023,
+    "characterId1": 23,
+    "characterId2": 10
+  },
+  {
+    "id": 77,
+    "groupId": 11025,
+    "characterId1": 10,
+    "characterId2": 25
+  },
+  {
+    "id": 78,
+    "groupId": 11025,
+    "characterId1": 25,
+    "characterId2": 10
+  },
+  {
+    "id": 79,
+    "groupId": 11112,
+    "characterId1": 11,
+    "characterId2": 12
+  },
+  {
+    "id": 80,
+    "groupId": 11112,
+    "characterId1": 12,
+    "characterId2": 11
+  },
+  {
+    "id": 81,
+    "groupId": 11121,
+    "characterId1": 11,
+    "characterId2": 21
+  },
+  {
+    "id": 82,
+    "groupId": 11121,
+    "characterId1": 21,
+    "characterId2": 11
+  },
+  {
+    "id": 83,
+    "groupId": 11123,
+    "characterId1": 11,
+    "characterId2": 23
+  },
+  {
+    "id": 84,
+    "groupId": 11123,
+    "characterId1": 23,
+    "characterId2": 11
+  },
+  {
+    "id": 85,
+    "groupId": 11125,
+    "characterId1": 11,
+    "characterId2": 25
+  },
+  {
+    "id": 86,
+    "groupId": 11125,
+    "characterId1": 25,
+    "characterId2": 11
+  },
+  {
+    "id": 87,
+    "groupId": 11221,
+    "characterId1": 12,
+    "characterId2": 21
+  },
+  {
+    "id": 88,
+    "groupId": 11221,
+    "characterId1": 21,
+    "characterId2": 12
+  },
+  {
+    "id": 89,
+    "groupId": 11223,
+    "characterId1": 12,
+    "characterId2": 23
+  },
+  {
+    "id": 90,
+    "groupId": 11223,
+    "characterId1": 23,
+    "characterId2": 12
+  },
+  {
+    "id": 91,
+    "groupId": 11225,
+    "characterId1": 12,
+    "characterId2": 25
+  },
+  {
+    "id": 92,
+    "groupId": 11225,
+    "characterId1": 25,
+    "characterId2": 12
+  },
+  {
+    "id": 93,
+    "groupId": 11314,
+    "characterId1": 13,
+    "characterId2": 14
+  },
+  {
+    "id": 94,
+    "groupId": 11314,
+    "characterId1": 14,
+    "characterId2": 13
+  },
+  {
+    "id": 95,
+    "groupId": 11315,
+    "characterId1": 13,
+    "characterId2": 15
+  },
+  {
+    "id": 96,
+    "groupId": 11315,
+    "characterId1": 15,
+    "characterId2": 13
+  },
+  {
+    "id": 97,
+    "groupId": 11316,
+    "characterId1": 13,
+    "characterId2": 16
+  },
+  {
+    "id": 98,
+    "groupId": 11316,
+    "characterId1": 16,
+    "characterId2": 13
+  },
+  {
+    "id": 99,
+    "groupId": 11321,
+    "characterId1": 13,
+    "characterId2": 21
+  },
+  {
+    "id": 100,
+    "groupId": 11321,
+    "characterId1": 21,
+    "characterId2": 13
+  },
+  {
+    "id": 101,
+    "groupId": 11326,
+    "characterId1": 13,
+    "characterId2": 26
+  },
+  {
+    "id": 102,
+    "groupId": 11326,
+    "characterId1": 26,
+    "characterId2": 13
+  },
+  {
+    "id": 103,
+    "groupId": 11415,
+    "characterId1": 14,
+    "characterId2": 15
+  },
+  {
+    "id": 104,
+    "groupId": 11415,
+    "characterId1": 15,
+    "characterId2": 14
+  },
+  {
+    "id": 105,
+    "groupId": 11416,
+    "characterId1": 14,
+    "characterId2": 16
+  },
+  {
+    "id": 106,
+    "groupId": 11416,
+    "characterId1": 16,
+    "characterId2": 14
+  },
+  {
+    "id": 107,
+    "groupId": 11421,
+    "characterId1": 14,
+    "characterId2": 21
+  },
+  {
+    "id": 108,
+    "groupId": 11421,
+    "characterId1": 21,
+    "characterId2": 14
+  },
+  {
+    "id": 109,
+    "groupId": 11426,
+    "characterId1": 14,
+    "characterId2": 26
+  },
+  {
+    "id": 110,
+    "groupId": 11426,
+    "characterId1": 26,
+    "characterId2": 14
+  },
+  {
+    "id": 111,
+    "groupId": 11516,
+    "characterId1": 15,
+    "characterId2": 16
+  },
+  {
+    "id": 112,
+    "groupId": 11516,
+    "characterId1": 16,
+    "characterId2": 15
+  },
+  {
+    "id": 113,
+    "groupId": 11521,
+    "characterId1": 15,
+    "characterId2": 21
+  },
+  {
+    "id": 114,
+    "groupId": 11521,
+    "characterId1": 21,
+    "characterId2": 15
+  },
+  {
+    "id": 115,
+    "groupId": 11526,
+    "characterId1": 15,
+    "characterId2": 26
+  },
+  {
+    "id": 116,
+    "groupId": 11526,
+    "characterId1": 26,
+    "characterId2": 15
+  },
+  {
+    "id": 117,
+    "groupId": 11621,
+    "characterId1": 16,
+    "characterId2": 21
+  },
+  {
+    "id": 118,
+    "groupId": 11621,
+    "characterId1": 21,
+    "characterId2": 16
+  },
+  {
+    "id": 119,
+    "groupId": 11626,
+    "characterId1": 16,
+    "characterId2": 26
+  },
+  {
+    "id": 120,
+    "groupId": 11626,
+    "characterId1": 26,
+    "characterId2": 16
+  },
+  {
+    "id": 121,
+    "groupId": 11718,
+    "characterId1": 17,
+    "characterId2": 18
+  },
+  {
+    "id": 122,
+    "groupId": 11718,
+    "characterId1": 18,
+    "characterId2": 17
+  },
+  {
+    "id": 123,
+    "groupId": 11719,
+    "characterId1": 17,
+    "characterId2": 19
+  },
+  {
+    "id": 124,
+    "groupId": 11719,
+    "characterId1": 19,
+    "characterId2": 17
+  },
+  {
+    "id": 125,
+    "groupId": 11720,
+    "characterId1": 17,
+    "characterId2": 20
+  },
+  {
+    "id": 126,
+    "groupId": 11720,
+    "characterId1": 20,
+    "characterId2": 17
+  },
+  {
+    "id": 127,
+    "groupId": 11721,
+    "characterId1": 17,
+    "characterId2": 21
+  },
+  {
+    "id": 128,
+    "groupId": 11721,
+    "characterId1": 21,
+    "characterId2": 17
+  },
+  {
+    "id": 129,
+    "groupId": 11819,
+    "characterId1": 18,
+    "characterId2": 19
+  },
+  {
+    "id": 130,
+    "groupId": 11819,
+    "characterId1": 19,
+    "characterId2": 18
+  },
+  {
+    "id": 131,
+    "groupId": 11820,
+    "characterId1": 18,
+    "characterId2": 20
+  },
+  {
+    "id": 132,
+    "groupId": 11820,
+    "characterId1": 20,
+    "characterId2": 18
+  },
+  {
+    "id": 133,
+    "groupId": 11821,
+    "characterId1": 18,
+    "characterId2": 21
+  },
+  {
+    "id": 134,
+    "groupId": 11821,
+    "characterId1": 21,
+    "characterId2": 18
+  },
+  {
+    "id": 135,
+    "groupId": 11920,
+    "characterId1": 19,
+    "characterId2": 20
+  },
+  {
+    "id": 136,
+    "groupId": 11920,
+    "characterId1": 20,
+    "characterId2": 19
+  },
+  {
+    "id": 137,
+    "groupId": 11921,
+    "characterId1": 19,
+    "characterId2": 21
+  },
+  {
+    "id": 138,
+    "groupId": 11921,
+    "characterId1": 21,
+    "characterId2": 19
+  },
+  {
+    "id": 139,
+    "groupId": 12021,
+    "characterId1": 20,
+    "characterId2": 21
+  },
+  {
+    "id": 140,
+    "groupId": 12021,
+    "characterId1": 21,
+    "characterId2": 20
+  },
+  {
+    "id": 141,
+    "groupId": 12122,
+    "characterId1": 21,
+    "characterId2": 22
+  },
+  {
+    "id": 142,
+    "groupId": 12122,
+    "characterId1": 22,
+    "characterId2": 21
+  },
+  {
+    "id": 143,
+    "groupId": 12123,
+    "characterId1": 21,
+    "characterId2": 23
+  },
+  {
+    "id": 144,
+    "groupId": 12123,
+    "characterId1": 23,
+    "characterId2": 21
+  },
+  {
+    "id": 145,
+    "groupId": 12124,
+    "characterId1": 21,
+    "characterId2": 24
+  },
+  {
+    "id": 146,
+    "groupId": 12124,
+    "characterId1": 24,
+    "characterId2": 21
+  },
+  {
+    "id": 147,
+    "groupId": 12125,
+    "characterId1": 21,
+    "characterId2": 25
+  },
+  {
+    "id": 148,
+    "groupId": 12125,
+    "characterId1": 25,
+    "characterId2": 21
+  },
+  {
+    "id": 149,
+    "groupId": 12126,
+    "characterId1": 21,
+    "characterId2": 26
+  },
+  {
+    "id": 150,
+    "groupId": 12126,
+    "characterId1": 26,
+    "characterId2": 21
+  },
+  {
+    "id": 151,
+    "groupId": 12223,
+    "characterId1": 22,
+    "characterId2": 23
+  },
+  {
+    "id": 152,
+    "groupId": 12223,
+    "characterId1": 23,
+    "characterId2": 22
+  },
+  {
+    "id": 153,
+    "groupId": 12224,
+    "characterId1": 22,
+    "characterId2": 24
+  },
+  {
+    "id": 154,
+    "groupId": 12224,
+    "characterId1": 24,
+    "characterId2": 22
+  },
+  {
+    "id": 155,
+    "groupId": 12225,
+    "characterId1": 22,
+    "characterId2": 25
+  },
+  {
+    "id": 156,
+    "groupId": 12225,
+    "characterId1": 25,
+    "characterId2": 22
+  },
+  {
+    "id": 157,
+    "groupId": 12226,
+    "characterId1": 22,
+    "characterId2": 26
+  },
+  {
+    "id": 158,
+    "groupId": 12226,
+    "characterId1": 26,
+    "characterId2": 22
+  },
+  {
+    "id": 159,
+    "groupId": 12324,
+    "characterId1": 23,
+    "characterId2": 24
+  },
+  {
+    "id": 160,
+    "groupId": 12324,
+    "characterId1": 24,
+    "characterId2": 23
+  },
+  {
+    "id": 161,
+    "groupId": 12325,
+    "characterId1": 23,
+    "characterId2": 25
+  },
+  {
+    "id": 162,
+    "groupId": 12325,
+    "characterId1": 25,
+    "characterId2": 23
+  },
+  {
+    "id": 163,
+    "groupId": 12326,
+    "characterId1": 23,
+    "characterId2": 26
+  },
+  {
+    "id": 164,
+    "groupId": 12326,
+    "characterId1": 26,
+    "characterId2": 23
+  },
+  {
+    "id": 165,
+    "groupId": 12425,
+    "characterId1": 24,
+    "characterId2": 25
+  },
+  {
+    "id": 166,
+    "groupId": 12425,
+    "characterId1": 25,
+    "characterId2": 24
+  },
+  {
+    "id": 167,
+    "groupId": 12426,
+    "characterId1": 24,
+    "characterId2": 26
+  },
+  {
+    "id": 168,
+    "groupId": 12426,
+    "characterId1": 26,
+    "characterId2": 24
+  },
+  {
+    "id": 169,
+    "groupId": 12526,
+    "characterId1": 25,
+    "characterId2": 26
+  },
+  {
+    "id": 170,
+    "groupId": 12526,
+    "characterId1": 26,
+    "characterId2": 25
+  },
+  {
+    "id": 171,
+    "groupId": 10213,
+    "characterId1": 2,
+    "characterId2": 13
+  },
+  {
+    "id": 172,
+    "groupId": 10213,
+    "characterId1": 13,
+    "characterId2": 2
+  },
+  {
+    "id": 173,
+    "groupId": 10408,
+    "characterId1": 4,
+    "characterId2": 8
+  },
+  {
+    "id": 174,
+    "groupId": 10408,
+    "characterId1": 8,
+    "characterId2": 4
+  },
+  {
+    "id": 175,
+    "groupId": 11119,
+    "characterId1": 11,
+    "characterId2": 19
+  },
+  {
+    "id": 176,
+    "groupId": 11119,
+    "characterId1": 19,
+    "characterId2": 11
+  },
+  {
+    "id": 177,
+    "groupId": 10610,
+    "characterId1": 6,
+    "characterId2": 10
+  },
+  {
+    "id": 178,
+    "groupId": 10610,
+    "characterId1": 10,
+    "characterId2": 6
+  },
+  {
+    "id": 179,
+    "groupId": 10719,
+    "characterId1": 7,
+    "characterId2": 19
+  },
+  {
+    "id": 180,
+    "groupId": 10719,
+    "characterId1": 19,
+    "characterId2": 7
+  },
+  {
+    "id": 181,
+    "groupId": 11213,
+    "characterId1": 12,
+    "characterId2": 13
+  },
+  {
+    "id": 182,
+    "groupId": 11213,
+    "characterId1": 13,
+    "characterId2": 12
+  },
+  {
+    "id": 183,
+    "groupId": 10212,
+    "characterId1": 2,
+    "characterId2": 12
+  },
+  {
+    "id": 184,
+    "groupId": 10212,
+    "characterId1": 12,
+    "characterId2": 2
+  },
+  {
+    "id": 185,
+    "groupId": 11620,
+    "characterId1": 16,
+    "characterId2": 20
+  },
+  {
+    "id": 186,
+    "groupId": 11620,
+    "characterId1": 20,
+    "characterId2": 16
+  },
+  {
+    "id": 187,
+    "groupId": 11020,
+    "characterId1": 10,
+    "characterId2": 20
+  },
+  {
+    "id": 188,
+    "groupId": 11020,
+    "characterId1": 20,
+    "characterId2": 10
+  },
+  {
+    "id": 189,
+    "groupId": 10509,
+    "characterId1": 5,
+    "characterId2": 9
+  },
+  {
+    "id": 190,
+    "groupId": 10509,
+    "characterId1": 9,
+    "characterId2": 5
+  },
+  {
+    "id": 191,
+    "groupId": 10314,
+    "characterId1": 3,
+    "characterId2": 14
+  },
+  {
+    "id": 192,
+    "groupId": 10314,
+    "characterId1": 14,
+    "characterId2": 3
+  },
+  {
+    "id": 193,
+    "groupId": 10405,
+    "characterId1": 4,
+    "characterId2": 5
+  },
+  {
+    "id": 194,
+    "groupId": 10405,
+    "characterId1": 5,
+    "characterId2": 4
+  },
+  {
+    "id": 195,
+    "groupId": 10409,
+    "characterId1": 4,
+    "characterId2": 9
+  },
+  {
+    "id": 196,
+    "groupId": 10409,
+    "characterId1": 9,
+    "characterId2": 4
+  },
+  {
+    "id": 197,
+    "groupId": 10206,
+    "characterId1": 2,
+    "characterId2": 6
+  },
+  {
+    "id": 198,
+    "groupId": 10206,
+    "characterId1": 6,
+    "characterId2": 2
+  },
+  {
+    "id": 199,
+    "groupId": 10106,
+    "characterId1": 1,
+    "characterId2": 6
+  },
+  {
+    "id": 200,
+    "groupId": 10106,
+    "characterId1": 6,
+    "characterId2": 1
+  },
+  {
+    "id": 201,
+    "groupId": 10317,
+    "characterId1": 3,
+    "characterId2": 17
+  },
+  {
+    "id": 202,
+    "groupId": 10317,
+    "characterId1": 17,
+    "characterId2": 3
+  },
+  {
+    "id": 203,
+    "groupId": 10308,
+    "characterId1": 3,
+    "characterId2": 8
+  },
+  {
+    "id": 204,
+    "groupId": 10308,
+    "characterId1": 8,
+    "characterId2": 3
+  },
+  {
+    "id": 205,
+    "groupId": 10105,
+    "characterId1": 1,
+    "characterId2": 5
+  },
+  {
+    "id": 206,
+    "groupId": 10105,
+    "characterId1": 5,
+    "characterId2": 1
+  },
+  {
+    "id": 207,
+    "groupId": 10205,
+    "characterId1": 2,
+    "characterId2": 5
+  },
+  {
+    "id": 208,
+    "groupId": 10205,
+    "characterId1": 5,
+    "characterId2": 2
+  },
+  {
+    "id": 209,
+    "groupId": 10818,
+    "characterId1": 8,
+    "characterId2": 18
+  },
+  {
+    "id": 210,
+    "groupId": 10818,
+    "characterId1": 18,
+    "characterId2": 8
+  },
+  {
+    "id": 211,
+    "groupId": 10108,
+    "characterId1": 1,
+    "characterId2": 8
+  },
+  {
+    "id": 212,
+    "groupId": 10108,
+    "characterId1": 8,
+    "characterId2": 1
+  },
+  {
+    "id": 213,
+    "groupId": 10208,
+    "characterId1": 2,
+    "characterId2": 8
+  },
+  {
+    "id": 214,
+    "groupId": 10208,
+    "characterId1": 8,
+    "characterId2": 2
+  },
+  {
+    "id": 215,
+    "groupId": 10113,
+    "characterId1": 1,
+    "characterId2": 13
+  },
+  {
+    "id": 216,
+    "groupId": 10113,
+    "characterId1": 13,
+    "characterId2": 1
+  },
+  {
+    "id": 217,
+    "groupId": 10313,
+    "characterId1": 3,
+    "characterId2": 13
+  },
+  {
+    "id": 218,
+    "groupId": 10313,
+    "characterId1": 13,
+    "characterId2": 3
+  },
+  {
+    "id": 219,
+    "groupId": 10413,
+    "characterId1": 4,
+    "characterId2": 13
+  },
+  {
+    "id": 220,
+    "groupId": 10413,
+    "characterId1": 13,
+    "characterId2": 4
+  },
+  {
+    "id": 221,
+    "groupId": 10118,
+    "characterId1": 1,
+    "characterId2": 18
+  },
+  {
+    "id": 222,
+    "groupId": 10118,
+    "characterId1": 18,
+    "characterId2": 1
+  },
+  {
+    "id": 223,
+    "groupId": 10813,
+    "characterId1": 8,
+    "characterId2": 13
+  },
+  {
+    "id": 224,
+    "groupId": 10813,
+    "characterId1": 13,
+    "characterId2": 8
+  },
+  {
+    "id": 225,
+    "groupId": 10126,
+    "characterId1": 1,
+    "characterId2": 26
+  },
+  {
+    "id": 226,
+    "groupId": 10126,
+    "characterId1": 26,
+    "characterId2": 1
+  },
+  {
+    "id": 227,
+    "groupId": 10325,
+    "characterId1": 3,
+    "characterId2": 25
+  },
+  {
+    "id": 228,
+    "groupId": 10325,
+    "characterId1": 25,
+    "characterId2": 3
+  },
+  {
+    "id": 229,
+    "groupId": 10425,
+    "characterId1": 4,
+    "characterId2": 25
+  },
+  {
+    "id": 230,
+    "groupId": 10425,
+    "characterId1": 25,
+    "characterId2": 4
+  },
+  {
+    "id": 231,
+    "groupId": 10426,
+    "characterId1": 4,
+    "characterId2": 26
+  },
+  {
+    "id": 232,
+    "groupId": 10426,
+    "characterId1": 26,
+    "characterId2": 4
+  },
+  {
+    "id": 233,
+    "groupId": 10524,
+    "characterId1": 5,
+    "characterId2": 24
+  },
+  {
+    "id": 234,
+    "groupId": 10524,
+    "characterId1": 24,
+    "characterId2": 5
+  },
+  {
+    "id": 235,
+    "groupId": 10723,
+    "characterId1": 7,
+    "characterId2": 23
+  },
+  {
+    "id": 236,
+    "groupId": 10723,
+    "characterId1": 23,
+    "characterId2": 7
+  },
+  {
+    "id": 237,
+    "groupId": 10824,
+    "characterId1": 8,
+    "characterId2": 24
+  },
+  {
+    "id": 238,
+    "groupId": 10824,
+    "characterId1": 24,
+    "characterId2": 8
+  },
+  {
+    "id": 239,
+    "groupId": 10922,
+    "characterId1": 9,
+    "characterId2": 22
+  },
+  {
+    "id": 240,
+    "groupId": 10922,
+    "characterId1": 22,
+    "characterId2": 9
+  },
+  {
+    "id": 241,
+    "groupId": 11022,
+    "characterId1": 10,
+    "characterId2": 22
+  },
+  {
+    "id": 242,
+    "groupId": 11022,
+    "characterId1": 22,
+    "characterId2": 10
+  },
+  {
+    "id": 243,
+    "groupId": 11122,
+    "characterId1": 11,
+    "characterId2": 22
+  },
+  {
+    "id": 244,
+    "groupId": 11122,
+    "characterId1": 22,
+    "characterId2": 11
+  },
+  {
+    "id": 245,
+    "groupId": 11126,
+    "characterId1": 11,
+    "characterId2": 26
+  },
+  {
+    "id": 246,
+    "groupId": 11126,
+    "characterId1": 26,
+    "characterId2": 11
+  },
+  {
+    "id": 247,
+    "groupId": 11222,
+    "characterId1": 12,
+    "characterId2": 22
+  },
+  {
+    "id": 248,
+    "groupId": 11222,
+    "characterId1": 22,
+    "characterId2": 12
+  },
+  {
+    "id": 249,
+    "groupId": 11226,
+    "characterId1": 12,
+    "characterId2": 26
+  },
+  {
+    "id": 250,
+    "groupId": 11226,
+    "characterId1": 26,
+    "characterId2": 12
+  },
+  {
+    "id": 251,
+    "groupId": 11324,
+    "characterId1": 13,
+    "characterId2": 24
+  },
+  {
+    "id": 252,
+    "groupId": 11324,
+    "characterId1": 24,
+    "characterId2": 13
+  },
+  {
+    "id": 253,
+    "groupId": 11423,
+    "characterId1": 14,
+    "characterId2": 23
+  },
+  {
+    "id": 254,
+    "groupId": 11423,
+    "characterId1": 23,
+    "characterId2": 14
+  },
+  {
+    "id": 255,
+    "groupId": 11524,
+    "characterId1": 15,
+    "characterId2": 24
+  },
+  {
+    "id": 256,
+    "groupId": 11524,
+    "characterId1": 24,
+    "characterId2": 15
+  },
+  {
+    "id": 257,
+    "groupId": 11623,
+    "characterId1": 16,
+    "characterId2": 23
+  },
+  {
+    "id": 258,
+    "groupId": 11623,
+    "characterId1": 23,
+    "characterId2": 16
+  },
+  {
+    "id": 259,
+    "groupId": 11624,
+    "characterId1": 16,
+    "characterId2": 24
+  },
+  {
+    "id": 260,
+    "groupId": 11624,
+    "characterId1": 24,
+    "characterId2": 16
+  },
+  {
+    "id": 261,
+    "groupId": 11722,
+    "characterId1": 17,
+    "characterId2": 22
+  },
+  {
+    "id": 262,
+    "groupId": 11722,
+    "characterId1": 22,
+    "characterId2": 17
+  },
+  {
+    "id": 263,
+    "groupId": 11822,
+    "characterId1": 18,
+    "characterId2": 22
+  },
+  {
+    "id": 264,
+    "groupId": 11822,
+    "characterId1": 22,
+    "characterId2": 18
+  },
+  {
+    "id": 265,
+    "groupId": 11922,
+    "characterId1": 19,
+    "characterId2": 22
+  },
+  {
+    "id": 266,
+    "groupId": 11922,
+    "characterId1": 22,
+    "characterId2": 19
+  },
+  {
+    "id": 267,
+    "groupId": 11925,
+    "characterId1": 19,
+    "characterId2": 25
+  },
+  {
+    "id": 268,
+    "groupId": 11925,
+    "characterId1": 25,
+    "characterId2": 19
+  },
+  {
+    "id": 269,
+    "groupId": 12022,
+    "characterId1": 20,
+    "characterId2": 22
+  },
+  {
+    "id": 270,
+    "groupId": 12022,
+    "characterId1": 22,
+    "characterId2": 20
+  },
+  {
+    "id": 271,
+    "groupId": 12025,
+    "characterId1": 20,
+    "characterId2": 25
+  },
+  {
+    "id": 272,
+    "groupId": 12025,
+    "characterId1": 25,
+    "characterId2": 20
+  },
+  {
+    "id": 273,
+    "groupId": 10121,
+    "characterId1": 1,
+    "characterId2": 27
+  },
+  {
+    "id": 274,
+    "groupId": 10121,
+    "characterId1": 27,
+    "characterId2": 1
+  },
+  {
+    "id": 275,
+    "groupId": 10124,
+    "characterId1": 1,
+    "characterId2": 42
+  },
+  {
+    "id": 276,
+    "groupId": 10124,
+    "characterId1": 42,
+    "characterId2": 1
+  },
+  {
+    "id": 277,
+    "groupId": 10126,
+    "characterId1": 1,
+    "characterId2": 52
+  },
+  {
+    "id": 278,
+    "groupId": 10126,
+    "characterId1": 52,
+    "characterId2": 1
+  },
+  {
+    "id": 279,
+    "groupId": 10221,
+    "characterId1": 2,
+    "characterId2": 27
+  },
+  {
+    "id": 280,
+    "groupId": 10221,
+    "characterId1": 27,
+    "characterId2": 2
+  },
+  {
+    "id": 281,
+    "groupId": 10224,
+    "characterId1": 2,
+    "characterId2": 42
+  },
+  {
+    "id": 282,
+    "groupId": 10224,
+    "characterId1": 42,
+    "characterId2": 2
+  },
+  {
+    "id": 283,
+    "groupId": 10321,
+    "characterId1": 3,
+    "characterId2": 27
+  },
+  {
+    "id": 284,
+    "groupId": 10321,
+    "characterId1": 27,
+    "characterId2": 3
+  },
+  {
+    "id": 285,
+    "groupId": 10324,
+    "characterId1": 3,
+    "characterId2": 42
+  },
+  {
+    "id": 286,
+    "groupId": 10324,
+    "characterId1": 42,
+    "characterId2": 3
+  },
+  {
+    "id": 287,
+    "groupId": 10325,
+    "characterId1": 3,
+    "characterId2": 47
+  },
+  {
+    "id": 288,
+    "groupId": 10325,
+    "characterId1": 47,
+    "characterId2": 3
+  },
+  {
+    "id": 289,
+    "groupId": 10421,
+    "characterId1": 4,
+    "characterId2": 27
+  },
+  {
+    "id": 290,
+    "groupId": 10421,
+    "characterId1": 27,
+    "characterId2": 4
+  },
+  {
+    "id": 291,
+    "groupId": 10424,
+    "characterId1": 4,
+    "characterId2": 42
+  },
+  {
+    "id": 292,
+    "groupId": 10424,
+    "characterId1": 42,
+    "characterId2": 4
+  },
+  {
+    "id": 293,
+    "groupId": 10425,
+    "characterId1": 4,
+    "characterId2": 47
+  },
+  {
+    "id": 294,
+    "groupId": 10425,
+    "characterId1": 47,
+    "characterId2": 4
+  },
+  {
+    "id": 295,
+    "groupId": 10426,
+    "characterId1": 4,
+    "characterId2": 52
+  },
+  {
+    "id": 296,
+    "groupId": 10426,
+    "characterId1": 52,
+    "characterId2": 4
+  },
+  {
+    "id": 297,
+    "groupId": 10521,
+    "characterId1": 5,
+    "characterId2": 28
+  },
+  {
+    "id": 298,
+    "groupId": 10521,
+    "characterId1": 28,
+    "characterId2": 5
+  },
+  {
+    "id": 299,
+    "groupId": 10522,
+    "characterId1": 5,
+    "characterId2": 33
+  },
+  {
+    "id": 300,
+    "groupId": 10522,
+    "characterId1": 33,
+    "characterId2": 5
+  },
+  {
+    "id": 301,
+    "groupId": 10524,
+    "characterId1": 5,
+    "characterId2": 43
+  },
+  {
+    "id": 302,
+    "groupId": 10524,
+    "characterId1": 43,
+    "characterId2": 5
+  },
+  {
+    "id": 303,
+    "groupId": 10621,
+    "characterId1": 6,
+    "characterId2": 28
+  },
+  {
+    "id": 304,
+    "groupId": 10621,
+    "characterId1": 28,
+    "characterId2": 6
+  },
+  {
+    "id": 305,
+    "groupId": 10622,
+    "characterId1": 6,
+    "characterId2": 33
+  },
+  {
+    "id": 306,
+    "groupId": 10622,
+    "characterId1": 33,
+    "characterId2": 6
+  },
+  {
+    "id": 307,
+    "groupId": 10721,
+    "characterId1": 7,
+    "characterId2": 28
+  },
+  {
+    "id": 308,
+    "groupId": 10721,
+    "characterId1": 28,
+    "characterId2": 7
+  },
+  {
+    "id": 309,
+    "groupId": 10722,
+    "characterId1": 7,
+    "characterId2": 33
+  },
+  {
+    "id": 310,
+    "groupId": 10722,
+    "characterId1": 33,
+    "characterId2": 7
+  },
+  {
+    "id": 311,
+    "groupId": 10723,
+    "characterId1": 7,
+    "characterId2": 38
+  },
+  {
+    "id": 312,
+    "groupId": 10723,
+    "characterId1": 38,
+    "characterId2": 7
+  },
+  {
+    "id": 313,
+    "groupId": 10821,
+    "characterId1": 8,
+    "characterId2": 28
+  },
+  {
+    "id": 314,
+    "groupId": 10821,
+    "characterId1": 28,
+    "characterId2": 8
+  },
+  {
+    "id": 315,
+    "groupId": 10822,
+    "characterId1": 8,
+    "characterId2": 33
+  },
+  {
+    "id": 316,
+    "groupId": 10822,
+    "characterId1": 33,
+    "characterId2": 8
+  },
+  {
+    "id": 317,
+    "groupId": 10824,
+    "characterId1": 8,
+    "characterId2": 43
+  },
+  {
+    "id": 318,
+    "groupId": 10824,
+    "characterId1": 43,
+    "characterId2": 8
+  },
+  {
+    "id": 319,
+    "groupId": 10921,
+    "characterId1": 9,
+    "characterId2": 29
+  },
+  {
+    "id": 320,
+    "groupId": 10921,
+    "characterId1": 29,
+    "characterId2": 9
+  },
+  {
+    "id": 321,
+    "groupId": 10922,
+    "characterId1": 9,
+    "characterId2": 34
+  },
+  {
+    "id": 322,
+    "groupId": 10922,
+    "characterId1": 34,
+    "characterId2": 9
+  },
+  {
+    "id": 323,
+    "groupId": 10923,
+    "characterId1": 9,
+    "characterId2": 39
+  },
+  {
+    "id": 324,
+    "groupId": 10923,
+    "characterId1": 39,
+    "characterId2": 9
+  },
+  {
+    "id": 325,
+    "groupId": 10925,
+    "characterId1": 9,
+    "characterId2": 49
+  },
+  {
+    "id": 326,
+    "groupId": 10925,
+    "characterId1": 49,
+    "characterId2": 9
+  },
+  {
+    "id": 327,
+    "groupId": 11021,
+    "characterId1": 10,
+    "characterId2": 29
+  },
+  {
+    "id": 328,
+    "groupId": 11021,
+    "characterId1": 29,
+    "characterId2": 10
+  },
+  {
+    "id": 329,
+    "groupId": 11022,
+    "characterId1": 10,
+    "characterId2": 34
+  },
+  {
+    "id": 330,
+    "groupId": 11022,
+    "characterId1": 34,
+    "characterId2": 10
+  },
+  {
+    "id": 331,
+    "groupId": 11023,
+    "characterId1": 10,
+    "characterId2": 39
+  },
+  {
+    "id": 332,
+    "groupId": 11023,
+    "characterId1": 39,
+    "characterId2": 10
+  },
+  {
+    "id": 333,
+    "groupId": 11025,
+    "characterId1": 10,
+    "characterId2": 49
+  },
+  {
+    "id": 334,
+    "groupId": 11025,
+    "characterId1": 49,
+    "characterId2": 10
+  },
+  {
+    "id": 335,
+    "groupId": 11121,
+    "characterId1": 11,
+    "characterId2": 29
+  },
+  {
+    "id": 336,
+    "groupId": 11121,
+    "characterId1": 29,
+    "characterId2": 11
+  },
+  {
+    "id": 337,
+    "groupId": 11122,
+    "characterId1": 11,
+    "characterId2": 34
+  },
+  {
+    "id": 338,
+    "groupId": 11122,
+    "characterId1": 34,
+    "characterId2": 11
+  },
+  {
+    "id": 339,
+    "groupId": 11123,
+    "characterId1": 11,
+    "characterId2": 39
+  },
+  {
+    "id": 340,
+    "groupId": 11123,
+    "characterId1": 39,
+    "characterId2": 11
+  },
+  {
+    "id": 341,
+    "groupId": 11125,
+    "characterId1": 11,
+    "characterId2": 49
+  },
+  {
+    "id": 342,
+    "groupId": 11125,
+    "characterId1": 49,
+    "characterId2": 11
+  },
+  {
+    "id": 343,
+    "groupId": 11126,
+    "characterId1": 11,
+    "characterId2": 54
+  },
+  {
+    "id": 344,
+    "groupId": 11126,
+    "characterId1": 54,
+    "characterId2": 11
+  },
+  {
+    "id": 345,
+    "groupId": 11221,
+    "characterId1": 12,
+    "characterId2": 29
+  },
+  {
+    "id": 346,
+    "groupId": 11221,
+    "characterId1": 29,
+    "characterId2": 12
+  },
+  {
+    "id": 347,
+    "groupId": 11222,
+    "characterId1": 12,
+    "characterId2": 34
+  },
+  {
+    "id": 348,
+    "groupId": 11222,
+    "characterId1": 34,
+    "characterId2": 12
+  },
+  {
+    "id": 349,
+    "groupId": 11223,
+    "characterId1": 12,
+    "characterId2": 39
+  },
+  {
+    "id": 350,
+    "groupId": 11223,
+    "characterId1": 39,
+    "characterId2": 12
+  },
+  {
+    "id": 351,
+    "groupId": 11225,
+    "characterId1": 12,
+    "characterId2": 49
+  },
+  {
+    "id": 352,
+    "groupId": 11225,
+    "characterId1": 49,
+    "characterId2": 12
+  },
+  {
+    "id": 353,
+    "groupId": 11226,
+    "characterId1": 12,
+    "characterId2": 54
+  },
+  {
+    "id": 354,
+    "groupId": 11226,
+    "characterId1": 54,
+    "characterId2": 12
+  },
+  {
+    "id": 355,
+    "groupId": 11321,
+    "characterId1": 13,
+    "characterId2": 30
+  },
+  {
+    "id": 356,
+    "groupId": 11321,
+    "characterId1": 30,
+    "characterId2": 13
+  },
+  {
+    "id": 357,
+    "groupId": 11324,
+    "characterId1": 13,
+    "characterId2": 45
+  },
+  {
+    "id": 358,
+    "groupId": 11324,
+    "characterId1": 45,
+    "characterId2": 13
+  },
+  {
+    "id": 359,
+    "groupId": 11326,
+    "characterId1": 13,
+    "characterId2": 55
+  },
+  {
+    "id": 360,
+    "groupId": 11326,
+    "characterId1": 55,
+    "characterId2": 13
+  },
+  {
+    "id": 361,
+    "groupId": 11421,
+    "characterId1": 14,
+    "characterId2": 30
+  },
+  {
+    "id": 362,
+    "groupId": 11421,
+    "characterId1": 30,
+    "characterId2": 14
+  },
+  {
+    "id": 363,
+    "groupId": 11423,
+    "characterId1": 14,
+    "characterId2": 40
+  },
+  {
+    "id": 364,
+    "groupId": 11423,
+    "characterId1": 40,
+    "characterId2": 14
+  },
+  {
+    "id": 365,
+    "groupId": 11426,
+    "characterId1": 14,
+    "characterId2": 55
+  },
+  {
+    "id": 366,
+    "groupId": 11426,
+    "characterId1": 55,
+    "characterId2": 14
+  },
+  {
+    "id": 367,
+    "groupId": 11521,
+    "characterId1": 15,
+    "characterId2": 30
+  },
+  {
+    "id": 368,
+    "groupId": 11521,
+    "characterId1": 30,
+    "characterId2": 15
+  },
+  {
+    "id": 369,
+    "groupId": 11524,
+    "characterId1": 15,
+    "characterId2": 45
+  },
+  {
+    "id": 370,
+    "groupId": 11524,
+    "characterId1": 45,
+    "characterId2": 15
+  },
+  {
+    "id": 371,
+    "groupId": 11526,
+    "characterId1": 15,
+    "characterId2": 55
+  },
+  {
+    "id": 372,
+    "groupId": 11526,
+    "characterId1": 55,
+    "characterId2": 15
+  },
+  {
+    "id": 373,
+    "groupId": 11621,
+    "characterId1": 16,
+    "characterId2": 30
+  },
+  {
+    "id": 374,
+    "groupId": 11621,
+    "characterId1": 30,
+    "characterId2": 16
+  },
+  {
+    "id": 375,
+    "groupId": 11623,
+    "characterId1": 16,
+    "characterId2": 40
+  },
+  {
+    "id": 376,
+    "groupId": 11623,
+    "characterId1": 40,
+    "characterId2": 16
+  },
+  {
+    "id": 377,
+    "groupId": 11624,
+    "characterId1": 16,
+    "characterId2": 45
+  },
+  {
+    "id": 378,
+    "groupId": 11624,
+    "characterId1": 45,
+    "characterId2": 16
+  },
+  {
+    "id": 379,
+    "groupId": 11626,
+    "characterId1": 16,
+    "characterId2": 55
+  },
+  {
+    "id": 380,
+    "groupId": 11626,
+    "characterId1": 55,
+    "characterId2": 16
+  },
+  {
+    "id": 381,
+    "groupId": 11721,
+    "characterId1": 17,
+    "characterId2": 31
+  },
+  {
+    "id": 382,
+    "groupId": 11721,
+    "characterId1": 31,
+    "characterId2": 17
+  },
+  {
+    "id": 383,
+    "groupId": 11722,
+    "characterId1": 17,
+    "characterId2": 36
+  },
+  {
+    "id": 384,
+    "groupId": 11722,
+    "characterId1": 36,
+    "characterId2": 17
+  },
+  {
+    "id": 385,
+    "groupId": 11821,
+    "characterId1": 18,
+    "characterId2": 31
+  },
+  {
+    "id": 386,
+    "groupId": 11821,
+    "characterId1": 31,
+    "characterId2": 18
+  },
+  {
+    "id": 387,
+    "groupId": 11822,
+    "characterId1": 18,
+    "characterId2": 36
+  },
+  {
+    "id": 388,
+    "groupId": 11822,
+    "characterId1": 36,
+    "characterId2": 18
+  },
+  {
+    "id": 389,
+    "groupId": 11921,
+    "characterId1": 19,
+    "characterId2": 31
+  },
+  {
+    "id": 390,
+    "groupId": 11921,
+    "characterId1": 31,
+    "characterId2": 19
+  },
+  {
+    "id": 391,
+    "groupId": 11922,
+    "characterId1": 19,
+    "characterId2": 36
+  },
+  {
+    "id": 392,
+    "groupId": 11922,
+    "characterId1": 36,
+    "characterId2": 19
+  },
+  {
+    "id": 393,
+    "groupId": 11925,
+    "characterId1": 19,
+    "characterId2": 51
+  },
+  {
+    "id": 394,
+    "groupId": 11925,
+    "characterId1": 51,
+    "characterId2": 19
+  },
+  {
+    "id": 395,
+    "groupId": 12021,
+    "characterId1": 20,
+    "characterId2": 31
+  },
+  {
+    "id": 396,
+    "groupId": 12021,
+    "characterId1": 31,
+    "characterId2": 20
+  },
+  {
+    "id": 397,
+    "groupId": 12022,
+    "characterId1": 20,
+    "characterId2": 36
+  },
+  {
+    "id": 398,
+    "groupId": 12022,
+    "characterId1": 36,
+    "characterId2": 20
+  },
+  {
+    "id": 399,
+    "groupId": 12025,
+    "characterId1": 20,
+    "characterId2": 51
+  },
+  {
+    "id": 400,
+    "groupId": 12025,
+    "characterId1": 51,
+    "characterId2": 20
+  },
+  {
+    "id": 401,
+    "groupId": 11418,
+    "characterId1": 14,
+    "characterId2": 18
+  },
+  {
+    "id": 402,
+    "groupId": 11418,
+    "characterId1": 18,
+    "characterId2": 14
+  },
+  {
+    "id": 403,
+    "groupId": 10614,
+    "characterId1": 6,
+    "characterId2": 14
+  },
+  {
+    "id": 404,
+    "groupId": 10614,
+    "characterId1": 14,
+    "characterId2": 6
+  },
+  {
+    "id": 405,
+    "groupId": 10214,
+    "characterId1": 2,
+    "characterId2": 14
+  },
+  {
+    "id": 406,
+    "groupId": 10214,
+    "characterId1": 14,
+    "characterId2": 2
+  },
+  {
+    "id": 407,
+    "groupId": 11113,
+    "characterId1": 11,
+    "characterId2": 13
+  },
+  {
+    "id": 408,
+    "groupId": 11113,
+    "characterId1": 13,
+    "characterId2": 11
+  },
+  {
+    "id": 409,
+    "groupId": 11120,
+    "characterId1": 11,
+    "characterId2": 20
+  },
+  {
+    "id": 410,
+    "groupId": 11120,
+    "characterId1": 20,
+    "characterId2": 11
+  },
+  {
+    "id": 411,
+    "groupId": 11220,
+    "characterId1": 12,
+    "characterId2": 20
+  },
+  {
+    "id": 412,
+    "groupId": 11220,
+    "characterId1": 20,
+    "characterId2": 12
+  },
+  {
+    "id": 413,
+    "groupId": 11320,
+    "characterId1": 13,
+    "characterId2": 20
+  },
+  {
+    "id": 414,
+    "groupId": 11320,
+    "characterId1": 20,
+    "characterId2": 13
+  },
+  {
+    "id": 415,
+    "groupId": 10115,
+    "characterId1": 1,
+    "characterId2": 15
+  },
+  {
+    "id": 416,
+    "groupId": 10115,
+    "characterId1": 15,
+    "characterId2": 1
+  },
+  {
+    "id": 417,
+    "groupId": 10819,
+    "characterId1": 8,
+    "characterId2": 19
+  },
+  {
+    "id": 418,
+    "groupId": 10819,
+    "characterId1": 19,
+    "characterId2": 8
+  },
+  {
+    "id": 419,
+    "groupId": 10820,
+    "characterId1": 8,
+    "characterId2": 20
+  },
+  {
+    "id": 420,
+    "groupId": 10820,
+    "characterId1": 20,
+    "characterId2": 8
+  },
+  {
+    "id": 421,
+    "groupId": 10720,
+    "characterId1": 7,
+    "characterId2": 20
+  },
+  {
+    "id": 422,
+    "groupId": 10720,
+    "characterId1": 20,
+    "characterId2": 7
+  },
+  {
+    "id": 423,
+    "groupId": 11116,
+    "characterId1": 11,
+    "characterId2": 16
+  },
+  {
+    "id": 424,
+    "groupId": 11116,
+    "characterId1": 16,
+    "characterId2": 11
+  },
+  {
+    "id": 425,
+    "groupId": 11216,
+    "characterId1": 12,
+    "characterId2": 16
+  },
+  {
+    "id": 426,
+    "groupId": 11216,
+    "characterId1": 16,
+    "characterId2": 12
+  },
+  {
+    "id": 427,
+    "groupId": 10711,
+    "characterId1": 7,
+    "characterId2": 11
+  },
+  {
+    "id": 428,
+    "groupId": 10711,
+    "characterId1": 11,
+    "characterId2": 7
+  },
+  {
+    "id": 429,
+    "groupId": 10109,
+    "characterId1": 1,
+    "characterId2": 9
+  },
+  {
+    "id": 430,
+    "groupId": 10109,
+    "characterId1": 9,
+    "characterId2": 1
+  },
+  {
+    "id": 431,
+    "groupId": 10510,
+    "characterId1": 5,
+    "characterId2": 10
+  },
+  {
+    "id": 432,
+    "groupId": 10510,
+    "characterId1": 10,
+    "characterId2": 5
+  },
+  {
+    "id": 433,
+    "groupId": 10609,
+    "characterId1": 6,
+    "characterId2": 9
+  },
+  {
+    "id": 434,
+    "groupId": 10609,
+    "characterId1": 9,
+    "characterId2": 6
+  },
+  {
+    "id": 435,
+    "groupId": 10117,
+    "characterId1": 1,
+    "characterId2": 17
+  },
+  {
+    "id": 436,
+    "groupId": 10117,
+    "characterId1": 17,
+    "characterId2": 1
+  },
+  {
+    "id": 437,
+    "groupId": 10207,
+    "characterId1": 2,
+    "characterId2": 7
+  },
+  {
+    "id": 438,
+    "groupId": 10207,
+    "characterId1": 7,
+    "characterId2": 2
+  },
+  {
+    "id": 439,
+    "groupId": 10714,
+    "characterId1": 7,
+    "characterId2": 14
+  },
+  {
+    "id": 440,
+    "groupId": 10714,
+    "characterId1": 14,
+    "characterId2": 7
+  },
+  {
+    "id": 441,
+    "groupId": 10709,
+    "characterId1": 7,
+    "characterId2": 9
+  },
+  {
+    "id": 442,
+    "groupId": 10709,
+    "characterId1": 9,
+    "characterId2": 7
+  },
+  {
+    "id": 443,
+    "groupId": 10710,
+    "characterId1": 7,
+    "characterId2": 10
+  },
+  {
+    "id": 444,
+    "groupId": 10710,
+    "characterId1": 10,
+    "characterId2": 7
+  },
+  {
+    "id": 445,
+    "groupId": 10809,
+    "characterId1": 8,
+    "characterId2": 9
+  },
+  {
+    "id": 446,
+    "groupId": 10809,
+    "characterId1": 9,
+    "characterId2": 8
+  },
+  {
+    "id": 447,
+    "groupId": 10810,
+    "characterId1": 8,
+    "characterId2": 10
+  },
+  {
+    "id": 448,
+    "groupId": 10810,
+    "characterId1": 10,
+    "characterId2": 8
+  },
+  {
+    "id": 449,
+    "groupId": 10517,
+    "characterId1": 5,
+    "characterId2": 17
+  },
+  {
+    "id": 450,
+    "groupId": 10517,
+    "characterId1": 17,
+    "characterId2": 5
+  },
+  {
+    "id": 451,
+    "groupId": 10319,
+    "characterId1": 3,
+    "characterId2": 19
+  },
+  {
+    "id": 452,
+    "groupId": 10319,
+    "characterId1": 19,
+    "characterId2": 3
+  },
+  {
+    "id": 453,
+    "groupId": 11419,
+    "characterId1": 14,
+    "characterId2": 19
+  },
+  {
+    "id": 454,
+    "groupId": 11419,
+    "characterId1": 19,
+    "characterId2": 14
+  },
+  {
+    "id": 455,
+    "groupId": 11215,
+    "characterId1": 12,
+    "characterId2": 15
+  },
+  {
+    "id": 456,
+    "groupId": 11215,
+    "characterId1": 15,
+    "characterId2": 12
+  },
+  {
+    "id": 457,
+    "groupId": 10122,
+    "characterId1": 1,
+    "characterId2": 22
+  },
+  {
+    "id": 458,
+    "groupId": 10122,
+    "characterId1": 22,
+    "characterId2": 1
+  },
+  {
+    "id": 459,
+    "groupId": 10122,
+    "characterId1": 1,
+    "characterId2": 32
+  },
+  {
+    "id": 460,
+    "groupId": 10122,
+    "characterId1": 32,
+    "characterId2": 1
+  },
+  {
+    "id": 461,
+    "groupId": 10222,
+    "characterId1": 2,
+    "characterId2": 22
+  },
+  {
+    "id": 462,
+    "groupId": 10222,
+    "characterId1": 22,
+    "characterId2": 2
+  },
+  {
+    "id": 463,
+    "groupId": 10222,
+    "characterId1": 2,
+    "characterId2": 32
+  },
+  {
+    "id": 464,
+    "groupId": 10222,
+    "characterId1": 32,
+    "characterId2": 2
+  },
+  {
+    "id": 465,
+    "groupId": 10323,
+    "characterId1": 3,
+    "characterId2": 23
+  },
+  {
+    "id": 466,
+    "groupId": 10323,
+    "characterId1": 23,
+    "characterId2": 3
+  },
+  {
+    "id": 467,
+    "groupId": 10323,
+    "characterId1": 3,
+    "characterId2": 37
+  },
+  {
+    "id": 468,
+    "groupId": 10323,
+    "characterId1": 37,
+    "characterId2": 3
+  },
+  {
+    "id": 469,
+    "groupId": 10526,
+    "characterId1": 5,
+    "characterId2": 26
+  },
+  {
+    "id": 470,
+    "groupId": 10526,
+    "characterId1": 26,
+    "characterId2": 5
+  },
+  {
+    "id": 471,
+    "groupId": 10526,
+    "characterId1": 5,
+    "characterId2": 53
+  },
+  {
+    "id": 472,
+    "groupId": 10526,
+    "characterId1": 53,
+    "characterId2": 5
+  },
+  {
+    "id": 473,
+    "groupId": 10625,
+    "characterId1": 6,
+    "characterId2": 25
+  },
+  {
+    "id": 474,
+    "groupId": 10625,
+    "characterId1": 25,
+    "characterId2": 6
+  },
+  {
+    "id": 475,
+    "groupId": 10625,
+    "characterId1": 6,
+    "characterId2": 48
+  },
+  {
+    "id": 476,
+    "groupId": 10625,
+    "characterId1": 48,
+    "characterId2": 6
+  },
+  {
+    "id": 477,
+    "groupId": 10626,
+    "characterId1": 6,
+    "characterId2": 26
+  },
+  {
+    "id": 478,
+    "groupId": 10626,
+    "characterId1": 26,
+    "characterId2": 6
+  },
+  {
+    "id": 479,
+    "groupId": 10626,
+    "characterId1": 6,
+    "characterId2": 53
+  },
+  {
+    "id": 480,
+    "groupId": 10626,
+    "characterId1": 53,
+    "characterId2": 6
+  },
+  {
+    "id": 481,
+    "groupId": 10924,
+    "characterId1": 9,
+    "characterId2": 24
+  },
+  {
+    "id": 482,
+    "groupId": 10924,
+    "characterId1": 24,
+    "characterId2": 9
+  },
+  {
+    "id": 483,
+    "groupId": 10924,
+    "characterId1": 9,
+    "characterId2": 44
+  },
+  {
+    "id": 484,
+    "groupId": 10924,
+    "characterId1": 44,
+    "characterId2": 9
+  },
+  {
+    "id": 485,
+    "groupId": 11024,
+    "characterId1": 10,
+    "characterId2": 24
+  },
+  {
+    "id": 486,
+    "groupId": 11024,
+    "characterId1": 24,
+    "characterId2": 10
+  },
+  {
+    "id": 487,
+    "groupId": 11024,
+    "characterId1": 10,
+    "characterId2": 44
+  },
+  {
+    "id": 488,
+    "groupId": 11024,
+    "characterId1": 44,
+    "characterId2": 10
+  },
+  {
+    "id": 489,
+    "groupId": 11224,
+    "characterId1": 12,
+    "characterId2": 24
+  },
+  {
+    "id": 490,
+    "groupId": 11224,
+    "characterId1": 24,
+    "characterId2": 12
+  },
+  {
+    "id": 491,
+    "groupId": 11224,
+    "characterId1": 12,
+    "characterId2": 44
+  },
+  {
+    "id": 492,
+    "groupId": 11224,
+    "characterId1": 44,
+    "characterId2": 12
+  },
+  {
+    "id": 493,
+    "groupId": 11522,
+    "characterId1": 15,
+    "characterId2": 22
+  },
+  {
+    "id": 494,
+    "groupId": 11522,
+    "characterId1": 22,
+    "characterId2": 15
+  },
+  {
+    "id": 495,
+    "groupId": 11522,
+    "characterId1": 15,
+    "characterId2": 35
+  },
+  {
+    "id": 496,
+    "groupId": 11522,
+    "characterId1": 35,
+    "characterId2": 15
+  },
+  {
+    "id": 497,
+    "groupId": 11525,
+    "characterId1": 15,
+    "characterId2": 25
+  },
+  {
+    "id": 498,
+    "groupId": 11525,
+    "characterId1": 25,
+    "characterId2": 15
+  },
+  {
+    "id": 499,
+    "groupId": 11525,
+    "characterId1": 15,
+    "characterId2": 50
+  },
+  {
+    "id": 500,
+    "groupId": 11525,
+    "characterId1": 50,
+    "characterId2": 15
+  },
+  {
+    "id": 501,
+    "groupId": 11724,
+    "characterId1": 17,
+    "characterId2": 24
+  },
+  {
+    "id": 502,
+    "groupId": 11724,
+    "characterId1": 24,
+    "characterId2": 17
+  },
+  {
+    "id": 503,
+    "groupId": 11724,
+    "characterId1": 17,
+    "characterId2": 46
+  },
+  {
+    "id": 504,
+    "groupId": 11724,
+    "characterId1": 46,
+    "characterId2": 17
+  },
+  {
+    "id": 505,
+    "groupId": 11823,
+    "characterId1": 18,
+    "characterId2": 23
+  },
+  {
+    "id": 506,
+    "groupId": 11823,
+    "characterId1": 23,
+    "characterId2": 18
+  },
+  {
+    "id": 507,
+    "groupId": 11823,
+    "characterId1": 18,
+    "characterId2": 41
+  },
+  {
+    "id": 508,
+    "groupId": 11823,
+    "characterId1": 41,
+    "characterId2": 18
+  },
+  {
+    "id": 509,
+    "groupId": 11824,
+    "characterId1": 18,
+    "characterId2": 24
+  },
+  {
+    "id": 510,
+    "groupId": 11824,
+    "characterId1": 24,
+    "characterId2": 18
+  },
+  {
+    "id": 511,
+    "groupId": 11824,
+    "characterId1": 18,
+    "characterId2": 46
+  },
+  {
+    "id": 512,
+    "groupId": 11824,
+    "characterId1": 46,
+    "characterId2": 18
+  },
+  {
+    "id": 513,
+    "groupId": 12024,
+    "characterId1": 20,
+    "characterId2": 24
+  },
+  {
+    "id": 514,
+    "groupId": 12024,
+    "characterId1": 24,
+    "characterId2": 20
+  },
+  {
+    "id": 515,
+    "groupId": 12024,
+    "characterId1": 20,
+    "characterId2": 46
+  },
+  {
+    "id": 516,
+    "groupId": 12024,
+    "characterId1": 46,
+    "characterId2": 20
+  },
+  {
+    "id": 517,
+    "groupId": 10422,
+    "characterId1": 4,
+    "characterId2": 22
+  },
+  {
+    "id": 518,
+    "groupId": 10422,
+    "characterId1": 22,
+    "characterId2": 4
+  },
+  {
+    "id": 519,
+    "groupId": 10422,
+    "characterId1": 4,
+    "characterId2": 32
+  },
+  {
+    "id": 520,
+    "groupId": 10422,
+    "characterId1": 32,
+    "characterId2": 4
+  },
+  {
+    "id": 521,
+    "groupId": 11323,
+    "characterId1": 13,
+    "characterId2": 23
+  },
+  {
+    "id": 522,
+    "groupId": 11323,
+    "characterId1": 23,
+    "characterId2": 13
+  },
+  {
+    "id": 523,
+    "groupId": 11323,
+    "characterId1": 13,
+    "characterId2": 40
+  },
+  {
+    "id": 524,
+    "groupId": 11323,
+    "characterId1": 40,
+    "characterId2": 13
+  },
+  {
+    "id": 525,
+    "groupId": 11924,
+    "characterId1": 19,
+    "characterId2": 24
+  },
+  {
+    "id": 526,
+    "groupId": 11924,
+    "characterId1": 24,
+    "characterId2": 19
+  },
+  {
+    "id": 527,
+    "groupId": 11924,
+    "characterId1": 19,
+    "characterId2": 46
+  },
+  {
+    "id": 528,
+    "groupId": 11924,
+    "characterId1": 46,
+    "characterId2": 19
+  },
+  {
+    "id": 529,
+    "groupId": 10226,
+    "characterId1": 2,
+    "characterId2": 26
+  },
+  {
+    "id": 530,
+    "groupId": 10226,
+    "characterId1": 26,
+    "characterId2": 2
+  },
+  {
+    "id": 531,
+    "groupId": 10226,
+    "characterId1": 2,
+    "characterId2": 52
+  },
+  {
+    "id": 532,
+    "groupId": 10226,
+    "characterId1": 52,
+    "characterId2": 2
+  },
+  {
+    "id": 533,
+    "groupId": 10926,
+    "characterId1": 9,
+    "characterId2": 26
+  },
+  {
+    "id": 534,
+    "groupId": 10926,
+    "characterId1": 26,
+    "characterId2": 9
+  },
+  {
+    "id": 535,
+    "groupId": 10926,
+    "characterId1": 9,
+    "characterId2": 54
+  },
+  {
+    "id": 536,
+    "groupId": 10926,
+    "characterId1": 54,
+    "characterId2": 9
+  },
+  {
+    "id": 537,
+    "groupId": 11124,
+    "characterId1": 11,
+    "characterId2": 24
+  },
+  {
+    "id": 538,
+    "groupId": 11124,
+    "characterId1": 24,
+    "characterId2": 11
+  },
+  {
+    "id": 539,
+    "groupId": 11124,
+    "characterId1": 11,
+    "characterId2": 44
+  },
+  {
+    "id": 540,
+    "groupId": 11124,
+    "characterId1": 44,
+    "characterId2": 11
+  },
+  {
+    "id": 541,
+    "groupId": 11425,
+    "characterId1": 14,
+    "characterId2": 25
+  },
+  {
+    "id": 542,
+    "groupId": 11425,
+    "characterId1": 25,
+    "characterId2": 14
+  },
+  {
+    "id": 543,
+    "groupId": 11425,
+    "characterId1": 14,
+    "characterId2": 50
+  },
+  {
+    "id": 544,
+    "groupId": 11425,
+    "characterId1": 50,
+    "characterId2": 14
+  },
+  {
+    "id": 545,
+    "groupId": 10725,
+    "characterId1": 7,
+    "characterId2": 25
+  },
+  {
+    "id": 546,
+    "groupId": 10725,
+    "characterId1": 25,
+    "characterId2": 7
+  },
+  {
+    "id": 547,
+    "groupId": 10725,
+    "characterId1": 7,
+    "characterId2": 48
+  },
+  {
+    "id": 548,
+    "groupId": 10725,
+    "characterId1": 48,
+    "characterId2": 7
+  },
+  {
+    "id": 549,
+    "groupId": 10826,
+    "characterId1": 8,
+    "characterId2": 26
+  },
+  {
+    "id": 550,
+    "groupId": 10826,
+    "characterId1": 26,
+    "characterId2": 8
+  },
+  {
+    "id": 551,
+    "groupId": 10826,
+    "characterId1": 8,
+    "characterId2": 53
+  },
+  {
+    "id": 552,
+    "groupId": 10826,
+    "characterId1": 53,
+    "characterId2": 8
+  },
+  {
+    "id": 553,
+    "groupId": 11723,
+    "characterId1": 17,
+    "characterId2": 23
+  },
+  {
+    "id": 554,
+    "groupId": 11723,
+    "characterId1": 23,
+    "characterId2": 17
+  },
+  {
+    "id": 555,
+    "groupId": 11723,
+    "characterId1": 17,
+    "characterId2": 41
+  },
+  {
+    "id": 556,
+    "groupId": 11723,
+    "characterId1": 41,
+    "characterId2": 17
+  },
+  {
+    "id": 557,
+    "groupId": 12023,
+    "characterId1": 20,
+    "characterId2": 23
+  },
+  {
+    "id": 558,
+    "groupId": 12023,
+    "characterId1": 23,
+    "characterId2": 20
+  },
+  {
+    "id": 559,
+    "groupId": 12023,
+    "characterId1": 20,
+    "characterId2": 41
+  },
+  {
+    "id": 560,
+    "groupId": 12023,
+    "characterId1": 41,
+    "characterId2": 20
+  },
+  {
+    "id": 561,
+    "groupId": 10406,
+    "characterId1": 4,
+    "characterId2": 6
+  },
+  {
+    "id": 562,
+    "groupId": 10406,
+    "characterId1": 6,
+    "characterId2": 4
+  },
+  {
+    "id": 563,
+    "groupId": 10513,
+    "characterId1": 5,
+    "characterId2": 13
+  },
+  {
+    "id": 564,
+    "groupId": 10513,
+    "characterId1": 13,
+    "characterId2": 5
+  },
+  {
+    "id": 565,
+    "groupId": 10913,
+    "characterId1": 9,
+    "characterId2": 13
+  },
+  {
+    "id": 566,
+    "groupId": 10913,
+    "characterId1": 13,
+    "characterId2": 9
+  },
+  {
+    "id": 567,
+    "groupId": 11826,
+    "characterId1": 18,
+    "characterId2": 26
+  },
+  {
+    "id": 568,
+    "groupId": 11826,
+    "characterId1": 26,
+    "characterId2": 18
+  },
+  {
+    "id": 569,
+    "groupId": 11826,
+    "characterId1": 18,
+    "characterId2": 56
+  },
+  {
+    "id": 570,
+    "groupId": 11826,
+    "characterId1": 56,
+    "characterId2": 18
+  },
+  {
+    "id": 573,
+    "groupId": 10306,
+    "characterId1": 3,
+    "characterId2": 6
+  },
+  {
+    "id": 574,
+    "groupId": 10306,
+    "characterId1": 6,
+    "characterId2": 3
+  },
+  {
+    "id": 575,
+    "groupId": 10407,
+    "characterId1": 4,
+    "characterId2": 7
+  },
+  {
+    "id": 576,
+    "groupId": 10407,
+    "characterId1": 7,
+    "characterId2": 4
+  },
+  {
+    "id": 577,
+    "groupId": 11015,
+    "characterId1": 10,
+    "characterId2": 15
+  },
+  {
+    "id": 578,
+    "groupId": 11015,
+    "characterId1": 15,
+    "characterId2": 10
+  },
+  {
+    "id": 579,
+    "groupId": 11115,
+    "characterId1": 11,
+    "characterId2": 15
+  },
+  {
+    "id": 580,
+    "groupId": 11115,
+    "characterId1": 15,
+    "characterId2": 11
+  },
+  {
+    "id": 581,
+    "groupId": 11726,
+    "characterId1": 17,
+    "characterId2": 26
+  },
+  {
+    "id": 582,
+    "groupId": 11726,
+    "characterId1": 26,
+    "characterId2": 17
+  },
+  {
+    "id": 583,
+    "groupId": 11726,
+    "characterId1": 17,
+    "characterId2": 56
+  },
+  {
+    "id": 584,
+    "groupId": 11726,
+    "characterId1": 56,
+    "characterId2": 17
+  },
+  {
+    "id": 585,
+    "groupId": 10223,
+    "characterId1": 2,
+    "characterId2": 23
+  },
+  {
+    "id": 586,
+    "groupId": 10223,
+    "characterId1": 23,
+    "characterId2": 2
+  },
+  {
+    "id": 587,
+    "groupId": 10223,
+    "characterId1": 2,
+    "characterId2": 37
+  },
+  {
+    "id": 588,
+    "groupId": 10223,
+    "characterId1": 37,
+    "characterId2": 2
+  },
+  {
+    "id": 589,
+    "groupId": 10523,
+    "characterId1": 5,
+    "characterId2": 23
+  },
+  {
+    "id": 590,
+    "groupId": 10523,
+    "characterId1": 23,
+    "characterId2": 5
+  },
+  {
+    "id": 591,
+    "groupId": 10523,
+    "characterId1": 5,
+    "characterId2": 38
+  },
+  {
+    "id": 592,
+    "groupId": 10523,
+    "characterId1": 38,
+    "characterId2": 5
+  },
+  {
+    "id": 597,
+    "groupId": 11625,
+    "characterId1": 16,
+    "characterId2": 25
+  },
+  {
+    "id": 598,
+    "groupId": 11625,
+    "characterId1": 25,
+    "characterId2": 16
+  },
+  {
+    "id": 599,
+    "groupId": 11625,
+    "characterId1": 16,
+    "characterId2": 50
+  },
+  {
+    "id": 600,
+    "groupId": 11625,
+    "characterId1": 50,
+    "characterId2": 16
+  },
+  {
+    "id": 601,
+    "groupId": 10119,
+    "characterId1": 1,
+    "characterId2": 19
+  },
+  {
+    "id": 602,
+    "groupId": 10119,
+    "characterId1": 19,
+    "characterId2": 1
+  },
+  {
+    "id": 603,
+    "groupId": 11114,
+    "characterId1": 11,
+    "characterId2": 14
+  },
+  {
+    "id": 604,
+    "groupId": 11114,
+    "characterId1": 14,
+    "characterId2": 11
+  },
+  {
+    "id": 605,
+    "groupId": 11214,
+    "characterId1": 12,
+    "characterId2": 14
+  },
+  {
+    "id": 606,
+    "groupId": 11214,
+    "characterId1": 14,
+    "characterId2": 12
+  },
+  {
+    "id": 607,
+    "groupId": 10305,
+    "characterId1": 3,
+    "characterId2": 5
+  },
+  {
+    "id": 608,
+    "groupId": 10305,
+    "characterId1": 5,
+    "characterId2": 3
+  },
+  {
+    "id": 609,
+    "groupId": 11016,
+    "characterId1": 10,
+    "characterId2": 16
+  },
+  {
+    "id": 610,
+    "groupId": 11016,
+    "characterId1": 16,
+    "characterId2": 10
+  },
+  {
+    "id": 611,
+    "groupId": 11618,
+    "characterId1": 16,
+    "characterId2": 18
+  },
+  {
+    "id": 612,
+    "groupId": 11618,
+    "characterId1": 18,
+    "characterId2": 16
+  },
+  {
+    "id": 619,
+    "groupId": 10623,
+    "characterId1": 6,
+    "characterId2": 23
+  },
+  {
+    "id": 620,
+    "groupId": 10623,
+    "characterId1": 23,
+    "characterId2": 6
+  },
+  {
+    "id": 621,
+    "groupId": 10623,
+    "characterId1": 6,
+    "characterId2": 38
+  },
+  {
+    "id": 622,
+    "groupId": 10623,
+    "characterId1": 38,
+    "characterId2": 6
+  },
+  {
+    "id": 623,
+    "groupId": 10318,
+    "characterId1": 3,
+    "characterId2": 18
+  },
+  {
+    "id": 624,
+    "groupId": 10318,
+    "characterId1": 18,
+    "characterId2": 3
+  },
+  {
+    "id": 625,
+    "groupId": 10220,
+    "characterId1": 2,
+    "characterId2": 20
+  },
+  {
+    "id": 626,
+    "groupId": 10220,
+    "characterId1": 20,
+    "characterId2": 2
+  },
+  {
+    "id": 627,
+    "groupId": 10123,
+    "characterId1": 1,
+    "characterId2": 23
+  },
+  {
+    "id": 628,
+    "groupId": 10123,
+    "characterId1": 23,
+    "characterId2": 1
+  },
+  {
+    "id": 629,
+    "groupId": 10123,
+    "characterId1": 1,
+    "characterId2": 37
+  },
+  {
+    "id": 630,
+    "groupId": 10123,
+    "characterId1": 37,
+    "characterId2": 1
+  },
+  {
+    "id": 631,
+    "groupId": 10125,
+    "characterId1": 1,
+    "characterId2": 25
+  },
+  {
+    "id": 632,
+    "groupId": 10125,
+    "characterId1": 25,
+    "characterId2": 1
+  },
+  {
+    "id": 633,
+    "groupId": 10125,
+    "characterId1": 1,
+    "characterId2": 47
+  },
+  {
+    "id": 634,
+    "groupId": 10125,
+    "characterId1": 47,
+    "characterId2": 1
+  },
+  {
+    "id": 635,
+    "groupId": 10225,
+    "characterId1": 2,
+    "characterId2": 25
+  },
+  {
+    "id": 636,
+    "groupId": 10225,
+    "characterId1": 25,
+    "characterId2": 2
+  },
+  {
+    "id": 637,
+    "groupId": 10225,
+    "characterId1": 2,
+    "characterId2": 47
+  },
+  {
+    "id": 638,
+    "groupId": 10225,
+    "characterId1": 47,
+    "characterId2": 2
+  },
+  {
+    "id": 643,
+    "groupId": 10322,
+    "characterId1": 3,
+    "characterId2": 22
+  },
+  {
+    "id": 644,
+    "groupId": 10322,
+    "characterId1": 22,
+    "characterId2": 3
+  },
+  {
+    "id": 645,
+    "groupId": 10322,
+    "characterId1": 3,
+    "characterId2": 32
+  },
+  {
+    "id": 646,
+    "groupId": 10322,
+    "characterId1": 32,
+    "characterId2": 3
+  },
+  {
+    "id": 647,
+    "groupId": 10326,
+    "characterId1": 3,
+    "characterId2": 26
+  },
+  {
+    "id": 648,
+    "groupId": 10326,
+    "characterId1": 26,
+    "characterId2": 3
+  },
+  {
+    "id": 649,
+    "groupId": 10326,
+    "characterId1": 3,
+    "characterId2": 52
+  },
+  {
+    "id": 650,
+    "groupId": 10326,
+    "characterId1": 52,
+    "characterId2": 3
+  },
+  {
+    "id": 651,
+    "groupId": 10423,
+    "characterId1": 4,
+    "characterId2": 23
+  },
+  {
+    "id": 652,
+    "groupId": 10423,
+    "characterId1": 23,
+    "characterId2": 4
+  },
+  {
+    "id": 653,
+    "groupId": 10423,
+    "characterId1": 4,
+    "characterId2": 37
+  },
+  {
+    "id": 654,
+    "groupId": 10423,
+    "characterId1": 37,
+    "characterId2": 4
+  },
+  {
+    "id": 655,
+    "groupId": 10525,
+    "characterId1": 5,
+    "characterId2": 25
+  },
+  {
+    "id": 656,
+    "groupId": 10525,
+    "characterId1": 25,
+    "characterId2": 5
+  },
+  {
+    "id": 657,
+    "groupId": 10525,
+    "characterId1": 5,
+    "characterId2": 48
+  },
+  {
+    "id": 658,
+    "groupId": 10525,
+    "characterId1": 48,
+    "characterId2": 5
+  },
+  {
+    "id": 659,
+    "groupId": 10624,
+    "characterId1": 6,
+    "characterId2": 24
+  },
+  {
+    "id": 660,
+    "groupId": 10624,
+    "characterId1": 24,
+    "characterId2": 6
+  },
+  {
+    "id": 661,
+    "groupId": 10624,
+    "characterId1": 6,
+    "characterId2": 43
+  },
+  {
+    "id": 662,
+    "groupId": 10624,
+    "characterId1": 43,
+    "characterId2": 6
+  },
+  {
+    "id": 663,
+    "groupId": 10724,
+    "characterId1": 7,
+    "characterId2": 24
+  },
+  {
+    "id": 664,
+    "groupId": 10724,
+    "characterId1": 24,
+    "characterId2": 7
+  },
+  {
+    "id": 665,
+    "groupId": 10724,
+    "characterId1": 7,
+    "characterId2": 43
+  },
+  {
+    "id": 666,
+    "groupId": 10724,
+    "characterId1": 43,
+    "characterId2": 7
+  },
+  {
+    "id": 667,
+    "groupId": 10726,
+    "characterId1": 7,
+    "characterId2": 26
+  },
+  {
+    "id": 668,
+    "groupId": 10726,
+    "characterId1": 26,
+    "characterId2": 7
+  },
+  {
+    "id": 669,
+    "groupId": 10726,
+    "characterId1": 7,
+    "characterId2": 53
+  },
+  {
+    "id": 670,
+    "groupId": 10726,
+    "characterId1": 53,
+    "characterId2": 7
+  },
+  {
+    "id": 671,
+    "groupId": 10823,
+    "characterId1": 8,
+    "characterId2": 23
+  },
+  {
+    "id": 672,
+    "groupId": 10823,
+    "characterId1": 23,
+    "characterId2": 8
+  },
+  {
+    "id": 673,
+    "groupId": 10823,
+    "characterId1": 8,
+    "characterId2": 38
+  },
+  {
+    "id": 674,
+    "groupId": 10823,
+    "characterId1": 38,
+    "characterId2": 8
+  },
+  {
+    "id": 675,
+    "groupId": 10825,
+    "characterId1": 8,
+    "characterId2": 25
+  },
+  {
+    "id": 676,
+    "groupId": 10825,
+    "characterId1": 25,
+    "characterId2": 8
+  },
+  {
+    "id": 677,
+    "groupId": 10825,
+    "characterId1": 8,
+    "characterId2": 48
+  },
+  {
+    "id": 678,
+    "groupId": 10825,
+    "characterId1": 48,
+    "characterId2": 8
+  },
+  {
+    "id": 679,
+    "groupId": 11026,
+    "characterId1": 10,
+    "characterId2": 26
+  },
+  {
+    "id": 680,
+    "groupId": 11026,
+    "characterId1": 26,
+    "characterId2": 10
+  },
+  {
+    "id": 681,
+    "groupId": 11026,
+    "characterId1": 10,
+    "characterId2": 54
+  },
+  {
+    "id": 682,
+    "groupId": 11026,
+    "characterId1": 54,
+    "characterId2": 10
+  },
+  {
+    "id": 683,
+    "groupId": 11322,
+    "characterId1": 13,
+    "characterId2": 22
+  },
+  {
+    "id": 684,
+    "groupId": 11322,
+    "characterId1": 22,
+    "characterId2": 13
+  },
+  {
+    "id": 685,
+    "groupId": 11322,
+    "characterId1": 13,
+    "characterId2": 35
+  },
+  {
+    "id": 686,
+    "groupId": 11322,
+    "characterId1": 35,
+    "characterId2": 13
+  },
+  {
+    "id": 687,
+    "groupId": 11325,
+    "characterId1": 13,
+    "characterId2": 25
+  },
+  {
+    "id": 688,
+    "groupId": 11325,
+    "characterId1": 25,
+    "characterId2": 13
+  },
+  {
+    "id": 689,
+    "groupId": 11325,
+    "characterId1": 13,
+    "characterId2": 50
+  },
+  {
+    "id": 690,
+    "groupId": 11325,
+    "characterId1": 50,
+    "characterId2": 13
+  },
+  {
+    "id": 691,
+    "groupId": 11422,
+    "characterId1": 14,
+    "characterId2": 22
+  },
+  {
+    "id": 692,
+    "groupId": 11422,
+    "characterId1": 22,
+    "characterId2": 14
+  },
+  {
+    "id": 693,
+    "groupId": 11422,
+    "characterId1": 14,
+    "characterId2": 35
+  },
+  {
+    "id": 694,
+    "groupId": 11422,
+    "characterId1": 35,
+    "characterId2": 14
+  },
+  {
+    "id": 695,
+    "groupId": 11424,
+    "characterId1": 14,
+    "characterId2": 24
+  },
+  {
+    "id": 696,
+    "groupId": 11424,
+    "characterId1": 24,
+    "characterId2": 14
+  },
+  {
+    "id": 697,
+    "groupId": 11424,
+    "characterId1": 14,
+    "characterId2": 45
+  },
+  {
+    "id": 698,
+    "groupId": 11424,
+    "characterId1": 45,
+    "characterId2": 14
+  },
+  {
+    "id": 699,
+    "groupId": 11523,
+    "characterId1": 15,
+    "characterId2": 23
+  },
+  {
+    "id": 700,
+    "groupId": 11523,
+    "characterId1": 23,
+    "characterId2": 15
+  },
+  {
+    "id": 701,
+    "groupId": 11523,
+    "characterId1": 15,
+    "characterId2": 40
+  },
+  {
+    "id": 702,
+    "groupId": 11523,
+    "characterId1": 40,
+    "characterId2": 15
+  },
+  {
+    "id": 703,
+    "groupId": 11622,
+    "characterId1": 16,
+    "characterId2": 22
+  },
+  {
+    "id": 704,
+    "groupId": 11622,
+    "characterId1": 22,
+    "characterId2": 16
+  },
+  {
+    "id": 705,
+    "groupId": 11622,
+    "characterId1": 16,
+    "characterId2": 35
+  },
+  {
+    "id": 706,
+    "groupId": 11622,
+    "characterId1": 35,
+    "characterId2": 16
+  },
+  {
+    "id": 707,
+    "groupId": 11725,
+    "characterId1": 17,
+    "characterId2": 25
+  },
+  {
+    "id": 708,
+    "groupId": 11725,
+    "characterId1": 25,
+    "characterId2": 17
+  },
+  {
+    "id": 709,
+    "groupId": 11725,
+    "characterId1": 17,
+    "characterId2": 51
+  },
+  {
+    "id": 710,
+    "groupId": 11725,
+    "characterId1": 51,
+    "characterId2": 17
+  },
+  {
+    "id": 711,
+    "groupId": 11825,
+    "characterId1": 18,
+    "characterId2": 25
+  },
+  {
+    "id": 712,
+    "groupId": 11825,
+    "characterId1": 25,
+    "characterId2": 18
+  },
+  {
+    "id": 713,
+    "groupId": 11825,
+    "characterId1": 18,
+    "characterId2": 51
+  },
+  {
+    "id": 714,
+    "groupId": 11825,
+    "characterId1": 51,
+    "characterId2": 18
+  },
+  {
+    "id": 715,
+    "groupId": 11923,
+    "characterId1": 19,
+    "characterId2": 23
+  },
+  {
+    "id": 716,
+    "groupId": 11923,
+    "characterId1": 23,
+    "characterId2": 19
+  },
+  {
+    "id": 717,
+    "groupId": 11923,
+    "characterId1": 19,
+    "characterId2": 41
+  },
+  {
+    "id": 718,
+    "groupId": 11923,
+    "characterId1": 41,
+    "characterId2": 19
+  },
+  {
+    "id": 719,
+    "groupId": 11926,
+    "characterId1": 19,
+    "characterId2": 26
+  },
+  {
+    "id": 720,
+    "groupId": 11926,
+    "characterId1": 26,
+    "characterId2": 19
+  },
+  {
+    "id": 721,
+    "groupId": 11926,
+    "characterId1": 19,
+    "characterId2": 56
+  },
+  {
+    "id": 722,
+    "groupId": 11926,
+    "characterId1": 56,
+    "characterId2": 19
+  },
+  {
+    "id": 723,
+    "groupId": 12026,
+    "characterId1": 20,
+    "characterId2": 26
+  },
+  {
+    "id": 724,
+    "groupId": 12026,
+    "characterId1": 26,
+    "characterId2": 20
+  },
+  {
+    "id": 725,
+    "groupId": 12026,
+    "characterId1": 20,
+    "characterId2": 56
+  },
+  {
+    "id": 726,
+    "groupId": 12026,
+    "characterId1": 56,
+    "characterId2": 20
+  },
+  {
+    "id": 727,
+    "groupId": 10107,
+    "characterId1": 1,
+    "characterId2": 7
+  },
+  {
+    "id": 728,
+    "groupId": 10107,
+    "characterId1": 7,
+    "characterId2": 1
+  },
+  {
+    "id": 729,
+    "groupId": 10110,
+    "characterId1": 1,
+    "characterId2": 10
+  },
+  {
+    "id": 730,
+    "groupId": 10110,
+    "characterId1": 10,
+    "characterId2": 1
+  },
+  {
+    "id": 731,
+    "groupId": 10111,
+    "characterId1": 1,
+    "characterId2": 11
+  },
+  {
+    "id": 732,
+    "groupId": 10111,
+    "characterId1": 11,
+    "characterId2": 1
+  },
+  {
+    "id": 733,
+    "groupId": 10112,
+    "characterId1": 1,
+    "characterId2": 12
+  },
+  {
+    "id": 734,
+    "groupId": 10112,
+    "characterId1": 12,
+    "characterId2": 1
+  },
+  {
+    "id": 735,
+    "groupId": 10114,
+    "characterId1": 1,
+    "characterId2": 14
+  },
+  {
+    "id": 736,
+    "groupId": 10114,
+    "characterId1": 14,
+    "characterId2": 1
+  },
+  {
+    "id": 737,
+    "groupId": 10116,
+    "characterId1": 1,
+    "characterId2": 16
+  },
+  {
+    "id": 738,
+    "groupId": 10116,
+    "characterId1": 16,
+    "characterId2": 1
+  },
+  {
+    "id": 739,
+    "groupId": 10120,
+    "characterId1": 1,
+    "characterId2": 20
+  },
+  {
+    "id": 740,
+    "groupId": 10120,
+    "characterId1": 20,
+    "characterId2": 1
+  },
+  {
+    "id": 741,
+    "groupId": 10209,
+    "characterId1": 2,
+    "characterId2": 9
+  },
+  {
+    "id": 742,
+    "groupId": 10209,
+    "characterId1": 9,
+    "characterId2": 2
+  },
+  {
+    "id": 743,
+    "groupId": 10210,
+    "characterId1": 2,
+    "characterId2": 10
+  },
+  {
+    "id": 744,
+    "groupId": 10210,
+    "characterId1": 10,
+    "characterId2": 2
+  },
+  {
+    "id": 745,
+    "groupId": 10211,
+    "characterId1": 2,
+    "characterId2": 11
+  },
+  {
+    "id": 746,
+    "groupId": 10211,
+    "characterId1": 11,
+    "characterId2": 2
+  },
+  {
+    "id": 747,
+    "groupId": 10215,
+    "characterId1": 2,
+    "characterId2": 15
+  },
+  {
+    "id": 748,
+    "groupId": 10215,
+    "characterId1": 15,
+    "characterId2": 2
+  },
+  {
+    "id": 749,
+    "groupId": 10216,
+    "characterId1": 2,
+    "characterId2": 16
+  },
+  {
+    "id": 750,
+    "groupId": 10216,
+    "characterId1": 16,
+    "characterId2": 2
+  },
+  {
+    "id": 751,
+    "groupId": 10217,
+    "characterId1": 2,
+    "characterId2": 17
+  },
+  {
+    "id": 752,
+    "groupId": 10217,
+    "characterId1": 17,
+    "characterId2": 2
+  },
+  {
+    "id": 753,
+    "groupId": 10218,
+    "characterId1": 2,
+    "characterId2": 18
+  },
+  {
+    "id": 754,
+    "groupId": 10218,
+    "characterId1": 18,
+    "characterId2": 2
+  },
+  {
+    "id": 755,
+    "groupId": 10219,
+    "characterId1": 2,
+    "characterId2": 19
+  },
+  {
+    "id": 756,
+    "groupId": 10219,
+    "characterId1": 19,
+    "characterId2": 2
+  },
+  {
+    "id": 757,
+    "groupId": 10307,
+    "characterId1": 3,
+    "characterId2": 7
+  },
+  {
+    "id": 758,
+    "groupId": 10307,
+    "characterId1": 7,
+    "characterId2": 3
+  },
+  {
+    "id": 759,
+    "groupId": 10309,
+    "characterId1": 3,
+    "characterId2": 9
+  },
+  {
+    "id": 760,
+    "groupId": 10309,
+    "characterId1": 9,
+    "characterId2": 3
+  },
+  {
+    "id": 761,
+    "groupId": 10310,
+    "characterId1": 3,
+    "characterId2": 10
+  },
+  {
+    "id": 762,
+    "groupId": 10310,
+    "characterId1": 10,
+    "characterId2": 3
+  },
+  {
+    "id": 763,
+    "groupId": 10311,
+    "characterId1": 3,
+    "characterId2": 11
+  },
+  {
+    "id": 764,
+    "groupId": 10311,
+    "characterId1": 11,
+    "characterId2": 3
+  },
+  {
+    "id": 765,
+    "groupId": 10312,
+    "characterId1": 3,
+    "characterId2": 12
+  },
+  {
+    "id": 766,
+    "groupId": 10312,
+    "characterId1": 12,
+    "characterId2": 3
+  },
+  {
+    "id": 767,
+    "groupId": 10315,
+    "characterId1": 3,
+    "characterId2": 15
+  },
+  {
+    "id": 768,
+    "groupId": 10315,
+    "characterId1": 15,
+    "characterId2": 3
+  },
+  {
+    "id": 769,
+    "groupId": 10316,
+    "characterId1": 3,
+    "characterId2": 16
+  },
+  {
+    "id": 770,
+    "groupId": 10316,
+    "characterId1": 16,
+    "characterId2": 3
+  },
+  {
+    "id": 771,
+    "groupId": 10320,
+    "characterId1": 3,
+    "characterId2": 20
+  },
+  {
+    "id": 772,
+    "groupId": 10320,
+    "characterId1": 20,
+    "characterId2": 3
+  },
+  {
+    "id": 773,
+    "groupId": 10410,
+    "characterId1": 4,
+    "characterId2": 10
+  },
+  {
+    "id": 774,
+    "groupId": 10410,
+    "characterId1": 10,
+    "characterId2": 4
+  },
+  {
+    "id": 775,
+    "groupId": 10411,
+    "characterId1": 4,
+    "characterId2": 11
+  },
+  {
+    "id": 776,
+    "groupId": 10411,
+    "characterId1": 11,
+    "characterId2": 4
+  },
+  {
+    "id": 777,
+    "groupId": 10412,
+    "characterId1": 4,
+    "characterId2": 12
+  },
+  {
+    "id": 778,
+    "groupId": 10412,
+    "characterId1": 12,
+    "characterId2": 4
+  },
+  {
+    "id": 779,
+    "groupId": 10414,
+    "characterId1": 4,
+    "characterId2": 14
+  },
+  {
+    "id": 780,
+    "groupId": 10414,
+    "characterId1": 14,
+    "characterId2": 4
+  },
+  {
+    "id": 781,
+    "groupId": 10415,
+    "characterId1": 4,
+    "characterId2": 15
+  },
+  {
+    "id": 782,
+    "groupId": 10415,
+    "characterId1": 15,
+    "characterId2": 4
+  },
+  {
+    "id": 783,
+    "groupId": 10416,
+    "characterId1": 4,
+    "characterId2": 16
+  },
+  {
+    "id": 784,
+    "groupId": 10416,
+    "characterId1": 16,
+    "characterId2": 4
+  },
+  {
+    "id": 785,
+    "groupId": 10417,
+    "characterId1": 4,
+    "characterId2": 17
+  },
+  {
+    "id": 786,
+    "groupId": 10417,
+    "characterId1": 17,
+    "characterId2": 4
+  },
+  {
+    "id": 787,
+    "groupId": 10418,
+    "characterId1": 4,
+    "characterId2": 18
+  },
+  {
+    "id": 788,
+    "groupId": 10418,
+    "characterId1": 18,
+    "characterId2": 4
+  },
+  {
+    "id": 789,
+    "groupId": 10419,
+    "characterId1": 4,
+    "characterId2": 19
+  },
+  {
+    "id": 790,
+    "groupId": 10419,
+    "characterId1": 19,
+    "characterId2": 4
+  },
+  {
+    "id": 791,
+    "groupId": 10420,
+    "characterId1": 4,
+    "characterId2": 20
+  },
+  {
+    "id": 792,
+    "groupId": 10420,
+    "characterId1": 20,
+    "characterId2": 4
+  },
+  {
+    "id": 793,
+    "groupId": 10511,
+    "characterId1": 5,
+    "characterId2": 11
+  },
+  {
+    "id": 794,
+    "groupId": 10511,
+    "characterId1": 11,
+    "characterId2": 5
+  },
+  {
+    "id": 795,
+    "groupId": 10512,
+    "characterId1": 5,
+    "characterId2": 12
+  },
+  {
+    "id": 796,
+    "groupId": 10512,
+    "characterId1": 12,
+    "characterId2": 5
+  },
+  {
+    "id": 797,
+    "groupId": 10514,
+    "characterId1": 5,
+    "characterId2": 14
+  },
+  {
+    "id": 798,
+    "groupId": 10514,
+    "characterId1": 14,
+    "characterId2": 5
+  },
+  {
+    "id": 799,
+    "groupId": 10515,
+    "characterId1": 5,
+    "characterId2": 15
+  },
+  {
+    "id": 800,
+    "groupId": 10515,
+    "characterId1": 15,
+    "characterId2": 5
+  },
+  {
+    "id": 801,
+    "groupId": 10516,
+    "characterId1": 5,
+    "characterId2": 16
+  },
+  {
+    "id": 802,
+    "groupId": 10516,
+    "characterId1": 16,
+    "characterId2": 5
+  },
+  {
+    "id": 803,
+    "groupId": 10518,
+    "characterId1": 5,
+    "characterId2": 18
+  },
+  {
+    "id": 804,
+    "groupId": 10518,
+    "characterId1": 18,
+    "characterId2": 5
+  },
+  {
+    "id": 805,
+    "groupId": 10519,
+    "characterId1": 5,
+    "characterId2": 19
+  },
+  {
+    "id": 806,
+    "groupId": 10519,
+    "characterId1": 19,
+    "characterId2": 5
+  },
+  {
+    "id": 807,
+    "groupId": 10520,
+    "characterId1": 5,
+    "characterId2": 20
+  },
+  {
+    "id": 808,
+    "groupId": 10520,
+    "characterId1": 20,
+    "characterId2": 5
+  },
+  {
+    "id": 809,
+    "groupId": 10611,
+    "characterId1": 6,
+    "characterId2": 11
+  },
+  {
+    "id": 810,
+    "groupId": 10611,
+    "characterId1": 11,
+    "characterId2": 6
+  },
+  {
+    "id": 811,
+    "groupId": 10612,
+    "characterId1": 6,
+    "characterId2": 12
+  },
+  {
+    "id": 812,
+    "groupId": 10612,
+    "characterId1": 12,
+    "characterId2": 6
+  },
+  {
+    "id": 813,
+    "groupId": 10613,
+    "characterId1": 6,
+    "characterId2": 13
+  },
+  {
+    "id": 814,
+    "groupId": 10613,
+    "characterId1": 13,
+    "characterId2": 6
+  },
+  {
+    "id": 815,
+    "groupId": 10615,
+    "characterId1": 6,
+    "characterId2": 15
+  },
+  {
+    "id": 816,
+    "groupId": 10615,
+    "characterId1": 15,
+    "characterId2": 6
+  },
+  {
+    "id": 817,
+    "groupId": 10616,
+    "characterId1": 6,
+    "characterId2": 16
+  },
+  {
+    "id": 818,
+    "groupId": 10616,
+    "characterId1": 16,
+    "characterId2": 6
+  },
+  {
+    "id": 819,
+    "groupId": 10617,
+    "characterId1": 6,
+    "characterId2": 17
+  },
+  {
+    "id": 820,
+    "groupId": 10617,
+    "characterId1": 17,
+    "characterId2": 6
+  },
+  {
+    "id": 821,
+    "groupId": 10618,
+    "characterId1": 6,
+    "characterId2": 18
+  },
+  {
+    "id": 822,
+    "groupId": 10618,
+    "characterId1": 18,
+    "characterId2": 6
+  },
+  {
+    "id": 823,
+    "groupId": 10619,
+    "characterId1": 6,
+    "characterId2": 19
+  },
+  {
+    "id": 824,
+    "groupId": 10619,
+    "characterId1": 19,
+    "characterId2": 6
+  },
+  {
+    "id": 825,
+    "groupId": 10620,
+    "characterId1": 6,
+    "characterId2": 20
+  },
+  {
+    "id": 826,
+    "groupId": 10620,
+    "characterId1": 20,
+    "characterId2": 6
+  },
+  {
+    "id": 827,
+    "groupId": 10712,
+    "characterId1": 7,
+    "characterId2": 12
+  },
+  {
+    "id": 828,
+    "groupId": 10712,
+    "characterId1": 12,
+    "characterId2": 7
+  },
+  {
+    "id": 829,
+    "groupId": 10713,
+    "characterId1": 7,
+    "characterId2": 13
+  },
+  {
+    "id": 830,
+    "groupId": 10713,
+    "characterId1": 13,
+    "characterId2": 7
+  },
+  {
+    "id": 831,
+    "groupId": 10715,
+    "characterId1": 7,
+    "characterId2": 15
+  },
+  {
+    "id": 832,
+    "groupId": 10715,
+    "characterId1": 15,
+    "characterId2": 7
+  },
+  {
+    "id": 833,
+    "groupId": 10716,
+    "characterId1": 7,
+    "characterId2": 16
+  },
+  {
+    "id": 834,
+    "groupId": 10716,
+    "characterId1": 16,
+    "characterId2": 7
+  },
+  {
+    "id": 835,
+    "groupId": 10717,
+    "characterId1": 7,
+    "characterId2": 17
+  },
+  {
+    "id": 836,
+    "groupId": 10717,
+    "characterId1": 17,
+    "characterId2": 7
+  },
+  {
+    "id": 837,
+    "groupId": 10718,
+    "characterId1": 7,
+    "characterId2": 18
+  },
+  {
+    "id": 838,
+    "groupId": 10718,
+    "characterId1": 18,
+    "characterId2": 7
+  },
+  {
+    "id": 839,
+    "groupId": 10811,
+    "characterId1": 8,
+    "characterId2": 11
+  },
+  {
+    "id": 840,
+    "groupId": 10811,
+    "characterId1": 11,
+    "characterId2": 8
+  },
+  {
+    "id": 841,
+    "groupId": 10812,
+    "characterId1": 8,
+    "characterId2": 12
+  },
+  {
+    "id": 842,
+    "groupId": 10812,
+    "characterId1": 12,
+    "characterId2": 8
+  },
+  {
+    "id": 843,
+    "groupId": 10814,
+    "characterId1": 8,
+    "characterId2": 14
+  },
+  {
+    "id": 844,
+    "groupId": 10814,
+    "characterId1": 14,
+    "characterId2": 8
+  },
+  {
+    "id": 845,
+    "groupId": 10815,
+    "characterId1": 8,
+    "characterId2": 15
+  },
+  {
+    "id": 846,
+    "groupId": 10815,
+    "characterId1": 15,
+    "characterId2": 8
+  },
+  {
+    "id": 847,
+    "groupId": 10816,
+    "characterId1": 8,
+    "characterId2": 16
+  },
+  {
+    "id": 848,
+    "groupId": 10816,
+    "characterId1": 16,
+    "characterId2": 8
+  },
+  {
+    "id": 849,
+    "groupId": 10817,
+    "characterId1": 8,
+    "characterId2": 17
+  },
+  {
+    "id": 850,
+    "groupId": 10817,
+    "characterId1": 17,
+    "characterId2": 8
+  },
+  {
+    "id": 851,
+    "groupId": 10914,
+    "characterId1": 9,
+    "characterId2": 14
+  },
+  {
+    "id": 852,
+    "groupId": 10914,
+    "characterId1": 14,
+    "characterId2": 9
+  },
+  {
+    "id": 853,
+    "groupId": 10915,
+    "characterId1": 9,
+    "characterId2": 15
+  },
+  {
+    "id": 854,
+    "groupId": 10915,
+    "characterId1": 15,
+    "characterId2": 9
+  },
+  {
+    "id": 855,
+    "groupId": 10916,
+    "characterId1": 9,
+    "characterId2": 16
+  },
+  {
+    "id": 856,
+    "groupId": 10916,
+    "characterId1": 16,
+    "characterId2": 9
+  },
+  {
+    "id": 857,
+    "groupId": 10917,
+    "characterId1": 9,
+    "characterId2": 17
+  },
+  {
+    "id": 858,
+    "groupId": 10917,
+    "characterId1": 17,
+    "characterId2": 9
+  },
+  {
+    "id": 859,
+    "groupId": 10918,
+    "characterId1": 9,
+    "characterId2": 18
+  },
+  {
+    "id": 860,
+    "groupId": 10918,
+    "characterId1": 18,
+    "characterId2": 9
+  },
+  {
+    "id": 861,
+    "groupId": 10919,
+    "characterId1": 9,
+    "characterId2": 19
+  },
+  {
+    "id": 862,
+    "groupId": 10919,
+    "characterId1": 19,
+    "characterId2": 9
+  },
+  {
+    "id": 863,
+    "groupId": 10920,
+    "characterId1": 9,
+    "characterId2": 20
+  },
+  {
+    "id": 864,
+    "groupId": 10920,
+    "characterId1": 20,
+    "characterId2": 9
+  },
+  {
+    "id": 865,
+    "groupId": 11013,
+    "characterId1": 10,
+    "characterId2": 13
+  },
+  {
+    "id": 866,
+    "groupId": 11013,
+    "characterId1": 13,
+    "characterId2": 10
+  },
+  {
+    "id": 867,
+    "groupId": 11014,
+    "characterId1": 10,
+    "characterId2": 14
+  },
+  {
+    "id": 868,
+    "groupId": 11014,
+    "characterId1": 14,
+    "characterId2": 10
+  },
+  {
+    "id": 869,
+    "groupId": 11017,
+    "characterId1": 10,
+    "characterId2": 17
+  },
+  {
+    "id": 870,
+    "groupId": 11017,
+    "characterId1": 17,
+    "characterId2": 10
+  },
+  {
+    "id": 871,
+    "groupId": 11018,
+    "characterId1": 10,
+    "characterId2": 18
+  },
+  {
+    "id": 872,
+    "groupId": 11018,
+    "characterId1": 18,
+    "characterId2": 10
+  },
+  {
+    "id": 873,
+    "groupId": 11019,
+    "characterId1": 10,
+    "characterId2": 19
+  },
+  {
+    "id": 874,
+    "groupId": 11019,
+    "characterId1": 19,
+    "characterId2": 10
+  },
+  {
+    "id": 875,
+    "groupId": 11117,
+    "characterId1": 11,
+    "characterId2": 17
+  },
+  {
+    "id": 876,
+    "groupId": 11117,
+    "characterId1": 17,
+    "characterId2": 11
+  },
+  {
+    "id": 877,
+    "groupId": 11118,
+    "characterId1": 11,
+    "characterId2": 18
+  },
+  {
+    "id": 878,
+    "groupId": 11118,
+    "characterId1": 18,
+    "characterId2": 11
+  },
+  {
+    "id": 879,
+    "groupId": 11217,
+    "characterId1": 12,
+    "characterId2": 17
+  },
+  {
+    "id": 880,
+    "groupId": 11217,
+    "characterId1": 17,
+    "characterId2": 12
+  },
+  {
+    "id": 881,
+    "groupId": 11218,
+    "characterId1": 12,
+    "characterId2": 18
+  },
+  {
+    "id": 882,
+    "groupId": 11218,
+    "characterId1": 18,
+    "characterId2": 12
+  },
+  {
+    "id": 883,
+    "groupId": 11219,
+    "characterId1": 12,
+    "characterId2": 19
+  },
+  {
+    "id": 884,
+    "groupId": 11219,
+    "characterId1": 19,
+    "characterId2": 12
+  },
+  {
+    "id": 885,
+    "groupId": 11317,
+    "characterId1": 13,
+    "characterId2": 17
+  },
+  {
+    "id": 886,
+    "groupId": 11317,
+    "characterId1": 17,
+    "characterId2": 13
+  },
+  {
+    "id": 887,
+    "groupId": 11318,
+    "characterId1": 13,
+    "characterId2": 18
+  },
+  {
+    "id": 888,
+    "groupId": 11318,
+    "characterId1": 18,
+    "characterId2": 13
+  },
+  {
+    "id": 889,
+    "groupId": 11319,
+    "characterId1": 13,
+    "characterId2": 19
+  },
+  {
+    "id": 890,
+    "groupId": 11319,
+    "characterId1": 19,
+    "characterId2": 13
+  },
+  {
+    "id": 891,
+    "groupId": 11417,
+    "characterId1": 14,
+    "characterId2": 17
+  },
+  {
+    "id": 892,
+    "groupId": 11417,
+    "characterId1": 17,
+    "characterId2": 14
+  },
+  {
+    "id": 893,
+    "groupId": 11420,
+    "characterId1": 14,
+    "characterId2": 20
+  },
+  {
+    "id": 894,
+    "groupId": 11420,
+    "characterId1": 20,
+    "characterId2": 14
+  },
+  {
+    "id": 895,
+    "groupId": 11517,
+    "characterId1": 15,
+    "characterId2": 17
+  },
+  {
+    "id": 896,
+    "groupId": 11517,
+    "characterId1": 17,
+    "characterId2": 15
+  },
+  {
+    "id": 897,
+    "groupId": 11518,
+    "characterId1": 15,
+    "characterId2": 18
+  },
+  {
+    "id": 898,
+    "groupId": 11518,
+    "characterId1": 18,
+    "characterId2": 15
+  },
+  {
+    "id": 899,
+    "groupId": 11519,
+    "characterId1": 15,
+    "characterId2": 19
+  },
+  {
+    "id": 900,
+    "groupId": 11519,
+    "characterId1": 19,
+    "characterId2": 15
+  },
+  {
+    "id": 901,
+    "groupId": 11520,
+    "characterId1": 15,
+    "characterId2": 20
+  },
+  {
+    "id": 902,
+    "groupId": 11520,
+    "characterId1": 20,
+    "characterId2": 15
+  },
+  {
+    "id": 903,
+    "groupId": 11617,
+    "characterId1": 16,
+    "characterId2": 17
+  },
+  {
+    "id": 904,
+    "groupId": 11617,
+    "characterId1": 17,
+    "characterId2": 16
+  },
+  {
+    "id": 905,
+    "groupId": 11619,
+    "characterId1": 16,
+    "characterId2": 19
+  },
+  {
+    "id": 906,
+    "groupId": 11619,
+    "characterId1": 19,
+    "characterId2": 16
+  }
 ]

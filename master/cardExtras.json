@@ -1,52 +1,52 @@
 [
-    {
-        "id": 1,
-        "cardId": 801,
-        "resourceBoxId": 1
-    },
-    {
-        "id": 2,
-        "cardId": 802,
-        "resourceBoxId": 2
-    },
-    {
-        "id": 3,
-        "cardId": 803,
-        "resourceBoxId": 3
-    },
-    {
-        "id": 4,
-        "cardId": 804,
-        "resourceBoxId": 4
-    },
-    {
-        "id": 5,
-        "cardId": 805,
-        "resourceBoxId": 5
-    },
-    {
-        "id": 6,
-        "cardId": 806,
-        "resourceBoxId": 6
-    },
-    {
-        "id": 7,
-        "cardId": 1115,
-        "resourceBoxId": 7
-    },
-    {
-        "id": 8,
-        "cardId": 1116,
-        "resourceBoxId": 8
-    },
-    {
-        "id": 9,
-        "cardId": 1117,
-        "resourceBoxId": 9
-    },
-    {
-        "id": 10,
-        "cardId": 1118,
-        "resourceBoxId": 10
-    }
+  {
+    "id": 1,
+    "cardId": 801,
+    "resourceBoxId": 1
+  },
+  {
+    "id": 2,
+    "cardId": 802,
+    "resourceBoxId": 2
+  },
+  {
+    "id": 3,
+    "cardId": 803,
+    "resourceBoxId": 3
+  },
+  {
+    "id": 4,
+    "cardId": 804,
+    "resourceBoxId": 4
+  },
+  {
+    "id": 5,
+    "cardId": 805,
+    "resourceBoxId": 5
+  },
+  {
+    "id": 6,
+    "cardId": 806,
+    "resourceBoxId": 6
+  },
+  {
+    "id": 7,
+    "cardId": 1115,
+    "resourceBoxId": 7
+  },
+  {
+    "id": 8,
+    "cardId": 1116,
+    "resourceBoxId": 8
+  },
+  {
+    "id": 9,
+    "cardId": 1117,
+    "resourceBoxId": 9
+  },
+  {
+    "id": 10,
+    "cardId": 1118,
+    "resourceBoxId": 10
+  }
 ]
