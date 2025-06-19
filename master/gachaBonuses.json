@@ -1,10 +1,10 @@
 [
-    {
-        "id": 1,
-        "switchFixedBonusWeight": false
-    },
-    {
-        "id": 2,
-        "switchFixedBonusWeight": true
-    }
+  {
+    "id": 1,
+    "switchFixedBonusWeight": false
+  },
+  {
+    "id": 2,
+    "switchFixedBonusWeight": true
+  }
 ]

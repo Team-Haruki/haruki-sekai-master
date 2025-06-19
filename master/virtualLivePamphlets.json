@@ -1,79 +1,79 @@
 [
-    {
-        "id": 1,
-        "virtualLiveId": 154,
-        "name": "「コネクトライブ Vivid BAD SQUAD 1st CRASH」パンフレット",
-        "flavorText": "「コネクトライブ Vivid BAD SQUAD 1st CRASH」のパンフレットです。",
-        "assetbundleName": "pamphlet_connectlive_1st_vbs"
-    },
-    {
-        "id": 2,
-        "virtualLiveId": 176,
-        "name": "「コネクトライブ 2nd ANNIVERSARY SPECIAL STAGE」パンフレット",
-        "flavorText": "「コネクトライブ 2nd ANNIVERSARY SPECIAL STAGE」のパンフレットです。",
-        "assetbundleName": "rtvl_pamphlet_2ndanniversary"
-    },
-    {
-        "id": 3,
-        "virtualLiveId": 220,
-        "name": "「コネクトライブ MORE MORE JUMP！ 1st JUMPIN！」パンフレット",
-        "flavorText": "「コネクトライブ MORE MORE JUMP！ 1st JUMPIN！」のパンフレットです。",
-        "assetbundleName": "pamphlet_connectlive_1st_mmj"
-    },
-    {
-        "id": 4,
-        "virtualLiveId": 230,
-        "name": "「コネクトライブ Leo\/need 1st SPARKLE」パンフレット",
-        "flavorText": "「コネクトライブ Leo\/need 1st SPARKLE」のパンフレットです。",
-        "assetbundleName": "pamphlet_connectlive_1st_lon"
-    },
-    {
-        "id": 5,
-        "virtualLiveId": 238,
-        "name": "「コネクトライブ 25時、ナイトコードで。 1st moment」パンフレット",
-        "flavorText": "「コネクトライブ 25時、ナイトコードで。 1st moment」のパンフレットです。",
-        "assetbundleName": "pamphlet_connectlive_1st_nig"
-    },
-    {
-        "id": 6,
-        "virtualLiveId": 244,
-        "name": "「コネクトライブ ワンダーランズ×ショウタイム 1st STORIES」パンフレット",
-        "flavorText": "「コネクトライブ ワンダーランズ×ショウタイム 1st STORIES」のパンフレットです。",
-        "assetbundleName": "pamphlet_connectlive_1st_wnd"
-    },
-    {
-        "id": 7,
-        "virtualLiveId": 256,
-        "name": "「コネクトライブ 3rd ANNIVERSARY Memorial Stage」パンフレット",
-        "flavorText": "「コネクトライブ 3rd ANNIVERSARY Memorial Stage」のパンフレットです。",
-        "assetbundleName": "rtvl_pamphlet_3rdanniversary"
-    },
-    {
-        "id": 8,
-        "virtualLiveId": 306,
-        "name": "「コネクトライブ RESONANCE BEATS!!」パンフレット",
-        "flavorText": "「コネクトライブ Leo\/need × Vivid BAD SQUAD RESONANCE BEATS!!」のパンフレットです。",
-        "assetbundleName": "pamphlet_resonancebeats"
-    },
-    {
-        "id": 9,
-        "virtualLiveId": 328,
-        "name": "「コネクトライブ 4th ANNIVERSARY Brilliant Stage」パンフレット",
-        "flavorText": "「コネクトライブ 4th ANNIVERSARY Brilliant Stage」のパンフレットです。",
-        "assetbundleName": "pamphlet_4thanniversary"
-    },
-    {
-        "id": 10,
-        "virtualLiveId": 355,
-        "name": "「Ensemble in SEKAI」パンフレット",
-        "flavorText": "「Ensemble in SEKAI」のパンフレットです。",
-        "assetbundleName": "pamphlet_collab_es"
-    },
-    {
-        "id": 11,
-        "virtualLiveId": 356,
-        "name": "「Ensemble in SEKAI」メモリアルブック",
-        "flavorText": "「Ensemble in SEKAI」のメモリアルブックです。",
-        "assetbundleName": "memorialbook_collab_es"
-    }
+  {
+    "id": 1,
+    "virtualLiveId": 154,
+    "name": "「コネクトライブ Vivid BAD SQUAD 1st CRASH」パンフレット",
+    "flavorText": "「コネクトライブ Vivid BAD SQUAD 1st CRASH」のパンフレットです。",
+    "assetbundleName": "pamphlet_connectlive_1st_vbs"
+  },
+  {
+    "id": 2,
+    "virtualLiveId": 176,
+    "name": "「コネクトライブ 2nd ANNIVERSARY SPECIAL STAGE」パンフレット",
+    "flavorText": "「コネクトライブ 2nd ANNIVERSARY SPECIAL STAGE」のパンフレットです。",
+    "assetbundleName": "rtvl_pamphlet_2ndanniversary"
+  },
+  {
+    "id": 3,
+    "virtualLiveId": 220,
+    "name": "「コネクトライブ MORE MORE JUMP！ 1st JUMPIN！」パンフレット",
+    "flavorText": "「コネクトライブ MORE MORE JUMP！ 1st JUMPIN！」のパンフレットです。",
+    "assetbundleName": "pamphlet_connectlive_1st_mmj"
+  },
+  {
+    "id": 4,
+    "virtualLiveId": 230,
+    "name": "「コネクトライブ Leo/need 1st SPARKLE」パンフレット",
+    "flavorText": "「コネクトライブ Leo/need 1st SPARKLE」のパンフレットです。",
+    "assetbundleName": "pamphlet_connectlive_1st_lon"
+  },
+  {
+    "id": 5,
+    "virtualLiveId": 238,
+    "name": "「コネクトライブ 25時、ナイトコードで。 1st moment」パンフレット",
+    "flavorText": "「コネクトライブ 25時、ナイトコードで。 1st moment」のパンフレットです。",
+    "assetbundleName": "pamphlet_connectlive_1st_nig"
+  },
+  {
+    "id": 6,
+    "virtualLiveId": 244,
+    "name": "「コネクトライブ ワンダーランズ×ショウタイム 1st STORIES」パンフレット",
+    "flavorText": "「コネクトライブ ワンダーランズ×ショウタイム 1st STORIES」のパンフレットです。",
+    "assetbundleName": "pamphlet_connectlive_1st_wnd"
+  },
+  {
+    "id": 7,
+    "virtualLiveId": 256,
+    "name": "「コネクトライブ 3rd ANNIVERSARY Memorial Stage」パンフレット",
+    "flavorText": "「コネクトライブ 3rd ANNIVERSARY Memorial Stage」のパンフレットです。",
+    "assetbundleName": "rtvl_pamphlet_3rdanniversary"
+  },
+  {
+    "id": 8,
+    "virtualLiveId": 306,
+    "name": "「コネクトライブ RESONANCE BEATS!!」パンフレット",
+    "flavorText": "「コネクトライブ Leo/need × Vivid BAD SQUAD RESONANCE BEATS!!」のパンフレットです。",
+    "assetbundleName": "pamphlet_resonancebeats"
+  },
+  {
+    "id": 9,
+    "virtualLiveId": 328,
+    "name": "「コネクトライブ 4th ANNIVERSARY Brilliant Stage」パンフレット",
+    "flavorText": "「コネクトライブ 4th ANNIVERSARY Brilliant Stage」のパンフレットです。",
+    "assetbundleName": "pamphlet_4thanniversary"
+  },
+  {
+    "id": 10,
+    "virtualLiveId": 355,
+    "name": "「Ensemble in SEKAI」パンフレット",
+    "flavorText": "「Ensemble in SEKAI」のパンフレットです。",
+    "assetbundleName": "pamphlet_collab_es"
+  },
+  {
+    "id": 11,
+    "virtualLiveId": 356,
+    "name": "「Ensemble in SEKAI」メモリアルブック",
+    "flavorText": "「Ensemble in SEKAI」のメモリアルブックです。",
+    "assetbundleName": "memorialbook_collab_es"
+  }
 ]

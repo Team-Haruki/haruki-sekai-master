@@ -1,202 +1,202 @@
 [
-    {
-        "id": 1,
-        "seq": 20,
-        "name": "ライブボーナスドリンク（小）",
-        "recoveryValue": 1,
-        "assetBundleName": "dummy",
-        "flavorText": "ライブボーナスを1回復する。"
-    },
-    {
-        "id": 2,
-        "seq": 30,
-        "name": "ライブボーナスドリンク（大）",
-        "recoveryValue": 10,
-        "assetBundleName": "dummy",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 3,
-        "seq": 40,
-        "name": "バレンタインチョコ",
-        "recoveryValue": 10,
-        "assetBundleName": "dummy",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 4,
-        "seq": 50,
-        "name": "ホワイトデーマシュマロ",
-        "recoveryValue": 10,
-        "assetBundleName": "dummy",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 5,
-        "seq": 60,
-        "name": "[限定]からあげクン レギュラー（タイアップ記念）",
-        "recoveryValue": 10,
-        "assetBundleName": "dummy",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 6,
-        "seq": 70,
-        "name": "ハロウィンクッキー",
-        "recoveryValue": 10,
-        "assetBundleName": "dummy",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 7,
-        "seq": 80,
-        "name": "ブリオッシュ",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item7",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 8,
-        "seq": 90,
-        "name": "クリスマスケーキ",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item8",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 9,
-        "seq": 100,
-        "name": "甘酒",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item9",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 10,
-        "seq": 110,
-        "name": "[限定]カップヌードル",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item10",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 11,
-        "seq": 120,
-        "name": "[限定]ポカリスエット",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item11",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 12,
-        "seq": 130,
-        "name": "ネギ",
-        "recoveryValue": 1,
-        "assetBundleName": "boost_item12",
-        "flavorText": "ライブボーナスを1回復する。"
-    },
-    {
-        "id": 13,
-        "seq": 140,
-        "name": "[ミク16周年記念]お祝いミクケーキ",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item13",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 14,
-        "seq": 150,
-        "name": "ハローキティのりんご",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item14",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 15,
-        "seq": 10,
-        "name": "3900'sライブボーナスドリンク",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item15",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 16,
-        "seq": 160,
-        "name": "[4周年記念]メモリアルライブボーナスボトル",
-        "recoveryValue": 99,
-        "assetBundleName": "boost_item16",
-        "flavorText": "ライブボーナスを99回復する。"
-    },
-    {
-        "id": 17,
-        "seq": 170,
-        "name": "映画館の純白ソルトポップコーン",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item17",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 18,
-        "seq": 180,
-        "name": "映画館の爽やかシュワシュワソーダ",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item18",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 19,
-        "seq": 190,
-        "name": "映画館のあまあまメロンアイス",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item19",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 20,
-        "seq": 200,
-        "name": "映画館のアツアツヒートホットドッグ",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item20",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 21,
-        "seq": 210,
-        "name": "映画館の揚げたてワンダフルポテト",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item21",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 22,
-        "seq": 220,
-        "name": "映画館のほろ苦ダークチョコチュリトス",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item22",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 23,
-        "seq": 230,
-        "name": "ASTRO DRINK",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item23",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 24,
-        "seq": 240,
-        "name": "霊夢のお茶",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item24",
-        "flavorText": "ライブボーナスを10回復する。"
-    },
-    {
-        "id": 25,
-        "seq": 250,
-        "name": "テストイベント用ライブボーナスドリンク（大）",
-        "recoveryValue": 10,
-        "assetBundleName": "boost_item25",
-        "flavorText": "ライブボーナスを10回復する。\n※テストイベント終了後、メンテナンスにて回収します。"
-    }
+  {
+    "id": 1,
+    "seq": 20,
+    "name": "ライブボーナスドリンク（小）",
+    "recoveryValue": 1,
+    "assetBundleName": "dummy",
+    "flavorText": "ライブボーナスを1回復する。"
+  },
+  {
+    "id": 2,
+    "seq": 30,
+    "name": "ライブボーナスドリンク（大）",
+    "recoveryValue": 10,
+    "assetBundleName": "dummy",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 3,
+    "seq": 40,
+    "name": "バレンタインチョコ",
+    "recoveryValue": 10,
+    "assetBundleName": "dummy",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 4,
+    "seq": 50,
+    "name": "ホワイトデーマシュマロ",
+    "recoveryValue": 10,
+    "assetBundleName": "dummy",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 5,
+    "seq": 60,
+    "name": "[限定]からあげクン レギュラー（タイアップ記念）",
+    "recoveryValue": 10,
+    "assetBundleName": "dummy",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 6,
+    "seq": 70,
+    "name": "ハロウィンクッキー",
+    "recoveryValue": 10,
+    "assetBundleName": "dummy",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 7,
+    "seq": 80,
+    "name": "ブリオッシュ",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item7",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 8,
+    "seq": 90,
+    "name": "クリスマスケーキ",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item8",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 9,
+    "seq": 100,
+    "name": "甘酒",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item9",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 10,
+    "seq": 110,
+    "name": "[限定]カップヌードル",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item10",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 11,
+    "seq": 120,
+    "name": "[限定]ポカリスエット",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item11",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 12,
+    "seq": 130,
+    "name": "ネギ",
+    "recoveryValue": 1,
+    "assetBundleName": "boost_item12",
+    "flavorText": "ライブボーナスを1回復する。"
+  },
+  {
+    "id": 13,
+    "seq": 140,
+    "name": "[ミク16周年記念]お祝いミクケーキ",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item13",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 14,
+    "seq": 150,
+    "name": "ハローキティのりんご",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item14",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 15,
+    "seq": 10,
+    "name": "3900'sライブボーナスドリンク",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item15",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 16,
+    "seq": 160,
+    "name": "[4周年記念]メモリアルライブボーナスボトル",
+    "recoveryValue": 99,
+    "assetBundleName": "boost_item16",
+    "flavorText": "ライブボーナスを99回復する。"
+  },
+  {
+    "id": 17,
+    "seq": 170,
+    "name": "映画館の純白ソルトポップコーン",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item17",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 18,
+    "seq": 180,
+    "name": "映画館の爽やかシュワシュワソーダ",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item18",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 19,
+    "seq": 190,
+    "name": "映画館のあまあまメロンアイス",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item19",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 20,
+    "seq": 200,
+    "name": "映画館のアツアツヒートホットドッグ",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item20",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 21,
+    "seq": 210,
+    "name": "映画館の揚げたてワンダフルポテト",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item21",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 22,
+    "seq": 220,
+    "name": "映画館のほろ苦ダークチョコチュリトス",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item22",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 23,
+    "seq": 230,
+    "name": "ASTRO DRINK",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item23",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 24,
+    "seq": 240,
+    "name": "霊夢のお茶",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item24",
+    "flavorText": "ライブボーナスを10回復する。"
+  },
+  {
+    "id": 25,
+    "seq": 250,
+    "name": "テストイベント用ライブボーナスドリンク（大）",
+    "recoveryValue": 10,
+    "assetBundleName": "boost_item25",
+    "flavorText": "ライブボーナスを10回復する。\n※テストイベント終了後、メンテナンスにて回収します。"
+  }
 ]

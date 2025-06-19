@@ -1,587 +1,587 @@
 [
-    {
-        "id": 1,
-        "name": "「サブカルボーイスタイル」衣装",
-        "assetbundleName": "shop_300000",
-        "seq": 300000,
-        "billingShopItemIds": [
-            300000,
-            300001,
-            300002,
-            300003,
-            300004
-        ]
-    },
-    {
-        "id": 2,
-        "name": "「もこもこスノーコート」衣装",
-        "assetbundleName": "shop_300010",
-        "seq": 300010,
-        "billingShopItemIds": [
-            300010,
-            300011,
-            300012,
-            300013,
-            300014
-        ]
-    },
-    {
-        "id": 3,
-        "name": "「メイド・バトラー」衣装",
-        "assetbundleName": "shop_300020",
-        "seq": 300020,
-        "billingShopItemIds": [
-            300020,
-            300021,
-            300022,
-            300023,
-            300024
-        ]
-    },
-    {
-        "id": 4,
-        "name": "「モーモー☆ニューイヤー」衣装",
-        "assetbundleName": "shop_300050",
-        "seq": 300050,
-        "billingShopItemIds": [
-            300050,
-            300051,
-            300052,
-            300053,
-            300054
-        ]
-    },
-    {
-        "id": 5,
-        "name": "「スイーツ」衣装",
-        "assetbundleName": "shop_300060",
-        "seq": 300060,
-        "billingShopItemIds": [
-            300060,
-            300061,
-            300062,
-            300063,
-            300064
-        ]
-    },
-    {
-        "id": 6,
-        "name": "「近未来」衣装",
-        "assetbundleName": "shop_300070",
-        "seq": 300070,
-        "billingShopItemIds": [
-            300070,
-            300071,
-            300072,
-            300073,
-            300074
-        ]
-    },
-    {
-        "id": 7,
-        "name": "「怪盗」衣装",
-        "assetbundleName": "shop_300090",
-        "seq": 300090,
-        "billingShopItemIds": [
-            300090,
-            300091,
-            300092,
-            300093,
-            300094
-        ]
-    },
-    {
-        "id": 8,
-        "name": "「魔法」衣装",
-        "assetbundleName": "shop_300100",
-        "seq": 300100,
-        "billingShopItemIds": [
-            300100,
-            300101,
-            300102,
-            300103,
-            300104
-        ]
-    },
-    {
-        "id": 9,
-        "name": "「レストラン」衣装",
-        "assetbundleName": "shop_300110",
-        "seq": 300110,
-        "billingShopItemIds": [
-            300110,
-            300111,
-            300112,
-            300113,
-            300114
-        ]
-    },
-    {
-        "id": 10,
-        "name": "「海賊」衣装",
-        "assetbundleName": "shop_300120",
-        "seq": 300120,
-        "billingShopItemIds": [
-            300120,
-            300121,
-            300122,
-            300123,
-            300124
-        ]
-    },
-    {
-        "id": 11,
-        "name": "「アニマル」衣装",
-        "assetbundleName": "shop_300130",
-        "seq": 300130,
-        "billingShopItemIds": [
-            300130,
-            300131,
-            300132,
-            300133,
-            300134
-        ]
-    },
-    {
-        "id": 12,
-        "name": "「パジャマ」衣装",
-        "assetbundleName": "shop_300140",
-        "seq": 300140,
-        "billingShopItemIds": [
-            300140,
-            300141,
-            300142,
-            300143,
-            300144
-        ]
-    },
-    {
-        "id": 13,
-        "name": "「ゴースト」衣装",
-        "assetbundleName": "shop_300220",
-        "seq": 300220,
-        "billingShopItemIds": [
-            300220,
-            300221,
-            300222,
-            300223,
-            300224
-        ]
-    },
-    {
-        "id": 14,
-        "name": "「ゴシック」衣装",
-        "assetbundleName": "shop_300230",
-        "seq": 300230,
-        "billingShopItemIds": [
-            300230,
-            300231,
-            300232,
-            300233,
-            300234
-        ]
-    },
-    {
-        "id": 15,
-        "name": "「チェック柄」衣装",
-        "assetbundleName": "shop_300240",
-        "seq": 300240,
-        "billingShopItemIds": [
-            300240,
-            300241,
-            300242,
-            300243,
-            300244
-        ]
-    },
-    {
-        "id": 16,
-        "name": "「宇宙」衣装",
-        "assetbundleName": "shop_300260",
-        "seq": 300260,
-        "billingShopItemIds": [
-            300260,
-            300261,
-            300262,
-            300263,
-            300264
-        ]
-    },
-    {
-        "id": 17,
-        "name": "「フルーツ」衣装",
-        "assetbundleName": "shop_300270",
-        "seq": 300270,
-        "billingShopItemIds": [
-            300270,
-            300271,
-            300272,
-            300273,
-            300274
-        ]
-    },
-    {
-        "id": 18,
-        "name": "「ファンタジー」衣装",
-        "assetbundleName": "shop_300280",
-        "seq": 300280,
-        "billingShopItemIds": [
-            300280,
-            300281,
-            300282,
-            300283,
-            300284
-        ]
-    },
-    {
-        "id": 19,
-        "name": "「イースター」衣装",
-        "assetbundleName": "shop_300320",
-        "seq": 300320,
-        "billingShopItemIds": [
-            300320,
-            300321,
-            300322,
-            300323,
-            300324
-        ]
-    },
-    {
-        "id": 20,
-        "name": "「ヒップホップ」衣装",
-        "assetbundleName": "shop_300330",
-        "seq": 300330,
-        "billingShopItemIds": [
-            300330,
-            300331,
-            300332,
-            300333,
-            300334
-        ]
-    },
-    {
-        "id": 21,
-        "name": "「スポーツ」衣装",
-        "assetbundleName": "shop_300340",
-        "seq": 300340,
-        "billingShopItemIds": [
-            300340,
-            300341,
-            300342,
-            300343,
-            300344
-        ]
-    },
-    {
-        "id": 22,
-        "name": "「バカンス」衣装",
-        "assetbundleName": "shop_300350",
-        "seq": 300350,
-        "billingShopItemIds": [
-            300350,
-            300351,
-            300352,
-            300353,
-            300354
-        ]
-    },
-    {
-        "id": 23,
-        "name": "「お出かけ服」衣装",
-        "assetbundleName": "shop_300360",
-        "seq": 300360,
-        "billingShopItemIds": [
-            300360,
-            300361,
-            300362,
-            300363,
-            300364
-        ]
-    },
-    {
-        "id": 24,
-        "name": "「レトロ」衣装",
-        "assetbundleName": "shop_300370",
-        "seq": 300370,
-        "billingShopItemIds": [
-            300370,
-            300371,
-            300372,
-            300373,
-            300374
-        ]
-    },
-    {
-        "id": 25,
-        "name": "「ドレス・正装」衣装",
-        "assetbundleName": "shop_300380",
-        "seq": 300380,
-        "billingShopItemIds": [
-            300380,
-            300381,
-            300382,
-            300383,
-            300384
-        ]
-    },
-    {
-        "id": 26,
-        "name": "「妖怪」衣装",
-        "assetbundleName": "shop_300450",
-        "seq": 300450,
-        "billingShopItemIds": [
-            300450,
-            300451,
-            300452,
-            300453,
-            300454
-        ]
-    },
-    {
-        "id": 27,
-        "name": "「おもちゃ」衣装",
-        "assetbundleName": "shop_300470",
-        "seq": 300470,
-        "billingShopItemIds": [
-            300470,
-            300471,
-            300472,
-            300473,
-            300474
-        ]
-    },
-    {
-        "id": 28,
-        "name": "「ウィンタースポーツ」衣装",
-        "assetbundleName": "shop_300490",
-        "seq": 300490,
-        "billingShopItemIds": [
-            300490,
-            300491,
-            300492,
-            300493,
-            300494
-        ]
-    },
-    {
-        "id": 29,
-        "name": "「忍者」衣装",
-        "assetbundleName": "shop_300510",
-        "seq": 300510,
-        "billingShopItemIds": [
-            300510,
-            300511,
-            300512,
-            300513,
-            300514
-        ]
-    },
-    {
-        "id": 30,
-        "name": "「ウエスタン」衣装",
-        "assetbundleName": "shop_300520",
-        "seq": 300520,
-        "billingShopItemIds": [
-            300520,
-            300521,
-            300522,
-            300523,
-            300524
-        ]
-    },
-    {
-        "id": 31,
-        "name": "「春服」衣装",
-        "assetbundleName": "shop_300530",
-        "seq": 300530,
-        "billingShopItemIds": [
-            300530,
-            300531,
-            300532,
-            300533,
-            300534
-        ]
-    },
-    {
-        "id": 32,
-        "name": "「フローラル」衣装",
-        "assetbundleName": "shop_300550",
-        "seq": 300550,
-        "billingShopItemIds": [
-            300550,
-            300551,
-            300552,
-            300553,
-            300554
-        ]
-    },
-    {
-        "id": 33,
-        "name": "「パステルカラー」衣装",
-        "assetbundleName": "shop_300560",
-        "seq": 300560,
-        "billingShopItemIds": [
-            300560,
-            300561,
-            300562,
-            300563,
-            300564
-        ]
-    },
-    {
-        "id": 34,
-        "name": "「夏服」衣装",
-        "assetbundleName": "shop_300570",
-        "seq": 300570,
-        "billingShopItemIds": [
-            300570,
-            300571,
-            300572,
-            300573,
-            300574
-        ]
-    },
-    {
-        "id": 35,
-        "name": "「カジノディーラー・幽霊」衣装",
-        "assetbundleName": "shop_300580",
-        "seq": 300580,
-        "billingShopItemIds": [
-            300580,
-            300581,
-            300582,
-            300583,
-            300584
-        ]
-    },
-    {
-        "id": 36,
-        "name": "「アメカジ」衣装",
-        "assetbundleName": "shop_300590",
-        "seq": 300590,
-        "billingShopItemIds": [
-            300590,
-            300591,
-            300592,
-            300593,
-            300594
-        ]
-    },
-    {
-        "id": 37,
-        "name": "「秋服」衣装",
-        "assetbundleName": "shop_300600",
-        "seq": 300600,
-        "billingShopItemIds": [
-            300600,
-            300601,
-            300602,
-            300603,
-            300604
-        ]
-    },
-    {
-        "id": 38,
-        "name": "「ゴージャス」衣装",
-        "assetbundleName": "shop_300670",
-        "seq": 300670,
-        "billingShopItemIds": [
-            300670,
-            300671,
-            300672,
-            300673,
-            300674
-        ]
-    },
-    {
-        "id": 39,
-        "name": "「デニム」衣装",
-        "assetbundleName": "shop_300690",
-        "seq": 300690,
-        "billingShopItemIds": [
-            300690,
-            300691,
-            300692,
-            300693,
-            300694
-        ]
-    },
-    {
-        "id": 40,
-        "name": "「冬服」衣装",
-        "assetbundleName": "shop_300710",
-        "seq": 300710,
-        "billingShopItemIds": [
-            300710,
-            300711,
-            300712,
-            300713,
-            300714
-        ]
-    },
-    {
-        "id": 41,
-        "name": "「オペラ座」衣装",
-        "assetbundleName": "shop_300730",
-        "seq": 300730,
-        "billingShopItemIds": [
-            300730,
-            300731,
-            300732,
-            300733,
-            300734
-        ]
-    },
-    {
-        "id": 42,
-        "name": "「ティーパーティー」衣装",
-        "assetbundleName": "shop_300740",
-        "seq": 300740,
-        "billingShopItemIds": [
-            300740,
-            300741,
-            300742,
-            300743,
-            300744
-        ]
-    },
-    {
-        "id": 43,
-        "name": "「桜」衣装",
-        "assetbundleName": "shop_300750",
-        "seq": 300750,
-        "billingShopItemIds": [
-            300750,
-            300751,
-            300752,
-            300753,
-            300754
-        ]
-    },
-    {
-        "id": 44,
-        "name": "「探偵」衣装",
-        "assetbundleName": "shop_300770",
-        "seq": 300770,
-        "billingShopItemIds": [
-            300770,
-            300771,
-            300772,
-            300773,
-            300774
-        ]
-    },
-    {
-        "id": 45,
-        "name": "「雨の日」衣装",
-        "assetbundleName": "shop_300800",
-        "seq": 300800,
-        "billingShopItemIds": [
-            300800,
-            300801,
-            300802,
-            300803,
-            300804
-        ]
-    }
+  {
+    "id": 1,
+    "name": "「サブカルボーイスタイル」衣装",
+    "assetbundleName": "shop_300000",
+    "seq": 300000,
+    "billingShopItemIds": [
+      300000,
+      300001,
+      300002,
+      300003,
+      300004
+    ]
+  },
+  {
+    "id": 2,
+    "name": "「もこもこスノーコート」衣装",
+    "assetbundleName": "shop_300010",
+    "seq": 300010,
+    "billingShopItemIds": [
+      300010,
+      300011,
+      300012,
+      300013,
+      300014
+    ]
+  },
+  {
+    "id": 3,
+    "name": "「メイド・バトラー」衣装",
+    "assetbundleName": "shop_300020",
+    "seq": 300020,
+    "billingShopItemIds": [
+      300020,
+      300021,
+      300022,
+      300023,
+      300024
+    ]
+  },
+  {
+    "id": 4,
+    "name": "「モーモー☆ニューイヤー」衣装",
+    "assetbundleName": "shop_300050",
+    "seq": 300050,
+    "billingShopItemIds": [
+      300050,
+      300051,
+      300052,
+      300053,
+      300054
+    ]
+  },
+  {
+    "id": 5,
+    "name": "「スイーツ」衣装",
+    "assetbundleName": "shop_300060",
+    "seq": 300060,
+    "billingShopItemIds": [
+      300060,
+      300061,
+      300062,
+      300063,
+      300064
+    ]
+  },
+  {
+    "id": 6,
+    "name": "「近未来」衣装",
+    "assetbundleName": "shop_300070",
+    "seq": 300070,
+    "billingShopItemIds": [
+      300070,
+      300071,
+      300072,
+      300073,
+      300074
+    ]
+  },
+  {
+    "id": 7,
+    "name": "「怪盗」衣装",
+    "assetbundleName": "shop_300090",
+    "seq": 300090,
+    "billingShopItemIds": [
+      300090,
+      300091,
+      300092,
+      300093,
+      300094
+    ]
+  },
+  {
+    "id": 8,
+    "name": "「魔法」衣装",
+    "assetbundleName": "shop_300100",
+    "seq": 300100,
+    "billingShopItemIds": [
+      300100,
+      300101,
+      300102,
+      300103,
+      300104
+    ]
+  },
+  {
+    "id": 9,
+    "name": "「レストラン」衣装",
+    "assetbundleName": "shop_300110",
+    "seq": 300110,
+    "billingShopItemIds": [
+      300110,
+      300111,
+      300112,
+      300113,
+      300114
+    ]
+  },
+  {
+    "id": 10,
+    "name": "「海賊」衣装",
+    "assetbundleName": "shop_300120",
+    "seq": 300120,
+    "billingShopItemIds": [
+      300120,
+      300121,
+      300122,
+      300123,
+      300124
+    ]
+  },
+  {
+    "id": 11,
+    "name": "「アニマル」衣装",
+    "assetbundleName": "shop_300130",
+    "seq": 300130,
+    "billingShopItemIds": [
+      300130,
+      300131,
+      300132,
+      300133,
+      300134
+    ]
+  },
+  {
+    "id": 12,
+    "name": "「パジャマ」衣装",
+    "assetbundleName": "shop_300140",
+    "seq": 300140,
+    "billingShopItemIds": [
+      300140,
+      300141,
+      300142,
+      300143,
+      300144
+    ]
+  },
+  {
+    "id": 13,
+    "name": "「ゴースト」衣装",
+    "assetbundleName": "shop_300220",
+    "seq": 300220,
+    "billingShopItemIds": [
+      300220,
+      300221,
+      300222,
+      300223,
+      300224
+    ]
+  },
+  {
+    "id": 14,
+    "name": "「ゴシック」衣装",
+    "assetbundleName": "shop_300230",
+    "seq": 300230,
+    "billingShopItemIds": [
+      300230,
+      300231,
+      300232,
+      300233,
+      300234
+    ]
+  },
+  {
+    "id": 15,
+    "name": "「チェック柄」衣装",
+    "assetbundleName": "shop_300240",
+    "seq": 300240,
+    "billingShopItemIds": [
+      300240,
+      300241,
+      300242,
+      300243,
+      300244
+    ]
+  },
+  {
+    "id": 16,
+    "name": "「宇宙」衣装",
+    "assetbundleName": "shop_300260",
+    "seq": 300260,
+    "billingShopItemIds": [
+      300260,
+      300261,
+      300262,
+      300263,
+      300264
+    ]
+  },
+  {
+    "id": 17,
+    "name": "「フルーツ」衣装",
+    "assetbundleName": "shop_300270",
+    "seq": 300270,
+    "billingShopItemIds": [
+      300270,
+      300271,
+      300272,
+      300273,
+      300274
+    ]
+  },
+  {
+    "id": 18,
+    "name": "「ファンタジー」衣装",
+    "assetbundleName": "shop_300280",
+    "seq": 300280,
+    "billingShopItemIds": [
+      300280,
+      300281,
+      300282,
+      300283,
+      300284
+    ]
+  },
+  {
+    "id": 19,
+    "name": "「イースター」衣装",
+    "assetbundleName": "shop_300320",
+    "seq": 300320,
+    "billingShopItemIds": [
+      300320,
+      300321,
+      300322,
+      300323,
+      300324
+    ]
+  },
+  {
+    "id": 20,
+    "name": "「ヒップホップ」衣装",
+    "assetbundleName": "shop_300330",
+    "seq": 300330,
+    "billingShopItemIds": [
+      300330,
+      300331,
+      300332,
+      300333,
+      300334
+    ]
+  },
+  {
+    "id": 21,
+    "name": "「スポーツ」衣装",
+    "assetbundleName": "shop_300340",
+    "seq": 300340,
+    "billingShopItemIds": [
+      300340,
+      300341,
+      300342,
+      300343,
+      300344
+    ]
+  },
+  {
+    "id": 22,
+    "name": "「バカンス」衣装",
+    "assetbundleName": "shop_300350",
+    "seq": 300350,
+    "billingShopItemIds": [
+      300350,
+      300351,
+      300352,
+      300353,
+      300354
+    ]
+  },
+  {
+    "id": 23,
+    "name": "「お出かけ服」衣装",
+    "assetbundleName": "shop_300360",
+    "seq": 300360,
+    "billingShopItemIds": [
+      300360,
+      300361,
+      300362,
+      300363,
+      300364
+    ]
+  },
+  {
+    "id": 24,
+    "name": "「レトロ」衣装",
+    "assetbundleName": "shop_300370",
+    "seq": 300370,
+    "billingShopItemIds": [
+      300370,
+      300371,
+      300372,
+      300373,
+      300374
+    ]
+  },
+  {
+    "id": 25,
+    "name": "「ドレス・正装」衣装",
+    "assetbundleName": "shop_300380",
+    "seq": 300380,
+    "billingShopItemIds": [
+      300380,
+      300381,
+      300382,
+      300383,
+      300384
+    ]
+  },
+  {
+    "id": 26,
+    "name": "「妖怪」衣装",
+    "assetbundleName": "shop_300450",
+    "seq": 300450,
+    "billingShopItemIds": [
+      300450,
+      300451,
+      300452,
+      300453,
+      300454
+    ]
+  },
+  {
+    "id": 27,
+    "name": "「おもちゃ」衣装",
+    "assetbundleName": "shop_300470",
+    "seq": 300470,
+    "billingShopItemIds": [
+      300470,
+      300471,
+      300472,
+      300473,
+      300474
+    ]
+  },
+  {
+    "id": 28,
+    "name": "「ウィンタースポーツ」衣装",
+    "assetbundleName": "shop_300490",
+    "seq": 300490,
+    "billingShopItemIds": [
+      300490,
+      300491,
+      300492,
+      300493,
+      300494
+    ]
+  },
+  {
+    "id": 29,
+    "name": "「忍者」衣装",
+    "assetbundleName": "shop_300510",
+    "seq": 300510,
+    "billingShopItemIds": [
+      300510,
+      300511,
+      300512,
+      300513,
+      300514
+    ]
+  },
+  {
+    "id": 30,
+    "name": "「ウエスタン」衣装",
+    "assetbundleName": "shop_300520",
+    "seq": 300520,
+    "billingShopItemIds": [
+      300520,
+      300521,
+      300522,
+      300523,
+      300524
+    ]
+  },
+  {
+    "id": 31,
+    "name": "「春服」衣装",
+    "assetbundleName": "shop_300530",
+    "seq": 300530,
+    "billingShopItemIds": [
+      300530,
+      300531,
+      300532,
+      300533,
+      300534
+    ]
+  },
+  {
+    "id": 32,
+    "name": "「フローラル」衣装",
+    "assetbundleName": "shop_300550",
+    "seq": 300550,
+    "billingShopItemIds": [
+      300550,
+      300551,
+      300552,
+      300553,
+      300554
+    ]
+  },
+  {
+    "id": 33,
+    "name": "「パステルカラー」衣装",
+    "assetbundleName": "shop_300560",
+    "seq": 300560,
+    "billingShopItemIds": [
+      300560,
+      300561,
+      300562,
+      300563,
+      300564
+    ]
+  },
+  {
+    "id": 34,
+    "name": "「夏服」衣装",
+    "assetbundleName": "shop_300570",
+    "seq": 300570,
+    "billingShopItemIds": [
+      300570,
+      300571,
+      300572,
+      300573,
+      300574
+    ]
+  },
+  {
+    "id": 35,
+    "name": "「カジノディーラー・幽霊」衣装",
+    "assetbundleName": "shop_300580",
+    "seq": 300580,
+    "billingShopItemIds": [
+      300580,
+      300581,
+      300582,
+      300583,
+      300584
+    ]
+  },
+  {
+    "id": 36,
+    "name": "「アメカジ」衣装",
+    "assetbundleName": "shop_300590",
+    "seq": 300590,
+    "billingShopItemIds": [
+      300590,
+      300591,
+      300592,
+      300593,
+      300594
+    ]
+  },
+  {
+    "id": 37,
+    "name": "「秋服」衣装",
+    "assetbundleName": "shop_300600",
+    "seq": 300600,
+    "billingShopItemIds": [
+      300600,
+      300601,
+      300602,
+      300603,
+      300604
+    ]
+  },
+  {
+    "id": 38,
+    "name": "「ゴージャス」衣装",
+    "assetbundleName": "shop_300670",
+    "seq": 300670,
+    "billingShopItemIds": [
+      300670,
+      300671,
+      300672,
+      300673,
+      300674
+    ]
+  },
+  {
+    "id": 39,
+    "name": "「デニム」衣装",
+    "assetbundleName": "shop_300690",
+    "seq": 300690,
+    "billingShopItemIds": [
+      300690,
+      300691,
+      300692,
+      300693,
+      300694
+    ]
+  },
+  {
+    "id": 40,
+    "name": "「冬服」衣装",
+    "assetbundleName": "shop_300710",
+    "seq": 300710,
+    "billingShopItemIds": [
+      300710,
+      300711,
+      300712,
+      300713,
+      300714
+    ]
+  },
+  {
+    "id": 41,
+    "name": "「オペラ座」衣装",
+    "assetbundleName": "shop_300730",
+    "seq": 300730,
+    "billingShopItemIds": [
+      300730,
+      300731,
+      300732,
+      300733,
+      300734
+    ]
+  },
+  {
+    "id": 42,
+    "name": "「ティーパーティー」衣装",
+    "assetbundleName": "shop_300740",
+    "seq": 300740,
+    "billingShopItemIds": [
+      300740,
+      300741,
+      300742,
+      300743,
+      300744
+    ]
+  },
+  {
+    "id": 43,
+    "name": "「桜」衣装",
+    "assetbundleName": "shop_300750",
+    "seq": 300750,
+    "billingShopItemIds": [
+      300750,
+      300751,
+      300752,
+      300753,
+      300754
+    ]
+  },
+  {
+    "id": 44,
+    "name": "「探偵」衣装",
+    "assetbundleName": "shop_300770",
+    "seq": 300770,
+    "billingShopItemIds": [
+      300770,
+      300771,
+      300772,
+      300773,
+      300774
+    ]
+  },
+  {
+    "id": 45,
+    "name": "「雨の日」衣装",
+    "assetbundleName": "shop_300800",
+    "seq": 300800,
+    "billingShopItemIds": [
+      300800,
+      300801,
+      300802,
+      300803,
+      300804
+    ]
+  }
 ]

@@ -1,170 +1,170 @@
 [
-    {
-        "id": 1,
-        "omikujiGroupId": 1,
-        "fortuneType": "grate_fortune",
-        "rate": 1.0
-    },
-    {
-        "id": 2,
-        "omikujiGroupId": 1,
-        "fortuneType": "fortune",
-        "rate": 1.0
-    },
-    {
-        "id": 3,
-        "omikujiGroupId": 1,
-        "fortuneType": "middle_fortune",
-        "rate": 1.0
-    },
-    {
-        "id": 4,
-        "omikujiGroupId": 1,
-        "fortuneType": "small_fortune",
-        "rate": 1.0
-    },
-    {
-        "id": 5,
-        "omikujiGroupId": 1,
-        "fortuneType": "uncertain_luck",
-        "rate": 1.0
-    },
-    {
-        "id": 6,
-        "omikujiGroupId": 1,
-        "fortuneType": "misfortune",
-        "rate": 1.0
-    },
-    {
-        "id": 7,
-        "omikujiGroupId": 1,
-        "fortuneType": "grate_misfortune",
-        "rate": 1.0
-    },
-    {
-        "id": 8,
-        "omikujiGroupId": 2,
-        "fortuneType": "grate_fortune",
-        "rate": 1.0
-    },
-    {
-        "id": 9,
-        "omikujiGroupId": 2,
-        "fortuneType": "fortune",
-        "rate": 1.0
-    },
-    {
-        "id": 10,
-        "omikujiGroupId": 2,
-        "fortuneType": "middle_fortune",
-        "rate": 1.0
-    },
-    {
-        "id": 11,
-        "omikujiGroupId": 2,
-        "fortuneType": "small_fortune",
-        "rate": 1.0
-    },
-    {
-        "id": 12,
-        "omikujiGroupId": 2,
-        "fortuneType": "uncertain_luck",
-        "rate": 1.0
-    },
-    {
-        "id": 13,
-        "omikujiGroupId": 2,
-        "fortuneType": "misfortune",
-        "rate": 1.0
-    },
-    {
-        "id": 14,
-        "omikujiGroupId": 2,
-        "fortuneType": "grate_misfortune",
-        "rate": 1.0
-    },
-    {
-        "id": 15,
-        "omikujiGroupId": 3,
-        "fortuneType": "grate_fortune",
-        "rate": 1.0
-    },
-    {
-        "id": 16,
-        "omikujiGroupId": 3,
-        "fortuneType": "fortune",
-        "rate": 1.0
-    },
-    {
-        "id": 17,
-        "omikujiGroupId": 3,
-        "fortuneType": "middle_fortune",
-        "rate": 1.0
-    },
-    {
-        "id": 18,
-        "omikujiGroupId": 3,
-        "fortuneType": "small_fortune",
-        "rate": 1.0
-    },
-    {
-        "id": 19,
-        "omikujiGroupId": 3,
-        "fortuneType": "uncertain_luck",
-        "rate": 1.0
-    },
-    {
-        "id": 20,
-        "omikujiGroupId": 3,
-        "fortuneType": "misfortune",
-        "rate": 1.0
-    },
-    {
-        "id": 21,
-        "omikujiGroupId": 3,
-        "fortuneType": "grate_misfortune",
-        "rate": 1.0
-    },
-    {
-        "id": 22,
-        "omikujiGroupId": 4,
-        "fortuneType": "grate_fortune",
-        "rate": 1.0
-    },
-    {
-        "id": 23,
-        "omikujiGroupId": 4,
-        "fortuneType": "fortune",
-        "rate": 1.0
-    },
-    {
-        "id": 24,
-        "omikujiGroupId": 4,
-        "fortuneType": "middle_fortune",
-        "rate": 1.0
-    },
-    {
-        "id": 25,
-        "omikujiGroupId": 4,
-        "fortuneType": "small_fortune",
-        "rate": 1.0
-    },
-    {
-        "id": 26,
-        "omikujiGroupId": 4,
-        "fortuneType": "uncertain_luck",
-        "rate": 1.0
-    },
-    {
-        "id": 27,
-        "omikujiGroupId": 4,
-        "fortuneType": "misfortune",
-        "rate": 1.0
-    },
-    {
-        "id": 28,
-        "omikujiGroupId": 4,
-        "fortuneType": "grate_misfortune",
-        "rate": 1.0
-    }
+  {
+    "id": 1,
+    "omikujiGroupId": 1,
+    "fortuneType": "grate_fortune",
+    "rate": 1.0
+  },
+  {
+    "id": 2,
+    "omikujiGroupId": 1,
+    "fortuneType": "fortune",
+    "rate": 1.0
+  },
+  {
+    "id": 3,
+    "omikujiGroupId": 1,
+    "fortuneType": "middle_fortune",
+    "rate": 1.0
+  },
+  {
+    "id": 4,
+    "omikujiGroupId": 1,
+    "fortuneType": "small_fortune",
+    "rate": 1.0
+  },
+  {
+    "id": 5,
+    "omikujiGroupId": 1,
+    "fortuneType": "uncertain_luck",
+    "rate": 1.0
+  },
+  {
+    "id": 6,
+    "omikujiGroupId": 1,
+    "fortuneType": "misfortune",
+    "rate": 1.0
+  },
+  {
+    "id": 7,
+    "omikujiGroupId": 1,
+    "fortuneType": "grate_misfortune",
+    "rate": 1.0
+  },
+  {
+    "id": 8,
+    "omikujiGroupId": 2,
+    "fortuneType": "grate_fortune",
+    "rate": 1.0
+  },
+  {
+    "id": 9,
+    "omikujiGroupId": 2,
+    "fortuneType": "fortune",
+    "rate": 1.0
+  },
+  {
+    "id": 10,
+    "omikujiGroupId": 2,
+    "fortuneType": "middle_fortune",
+    "rate": 1.0
+  },
+  {
+    "id": 11,
+    "omikujiGroupId": 2,
+    "fortuneType": "small_fortune",
+    "rate": 1.0
+  },
+  {
+    "id": 12,
+    "omikujiGroupId": 2,
+    "fortuneType": "uncertain_luck",
+    "rate": 1.0
+  },
+  {
+    "id": 13,
+    "omikujiGroupId": 2,
+    "fortuneType": "misfortune",
+    "rate": 1.0
+  },
+  {
+    "id": 14,
+    "omikujiGroupId": 2,
+    "fortuneType": "grate_misfortune",
+    "rate": 1.0
+  },
+  {
+    "id": 15,
+    "omikujiGroupId": 3,
+    "fortuneType": "grate_fortune",
+    "rate": 1.0
+  },
+  {
+    "id": 16,
+    "omikujiGroupId": 3,
+    "fortuneType": "fortune",
+    "rate": 1.0
+  },
+  {
+    "id": 17,
+    "omikujiGroupId": 3,
+    "fortuneType": "middle_fortune",
+    "rate": 1.0
+  },
+  {
+    "id": 18,
+    "omikujiGroupId": 3,
+    "fortuneType": "small_fortune",
+    "rate": 1.0
+  },
+  {
+    "id": 19,
+    "omikujiGroupId": 3,
+    "fortuneType": "uncertain_luck",
+    "rate": 1.0
+  },
+  {
+    "id": 20,
+    "omikujiGroupId": 3,
+    "fortuneType": "misfortune",
+    "rate": 1.0
+  },
+  {
+    "id": 21,
+    "omikujiGroupId": 3,
+    "fortuneType": "grate_misfortune",
+    "rate": 1.0
+  },
+  {
+    "id": 22,
+    "omikujiGroupId": 4,
+    "fortuneType": "grate_fortune",
+    "rate": 1.0
+  },
+  {
+    "id": 23,
+    "omikujiGroupId": 4,
+    "fortuneType": "fortune",
+    "rate": 1.0
+  },
+  {
+    "id": 24,
+    "omikujiGroupId": 4,
+    "fortuneType": "middle_fortune",
+    "rate": 1.0
+  },
+  {
+    "id": 25,
+    "omikujiGroupId": 4,
+    "fortuneType": "small_fortune",
+    "rate": 1.0
+  },
+  {
+    "id": 26,
+    "omikujiGroupId": 4,
+    "fortuneType": "uncertain_luck",
+    "rate": 1.0
+  },
+  {
+    "id": 27,
+    "omikujiGroupId": 4,
+    "fortuneType": "misfortune",
+    "rate": 1.0
+  },
+  {
+    "id": 28,
+    "omikujiGroupId": 4,
+    "fortuneType": "grate_misfortune",
+    "rate": 1.0
+  }
 ]

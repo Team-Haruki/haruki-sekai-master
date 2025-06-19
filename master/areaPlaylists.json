@@ -1,130 +1,130 @@
 [
-    {
-        "id": 1,
-        "areaId": 5,
-        "musicId": 1,
-        "assetbundleName": "leoneed_untitled",
-        "bgmName": "bgm_area_leoneed_untitled",
-        "releaseConditionId": 999999
-    },
-    {
-        "id": 2,
-        "areaId": 7,
-        "musicId": 2,
-        "assetbundleName": "moremore_untitled",
-        "bgmName": "bgm_area_moremore_untitled",
-        "releaseConditionId": 999999
-    },
-    {
-        "id": 3,
-        "areaId": 8,
-        "musicId": 3,
-        "assetbundleName": "vividbad_untitled",
-        "bgmName": "bgm_area_vividbad_untitled",
-        "releaseConditionId": 999999
-    },
-    {
-        "id": 4,
-        "areaId": 9,
-        "musicId": 8,
-        "assetbundleName": "wonderlands_untitled",
-        "bgmName": "bgm_area_wonderlands_untitled",
-        "releaseConditionId": 999999
-    },
-    {
-        "id": 5,
-        "areaId": 10,
-        "musicId": 10,
-        "assetbundleName": "nightcode_untitled",
-        "bgmName": "bgm_area_nightcode_untitled",
-        "releaseConditionId": 999999
-    },
-    {
-        "id": 6,
-        "areaId": 14,
-        "musicId": 1,
-        "assetbundleName": "collaboration_akuno",
-        "bgmName": "bgm_area_akunocollabo",
-        "releaseConditionId": 999999
-    },
-    {
-        "id": 7,
-        "areaId": 17,
-        "musicId": 99,
-        "assetbundleName": "leoneed_untitled_2",
-        "bgmName": "bgm_area_leoneed_untitled_2",
-        "releaseConditionId": 999999
-    },
-    {
-        "id": 8,
-        "areaId": 18,
-        "musicId": 99,
-        "assetbundleName": "moremore_untitled_2",
-        "bgmName": "bgm_area_moremore_untitled_2",
-        "releaseConditionId": 999999
-    },
-    {
-        "id": 9,
-        "areaId": 19,
-        "musicId": 99,
-        "assetbundleName": "vividbad_untitled_2",
-        "bgmName": "bgm_area_vividbad_untitled_2",
-        "releaseConditionId": 999999
-    },
-    {
-        "id": 10,
-        "areaId": 20,
-        "musicId": 99,
-        "assetbundleName": "wonderlands_untitled_2",
-        "bgmName": "bgm_area_wonderlands_untitled_2",
-        "releaseConditionId": 999999
-    },
-    {
-        "id": 11,
-        "areaId": 21,
-        "musicId": 99,
-        "assetbundleName": "nightcode_untitled_2",
-        "bgmName": "bgm_area_nightcode_untitled_2",
-        "releaseConditionId": 999999
-    },
-    {
-        "id": 12,
-        "areaId": 22,
-        "musicId": 1,
-        "assetbundleName": "collaboration_sanrio",
-        "bgmName": "bgm_area_sanrio_collabo",
-        "releaseConditionId": 999999
-    },
-    {
-        "id": 13,
-        "areaId": 23,
-        "musicId": 99,
-        "assetbundleName": "april_fool_2024_01",
-        "bgmName": "bgm_april_fool_2024_01",
-        "releaseConditionId": 1
-    },
-    {
-        "id": 14,
-        "areaId": 24,
-        "musicId": 99,
-        "assetbundleName": "april_fool_2024_02",
-        "bgmName": "bgm_april_fool_2024_02",
-        "releaseConditionId": 1
-    },
-    {
-        "id": 15,
-        "areaId": 25,
-        "musicId": 1,
-        "assetbundleName": "bgm_area_movie_2025",
-        "bgmName": "bgm_area_movie_2025",
-        "releaseConditionId": 1
-    },
-    {
-        "id": 16,
-        "areaId": 26,
-        "musicId": 1,
-        "assetbundleName": "bgm_area_e_collabo",
-        "bgmName": "bgm_area_e_collabo",
-        "releaseConditionId": 1
-    }
+  {
+    "id": 1,
+    "areaId": 5,
+    "musicId": 1,
+    "assetbundleName": "leoneed_untitled",
+    "bgmName": "bgm_area_leoneed_untitled",
+    "releaseConditionId": 999999
+  },
+  {
+    "id": 2,
+    "areaId": 7,
+    "musicId": 2,
+    "assetbundleName": "moremore_untitled",
+    "bgmName": "bgm_area_moremore_untitled",
+    "releaseConditionId": 999999
+  },
+  {
+    "id": 3,
+    "areaId": 8,
+    "musicId": 3,
+    "assetbundleName": "vividbad_untitled",
+    "bgmName": "bgm_area_vividbad_untitled",
+    "releaseConditionId": 999999
+  },
+  {
+    "id": 4,
+    "areaId": 9,
+    "musicId": 8,
+    "assetbundleName": "wonderlands_untitled",
+    "bgmName": "bgm_area_wonderlands_untitled",
+    "releaseConditionId": 999999
+  },
+  {
+    "id": 5,
+    "areaId": 10,
+    "musicId": 10,
+    "assetbundleName": "nightcode_untitled",
+    "bgmName": "bgm_area_nightcode_untitled",
+    "releaseConditionId": 999999
+  },
+  {
+    "id": 6,
+    "areaId": 14,
+    "musicId": 1,
+    "assetbundleName": "collaboration_akuno",
+    "bgmName": "bgm_area_akunocollabo",
+    "releaseConditionId": 999999
+  },
+  {
+    "id": 7,
+    "areaId": 17,
+    "musicId": 99,
+    "assetbundleName": "leoneed_untitled_2",
+    "bgmName": "bgm_area_leoneed_untitled_2",
+    "releaseConditionId": 999999
+  },
+  {
+    "id": 8,
+    "areaId": 18,
+    "musicId": 99,
+    "assetbundleName": "moremore_untitled_2",
+    "bgmName": "bgm_area_moremore_untitled_2",
+    "releaseConditionId": 999999
+  },
+  {
+    "id": 9,
+    "areaId": 19,
+    "musicId": 99,
+    "assetbundleName": "vividbad_untitled_2",
+    "bgmName": "bgm_area_vividbad_untitled_2",
+    "releaseConditionId": 999999
+  },
+  {
+    "id": 10,
+    "areaId": 20,
+    "musicId": 99,
+    "assetbundleName": "wonderlands_untitled_2",
+    "bgmName": "bgm_area_wonderlands_untitled_2",
+    "releaseConditionId": 999999
+  },
+  {
+    "id": 11,
+    "areaId": 21,
+    "musicId": 99,
+    "assetbundleName": "nightcode_untitled_2",
+    "bgmName": "bgm_area_nightcode_untitled_2",
+    "releaseConditionId": 999999
+  },
+  {
+    "id": 12,
+    "areaId": 22,
+    "musicId": 1,
+    "assetbundleName": "collaboration_sanrio",
+    "bgmName": "bgm_area_sanrio_collabo",
+    "releaseConditionId": 999999
+  },
+  {
+    "id": 13,
+    "areaId": 23,
+    "musicId": 99,
+    "assetbundleName": "april_fool_2024_01",
+    "bgmName": "bgm_april_fool_2024_01",
+    "releaseConditionId": 1
+  },
+  {
+    "id": 14,
+    "areaId": 24,
+    "musicId": 99,
+    "assetbundleName": "april_fool_2024_02",
+    "bgmName": "bgm_april_fool_2024_02",
+    "releaseConditionId": 1
+  },
+  {
+    "id": 15,
+    "areaId": 25,
+    "musicId": 1,
+    "assetbundleName": "bgm_area_movie_2025",
+    "bgmName": "bgm_area_movie_2025",
+    "releaseConditionId": 1
+  },
+  {
+    "id": 16,
+    "areaId": 26,
+    "musicId": 1,
+    "assetbundleName": "bgm_area_e_collabo",
+    "bgmName": "bgm_area_e_collabo",
+    "releaseConditionId": 1
+  }
 ]

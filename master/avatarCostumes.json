@@ -1,854 +1,854 @@
 [
-    {
-        "id": 1,
-        "seq": 10,
-        "name": "未設定",
-        "assetbundleName": "default"
-    },
-    {
-        "id": 101,
-        "seq": 101,
-        "name": "一歌サポーターシャツ",
-        "assetbundleName": "avatar_costume_0001"
-    },
-    {
-        "id": 102,
-        "seq": 102,
-        "name": "咲希サポーターシャツ",
-        "assetbundleName": "avatar_costume_0002"
-    },
-    {
-        "id": 103,
-        "seq": 103,
-        "name": "穂波サポーターシャツ",
-        "assetbundleName": "avatar_costume_0003"
-    },
-    {
-        "id": 104,
-        "seq": 104,
-        "name": "志歩サポーターシャツ",
-        "assetbundleName": "avatar_costume_0004"
-    },
-    {
-        "id": 105,
-        "seq": 105,
-        "name": "みのりサポーターシャツ",
-        "assetbundleName": "avatar_costume_0005"
-    },
-    {
-        "id": 106,
-        "seq": 106,
-        "name": "遥サポーターシャツ",
-        "assetbundleName": "avatar_costume_0006"
-    },
-    {
-        "id": 107,
-        "seq": 107,
-        "name": "愛莉サポーターシャツ",
-        "assetbundleName": "avatar_costume_0007"
-    },
-    {
-        "id": 108,
-        "seq": 108,
-        "name": "雫サポーターシャツ",
-        "assetbundleName": "avatar_costume_0008"
-    },
-    {
-        "id": 109,
-        "seq": 109,
-        "name": "こはねサポーターシャツ",
-        "assetbundleName": "avatar_costume_0009"
-    },
-    {
-        "id": 110,
-        "seq": 110,
-        "name": "杏サポーターシャツ",
-        "assetbundleName": "avatar_costume_0010"
-    },
-    {
-        "id": 111,
-        "seq": 111,
-        "name": "彰人サポーターシャツ",
-        "assetbundleName": "avatar_costume_0011"
-    },
-    {
-        "id": 112,
-        "seq": 112,
-        "name": "冬弥サポーターシャツ",
-        "assetbundleName": "avatar_costume_0012"
-    },
-    {
-        "id": 113,
-        "seq": 113,
-        "name": "司サポーターシャツ",
-        "assetbundleName": "avatar_costume_0013"
-    },
-    {
-        "id": 114,
-        "seq": 114,
-        "name": "えむサポーターシャツ",
-        "assetbundleName": "avatar_costume_0014"
-    },
-    {
-        "id": 115,
-        "seq": 115,
-        "name": "寧々サポーターシャツ",
-        "assetbundleName": "avatar_costume_0015"
-    },
-    {
-        "id": 116,
-        "seq": 116,
-        "name": "類サポーターシャツ",
-        "assetbundleName": "avatar_costume_0016"
-    },
-    {
-        "id": 117,
-        "seq": 117,
-        "name": "奏サポーターシャツ",
-        "assetbundleName": "avatar_costume_0017"
-    },
-    {
-        "id": 118,
-        "seq": 118,
-        "name": "まふゆサポーターシャツ",
-        "assetbundleName": "avatar_costume_0018"
-    },
-    {
-        "id": 119,
-        "seq": 119,
-        "name": "絵名サポーターシャツ",
-        "assetbundleName": "avatar_costume_0019"
-    },
-    {
-        "id": 120,
-        "seq": 120,
-        "name": "瑞希サポーターシャツ",
-        "assetbundleName": "avatar_costume_0020"
-    },
-    {
-        "id": 121,
-        "seq": 121,
-        "name": "ミクサポーターシャツ",
-        "assetbundleName": "avatar_costume_0021"
-    },
-    {
-        "id": 122,
-        "seq": 122,
-        "name": "リンサポーターシャツ",
-        "assetbundleName": "avatar_costume_0022"
-    },
-    {
-        "id": 123,
-        "seq": 123,
-        "name": "レンサポーターシャツ",
-        "assetbundleName": "avatar_costume_0023"
-    },
-    {
-        "id": 124,
-        "seq": 124,
-        "name": "ルカサポーターシャツ",
-        "assetbundleName": "avatar_costume_0024"
-    },
-    {
-        "id": 125,
-        "seq": 125,
-        "name": "MEIKOサポーターシャツ",
-        "assetbundleName": "avatar_costume_0025"
-    },
-    {
-        "id": 126,
-        "seq": 126,
-        "name": "KAITOサポーターシャツ",
-        "assetbundleName": "avatar_costume_0026"
-    },
-    {
-        "id": 127,
-        "seq": 127,
-        "name": "Leo\/need応援法被",
-        "assetbundleName": "avatar_costume_0027"
-    },
-    {
-        "id": 128,
-        "seq": 128,
-        "name": "MORE MORE JUMP！応援法被",
-        "assetbundleName": "avatar_costume_0028"
-    },
-    {
-        "id": 129,
-        "seq": 129,
-        "name": "Vivid BAD SQUAD応援法被",
-        "assetbundleName": "avatar_costume_0029"
-    },
-    {
-        "id": 130,
-        "seq": 130,
-        "name": "ワンダーランズ×ショウタイム応援法被",
-        "assetbundleName": "avatar_costume_0030"
-    },
-    {
-        "id": 131,
-        "seq": 131,
-        "name": "25時、ナイトコードで。応援法被",
-        "assetbundleName": "avatar_costume_0031"
-    },
-    {
-        "id": 132,
-        "seq": 132,
-        "name": "バーチャル・シンガー応援法被",
-        "assetbundleName": "avatar_costume_0032"
-    },
-    {
-        "id": 138,
-        "seq": 138,
-        "name": "ラッコシャツ",
-        "assetbundleName": "avatar_costume_0038"
-    },
-    {
-        "id": 139,
-        "seq": 139,
-        "name": "推しが尊いシャツ",
-        "assetbundleName": "avatar_costume_0039"
-    },
-    {
-        "id": 140,
-        "seq": 140,
-        "name": "おだんご大好きシャツ",
-        "assetbundleName": "avatar_costume_0040"
-    },
-    {
-        "id": 141,
-        "seq": 141,
-        "name": "さくらもち大好きシャツ",
-        "assetbundleName": "avatar_costume_0041"
-    },
-    {
-        "id": 142,
-        "seq": 142,
-        "name": "パンケーキ大好きシャツ",
-        "assetbundleName": "avatar_costume_0042"
-    },
-    {
-        "id": 143,
-        "seq": 143,
-        "name": "チーズケーキ大好きシャツ",
-        "assetbundleName": "avatar_costume_0043"
-    },
-    {
-        "id": 144,
-        "seq": 144,
-        "name": "洋装ブライダル派シャツ",
-        "assetbundleName": "avatar_costume_0044"
-    },
-    {
-        "id": 145,
-        "seq": 145,
-        "name": "和装ブライダル派シャツ",
-        "assetbundleName": "avatar_costume_0045"
-    },
-    {
-        "id": 146,
-        "seq": 146,
-        "name": "屋上で食べようシャツ",
-        "assetbundleName": "avatar_costume_0046"
-    },
-    {
-        "id": 147,
-        "seq": 147,
-        "name": "教室で食べようシャツ",
-        "assetbundleName": "avatar_costume_0047"
-    },
-    {
-        "id": 148,
-        "seq": 148,
-        "name": "ボートで波に揺られたいTシャツ",
-        "assetbundleName": "avatar_costume_0048"
-    },
-    {
-        "id": 149,
-        "seq": 149,
-        "name": "浮き輪で波に揺られたいTシャツ",
-        "assetbundleName": "avatar_costume_0049"
-    },
-    {
-        "id": 150,
-        "seq": 150,
-        "name": "栗大好きＴシャツ",
-        "assetbundleName": "avatar_costume_0050"
-    },
-    {
-        "id": 151,
-        "seq": 151,
-        "name": "柿大好きＴシャツ",
-        "assetbundleName": "avatar_costume_0051"
-    },
-    {
-        "id": 152,
-        "seq": 152,
-        "name": "1st Anniversaryシャツ",
-        "assetbundleName": "avatar_costume_0052"
-    },
-    {
-        "id": 153,
-        "seq": 153,
-        "name": "缶バッジ集めたいＴシャツ",
-        "assetbundleName": "avatar_costume_0053"
-    },
-    {
-        "id": 154,
-        "seq": 154,
-        "name": "アクキー集めたいＴシャツ",
-        "assetbundleName": "avatar_costume_0054"
-    },
-    {
-        "id": 155,
-        "seq": 155,
-        "name": "「CRASH」ライブTシャツ（白）",
-        "assetbundleName": "avatar_costume_0055"
-    },
-    {
-        "id": 156,
-        "seq": 156,
-        "name": "「CRASH」ライブTシャツ（黒）",
-        "assetbundleName": "avatar_costume_0056"
-    },
-    {
-        "id": 157,
-        "seq": 157,
-        "name": "カレーライス大好きＴシャツ",
-        "assetbundleName": "avatar_costume_0057"
-    },
-    {
-        "id": 158,
-        "seq": 158,
-        "name": "フライドポテト大好きＴシャツ",
-        "assetbundleName": "avatar_costume_0058"
-    },
-    {
-        "id": 159,
-        "seq": 159,
-        "name": "雪大好きＴシャツ",
-        "assetbundleName": "avatar_costume_0059"
-    },
-    {
-        "id": 160,
-        "seq": 160,
-        "name": "イルミネーション大好きＴシャツ",
-        "assetbundleName": "avatar_costume_0060"
-    },
-    {
-        "id": 161,
-        "seq": 161,
-        "name": "かるたで遊ぼうＴシャツ",
-        "assetbundleName": "avatar_costume_0061"
-    },
-    {
-        "id": 162,
-        "seq": 162,
-        "name": "福笑いで遊ぼうＴシャツ",
-        "assetbundleName": "avatar_costume_0062"
-    },
-    {
-        "id": 163,
-        "seq": 163,
-        "name": "バレンタインあげたいＴシャツ",
-        "assetbundleName": "avatar_costume_0063"
-    },
-    {
-        "id": 164,
-        "seq": 164,
-        "name": "バレンタインもらいたいＴシャツ",
-        "assetbundleName": "avatar_costume_0064"
-    },
-    {
-        "id": 165,
-        "seq": 165,
-        "name": "ビターチョコ大好きＴシャツ",
-        "assetbundleName": "avatar_costume_0065"
-    },
-    {
-        "id": 166,
-        "seq": 166,
-        "name": "ミルクチョコ大好きＴシャツ",
-        "assetbundleName": "avatar_costume_0066"
-    },
-    {
-        "id": 167,
-        "seq": 167,
-        "name": "桜ラテ飲みたいＴシャツ",
-        "assetbundleName": "avatar_costume_0067"
-    },
-    {
-        "id": 168,
-        "seq": 168,
-        "name": "桜スムージー飲みたいＴシャツ",
-        "assetbundleName": "avatar_costume_0068"
-    },
-    {
-        "id": 169,
-        "seq": 169,
-        "name": "盛り上がる曲聴きたいTシャツ",
-        "assetbundleName": "avatar_costume_0069"
-    },
-    {
-        "id": 170,
-        "seq": 170,
-        "name": "しっとりした曲聴きたいTシャツ",
-        "assetbundleName": "avatar_costume_0070"
-    },
-    {
-        "id": 171,
-        "seq": 171,
-        "name": "チャペルウェディング派Tシャツ",
-        "assetbundleName": "avatar_costume_0071"
-    },
-    {
-        "id": 172,
-        "seq": 172,
-        "name": "ガーデンウェディング派Tシャツ",
-        "assetbundleName": "avatar_costume_0072"
-    },
-    {
-        "id": 173,
-        "seq": 173,
-        "name": "野球で遊ぼうTシャツ",
-        "assetbundleName": "avatar_costume_0073"
-    },
-    {
-        "id": 174,
-        "seq": 174,
-        "name": "サッカーで遊ぼうTシャツ",
-        "assetbundleName": "avatar_costume_0074"
-    },
-    {
-        "id": 175,
-        "seq": 175,
-        "name": "みどりぷよ消したいTシャツ",
-        "assetbundleName": "avatar_costume_0075"
-    },
-    {
-        "id": 176,
-        "seq": 176,
-        "name": "おじゃまぷよ消したいTシャツ",
-        "assetbundleName": "avatar_costume_0076"
-    },
-    {
-        "id": 177,
-        "seq": 177,
-        "name": "とんこつラーメン食べたいTシャツ",
-        "assetbundleName": "avatar_costume_0077"
-    },
-    {
-        "id": 178,
-        "seq": 178,
-        "name": "しょうゆラーメン食べたいTシャツ",
-        "assetbundleName": "avatar_costume_0078"
-    },
-    {
-        "id": 179,
-        "seq": 179,
-        "name": "「2nd ANNIVERSARY SPECIAL STAGE」スペシャルライブTシャツ",
-        "assetbundleName": "avatar_costume_0079"
-    },
-    {
-        "id": 180,
-        "seq": 180,
-        "name": "「2nd ANNIVERSARY SPECIAL STAGE」ライブTシャツ（白）",
-        "assetbundleName": "avatar_costume_0080"
-    },
-    {
-        "id": 181,
-        "seq": 181,
-        "name": "「2nd ANNIVERSARY SPECIAL STAGE」ライブTシャツ（黒）",
-        "assetbundleName": "avatar_costume_0081"
-    },
-    {
-        "id": 182,
-        "seq": 182,
-        "name": "りんご飴食べたいTシャツ",
-        "assetbundleName": "avatar_costume_0082"
-    },
-    {
-        "id": 183,
-        "seq": 183,
-        "name": "わたあめ食べたいTシャツ",
-        "assetbundleName": "avatar_costume_0083"
-    },
-    {
-        "id": 184,
-        "seq": 184,
-        "name": "文化祭でカフェしたいTシャツ",
-        "assetbundleName": "avatar_costume_0084"
-    },
-    {
-        "id": 185,
-        "seq": 185,
-        "name": "文化祭でお化け屋敷したいTシャツ",
-        "assetbundleName": "avatar_costume_0085"
-    },
-    {
-        "id": 186,
-        "seq": 186,
-        "name": "テレビ番組よく見るTシャツ",
-        "assetbundleName": "avatar_costume_0086"
-    },
-    {
-        "id": 187,
-        "seq": 187,
-        "name": "ネット配信よく見るTシャツ",
-        "assetbundleName": "avatar_costume_0087"
-    },
-    {
-        "id": 188,
-        "seq": 188,
-        "name": "山で初日の出見たいTシャツ",
-        "assetbundleName": "avatar_costume_0088"
-    },
-    {
-        "id": 189,
-        "seq": 189,
-        "name": "海で初日の出見たいTシャツ",
-        "assetbundleName": "avatar_costume_0089"
-    },
-    {
-        "id": 190,
-        "seq": 190,
-        "name": "シトラス系の香り大好きTシャツ",
-        "assetbundleName": "avatar_costume_0090"
-    },
-    {
-        "id": 191,
-        "seq": 191,
-        "name": "フローラル系の香り大好きTシャツ",
-        "assetbundleName": "avatar_costume_0091"
-    },
-    {
-        "id": 192,
-        "seq": 192,
-        "name": "コーヒー大好きTシャツ",
-        "assetbundleName": "avatar_costume_0092"
-    },
-    {
-        "id": 193,
-        "seq": 193,
-        "name": "紅茶大好きTシャツ",
-        "assetbundleName": "avatar_costume_0093"
-    },
-    {
-        "id": 194,
-        "seq": 194,
-        "name": "金魚大好きTシャツ",
-        "assetbundleName": "avatar_costume_0094"
-    },
-    {
-        "id": 195,
-        "seq": 195,
-        "name": "グッピー大好きTシャツ",
-        "assetbundleName": "avatar_costume_0095"
-    },
-    {
-        "id": 196,
-        "seq": 196,
-        "name": "「JUMPIN！」ライブTシャツ（白）",
-        "assetbundleName": "avatar_costume_0096"
-    },
-    {
-        "id": 197,
-        "seq": 197,
-        "name": "「JUMPIN！」ライブTシャツ（黒）",
-        "assetbundleName": "avatar_costume_0097"
-    },
-    {
-        "id": 198,
-        "seq": 200,
-        "name": "「SPARKLE」ライブTシャツ（白）",
-        "assetbundleName": "avatar_costume_0098"
-    },
-    {
-        "id": 199,
-        "seq": 201,
-        "name": "「SPARKLE」ライブTシャツ（黒）",
-        "assetbundleName": "avatar_costume_0099"
-    },
-    {
-        "id": 200,
-        "seq": 198,
-        "name": "ファミレス行きたいTシャツ",
-        "assetbundleName": "avatar_costume_0100"
-    },
-    {
-        "id": 201,
-        "seq": 199,
-        "name": "カラオケ行きたいTシャツ",
-        "assetbundleName": "avatar_costume_0101"
-    },
-    {
-        "id": 202,
-        "seq": 202,
-        "name": "ケーキカット大好きTシャツ",
-        "assetbundleName": "avatar_costume_0102"
-    },
-    {
-        "id": 203,
-        "seq": 203,
-        "name": "ブーケトス大好きTシャツ",
-        "assetbundleName": "avatar_costume_0103"
-    },
-    {
-        "id": 204,
-        "seq": 204,
-        "name": "和菓子作り体験したいTシャツ",
-        "assetbundleName": "avatar_costume_0104"
-    },
-    {
-        "id": 205,
-        "seq": 205,
-        "name": "茶道体験したいTシャツ",
-        "assetbundleName": "avatar_costume_0105"
-    },
-    {
-        "id": 206,
-        "seq": 206,
-        "name": "「moment」ライブTシャツ（白）",
-        "assetbundleName": "avatar_costume_0106"
-    },
-    {
-        "id": 207,
-        "seq": 207,
-        "name": "「moment」ライブTシャツ（黒）",
-        "assetbundleName": "avatar_costume_0107"
-    },
-    {
-        "id": 208,
-        "seq": 208,
-        "name": "「STORIES」ライブTシャツ（白）",
-        "assetbundleName": "avatar_costume_0108"
-    },
-    {
-        "id": 209,
-        "seq": 209,
-        "name": "「STORIES」ライブTシャツ（黒）",
-        "assetbundleName": "avatar_costume_0109"
-    },
-    {
-        "id": 210,
-        "seq": 210,
-        "name": "いちごパフェ食べたいTシャツ",
-        "assetbundleName": "avatar_costume_0110"
-    },
-    {
-        "id": 211,
-        "seq": 211,
-        "name": "プリンアラモード食べたいTシャツ",
-        "assetbundleName": "avatar_costume_0111"
-    },
-    {
-        "id": 212,
-        "seq": 214,
-        "name": "歌で応援したいTシャツ",
-        "assetbundleName": "avatar_costume_0112"
-    },
-    {
-        "id": 213,
-        "seq": 215,
-        "name": "演奏で応援したいTシャツ",
-        "assetbundleName": "avatar_costume_0113"
-    },
-    {
-        "id": 214,
-        "seq": 216,
-        "name": "放送委員会入りたいTシャツ",
-        "assetbundleName": "avatar_costume_0114"
-    },
-    {
-        "id": 215,
-        "seq": 217,
-        "name": "飼育委員会入りたいTシャツ",
-        "assetbundleName": "avatar_costume_0115"
-    },
-    {
-        "id": 216,
-        "seq": 218,
-        "name": "「3rd ANNIVERSARY Memorial Stage」スペシャルライブTシャツ",
-        "assetbundleName": "avatar_costume_0118"
-    },
-    {
-        "id": 217,
-        "seq": 219,
-        "name": "「3rd ANNIVERSARY Memorial Stage」ライブTシャツ（白）",
-        "assetbundleName": "avatar_costume_0116"
-    },
-    {
-        "id": 218,
-        "seq": 220,
-        "name": "「3rd ANNIVERSARY Memorial Stage」ライブTシャツ（黒）",
-        "assetbundleName": "avatar_costume_0117"
-    },
-    {
-        "id": 219,
-        "seq": 212,
-        "name": "sekaiuniform",
-        "assetbundleName": "avatar_costume_0119"
-    },
-    {
-        "id": 220,
-        "seq": 213,
-        "name": "スタッフ",
-        "assetbundleName": "avatar_costume_0120"
-    },
-    {
-        "id": 221,
-        "seq": 221,
-        "name": "温泉まんじゅう食べたいTシャツ",
-        "assetbundleName": "avatar_costume_0121"
-    },
-    {
-        "id": 222,
-        "seq": 222,
-        "name": "温泉卵食べたいTシャツ",
-        "assetbundleName": "avatar_costume_0122"
-    },
-    {
-        "id": 223,
-        "seq": 223,
-        "name": "アクション映画観たいTシャツ",
-        "assetbundleName": "avatar_costume_0123"
-    },
-    {
-        "id": 224,
-        "seq": 224,
-        "name": "コメディ映画観たいTシャツ",
-        "assetbundleName": "avatar_costume_0124"
-    },
-    {
-        "id": 225,
-        "seq": 225,
-        "name": "お雑煮食べたいTシャツ",
-        "assetbundleName": "avatar_costume_0125"
-    },
-    {
-        "id": 226,
-        "seq": 226,
-        "name": "おせち食べたいTシャツ",
-        "assetbundleName": "avatar_costume_0126"
-    },
-    {
-        "id": 227,
-        "seq": 227,
-        "name": "カメラで写真撮りたいTシャツ",
-        "assetbundleName": "avatar_costume_0127"
-    },
-    {
-        "id": 228,
-        "seq": 228,
-        "name": "スマホで写真撮りたいTシャツ",
-        "assetbundleName": "avatar_costume_0128"
-    },
-    {
-        "id": 229,
-        "seq": 229,
-        "name": "ハーブティー飲みたいTシャツ",
-        "assetbundleName": "avatar_costume_0129"
-    },
-    {
-        "id": 230,
-        "seq": 230,
-        "name": "ジンジャーティー飲みたいTシャツ",
-        "assetbundleName": "avatar_costume_0130"
-    },
-    {
-        "id": 231,
-        "seq": 231,
-        "name": "フリスビーしたいTシャツ",
-        "assetbundleName": "avatar_costume_0131"
-    },
-    {
-        "id": 232,
-        "seq": 232,
-        "name": "お散歩したいTシャツ",
-        "assetbundleName": "avatar_costume_0132"
-    },
-    {
-        "id": 233,
-        "seq": 235,
-        "name": "「RESONANCE BEATS!!」ライブTシャツ（白）",
-        "assetbundleName": "avatar_costume_0133"
-    },
-    {
-        "id": 234,
-        "seq": 236,
-        "name": "「RESONANCE BEATS!!」ライブTシャツ（黒）",
-        "assetbundleName": "avatar_costume_0134"
-    },
-    {
-        "id": 237,
-        "seq": 237,
-        "name": "「RESONANCE BEATS!!」スペシャルライブTシャツ",
-        "assetbundleName": "avatar_costume_0137"
-    },
-    {
-        "id": 238,
-        "seq": 233,
-        "name": "水族館で結婚式見てみたいTシャツ",
-        "assetbundleName": "avatar_costume_0138"
-    },
-    {
-        "id": 239,
-        "seq": 234,
-        "name": "プラネタリウムで結婚式見てみたいTシャツ",
-        "assetbundleName": "avatar_costume_0139"
-    },
-    {
-        "id": 242,
-        "seq": 242,
-        "name": "「4th ANNIVERSARY Brilliant Stage」スペシャルライブTシャツ",
-        "assetbundleName": "avatar_costume_0142"
-    },
-    {
-        "id": 243,
-        "seq": 243,
-        "name": "「4th ANNIVERSARY Brilliant Stage」ライブTシャツ（白）",
-        "assetbundleName": "avatar_costume_0143"
-    },
-    {
-        "id": 244,
-        "seq": 244,
-        "name": "「4th ANNIVERSARY Brilliant Stage」ライブTシャツ（黒）",
-        "assetbundleName": "avatar_costume_0144"
-    },
-    {
-        "id": 245,
-        "seq": 245,
-        "name": "ESアイドル衣装",
-        "assetbundleName": "avatar_costume_0145"
-    },
-    {
-        "id": 246,
-        "seq": 246,
-        "name": "「Ensemble in SEKAI」スペシャルライブTシャツ",
-        "assetbundleName": "avatar_costume_0146"
-    },
-    {
-        "id": 247,
-        "seq": 247,
-        "name": "「Ensemble in SEKAI」ライブTシャツ（白）",
-        "assetbundleName": "avatar_costume_0147"
-    },
-    {
-        "id": 248,
-        "seq": 248,
-        "name": "「Ensemble in SEKAI」ライブTシャツ（黒）",
-        "assetbundleName": "avatar_costume_0148"
-    },
-    {
-        "id": 249,
-        "seq": 249,
-        "name": "おなまえTシャツ「こんどう」",
-        "assetbundleName": "avatar_costume_0149"
-    },
-    {
-        "id": 250,
-        "seq": 250,
-        "name": "おなまえTシャツ「あだち」",
-        "assetbundleName": "avatar_costume_0150"
-    }
+  {
+    "id": 1,
+    "seq": 10,
+    "name": "未設定",
+    "assetbundleName": "default"
+  },
+  {
+    "id": 101,
+    "seq": 101,
+    "name": "一歌サポーターシャツ",
+    "assetbundleName": "avatar_costume_0001"
+  },
+  {
+    "id": 102,
+    "seq": 102,
+    "name": "咲希サポーターシャツ",
+    "assetbundleName": "avatar_costume_0002"
+  },
+  {
+    "id": 103,
+    "seq": 103,
+    "name": "穂波サポーターシャツ",
+    "assetbundleName": "avatar_costume_0003"
+  },
+  {
+    "id": 104,
+    "seq": 104,
+    "name": "志歩サポーターシャツ",
+    "assetbundleName": "avatar_costume_0004"
+  },
+  {
+    "id": 105,
+    "seq": 105,
+    "name": "みのりサポーターシャツ",
+    "assetbundleName": "avatar_costume_0005"
+  },
+  {
+    "id": 106,
+    "seq": 106,
+    "name": "遥サポーターシャツ",
+    "assetbundleName": "avatar_costume_0006"
+  },
+  {
+    "id": 107,
+    "seq": 107,
+    "name": "愛莉サポーターシャツ",
+    "assetbundleName": "avatar_costume_0007"
+  },
+  {
+    "id": 108,
+    "seq": 108,
+    "name": "雫サポーターシャツ",
+    "assetbundleName": "avatar_costume_0008"
+  },
+  {
+    "id": 109,
+    "seq": 109,
+    "name": "こはねサポーターシャツ",
+    "assetbundleName": "avatar_costume_0009"
+  },
+  {
+    "id": 110,
+    "seq": 110,
+    "name": "杏サポーターシャツ",
+    "assetbundleName": "avatar_costume_0010"
+  },
+  {
+    "id": 111,
+    "seq": 111,
+    "name": "彰人サポーターシャツ",
+    "assetbundleName": "avatar_costume_0011"
+  },
+  {
+    "id": 112,
+    "seq": 112,
+    "name": "冬弥サポーターシャツ",
+    "assetbundleName": "avatar_costume_0012"
+  },
+  {
+    "id": 113,
+    "seq": 113,
+    "name": "司サポーターシャツ",
+    "assetbundleName": "avatar_costume_0013"
+  },
+  {
+    "id": 114,
+    "seq": 114,
+    "name": "えむサポーターシャツ",
+    "assetbundleName": "avatar_costume_0014"
+  },
+  {
+    "id": 115,
+    "seq": 115,
+    "name": "寧々サポーターシャツ",
+    "assetbundleName": "avatar_costume_0015"
+  },
+  {
+    "id": 116,
+    "seq": 116,
+    "name": "類サポーターシャツ",
+    "assetbundleName": "avatar_costume_0016"
+  },
+  {
+    "id": 117,
+    "seq": 117,
+    "name": "奏サポーターシャツ",
+    "assetbundleName": "avatar_costume_0017"
+  },
+  {
+    "id": 118,
+    "seq": 118,
+    "name": "まふゆサポーターシャツ",
+    "assetbundleName": "avatar_costume_0018"
+  },
+  {
+    "id": 119,
+    "seq": 119,
+    "name": "絵名サポーターシャツ",
+    "assetbundleName": "avatar_costume_0019"
+  },
+  {
+    "id": 120,
+    "seq": 120,
+    "name": "瑞希サポーターシャツ",
+    "assetbundleName": "avatar_costume_0020"
+  },
+  {
+    "id": 121,
+    "seq": 121,
+    "name": "ミクサポーターシャツ",
+    "assetbundleName": "avatar_costume_0021"
+  },
+  {
+    "id": 122,
+    "seq": 122,
+    "name": "リンサポーターシャツ",
+    "assetbundleName": "avatar_costume_0022"
+  },
+  {
+    "id": 123,
+    "seq": 123,
+    "name": "レンサポーターシャツ",
+    "assetbundleName": "avatar_costume_0023"
+  },
+  {
+    "id": 124,
+    "seq": 124,
+    "name": "ルカサポーターシャツ",
+    "assetbundleName": "avatar_costume_0024"
+  },
+  {
+    "id": 125,
+    "seq": 125,
+    "name": "MEIKOサポーターシャツ",
+    "assetbundleName": "avatar_costume_0025"
+  },
+  {
+    "id": 126,
+    "seq": 126,
+    "name": "KAITOサポーターシャツ",
+    "assetbundleName": "avatar_costume_0026"
+  },
+  {
+    "id": 127,
+    "seq": 127,
+    "name": "Leo/need応援法被",
+    "assetbundleName": "avatar_costume_0027"
+  },
+  {
+    "id": 128,
+    "seq": 128,
+    "name": "MORE MORE JUMP！応援法被",
+    "assetbundleName": "avatar_costume_0028"
+  },
+  {
+    "id": 129,
+    "seq": 129,
+    "name": "Vivid BAD SQUAD応援法被",
+    "assetbundleName": "avatar_costume_0029"
+  },
+  {
+    "id": 130,
+    "seq": 130,
+    "name": "ワンダーランズ×ショウタイム応援法被",
+    "assetbundleName": "avatar_costume_0030"
+  },
+  {
+    "id": 131,
+    "seq": 131,
+    "name": "25時、ナイトコードで。応援法被",
+    "assetbundleName": "avatar_costume_0031"
+  },
+  {
+    "id": 132,
+    "seq": 132,
+    "name": "バーチャル・シンガー応援法被",
+    "assetbundleName": "avatar_costume_0032"
+  },
+  {
+    "id": 138,
+    "seq": 138,
+    "name": "ラッコシャツ",
+    "assetbundleName": "avatar_costume_0038"
+  },
+  {
+    "id": 139,
+    "seq": 139,
+    "name": "推しが尊いシャツ",
+    "assetbundleName": "avatar_costume_0039"
+  },
+  {
+    "id": 140,
+    "seq": 140,
+    "name": "おだんご大好きシャツ",
+    "assetbundleName": "avatar_costume_0040"
+  },
+  {
+    "id": 141,
+    "seq": 141,
+    "name": "さくらもち大好きシャツ",
+    "assetbundleName": "avatar_costume_0041"
+  },
+  {
+    "id": 142,
+    "seq": 142,
+    "name": "パンケーキ大好きシャツ",
+    "assetbundleName": "avatar_costume_0042"
+  },
+  {
+    "id": 143,
+    "seq": 143,
+    "name": "チーズケーキ大好きシャツ",
+    "assetbundleName": "avatar_costume_0043"
+  },
+  {
+    "id": 144,
+    "seq": 144,
+    "name": "洋装ブライダル派シャツ",
+    "assetbundleName": "avatar_costume_0044"
+  },
+  {
+    "id": 145,
+    "seq": 145,
+    "name": "和装ブライダル派シャツ",
+    "assetbundleName": "avatar_costume_0045"
+  },
+  {
+    "id": 146,
+    "seq": 146,
+    "name": "屋上で食べようシャツ",
+    "assetbundleName": "avatar_costume_0046"
+  },
+  {
+    "id": 147,
+    "seq": 147,
+    "name": "教室で食べようシャツ",
+    "assetbundleName": "avatar_costume_0047"
+  },
+  {
+    "id": 148,
+    "seq": 148,
+    "name": "ボートで波に揺られたいTシャツ",
+    "assetbundleName": "avatar_costume_0048"
+  },
+  {
+    "id": 149,
+    "seq": 149,
+    "name": "浮き輪で波に揺られたいTシャツ",
+    "assetbundleName": "avatar_costume_0049"
+  },
+  {
+    "id": 150,
+    "seq": 150,
+    "name": "栗大好きＴシャツ",
+    "assetbundleName": "avatar_costume_0050"
+  },
+  {
+    "id": 151,
+    "seq": 151,
+    "name": "柿大好きＴシャツ",
+    "assetbundleName": "avatar_costume_0051"
+  },
+  {
+    "id": 152,
+    "seq": 152,
+    "name": "1st Anniversaryシャツ",
+    "assetbundleName": "avatar_costume_0052"
+  },
+  {
+    "id": 153,
+    "seq": 153,
+    "name": "缶バッジ集めたいＴシャツ",
+    "assetbundleName": "avatar_costume_0053"
+  },
+  {
+    "id": 154,
+    "seq": 154,
+    "name": "アクキー集めたいＴシャツ",
+    "assetbundleName": "avatar_costume_0054"
+  },
+  {
+    "id": 155,
+    "seq": 155,
+    "name": "「CRASH」ライブTシャツ（白）",
+    "assetbundleName": "avatar_costume_0055"
+  },
+  {
+    "id": 156,
+    "seq": 156,
+    "name": "「CRASH」ライブTシャツ（黒）",
+    "assetbundleName": "avatar_costume_0056"
+  },
+  {
+    "id": 157,
+    "seq": 157,
+    "name": "カレーライス大好きＴシャツ",
+    "assetbundleName": "avatar_costume_0057"
+  },
+  {
+    "id": 158,
+    "seq": 158,
+    "name": "フライドポテト大好きＴシャツ",
+    "assetbundleName": "avatar_costume_0058"
+  },
+  {
+    "id": 159,
+    "seq": 159,
+    "name": "雪大好きＴシャツ",
+    "assetbundleName": "avatar_costume_0059"
+  },
+  {
+    "id": 160,
+    "seq": 160,
+    "name": "イルミネーション大好きＴシャツ",
+    "assetbundleName": "avatar_costume_0060"
+  },
+  {
+    "id": 161,
+    "seq": 161,
+    "name": "かるたで遊ぼうＴシャツ",
+    "assetbundleName": "avatar_costume_0061"
+  },
+  {
+    "id": 162,
+    "seq": 162,
+    "name": "福笑いで遊ぼうＴシャツ",
+    "assetbundleName": "avatar_costume_0062"
+  },
+  {
+    "id": 163,
+    "seq": 163,
+    "name": "バレンタインあげたいＴシャツ",
+    "assetbundleName": "avatar_costume_0063"
+  },
+  {
+    "id": 164,
+    "seq": 164,
+    "name": "バレンタインもらいたいＴシャツ",
+    "assetbundleName": "avatar_costume_0064"
+  },
+  {
+    "id": 165,
+    "seq": 165,
+    "name": "ビターチョコ大好きＴシャツ",
+    "assetbundleName": "avatar_costume_0065"
+  },
+  {
+    "id": 166,
+    "seq": 166,
+    "name": "ミルクチョコ大好きＴシャツ",
+    "assetbundleName": "avatar_costume_0066"
+  },
+  {
+    "id": 167,
+    "seq": 167,
+    "name": "桜ラテ飲みたいＴシャツ",
+    "assetbundleName": "avatar_costume_0067"
+  },
+  {
+    "id": 168,
+    "seq": 168,
+    "name": "桜スムージー飲みたいＴシャツ",
+    "assetbundleName": "avatar_costume_0068"
+  },
+  {
+    "id": 169,
+    "seq": 169,
+    "name": "盛り上がる曲聴きたいTシャツ",
+    "assetbundleName": "avatar_costume_0069"
+  },
+  {
+    "id": 170,
+    "seq": 170,
+    "name": "しっとりした曲聴きたいTシャツ",
+    "assetbundleName": "avatar_costume_0070"
+  },
+  {
+    "id": 171,
+    "seq": 171,
+    "name": "チャペルウェディング派Tシャツ",
+    "assetbundleName": "avatar_costume_0071"
+  },
+  {
+    "id": 172,
+    "seq": 172,
+    "name": "ガーデンウェディング派Tシャツ",
+    "assetbundleName": "avatar_costume_0072"
+  },
+  {
+    "id": 173,
+    "seq": 173,
+    "name": "野球で遊ぼうTシャツ",
+    "assetbundleName": "avatar_costume_0073"
+  },
+  {
+    "id": 174,
+    "seq": 174,
+    "name": "サッカーで遊ぼうTシャツ",
+    "assetbundleName": "avatar_costume_0074"
+  },
+  {
+    "id": 175,
+    "seq": 175,
+    "name": "みどりぷよ消したいTシャツ",
+    "assetbundleName": "avatar_costume_0075"
+  },
+  {
+    "id": 176,
+    "seq": 176,
+    "name": "おじゃまぷよ消したいTシャツ",
+    "assetbundleName": "avatar_costume_0076"
+  },
+  {
+    "id": 177,
+    "seq": 177,
+    "name": "とんこつラーメン食べたいTシャツ",
+    "assetbundleName": "avatar_costume_0077"
+  },
+  {
+    "id": 178,
+    "seq": 178,
+    "name": "しょうゆラーメン食べたいTシャツ",
+    "assetbundleName": "avatar_costume_0078"
+  },
+  {
+    "id": 179,
+    "seq": 179,
+    "name": "「2nd ANNIVERSARY SPECIAL STAGE」スペシャルライブTシャツ",
+    "assetbundleName": "avatar_costume_0079"
+  },
+  {
+    "id": 180,
+    "seq": 180,
+    "name": "「2nd ANNIVERSARY SPECIAL STAGE」ライブTシャツ（白）",
+    "assetbundleName": "avatar_costume_0080"
+  },
+  {
+    "id": 181,
+    "seq": 181,
+    "name": "「2nd ANNIVERSARY SPECIAL STAGE」ライブTシャツ（黒）",
+    "assetbundleName": "avatar_costume_0081"
+  },
+  {
+    "id": 182,
+    "seq": 182,
+    "name": "りんご飴食べたいTシャツ",
+    "assetbundleName": "avatar_costume_0082"
+  },
+  {
+    "id": 183,
+    "seq": 183,
+    "name": "わたあめ食べたいTシャツ",
+    "assetbundleName": "avatar_costume_0083"
+  },
+  {
+    "id": 184,
+    "seq": 184,
+    "name": "文化祭でカフェしたいTシャツ",
+    "assetbundleName": "avatar_costume_0084"
+  },
+  {
+    "id": 185,
+    "seq": 185,
+    "name": "文化祭でお化け屋敷したいTシャツ",
+    "assetbundleName": "avatar_costume_0085"
+  },
+  {
+    "id": 186,
+    "seq": 186,
+    "name": "テレビ番組よく見るTシャツ",
+    "assetbundleName": "avatar_costume_0086"
+  },
+  {
+    "id": 187,
+    "seq": 187,
+    "name": "ネット配信よく見るTシャツ",
+    "assetbundleName": "avatar_costume_0087"
+  },
+  {
+    "id": 188,
+    "seq": 188,
+    "name": "山で初日の出見たいTシャツ",
+    "assetbundleName": "avatar_costume_0088"
+  },
+  {
+    "id": 189,
+    "seq": 189,
+    "name": "海で初日の出見たいTシャツ",
+    "assetbundleName": "avatar_costume_0089"
+  },
+  {
+    "id": 190,
+    "seq": 190,
+    "name": "シトラス系の香り大好きTシャツ",
+    "assetbundleName": "avatar_costume_0090"
+  },
+  {
+    "id": 191,
+    "seq": 191,
+    "name": "フローラル系の香り大好きTシャツ",
+    "assetbundleName": "avatar_costume_0091"
+  },
+  {
+    "id": 192,
+    "seq": 192,
+    "name": "コーヒー大好きTシャツ",
+    "assetbundleName": "avatar_costume_0092"
+  },
+  {
+    "id": 193,
+    "seq": 193,
+    "name": "紅茶大好きTシャツ",
+    "assetbundleName": "avatar_costume_0093"
+  },
+  {
+    "id": 194,
+    "seq": 194,
+    "name": "金魚大好きTシャツ",
+    "assetbundleName": "avatar_costume_0094"
+  },
+  {
+    "id": 195,
+    "seq": 195,
+    "name": "グッピー大好きTシャツ",
+    "assetbundleName": "avatar_costume_0095"
+  },
+  {
+    "id": 196,
+    "seq": 196,
+    "name": "「JUMPIN！」ライブTシャツ（白）",
+    "assetbundleName": "avatar_costume_0096"
+  },
+  {
+    "id": 197,
+    "seq": 197,
+    "name": "「JUMPIN！」ライブTシャツ（黒）",
+    "assetbundleName": "avatar_costume_0097"
+  },
+  {
+    "id": 198,
+    "seq": 200,
+    "name": "「SPARKLE」ライブTシャツ（白）",
+    "assetbundleName": "avatar_costume_0098"
+  },
+  {
+    "id": 199,
+    "seq": 201,
+    "name": "「SPARKLE」ライブTシャツ（黒）",
+    "assetbundleName": "avatar_costume_0099"
+  },
+  {
+    "id": 200,
+    "seq": 198,
+    "name": "ファミレス行きたいTシャツ",
+    "assetbundleName": "avatar_costume_0100"
+  },
+  {
+    "id": 201,
+    "seq": 199,
+    "name": "カラオケ行きたいTシャツ",
+    "assetbundleName": "avatar_costume_0101"
+  },
+  {
+    "id": 202,
+    "seq": 202,
+    "name": "ケーキカット大好きTシャツ",
+    "assetbundleName": "avatar_costume_0102"
+  },
+  {
+    "id": 203,
+    "seq": 203,
+    "name": "ブーケトス大好きTシャツ",
+    "assetbundleName": "avatar_costume_0103"
+  },
+  {
+    "id": 204,
+    "seq": 204,
+    "name": "和菓子作り体験したいTシャツ",
+    "assetbundleName": "avatar_costume_0104"
+  },
+  {
+    "id": 205,
+    "seq": 205,
+    "name": "茶道体験したいTシャツ",
+    "assetbundleName": "avatar_costume_0105"
+  },
+  {
+    "id": 206,
+    "seq": 206,
+    "name": "「moment」ライブTシャツ（白）",
+    "assetbundleName": "avatar_costume_0106"
+  },
+  {
+    "id": 207,
+    "seq": 207,
+    "name": "「moment」ライブTシャツ（黒）",
+    "assetbundleName": "avatar_costume_0107"
+  },
+  {
+    "id": 208,
+    "seq": 208,
+    "name": "「STORIES」ライブTシャツ（白）",
+    "assetbundleName": "avatar_costume_0108"
+  },
+  {
+    "id": 209,
+    "seq": 209,
+    "name": "「STORIES」ライブTシャツ（黒）",
+    "assetbundleName": "avatar_costume_0109"
+  },
+  {
+    "id": 210,
+    "seq": 210,
+    "name": "いちごパフェ食べたいTシャツ",
+    "assetbundleName": "avatar_costume_0110"
+  },
+  {
+    "id": 211,
+    "seq": 211,
+    "name": "プリンアラモード食べたいTシャツ",
+    "assetbundleName": "avatar_costume_0111"
+  },
+  {
+    "id": 212,
+    "seq": 214,
+    "name": "歌で応援したいTシャツ",
+    "assetbundleName": "avatar_costume_0112"
+  },
+  {
+    "id": 213,
+    "seq": 215,
+    "name": "演奏で応援したいTシャツ",
+    "assetbundleName": "avatar_costume_0113"
+  },
+  {
+    "id": 214,
+    "seq": 216,
+    "name": "放送委員会入りたいTシャツ",
+    "assetbundleName": "avatar_costume_0114"
+  },
+  {
+    "id": 215,
+    "seq": 217,
+    "name": "飼育委員会入りたいTシャツ",
+    "assetbundleName": "avatar_costume_0115"
+  },
+  {
+    "id": 216,
+    "seq": 218,
+    "name": "「3rd ANNIVERSARY Memorial Stage」スペシャルライブTシャツ",
+    "assetbundleName": "avatar_costume_0118"
+  },
+  {
+    "id": 217,
+    "seq": 219,
+    "name": "「3rd ANNIVERSARY Memorial Stage」ライブTシャツ（白）",
+    "assetbundleName": "avatar_costume_0116"
+  },
+  {
+    "id": 218,
+    "seq": 220,
+    "name": "「3rd ANNIVERSARY Memorial Stage」ライブTシャツ（黒）",
+    "assetbundleName": "avatar_costume_0117"
+  },
+  {
+    "id": 219,
+    "seq": 212,
+    "name": "sekaiuniform",
+    "assetbundleName": "avatar_costume_0119"
+  },
+  {
+    "id": 220,
+    "seq": 213,
+    "name": "スタッフ",
+    "assetbundleName": "avatar_costume_0120"
+  },
+  {
+    "id": 221,
+    "seq": 221,
+    "name": "温泉まんじゅう食べたいTシャツ",
+    "assetbundleName": "avatar_costume_0121"
+  },
+  {
+    "id": 222,
+    "seq": 222,
+    "name": "温泉卵食べたいTシャツ",
+    "assetbundleName": "avatar_costume_0122"
+  },
+  {
+    "id": 223,
+    "seq": 223,
+    "name": "アクション映画観たいTシャツ",
+    "assetbundleName": "avatar_costume_0123"
+  },
+  {
+    "id": 224,
+    "seq": 224,
+    "name": "コメディ映画観たいTシャツ",
+    "assetbundleName": "avatar_costume_0124"
+  },
+  {
+    "id": 225,
+    "seq": 225,
+    "name": "お雑煮食べたいTシャツ",
+    "assetbundleName": "avatar_costume_0125"
+  },
+  {
+    "id": 226,
+    "seq": 226,
+    "name": "おせち食べたいTシャツ",
+    "assetbundleName": "avatar_costume_0126"
+  },
+  {
+    "id": 227,
+    "seq": 227,
+    "name": "カメラで写真撮りたいTシャツ",
+    "assetbundleName": "avatar_costume_0127"
+  },
+  {
+    "id": 228,
+    "seq": 228,
+    "name": "スマホで写真撮りたいTシャツ",
+    "assetbundleName": "avatar_costume_0128"
+  },
+  {
+    "id": 229,
+    "seq": 229,
+    "name": "ハーブティー飲みたいTシャツ",
+    "assetbundleName": "avatar_costume_0129"
+  },
+  {
+    "id": 230,
+    "seq": 230,
+    "name": "ジンジャーティー飲みたいTシャツ",
+    "assetbundleName": "avatar_costume_0130"
+  },
+  {
+    "id": 231,
+    "seq": 231,
+    "name": "フリスビーしたいTシャツ",
+    "assetbundleName": "avatar_costume_0131"
+  },
+  {
+    "id": 232,
+    "seq": 232,
+    "name": "お散歩したいTシャツ",
+    "assetbundleName": "avatar_costume_0132"
+  },
+  {
+    "id": 233,
+    "seq": 235,
+    "name": "「RESONANCE BEATS!!」ライブTシャツ（白）",
+    "assetbundleName": "avatar_costume_0133"
+  },
+  {
+    "id": 234,
+    "seq": 236,
+    "name": "「RESONANCE BEATS!!」ライブTシャツ（黒）",
+    "assetbundleName": "avatar_costume_0134"
+  },
+  {
+    "id": 237,
+    "seq": 237,
+    "name": "「RESONANCE BEATS!!」スペシャルライブTシャツ",
+    "assetbundleName": "avatar_costume_0137"
+  },
+  {
+    "id": 238,
+    "seq": 233,
+    "name": "水族館で結婚式見てみたいTシャツ",
+    "assetbundleName": "avatar_costume_0138"
+  },
+  {
+    "id": 239,
+    "seq": 234,
+    "name": "プラネタリウムで結婚式見てみたいTシャツ",
+    "assetbundleName": "avatar_costume_0139"
+  },
+  {
+    "id": 242,
+    "seq": 242,
+    "name": "「4th ANNIVERSARY Brilliant Stage」スペシャルライブTシャツ",
+    "assetbundleName": "avatar_costume_0142"
+  },
+  {
+    "id": 243,
+    "seq": 243,
+    "name": "「4th ANNIVERSARY Brilliant Stage」ライブTシャツ（白）",
+    "assetbundleName": "avatar_costume_0143"
+  },
+  {
+    "id": 244,
+    "seq": 244,
+    "name": "「4th ANNIVERSARY Brilliant Stage」ライブTシャツ（黒）",
+    "assetbundleName": "avatar_costume_0144"
+  },
+  {
+    "id": 245,
+    "seq": 245,
+    "name": "ESアイドル衣装",
+    "assetbundleName": "avatar_costume_0145"
+  },
+  {
+    "id": 246,
+    "seq": 246,
+    "name": "「Ensemble in SEKAI」スペシャルライブTシャツ",
+    "assetbundleName": "avatar_costume_0146"
+  },
+  {
+    "id": 247,
+    "seq": 247,
+    "name": "「Ensemble in SEKAI」ライブTシャツ（白）",
+    "assetbundleName": "avatar_costume_0147"
+  },
+  {
+    "id": 248,
+    "seq": 248,
+    "name": "「Ensemble in SEKAI」ライブTシャツ（黒）",
+    "assetbundleName": "avatar_costume_0148"
+  },
+  {
+    "id": 249,
+    "seq": 249,
+    "name": "おなまえTシャツ「こんどう」",
+    "assetbundleName": "avatar_costume_0149"
+  },
+  {
+    "id": 250,
+    "seq": 250,
+    "name": "おなまえTシャツ「あだち」",
+    "assetbundleName": "avatar_costume_0150"
+  }
 ]

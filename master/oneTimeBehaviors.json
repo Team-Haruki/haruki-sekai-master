@@ -1,37 +1,37 @@
 [
-    {
-        "id": 1,
-        "oneTimeBehaviorType": "challenge_live_character_force_release",
-        "releaseConditionId": 10005
-    },
-    {
-        "id": 2,
-        "oneTimeBehaviorType": "virtual_live_tutorial",
-        "releaseConditionId": 1
-    },
-    {
-        "id": 3,
-        "oneTimeBehaviorType": "world_bloom_area_unlock_light_sound",
-        "releaseConditionId": 113605
-    },
-    {
-        "id": 4,
-        "oneTimeBehaviorType": "world_bloom_area_unlock_idol",
-        "releaseConditionId": 112905
-    },
-    {
-        "id": 5,
-        "oneTimeBehaviorType": "world_bloom_area_unlock_street",
-        "releaseConditionId": 111705
-    },
-    {
-        "id": 6,
-        "oneTimeBehaviorType": "world_bloom_area_unlock_theme_park",
-        "releaseConditionId": 112305
-    },
-    {
-        "id": 7,
-        "oneTimeBehaviorType": "world_bloom_area_unlock_school_refusal",
-        "releaseConditionId": 111105
-    }
+  {
+    "id": 1,
+    "oneTimeBehaviorType": "challenge_live_character_force_release",
+    "releaseConditionId": 10005
+  },
+  {
+    "id": 2,
+    "oneTimeBehaviorType": "virtual_live_tutorial",
+    "releaseConditionId": 1
+  },
+  {
+    "id": 3,
+    "oneTimeBehaviorType": "world_bloom_area_unlock_light_sound",
+    "releaseConditionId": 113605
+  },
+  {
+    "id": 4,
+    "oneTimeBehaviorType": "world_bloom_area_unlock_idol",
+    "releaseConditionId": 112905
+  },
+  {
+    "id": 5,
+    "oneTimeBehaviorType": "world_bloom_area_unlock_street",
+    "releaseConditionId": 111705
+  },
+  {
+    "id": 6,
+    "oneTimeBehaviorType": "world_bloom_area_unlock_theme_park",
+    "releaseConditionId": 112305
+  },
+  {
+    "id": 7,
+    "oneTimeBehaviorType": "world_bloom_area_unlock_school_refusal",
+    "releaseConditionId": 111105
+  }
 ]

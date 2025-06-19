@@ -1,1082 +1,1082 @@
 [
-    {
-        "id": 1,
-        "seq": 10,
-        "name": "うさぎの着ぐるみ",
-        "assetbundleName": "fullset_0001",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0001",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0001"
-    },
-    {
-        "id": 2,
-        "seq": 20,
-        "name": "ロボット",
-        "assetbundleName": "fullset_0004",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0004",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0004"
-    },
-    {
-        "id": 3,
-        "seq": 30,
-        "name": "幼稚園児",
-        "assetbundleName": "fullset_0002",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0002",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0002"
-    },
-    {
-        "id": 4,
-        "seq": 40,
-        "name": "はちゅねみく",
-        "assetbundleName": "fullset_0005",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0005",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0005"
-    },
-    {
-        "id": 5,
-        "seq": 50,
-        "name": "エージェント",
-        "assetbundleName": "fullset_0003",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0003",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0003"
-    },
-    {
-        "id": 6,
-        "seq": 60,
-        "name": "遥なりきり衣装",
-        "assetbundleName": "fullset_0006",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0006",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0006"
-    },
-    {
-        "id": 7,
-        "seq": 70,
-        "name": "ローズドール",
-        "assetbundleName": "fullset_0007",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0007",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0007"
-    },
-    {
-        "id": 8,
-        "seq": 90,
-        "name": "ハロウィンウィッチ",
-        "assetbundleName": "fullset_0009",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0009",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0009"
-    },
-    {
-        "id": 9,
-        "seq": 80,
-        "name": "ゾンビロボット0号",
-        "assetbundleName": "fullset_0008",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0008",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0008"
-    },
-    {
-        "id": 10,
-        "seq": 100,
-        "name": "穂波なりきり衣装",
-        "assetbundleName": "fullset_0010",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0010",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0010"
-    },
-    {
-        "id": 11,
-        "seq": 110,
-        "name": "MEIKOなりきり衣装",
-        "assetbundleName": "fullset_0011",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0011",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0011"
-    },
-    {
-        "id": 12,
-        "seq": 120,
-        "name": "彰人なりきり衣装",
-        "assetbundleName": "fullset_0012",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0012",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0012"
-    },
-    {
-        "id": 13,
-        "seq": 130,
-        "name": "雫なりきり衣装",
-        "assetbundleName": "fullset_0013",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0013",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0013"
-    },
-    {
-        "id": 14,
-        "seq": 140,
-        "name": "サンタクロース",
-        "assetbundleName": "fullset_0014",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0014",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0014"
-    },
-    {
-        "id": 15,
-        "seq": 150,
-        "name": "リンなりきり衣装",
-        "assetbundleName": "fullset_0015",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0015",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0015"
-    },
-    {
-        "id": 16,
-        "seq": 160,
-        "name": "レンなりきり衣装",
-        "assetbundleName": "fullset_0016",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0016",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0016"
-    },
-    {
-        "id": 17,
-        "seq": 170,
-        "name": "丑の着ぐるみ",
-        "assetbundleName": "fullset_0017",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0017",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0017"
-    },
-    {
-        "id": 18,
-        "seq": 180,
-        "name": "獅子舞ロボ",
-        "assetbundleName": "fullset_0018",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0018",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0018"
-    },
-    {
-        "id": 19,
-        "seq": 190,
-        "name": "志歩なりきり衣装",
-        "assetbundleName": "fullset_0019",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0019",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0019"
-    },
-    {
-        "id": 20,
-        "seq": 200,
-        "name": "まふゆなりきり衣装",
-        "assetbundleName": "fullset_0020",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0020",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0020"
-    },
-    {
-        "id": 21,
-        "seq": 210,
-        "name": "ルカなりきり衣装",
-        "assetbundleName": "fullset_0021",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0021",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0021"
-    },
-    {
-        "id": 22,
-        "seq": 220,
-        "name": "奏なりきり衣装",
-        "assetbundleName": "fullset_0022",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0022",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0022"
-    },
-    {
-        "id": 23,
-        "seq": 230,
-        "name": "KAITOなりきり衣装",
-        "assetbundleName": "fullset_0023",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0023",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0023"
-    },
-    {
-        "id": 24,
-        "seq": 240,
-        "name": "バレンタインプレゼント",
-        "assetbundleName": "fullset_0024",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0024",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0024"
-    },
-    {
-        "id": 25,
-        "seq": 250,
-        "name": "こはねなりきり衣装",
-        "assetbundleName": "fullset_0025",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0025",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0025"
-    },
-    {
-        "id": 27,
-        "seq": 270,
-        "name": "ホワイトデープレゼント",
-        "assetbundleName": "fullset_0027",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0027",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0027"
-    },
-    {
-        "id": 28,
-        "seq": 280,
-        "name": "愛莉なりきり衣装",
-        "assetbundleName": "fullset_0028",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0028",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0028"
-    },
-    {
-        "id": 29,
-        "seq": 290,
-        "name": "みのりなりきり衣装",
-        "assetbundleName": "fullset_0029",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0029",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0029"
-    },
-    {
-        "id": 30,
-        "seq": 300,
-        "name": "絵名なりきり衣装",
-        "assetbundleName": "fullset_0030",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0030",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0030"
-    },
-    {
-        "id": 31,
-        "seq": 310,
-        "name": "咲希なりきり衣装",
-        "assetbundleName": "fullset_0031",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0031",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0031"
-    },
-    {
-        "id": 32,
-        "seq": 320,
-        "name": "司なりきり衣装",
-        "assetbundleName": "fullset_0032",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0032",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0032"
-    },
-    {
-        "id": 33,
-        "seq": 330,
-        "name": "冬弥なりきり衣装",
-        "assetbundleName": "fullset_0033",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0033",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0033"
-    },
-    {
-        "id": 34,
-        "seq": 475,
-        "name": "ニーゴミクなりきり衣装",
-        "assetbundleName": "fullset_0034",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0034",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0034"
-    },
-    {
-        "id": 35,
-        "seq": 350,
-        "name": "類なりきり衣装",
-        "assetbundleName": "fullset_0035",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0035",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0035"
-    },
-    {
-        "id": 36,
-        "seq": 360,
-        "name": "ブライダルタキシード",
-        "assetbundleName": "fullset_0036",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0036",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0036"
-    },
-    {
-        "id": 37,
-        "seq": 370,
-        "name": "寧々なりきり衣装",
-        "assetbundleName": "fullset_0037",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0037",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0037"
-    },
-    {
-        "id": 38,
-        "seq": 380,
-        "name": "杏なりきり衣装",
-        "assetbundleName": "fullset_0038",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0038",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0038"
-    },
-    {
-        "id": 39,
-        "seq": 390,
-        "name": "シブヤ夏祭りスタイル",
-        "assetbundleName": "fullset_0039",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0039",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0039"
-    },
-    {
-        "id": 40,
-        "seq": 400,
-        "name": "一歌なりきり衣装",
-        "assetbundleName": "fullset_0040",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0040",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0040"
-    },
-    {
-        "id": 41,
-        "seq": 410,
-        "name": "瑞希なりきり衣装",
-        "assetbundleName": "fullset_0041",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0041",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0041"
-    },
-    {
-        "id": 42,
-        "seq": 420,
-        "name": "ミクなりきり衣装",
-        "assetbundleName": "fullset_0042",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0042",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0042"
-    },
-    {
-        "id": 43,
-        "seq": 430,
-        "name": "えむなりきり衣装",
-        "assetbundleName": "fullset_0043",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0043",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0043"
-    },
-    {
-        "id": 44,
-        "seq": 440,
-        "name": "レオニミクなりきり衣装",
-        "assetbundleName": "fullset_0044",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0044",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0044"
-    },
-    {
-        "id": 45,
-        "seq": 450,
-        "name": "モモジャンミクなりきり衣装",
-        "assetbundleName": "fullset_0045",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0045",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0045"
-    },
-    {
-        "id": 46,
-        "seq": 460,
-        "name": "ビビバスミクなりきり衣装",
-        "assetbundleName": "fullset_0046",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0046",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0046"
-    },
-    {
-        "id": 47,
-        "seq": 470,
-        "name": "ワンダショミクなりきり衣装",
-        "assetbundleName": "fullset_0047",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0047",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0047"
-    },
-    {
-        "id": 48,
-        "seq": 480,
-        "name": "寅の着ぐるみ",
-        "assetbundleName": "fullset_0048",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0048",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0048"
-    },
-    {
-        "id": 49,
-        "seq": 490,
-        "name": "巫女少女",
-        "assetbundleName": "fullset_0049",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0049",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0049"
-    },
-    {
-        "id": 50,
-        "seq": 500,
-        "name": "怪盗チョコマニア",
-        "assetbundleName": "fullset_0050",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0050",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0050"
-    },
-    {
-        "id": 51,
-        "seq": 510,
-        "name": "応援団",
-        "assetbundleName": "fullset_0051",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0051",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0051"
-    },
-    {
-        "id": 52,
-        "seq": 520,
-        "name": "B★RSなりきり衣装",
-        "assetbundleName": "fullset_0052",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0052",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0052"
-    },
-    {
-        "id": 53,
-        "seq": 530,
-        "name": "ブライダルドレス",
-        "assetbundleName": "fullset_0053",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0053",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0053"
-    },
-    {
-        "id": 54,
-        "seq": 540,
-        "name": "七夕パンダ",
-        "assetbundleName": "fullset_0054",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0054",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0054"
-    },
-    {
-        "id": 55,
-        "seq": 550,
-        "name": "絵描きのエプロン",
-        "assetbundleName": "fullset_0055",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0055",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0055"
-    },
-    {
-        "id": 56,
-        "seq": 560,
-        "name": "サモエドの着ぐるみ",
-        "assetbundleName": "fullset_0056",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0056",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0056"
-    },
-    {
-        "id": 57,
-        "seq": 570,
-        "name": "赤ずきんの少女",
-        "assetbundleName": "fullset_0057",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0057",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0057"
-    },
-    {
-        "id": 58,
-        "seq": 580,
-        "name": "卯の着ぐるみ",
-        "assetbundleName": "fullset_0058",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0058",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0058"
-    },
-    {
-        "id": 59,
-        "seq": 590,
-        "name": "指揮者",
-        "assetbundleName": "fullset_0059",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0059",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0059"
-    },
-    {
-        "id": 60,
-        "seq": 600,
-        "name": "キュートスワロウガール",
-        "assetbundleName": "fullset_0060",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0060",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0060"
-    },
-    {
-        "id": 61,
-        "seq": 610,
-        "name": "セカイドレスミクなりきり衣装",
-        "assetbundleName": "fullset_0061",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0061",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0061"
-    },
-    {
-        "id": 62,
-        "seq": 620,
-        "name": "ナイトサーカスピエロ",
-        "assetbundleName": "fullset_0062",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0062",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0062"
-    },
-    {
-        "id": 63,
-        "seq": 630,
-        "name": "招福虎",
-        "assetbundleName": "fullset_0063",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0063",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0063"
-    },
-    {
-        "id": 64,
-        "seq": 640,
-        "name": "宇宙飛行士",
-        "assetbundleName": "fullset_0064",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0064",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0064"
-    },
-    {
-        "id": 65,
-        "seq": 650,
-        "name": "マリンセイラーボーイ",
-        "assetbundleName": "fullset_0065",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0065",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0065"
-    },
-    {
-        "id": 66,
-        "seq": 660,
-        "name": "七夕の織姫",
-        "assetbundleName": "fullset_0066",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0066",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0066"
-    },
-    {
-        "id": 68,
-        "seq": 680,
-        "name": "遥なりきり衣装 vol.2",
-        "assetbundleName": "fullset_0068",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0068",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0068"
-    },
-    {
-        "id": 69,
-        "seq": 690,
-        "name": "穂波なりきり衣装 vol.2",
-        "assetbundleName": "fullset_0069",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0069",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0069"
-    },
-    {
-        "id": 70,
-        "seq": 700,
-        "name": "ビビバスMEIKOなりきり衣装",
-        "assetbundleName": "fullset_0070",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0070",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0070"
-    },
-    {
-        "id": 71,
-        "seq": 710,
-        "name": "彰人なりきり衣装 vol.2",
-        "assetbundleName": "fullset_0071",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0071",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0071"
-    },
-    {
-        "id": 72,
-        "seq": 720,
-        "name": "雫なりきり衣装 vol.2",
-        "assetbundleName": "fullset_0072",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0072",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0072"
-    },
-    {
-        "id": 73,
-        "seq": 970,
-        "name": "モモジャンリンなりきり衣装",
-        "assetbundleName": "fullset_0073",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0073",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0073"
-    },
-    {
-        "id": 74,
-        "seq": 960,
-        "name": "ビビバスレンなりきり衣装",
-        "assetbundleName": "fullset_0074",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0074",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0074"
-    },
-    {
-        "id": 75,
-        "seq": 990,
-        "name": "志歩なりきり衣装 vol.2",
-        "assetbundleName": "fullset_0075",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0075",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0075"
-    },
-    {
-        "id": 76,
-        "seq": 1010,
-        "name": "まふゆなりきり衣装 vol.2",
-        "assetbundleName": "fullset_0076",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0076",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0076"
-    },
-    {
-        "id": 77,
-        "seq": 1020,
-        "name": "レオニルカなりきり衣装",
-        "assetbundleName": "fullset_0077",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0077",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0077"
-    },
-    {
-        "id": 78,
-        "seq": 1030,
-        "name": "奏なりきり衣装 vol.2",
-        "assetbundleName": "fullset_0078",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0078",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0078"
-    },
-    {
-        "id": 79,
-        "seq": 1040,
-        "name": "ワンダショKAITOなりきり衣装",
-        "assetbundleName": "fullset_0079",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0079",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0079"
-    },
-    {
-        "id": 80,
-        "seq": 1050,
-        "name": "こはねなりきり衣装 vol.2",
-        "assetbundleName": "fullset_0080",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0080",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0080"
-    },
-    {
-        "id": 81,
-        "seq": 1070,
-        "name": "愛莉なりきり衣装 vol.2",
-        "assetbundleName": "fullset_0081",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0081",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0081"
-    },
-    {
-        "id": 82,
-        "seq": 1080,
-        "name": "みのりなりきり衣装 vol.2",
-        "assetbundleName": "fullset_0082",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0082",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0082"
-    },
-    {
-        "id": 83,
-        "seq": 1090,
-        "name": "絵名なりきり衣装 vol.2",
-        "assetbundleName": "fullset_0083",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0083",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0083"
-    },
-    {
-        "id": 84,
-        "seq": 1100,
-        "name": "咲希なりきり衣装 vol.2",
-        "assetbundleName": "fullset_0084",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0084",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0084"
-    },
-    {
-        "id": 85,
-        "seq": 1110,
-        "name": "司なりきり衣装 vol.2",
-        "assetbundleName": "fullset_0085",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0085",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0085"
-    },
-    {
-        "id": 86,
-        "seq": 1130,
-        "name": "冬弥なりきり衣装 vol.2",
-        "assetbundleName": "fullset_0086",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0086",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0086"
-    },
-    {
-        "id": 87,
-        "seq": 1140,
-        "name": "類なりきり衣装 vol.2",
-        "assetbundleName": "fullset_0087",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0087",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0087"
-    },
-    {
-        "id": 88,
-        "seq": 1150,
-        "name": "寧々なりきり衣装 vol.2",
-        "assetbundleName": "fullset_0088",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0088",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0088"
-    },
-    {
-        "id": 89,
-        "seq": 1160,
-        "name": "杏なりきり衣装 vol.2",
-        "assetbundleName": "fullset_0089",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0089",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0089"
-    },
-    {
-        "id": 90,
-        "seq": 1170,
-        "name": "一歌なりきり衣装 vol.2",
-        "assetbundleName": "fullset_0090",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0090",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0090"
-    },
-    {
-        "id": 91,
-        "seq": 1180,
-        "name": "瑞希なりきり衣装 vol.2",
-        "assetbundleName": "fullset_0091",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0091",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0091"
-    },
-    {
-        "id": 92,
-        "seq": 1190,
-        "name": "ニーゴミクなりきり衣装 vol.2",
-        "assetbundleName": "fullset_0092",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0092",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0092"
-    },
-    {
-        "id": 93,
-        "seq": 1200,
-        "name": "えむなりきり衣装 vol.2",
-        "assetbundleName": "fullset_0093",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0093",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0093"
-    },
-    {
-        "id": 94,
-        "seq": 940,
-        "name": "ハローキティのなりきり衣装",
-        "assetbundleName": "fullset_0094",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0094",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0094"
-    },
-    {
-        "id": 95,
-        "seq": 950,
-        "name": "飼育員",
-        "assetbundleName": "fullset_0095",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0095",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0095"
-    },
-    {
-        "id": 96,
-        "seq": 980,
-        "name": "辰の着ぐるみ",
-        "assetbundleName": "fullset_0096",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0096",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0096"
-    },
-    {
-        "id": 97,
-        "seq": 1060,
-        "name": "ガイディングスタイルミクなりきり衣装",
-        "assetbundleName": "fullset_0097",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0097",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0097"
-    },
-    {
-        "id": 98,
-        "seq": 1120,
-        "name": "弁慶",
-        "assetbundleName": "fullset_0098",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0098",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0098"
-    },
-    {
-        "id": 99,
-        "seq": 1210,
-        "name": "トレーニングウェア",
-        "assetbundleName": "fullset_0099",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0099",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0099"
-    },
-    {
-        "id": 100,
-        "seq": 1250,
-        "name": "ファーミーウェア",
-        "assetbundleName": "fullset_0100",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0100",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0100"
-    },
-    {
-        "id": 101,
-        "seq": 1220,
-        "name": "歌劇スター",
-        "assetbundleName": "fullset_0101",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0101",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0101"
-    },
-    {
-        "id": 102,
-        "seq": 1230,
-        "name": "雪だるま怪人",
-        "assetbundleName": "fullset_0102",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0102",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0102"
-    },
-    {
-        "id": 103,
-        "seq": 1240,
-        "name": "巳の着ぐるみ",
-        "assetbundleName": "fullset_0103",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0103",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0103"
-    },
-    {
-        "id": 104,
-        "seq": 1250,
-        "name": "プリズマティックスタイルなりきり衣装",
-        "assetbundleName": "fullset_0104",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0104",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0104"
-    },
-    {
-        "id": 105,
-        "seq": 1260,
-        "name": "博麗霊夢なりきり衣装",
-        "assetbundleName": "fullset_0105",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0105",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0105"
-    },
-    {
-        "id": 106,
-        "seq": 1270,
-        "name": "霧雨魔理沙なりきり衣装",
-        "assetbundleName": "fullset_0106",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0106",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0106"
-    },
-    {
-        "id": 107,
-        "seq": 1280,
-        "name": "チルノなりきり衣装",
-        "assetbundleName": "fullset_0107",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0107",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0107"
-    },
-    {
-        "id": 108,
-        "seq": 1290,
-        "name": "十六夜咲夜なりきり衣装",
-        "assetbundleName": "fullset_0108",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0108",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0108"
-    },
-    {
-        "id": 109,
-        "seq": 1300,
-        "name": "八意永琳なりきり衣装",
-        "assetbundleName": "fullset_0109",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0109",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0109"
-    },
-    {
-        "id": 110,
-        "seq": 1310,
-        "name": "フランドール・スカーレットなりきり衣装",
-        "assetbundleName": "fullset_0110",
-        "skinColorCode": "#ffffff",
-        "costumeAssetbundleName": "fullset_0110",
-        "accessoryPart": "Accessory_face",
-        "accessoryAssetbundleName": "fullset_0110"
-    }
+  {
+    "id": 1,
+    "seq": 10,
+    "name": "うさぎの着ぐるみ",
+    "assetbundleName": "fullset_0001",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0001",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0001"
+  },
+  {
+    "id": 2,
+    "seq": 20,
+    "name": "ロボット",
+    "assetbundleName": "fullset_0004",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0004",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0004"
+  },
+  {
+    "id": 3,
+    "seq": 30,
+    "name": "幼稚園児",
+    "assetbundleName": "fullset_0002",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0002",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0002"
+  },
+  {
+    "id": 4,
+    "seq": 40,
+    "name": "はちゅねみく",
+    "assetbundleName": "fullset_0005",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0005",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0005"
+  },
+  {
+    "id": 5,
+    "seq": 50,
+    "name": "エージェント",
+    "assetbundleName": "fullset_0003",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0003",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0003"
+  },
+  {
+    "id": 6,
+    "seq": 60,
+    "name": "遥なりきり衣装",
+    "assetbundleName": "fullset_0006",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0006",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0006"
+  },
+  {
+    "id": 7,
+    "seq": 70,
+    "name": "ローズドール",
+    "assetbundleName": "fullset_0007",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0007",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0007"
+  },
+  {
+    "id": 8,
+    "seq": 90,
+    "name": "ハロウィンウィッチ",
+    "assetbundleName": "fullset_0009",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0009",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0009"
+  },
+  {
+    "id": 9,
+    "seq": 80,
+    "name": "ゾンビロボット0号",
+    "assetbundleName": "fullset_0008",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0008",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0008"
+  },
+  {
+    "id": 10,
+    "seq": 100,
+    "name": "穂波なりきり衣装",
+    "assetbundleName": "fullset_0010",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0010",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0010"
+  },
+  {
+    "id": 11,
+    "seq": 110,
+    "name": "MEIKOなりきり衣装",
+    "assetbundleName": "fullset_0011",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0011",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0011"
+  },
+  {
+    "id": 12,
+    "seq": 120,
+    "name": "彰人なりきり衣装",
+    "assetbundleName": "fullset_0012",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0012",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0012"
+  },
+  {
+    "id": 13,
+    "seq": 130,
+    "name": "雫なりきり衣装",
+    "assetbundleName": "fullset_0013",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0013",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0013"
+  },
+  {
+    "id": 14,
+    "seq": 140,
+    "name": "サンタクロース",
+    "assetbundleName": "fullset_0014",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0014",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0014"
+  },
+  {
+    "id": 15,
+    "seq": 150,
+    "name": "リンなりきり衣装",
+    "assetbundleName": "fullset_0015",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0015",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0015"
+  },
+  {
+    "id": 16,
+    "seq": 160,
+    "name": "レンなりきり衣装",
+    "assetbundleName": "fullset_0016",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0016",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0016"
+  },
+  {
+    "id": 17,
+    "seq": 170,
+    "name": "丑の着ぐるみ",
+    "assetbundleName": "fullset_0017",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0017",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0017"
+  },
+  {
+    "id": 18,
+    "seq": 180,
+    "name": "獅子舞ロボ",
+    "assetbundleName": "fullset_0018",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0018",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0018"
+  },
+  {
+    "id": 19,
+    "seq": 190,
+    "name": "志歩なりきり衣装",
+    "assetbundleName": "fullset_0019",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0019",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0019"
+  },
+  {
+    "id": 20,
+    "seq": 200,
+    "name": "まふゆなりきり衣装",
+    "assetbundleName": "fullset_0020",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0020",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0020"
+  },
+  {
+    "id": 21,
+    "seq": 210,
+    "name": "ルカなりきり衣装",
+    "assetbundleName": "fullset_0021",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0021",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0021"
+  },
+  {
+    "id": 22,
+    "seq": 220,
+    "name": "奏なりきり衣装",
+    "assetbundleName": "fullset_0022",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0022",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0022"
+  },
+  {
+    "id": 23,
+    "seq": 230,
+    "name": "KAITOなりきり衣装",
+    "assetbundleName": "fullset_0023",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0023",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0023"
+  },
+  {
+    "id": 24,
+    "seq": 240,
+    "name": "バレンタインプレゼント",
+    "assetbundleName": "fullset_0024",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0024",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0024"
+  },
+  {
+    "id": 25,
+    "seq": 250,
+    "name": "こはねなりきり衣装",
+    "assetbundleName": "fullset_0025",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0025",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0025"
+  },
+  {
+    "id": 27,
+    "seq": 270,
+    "name": "ホワイトデープレゼント",
+    "assetbundleName": "fullset_0027",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0027",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0027"
+  },
+  {
+    "id": 28,
+    "seq": 280,
+    "name": "愛莉なりきり衣装",
+    "assetbundleName": "fullset_0028",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0028",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0028"
+  },
+  {
+    "id": 29,
+    "seq": 290,
+    "name": "みのりなりきり衣装",
+    "assetbundleName": "fullset_0029",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0029",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0029"
+  },
+  {
+    "id": 30,
+    "seq": 300,
+    "name": "絵名なりきり衣装",
+    "assetbundleName": "fullset_0030",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0030",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0030"
+  },
+  {
+    "id": 31,
+    "seq": 310,
+    "name": "咲希なりきり衣装",
+    "assetbundleName": "fullset_0031",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0031",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0031"
+  },
+  {
+    "id": 32,
+    "seq": 320,
+    "name": "司なりきり衣装",
+    "assetbundleName": "fullset_0032",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0032",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0032"
+  },
+  {
+    "id": 33,
+    "seq": 330,
+    "name": "冬弥なりきり衣装",
+    "assetbundleName": "fullset_0033",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0033",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0033"
+  },
+  {
+    "id": 34,
+    "seq": 475,
+    "name": "ニーゴミクなりきり衣装",
+    "assetbundleName": "fullset_0034",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0034",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0034"
+  },
+  {
+    "id": 35,
+    "seq": 350,
+    "name": "類なりきり衣装",
+    "assetbundleName": "fullset_0035",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0035",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0035"
+  },
+  {
+    "id": 36,
+    "seq": 360,
+    "name": "ブライダルタキシード",
+    "assetbundleName": "fullset_0036",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0036",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0036"
+  },
+  {
+    "id": 37,
+    "seq": 370,
+    "name": "寧々なりきり衣装",
+    "assetbundleName": "fullset_0037",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0037",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0037"
+  },
+  {
+    "id": 38,
+    "seq": 380,
+    "name": "杏なりきり衣装",
+    "assetbundleName": "fullset_0038",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0038",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0038"
+  },
+  {
+    "id": 39,
+    "seq": 390,
+    "name": "シブヤ夏祭りスタイル",
+    "assetbundleName": "fullset_0039",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0039",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0039"
+  },
+  {
+    "id": 40,
+    "seq": 400,
+    "name": "一歌なりきり衣装",
+    "assetbundleName": "fullset_0040",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0040",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0040"
+  },
+  {
+    "id": 41,
+    "seq": 410,
+    "name": "瑞希なりきり衣装",
+    "assetbundleName": "fullset_0041",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0041",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0041"
+  },
+  {
+    "id": 42,
+    "seq": 420,
+    "name": "ミクなりきり衣装",
+    "assetbundleName": "fullset_0042",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0042",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0042"
+  },
+  {
+    "id": 43,
+    "seq": 430,
+    "name": "えむなりきり衣装",
+    "assetbundleName": "fullset_0043",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0043",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0043"
+  },
+  {
+    "id": 44,
+    "seq": 440,
+    "name": "レオニミクなりきり衣装",
+    "assetbundleName": "fullset_0044",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0044",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0044"
+  },
+  {
+    "id": 45,
+    "seq": 450,
+    "name": "モモジャンミクなりきり衣装",
+    "assetbundleName": "fullset_0045",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0045",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0045"
+  },
+  {
+    "id": 46,
+    "seq": 460,
+    "name": "ビビバスミクなりきり衣装",
+    "assetbundleName": "fullset_0046",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0046",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0046"
+  },
+  {
+    "id": 47,
+    "seq": 470,
+    "name": "ワンダショミクなりきり衣装",
+    "assetbundleName": "fullset_0047",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0047",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0047"
+  },
+  {
+    "id": 48,
+    "seq": 480,
+    "name": "寅の着ぐるみ",
+    "assetbundleName": "fullset_0048",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0048",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0048"
+  },
+  {
+    "id": 49,
+    "seq": 490,
+    "name": "巫女少女",
+    "assetbundleName": "fullset_0049",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0049",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0049"
+  },
+  {
+    "id": 50,
+    "seq": 500,
+    "name": "怪盗チョコマニア",
+    "assetbundleName": "fullset_0050",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0050",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0050"
+  },
+  {
+    "id": 51,
+    "seq": 510,
+    "name": "応援団",
+    "assetbundleName": "fullset_0051",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0051",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0051"
+  },
+  {
+    "id": 52,
+    "seq": 520,
+    "name": "B★RSなりきり衣装",
+    "assetbundleName": "fullset_0052",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0052",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0052"
+  },
+  {
+    "id": 53,
+    "seq": 530,
+    "name": "ブライダルドレス",
+    "assetbundleName": "fullset_0053",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0053",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0053"
+  },
+  {
+    "id": 54,
+    "seq": 540,
+    "name": "七夕パンダ",
+    "assetbundleName": "fullset_0054",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0054",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0054"
+  },
+  {
+    "id": 55,
+    "seq": 550,
+    "name": "絵描きのエプロン",
+    "assetbundleName": "fullset_0055",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0055",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0055"
+  },
+  {
+    "id": 56,
+    "seq": 560,
+    "name": "サモエドの着ぐるみ",
+    "assetbundleName": "fullset_0056",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0056",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0056"
+  },
+  {
+    "id": 57,
+    "seq": 570,
+    "name": "赤ずきんの少女",
+    "assetbundleName": "fullset_0057",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0057",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0057"
+  },
+  {
+    "id": 58,
+    "seq": 580,
+    "name": "卯の着ぐるみ",
+    "assetbundleName": "fullset_0058",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0058",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0058"
+  },
+  {
+    "id": 59,
+    "seq": 590,
+    "name": "指揮者",
+    "assetbundleName": "fullset_0059",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0059",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0059"
+  },
+  {
+    "id": 60,
+    "seq": 600,
+    "name": "キュートスワロウガール",
+    "assetbundleName": "fullset_0060",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0060",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0060"
+  },
+  {
+    "id": 61,
+    "seq": 610,
+    "name": "セカイドレスミクなりきり衣装",
+    "assetbundleName": "fullset_0061",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0061",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0061"
+  },
+  {
+    "id": 62,
+    "seq": 620,
+    "name": "ナイトサーカスピエロ",
+    "assetbundleName": "fullset_0062",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0062",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0062"
+  },
+  {
+    "id": 63,
+    "seq": 630,
+    "name": "招福虎",
+    "assetbundleName": "fullset_0063",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0063",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0063"
+  },
+  {
+    "id": 64,
+    "seq": 640,
+    "name": "宇宙飛行士",
+    "assetbundleName": "fullset_0064",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0064",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0064"
+  },
+  {
+    "id": 65,
+    "seq": 650,
+    "name": "マリンセイラーボーイ",
+    "assetbundleName": "fullset_0065",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0065",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0065"
+  },
+  {
+    "id": 66,
+    "seq": 660,
+    "name": "七夕の織姫",
+    "assetbundleName": "fullset_0066",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0066",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0066"
+  },
+  {
+    "id": 68,
+    "seq": 680,
+    "name": "遥なりきり衣装 vol.2",
+    "assetbundleName": "fullset_0068",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0068",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0068"
+  },
+  {
+    "id": 69,
+    "seq": 690,
+    "name": "穂波なりきり衣装 vol.2",
+    "assetbundleName": "fullset_0069",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0069",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0069"
+  },
+  {
+    "id": 70,
+    "seq": 700,
+    "name": "ビビバスMEIKOなりきり衣装",
+    "assetbundleName": "fullset_0070",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0070",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0070"
+  },
+  {
+    "id": 71,
+    "seq": 710,
+    "name": "彰人なりきり衣装 vol.2",
+    "assetbundleName": "fullset_0071",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0071",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0071"
+  },
+  {
+    "id": 72,
+    "seq": 720,
+    "name": "雫なりきり衣装 vol.2",
+    "assetbundleName": "fullset_0072",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0072",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0072"
+  },
+  {
+    "id": 73,
+    "seq": 970,
+    "name": "モモジャンリンなりきり衣装",
+    "assetbundleName": "fullset_0073",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0073",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0073"
+  },
+  {
+    "id": 74,
+    "seq": 960,
+    "name": "ビビバスレンなりきり衣装",
+    "assetbundleName": "fullset_0074",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0074",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0074"
+  },
+  {
+    "id": 75,
+    "seq": 990,
+    "name": "志歩なりきり衣装 vol.2",
+    "assetbundleName": "fullset_0075",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0075",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0075"
+  },
+  {
+    "id": 76,
+    "seq": 1010,
+    "name": "まふゆなりきり衣装 vol.2",
+    "assetbundleName": "fullset_0076",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0076",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0076"
+  },
+  {
+    "id": 77,
+    "seq": 1020,
+    "name": "レオニルカなりきり衣装",
+    "assetbundleName": "fullset_0077",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0077",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0077"
+  },
+  {
+    "id": 78,
+    "seq": 1030,
+    "name": "奏なりきり衣装 vol.2",
+    "assetbundleName": "fullset_0078",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0078",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0078"
+  },
+  {
+    "id": 79,
+    "seq": 1040,
+    "name": "ワンダショKAITOなりきり衣装",
+    "assetbundleName": "fullset_0079",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0079",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0079"
+  },
+  {
+    "id": 80,
+    "seq": 1050,
+    "name": "こはねなりきり衣装 vol.2",
+    "assetbundleName": "fullset_0080",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0080",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0080"
+  },
+  {
+    "id": 81,
+    "seq": 1070,
+    "name": "愛莉なりきり衣装 vol.2",
+    "assetbundleName": "fullset_0081",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0081",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0081"
+  },
+  {
+    "id": 82,
+    "seq": 1080,
+    "name": "みのりなりきり衣装 vol.2",
+    "assetbundleName": "fullset_0082",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0082",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0082"
+  },
+  {
+    "id": 83,
+    "seq": 1090,
+    "name": "絵名なりきり衣装 vol.2",
+    "assetbundleName": "fullset_0083",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0083",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0083"
+  },
+  {
+    "id": 84,
+    "seq": 1100,
+    "name": "咲希なりきり衣装 vol.2",
+    "assetbundleName": "fullset_0084",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0084",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0084"
+  },
+  {
+    "id": 85,
+    "seq": 1110,
+    "name": "司なりきり衣装 vol.2",
+    "assetbundleName": "fullset_0085",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0085",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0085"
+  },
+  {
+    "id": 86,
+    "seq": 1130,
+    "name": "冬弥なりきり衣装 vol.2",
+    "assetbundleName": "fullset_0086",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0086",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0086"
+  },
+  {
+    "id": 87,
+    "seq": 1140,
+    "name": "類なりきり衣装 vol.2",
+    "assetbundleName": "fullset_0087",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0087",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0087"
+  },
+  {
+    "id": 88,
+    "seq": 1150,
+    "name": "寧々なりきり衣装 vol.2",
+    "assetbundleName": "fullset_0088",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0088",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0088"
+  },
+  {
+    "id": 89,
+    "seq": 1160,
+    "name": "杏なりきり衣装 vol.2",
+    "assetbundleName": "fullset_0089",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0089",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0089"
+  },
+  {
+    "id": 90,
+    "seq": 1170,
+    "name": "一歌なりきり衣装 vol.2",
+    "assetbundleName": "fullset_0090",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0090",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0090"
+  },
+  {
+    "id": 91,
+    "seq": 1180,
+    "name": "瑞希なりきり衣装 vol.2",
+    "assetbundleName": "fullset_0091",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0091",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0091"
+  },
+  {
+    "id": 92,
+    "seq": 1190,
+    "name": "ニーゴミクなりきり衣装 vol.2",
+    "assetbundleName": "fullset_0092",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0092",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0092"
+  },
+  {
+    "id": 93,
+    "seq": 1200,
+    "name": "えむなりきり衣装 vol.2",
+    "assetbundleName": "fullset_0093",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0093",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0093"
+  },
+  {
+    "id": 94,
+    "seq": 940,
+    "name": "ハローキティのなりきり衣装",
+    "assetbundleName": "fullset_0094",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0094",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0094"
+  },
+  {
+    "id": 95,
+    "seq": 950,
+    "name": "飼育員",
+    "assetbundleName": "fullset_0095",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0095",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0095"
+  },
+  {
+    "id": 96,
+    "seq": 980,
+    "name": "辰の着ぐるみ",
+    "assetbundleName": "fullset_0096",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0096",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0096"
+  },
+  {
+    "id": 97,
+    "seq": 1060,
+    "name": "ガイディングスタイルミクなりきり衣装",
+    "assetbundleName": "fullset_0097",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0097",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0097"
+  },
+  {
+    "id": 98,
+    "seq": 1120,
+    "name": "弁慶",
+    "assetbundleName": "fullset_0098",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0098",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0098"
+  },
+  {
+    "id": 99,
+    "seq": 1210,
+    "name": "トレーニングウェア",
+    "assetbundleName": "fullset_0099",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0099",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0099"
+  },
+  {
+    "id": 100,
+    "seq": 1250,
+    "name": "ファーミーウェア",
+    "assetbundleName": "fullset_0100",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0100",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0100"
+  },
+  {
+    "id": 101,
+    "seq": 1220,
+    "name": "歌劇スター",
+    "assetbundleName": "fullset_0101",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0101",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0101"
+  },
+  {
+    "id": 102,
+    "seq": 1230,
+    "name": "雪だるま怪人",
+    "assetbundleName": "fullset_0102",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0102",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0102"
+  },
+  {
+    "id": 103,
+    "seq": 1240,
+    "name": "巳の着ぐるみ",
+    "assetbundleName": "fullset_0103",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0103",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0103"
+  },
+  {
+    "id": 104,
+    "seq": 1250,
+    "name": "プリズマティックスタイルなりきり衣装",
+    "assetbundleName": "fullset_0104",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0104",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0104"
+  },
+  {
+    "id": 105,
+    "seq": 1260,
+    "name": "博麗霊夢なりきり衣装",
+    "assetbundleName": "fullset_0105",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0105",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0105"
+  },
+  {
+    "id": 106,
+    "seq": 1270,
+    "name": "霧雨魔理沙なりきり衣装",
+    "assetbundleName": "fullset_0106",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0106",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0106"
+  },
+  {
+    "id": 107,
+    "seq": 1280,
+    "name": "チルノなりきり衣装",
+    "assetbundleName": "fullset_0107",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0107",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0107"
+  },
+  {
+    "id": 108,
+    "seq": 1290,
+    "name": "十六夜咲夜なりきり衣装",
+    "assetbundleName": "fullset_0108",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0108",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0108"
+  },
+  {
+    "id": 109,
+    "seq": 1300,
+    "name": "八意永琳なりきり衣装",
+    "assetbundleName": "fullset_0109",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0109",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0109"
+  },
+  {
+    "id": 110,
+    "seq": 1310,
+    "name": "フランドール・スカーレットなりきり衣装",
+    "assetbundleName": "fullset_0110",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0110",
+    "accessoryPart": "Accessory_face",
+    "accessoryAssetbundleName": "fullset_0110"
+  }
 ]

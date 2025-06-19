@@ -1,8 +1,8 @@
 [
-    {
-        "id": 1,
-        "enableReleaseConditionId1": 114408,
-        "enableReleaseConditionId2": 114409,
-        "disableReleaseConditionId": 114909
-    }
+  {
+    "id": 1,
+    "enableReleaseConditionId1": 114408,
+    "enableReleaseConditionId2": 114409,
+    "disableReleaseConditionId": 114909
+  }
 ]

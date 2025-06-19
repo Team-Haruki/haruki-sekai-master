@@ -1,941 +1,952 @@
 [
-    {
-        "id": 1,
-        "childGachaIds": [
-            240,
-            241,
-            242,
-            243,
-            244,
-            245
-        ],
-        "seq": 510,
-        "assetbundleName": "ab_gacha_tab_1"
-    },
-    {
-        "id": 2,
-        "childGachaIds": [
-            249,
-            250
-        ],
-        "seq": 520,
-        "assetbundleName": "ab_gacha_tab_2"
-    },
-    {
-        "id": 3,
-        "childGachaIds": [
-            256,
-            257
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_3"
-    },
-    {
-        "id": 4,
-        "childGachaIds": [
-            259,
-            260
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_4"
-    },
-    {
-        "id": 5,
-        "childGachaIds": [
-            261,
-            262
-        ],
-        "seq": 580,
-        "assetbundleName": "ab_gacha_tab_5"
-    },
-    {
-        "id": 6,
-        "childGachaIds": [
-            268,
-            269
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_6"
-    },
-    {
-        "id": 7,
-        "childGachaIds": [
-            273,
-            274
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_7"
-    },
-    {
-        "id": 8,
-        "childGachaIds": [
-            275,
-            276
-        ],
-        "seq": 580,
-        "assetbundleName": "ab_gacha_tab_8"
-    },
-    {
-        "id": 9,
-        "childGachaIds": [
-            281,
-            282
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_9"
-    },
-    {
-        "id": 10,
-        "childGachaIds": [
-            287,
-            288
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_10"
-    },
-    {
-        "id": 11,
-        "childGachaIds": [
-            289,
-            290
-        ],
-        "seq": 580,
-        "assetbundleName": "ab_gacha_tab_11"
-    },
-    {
-        "id": 12,
-        "childGachaIds": [
-            292,
-            293
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_12"
-    },
-    {
-        "id": 13,
-        "childGachaIds": [
-            296,
-            297
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_13"
-    },
-    {
-        "id": 14,
-        "childGachaIds": [
-            302,
-            303
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_14"
-    },
-    {
-        "id": 15,
-        "childGachaIds": [
-            306,
-            307
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_15"
-    },
-    {
-        "id": 16,
-        "childGachaIds": [
-            319,
-            320
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_16"
-    },
-    {
-        "id": 17,
-        "childGachaIds": [
-            323,
-            324
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_17"
-    },
-    {
-        "id": 18,
-        "childGachaIds": [
-            328,
-            329
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_18"
-    },
-    {
-        "id": 19,
-        "childGachaIds": [
-            332,
-            333
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_19"
-    },
-    {
-        "id": 20,
-        "childGachaIds": [
-            335,
-            336
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_20"
-    },
-    {
-        "id": 21,
-        "childGachaIds": [
-            343,
-            344
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_21"
-    },
-    {
-        "id": 22,
-        "childGachaIds": [
-            350,
-            351
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_22"
-    },
-    {
-        "id": 23,
-        "childGachaIds": [
-            353,
-            354
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_23"
-    },
-    {
-        "id": 24,
-        "childGachaIds": [
-            359,
-            360
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_24"
-    },
-    {
-        "id": 25,
-        "childGachaIds": [
-            364,
-            365
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_25"
-    },
-    {
-        "id": 26,
-        "childGachaIds": [
-            366,
-            367
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_26"
-    },
-    {
-        "id": 27,
-        "childGachaIds": [
-            370,
-            371
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_27"
-    },
-    {
-        "id": 28,
-        "childGachaIds": [
-            379,
-            380,
-            381,
-            382,
-            383,
-            384
-        ],
-        "seq": 510,
-        "assetbundleName": "ab_gacha_tab_28"
-    },
-    {
-        "id": 29,
-        "childGachaIds": [
-            389,
-            390,
-            391
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_2"
-    },
-    {
-        "id": 30,
-        "childGachaIds": [
-            398,
-            399,
-            400
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_3"
-    },
-    {
-        "id": 31,
-        "childGachaIds": [
-            402,
-            403,
-            404
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_4"
-    },
-    {
-        "id": 32,
-        "childGachaIds": [
-            408,
-            409,
-            410
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_5"
-    },
-    {
-        "id": 33,
-        "childGachaIds": [
-            412,
-            413
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 34,
-        "childGachaIds": [
-            419,
-            420,
-            421
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_6"
-    },
-    {
-        "id": 35,
-        "childGachaIds": [
-            424,
-            425
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 36,
-        "childGachaIds": [
-            427,
-            428,
-            429
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_7"
-    },
-    {
-        "id": 37,
-        "childGachaIds": [
-            430,
-            431,
-            432
-        ],
-        "seq": 580,
-        "assetbundleName": "ab_gacha_tab_8"
-    },
-    {
-        "id": 38,
-        "childGachaIds": [
-            439,
-            440,
-            441
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_9"
-    },
-    {
-        "id": 39,
-        "childGachaIds": [
-            444,
-            445
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 40,
-        "childGachaIds": [
-            448,
-            449,
-            450
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_10"
-    },
-    {
-        "id": 41,
-        "childGachaIds": [
-            451,
-            452,
-            453
-        ],
-        "seq": 580,
-        "assetbundleName": "ab_gacha_tab_11"
-    },
-    {
-        "id": 42,
-        "childGachaIds": [
-            456,
-            457,
-            458
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_12"
-    },
-    {
-        "id": 43,
-        "childGachaIds": [
-            461,
-            462,
-            463
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_13"
-    },
-    {
-        "id": 44,
-        "childGachaIds": [
-            464,
-            465
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 45,
-        "childGachaIds": [
-            470,
-            471,
-            472
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_14"
-    },
-    {
-        "id": 46,
-        "childGachaIds": [
-            476,
-            477,
-            478
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 47,
-        "childGachaIds": [
-            479,
-            480,
-            481
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_15"
-    },
-    {
-        "id": 48,
-        "childGachaIds": [
-            491,
-            496,
-            497
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 49,
-        "childGachaIds": [
-            493,
-            494,
-            495
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_16"
-    },
-    {
-        "id": 50,
-        "childGachaIds": [
-            500,
-            501,
-            502
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_17"
-    },
-    {
-        "id": 51,
-        "childGachaIds": [
-            485,
-            492,
-            499
-        ],
-        "seq": 450,
-        "assetbundleName": "ab_gacha_tab_31"
-    },
-    {
-        "id": 52,
-        "childGachaIds": [
-            506,
-            507,
-            508
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_18"
-    },
-    {
-        "id": 53,
-        "childGachaIds": [
-            510,
-            511,
-            512
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 54,
-        "childGachaIds": [
-            513,
-            514,
-            515
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_19"
-    },
-    {
-        "id": 55,
-        "childGachaIds": [
-            517,
-            518,
-            519
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_20"
-    },
-    {
-        "id": 56,
-        "childGachaIds": [
-            524,
-            525,
-            526
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 57,
-        "childGachaIds": [
-            530,
-            531,
-            532
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_21"
-    },
-    {
-        "id": 58,
-        "childGachaIds": [
-            538,
-            539,
-            540
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 59,
-        "childGachaIds": [
-            542,
-            543,
-            544
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_22"
-    },
-    {
-        "id": 60,
-        "childGachaIds": [
-            545,
-            546,
-            547
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_23"
-    },
-    {
-        "id": 61,
-        "childGachaIds": [
-            553,
-            554,
-            555
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_24"
-    },
-    {
-        "id": 62,
-        "childGachaIds": [
-            556,
-            557,
-            558
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 63,
-        "childGachaIds": [
-            560,
-            561,
-            562
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_25"
-    },
-    {
-        "id": 64,
-        "childGachaIds": [
-            565,
-            566,
-            567
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_26"
-    },
-    {
-        "id": 65,
-        "childGachaIds": [
-            570,
-            571,
-            572
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_27"
-    },
-    {
-        "id": 66,
-        "childGachaIds": [
-            574,
-            575,
-            576
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 67,
-        "childGachaIds": [
-            582,
-            583,
-            584,
-            585,
-            586,
-            587
-        ],
-        "seq": 450,
-        "assetbundleName": "ab_gacha_tab_32"
-    },
-    {
-        "id": 68,
-        "childGachaIds": [
-            592,
-            595,
-            596,
-            597
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_2"
-    },
-    {
-        "id": 69,
-        "childGachaIds": [
-            600,
-            601
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 70,
-        "childGachaIds": [
-            604,
-            605,
-            606,
-            607
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_3"
-    },
-    {
-        "id": 71,
-        "childGachaIds": [
-            611,
-            612,
-            613,
-            614
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_4"
-    },
-    {
-        "id": 72,
-        "childGachaIds": [
-            618,
-            619,
-            620,
-            621
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_5"
-    },
-    {
-        "id": 73,
-        "childGachaIds": [
-            616,
-            617
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 74,
-        "childGachaIds": [
-            626,
-            627,
-            628,
-            629
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_6"
-    },
-    {
-        "id": 75,
-        "childGachaIds": [
-            632,
-            633
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 76,
-        "childGachaIds": [
-            635,
-            636,
-            637,
-            638
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_7"
-    },
-    {
-        "id": 77,
-        "childGachaIds": [
-            639,
-            640,
-            641,
-            642
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_8"
-    },
-    {
-        "id": 78,
-        "childGachaIds": [
-            650,
-            651,
-            652,
-            653
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_9"
-    },
-    {
-        "id": 79,
-        "childGachaIds": [
-            655,
-            656
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 80,
-        "childGachaIds": [
-            664,
-            665,
-            666,
-            667
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_10"
-    },
-    {
-        "id": 81,
-        "childGachaIds": [
-            668,
-            669,
-            670,
-            671
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_11"
-    },
-    {
-        "id": 82,
-        "childGachaIds": [
-            674,
-            675,
-            676,
-            677
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_12"
-    },
-    {
-        "id": 83,
-        "childGachaIds": [
-            679,
-            680
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 84,
-        "childGachaIds": [
-            681,
-            682,
-            683,
-            684
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_13"
-    },
-    {
-        "id": 85,
-        "childGachaIds": [
-            690,
-            691,
-            692,
-            693
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_14"
-    },
-    {
-        "id": 86,
-        "childGachaIds": [
-            697,
-            698
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 87,
-        "childGachaIds": [
-            699,
-            700,
-            701,
-            702
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_15"
-    },
-    {
-        "id": 88,
-        "childGachaIds": [
-            714,
-            715
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 89,
-        "childGachaIds": [
-            716,
-            717,
-            718,
-            719
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_16"
-    },
-    {
-        "id": 90,
-        "childGachaIds": [
-            721,
-            722,
-            723,
-            724
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_17"
-    },
-    {
-        "id": 91,
-        "childGachaIds": [
-            728,
-            729,
-            730,
-            731
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_18"
-    },
-    {
-        "id": 92,
-        "childGachaIds": [
-            734,
-            735
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    },
-    {
-        "id": 93,
-        "childGachaIds": [
-            736,
-            737,
-            738,
-            739
-        ],
-        "seq": 600,
-        "assetbundleName": "ab_gacha_tab_19"
-    },
-    {
-        "id": 94,
-        "childGachaIds": [
-            741,
-            742,
-            743,
-            744
-        ],
-        "seq": 570,
-        "assetbundleName": "ab_gacha_tab_20"
-    },
-    {
-        "id": 95,
-        "childGachaIds": [
-            750,
-            751
-        ],
-        "seq": 560,
-        "assetbundleName": "ab_gacha_tab_30"
-    }
+  {
+    "id": 1,
+    "childGachaIds": [
+      240,
+      241,
+      242,
+      243,
+      244,
+      245
+    ],
+    "seq": 510,
+    "assetbundleName": "ab_gacha_tab_1"
+  },
+  {
+    "id": 2,
+    "childGachaIds": [
+      249,
+      250
+    ],
+    "seq": 520,
+    "assetbundleName": "ab_gacha_tab_2"
+  },
+  {
+    "id": 3,
+    "childGachaIds": [
+      256,
+      257
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_3"
+  },
+  {
+    "id": 4,
+    "childGachaIds": [
+      259,
+      260
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_4"
+  },
+  {
+    "id": 5,
+    "childGachaIds": [
+      261,
+      262
+    ],
+    "seq": 580,
+    "assetbundleName": "ab_gacha_tab_5"
+  },
+  {
+    "id": 6,
+    "childGachaIds": [
+      268,
+      269
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_6"
+  },
+  {
+    "id": 7,
+    "childGachaIds": [
+      273,
+      274
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_7"
+  },
+  {
+    "id": 8,
+    "childGachaIds": [
+      275,
+      276
+    ],
+    "seq": 580,
+    "assetbundleName": "ab_gacha_tab_8"
+  },
+  {
+    "id": 9,
+    "childGachaIds": [
+      281,
+      282
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_9"
+  },
+  {
+    "id": 10,
+    "childGachaIds": [
+      287,
+      288
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_10"
+  },
+  {
+    "id": 11,
+    "childGachaIds": [
+      289,
+      290
+    ],
+    "seq": 580,
+    "assetbundleName": "ab_gacha_tab_11"
+  },
+  {
+    "id": 12,
+    "childGachaIds": [
+      292,
+      293
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_12"
+  },
+  {
+    "id": 13,
+    "childGachaIds": [
+      296,
+      297
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_13"
+  },
+  {
+    "id": 14,
+    "childGachaIds": [
+      302,
+      303
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_14"
+  },
+  {
+    "id": 15,
+    "childGachaIds": [
+      306,
+      307
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_15"
+  },
+  {
+    "id": 16,
+    "childGachaIds": [
+      319,
+      320
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_16"
+  },
+  {
+    "id": 17,
+    "childGachaIds": [
+      323,
+      324
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_17"
+  },
+  {
+    "id": 18,
+    "childGachaIds": [
+      328,
+      329
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_18"
+  },
+  {
+    "id": 19,
+    "childGachaIds": [
+      332,
+      333
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_19"
+  },
+  {
+    "id": 20,
+    "childGachaIds": [
+      335,
+      336
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_20"
+  },
+  {
+    "id": 21,
+    "childGachaIds": [
+      343,
+      344
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_21"
+  },
+  {
+    "id": 22,
+    "childGachaIds": [
+      350,
+      351
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_22"
+  },
+  {
+    "id": 23,
+    "childGachaIds": [
+      353,
+      354
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_23"
+  },
+  {
+    "id": 24,
+    "childGachaIds": [
+      359,
+      360
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_24"
+  },
+  {
+    "id": 25,
+    "childGachaIds": [
+      364,
+      365
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_25"
+  },
+  {
+    "id": 26,
+    "childGachaIds": [
+      366,
+      367
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_26"
+  },
+  {
+    "id": 27,
+    "childGachaIds": [
+      370,
+      371
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_27"
+  },
+  {
+    "id": 28,
+    "childGachaIds": [
+      379,
+      380,
+      381,
+      382,
+      383,
+      384
+    ],
+    "seq": 510,
+    "assetbundleName": "ab_gacha_tab_28"
+  },
+  {
+    "id": 29,
+    "childGachaIds": [
+      389,
+      390,
+      391
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_2"
+  },
+  {
+    "id": 30,
+    "childGachaIds": [
+      398,
+      399,
+      400
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_3"
+  },
+  {
+    "id": 31,
+    "childGachaIds": [
+      402,
+      403,
+      404
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_4"
+  },
+  {
+    "id": 32,
+    "childGachaIds": [
+      408,
+      409,
+      410
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_5"
+  },
+  {
+    "id": 33,
+    "childGachaIds": [
+      412,
+      413
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 34,
+    "childGachaIds": [
+      419,
+      420,
+      421
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_6"
+  },
+  {
+    "id": 35,
+    "childGachaIds": [
+      424,
+      425
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 36,
+    "childGachaIds": [
+      427,
+      428,
+      429
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_7"
+  },
+  {
+    "id": 37,
+    "childGachaIds": [
+      430,
+      431,
+      432
+    ],
+    "seq": 580,
+    "assetbundleName": "ab_gacha_tab_8"
+  },
+  {
+    "id": 38,
+    "childGachaIds": [
+      439,
+      440,
+      441
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_9"
+  },
+  {
+    "id": 39,
+    "childGachaIds": [
+      444,
+      445
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 40,
+    "childGachaIds": [
+      448,
+      449,
+      450
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_10"
+  },
+  {
+    "id": 41,
+    "childGachaIds": [
+      451,
+      452,
+      453
+    ],
+    "seq": 580,
+    "assetbundleName": "ab_gacha_tab_11"
+  },
+  {
+    "id": 42,
+    "childGachaIds": [
+      456,
+      457,
+      458
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_12"
+  },
+  {
+    "id": 43,
+    "childGachaIds": [
+      461,
+      462,
+      463
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_13"
+  },
+  {
+    "id": 44,
+    "childGachaIds": [
+      464,
+      465
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 45,
+    "childGachaIds": [
+      470,
+      471,
+      472
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_14"
+  },
+  {
+    "id": 46,
+    "childGachaIds": [
+      476,
+      477,
+      478
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 47,
+    "childGachaIds": [
+      479,
+      480,
+      481
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_15"
+  },
+  {
+    "id": 48,
+    "childGachaIds": [
+      491,
+      496,
+      497
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 49,
+    "childGachaIds": [
+      493,
+      494,
+      495
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_16"
+  },
+  {
+    "id": 50,
+    "childGachaIds": [
+      500,
+      501,
+      502
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_17"
+  },
+  {
+    "id": 51,
+    "childGachaIds": [
+      485,
+      492,
+      499
+    ],
+    "seq": 450,
+    "assetbundleName": "ab_gacha_tab_31"
+  },
+  {
+    "id": 52,
+    "childGachaIds": [
+      506,
+      507,
+      508
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_18"
+  },
+  {
+    "id": 53,
+    "childGachaIds": [
+      510,
+      511,
+      512
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 54,
+    "childGachaIds": [
+      513,
+      514,
+      515
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_19"
+  },
+  {
+    "id": 55,
+    "childGachaIds": [
+      517,
+      518,
+      519
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_20"
+  },
+  {
+    "id": 56,
+    "childGachaIds": [
+      524,
+      525,
+      526
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 57,
+    "childGachaIds": [
+      530,
+      531,
+      532
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_21"
+  },
+  {
+    "id": 58,
+    "childGachaIds": [
+      538,
+      539,
+      540
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 59,
+    "childGachaIds": [
+      542,
+      543,
+      544
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_22"
+  },
+  {
+    "id": 60,
+    "childGachaIds": [
+      545,
+      546,
+      547
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_23"
+  },
+  {
+    "id": 61,
+    "childGachaIds": [
+      553,
+      554,
+      555
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_24"
+  },
+  {
+    "id": 62,
+    "childGachaIds": [
+      556,
+      557,
+      558
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 63,
+    "childGachaIds": [
+      560,
+      561,
+      562
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_25"
+  },
+  {
+    "id": 64,
+    "childGachaIds": [
+      565,
+      566,
+      567
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_26"
+  },
+  {
+    "id": 65,
+    "childGachaIds": [
+      570,
+      571,
+      572
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_27"
+  },
+  {
+    "id": 66,
+    "childGachaIds": [
+      574,
+      575,
+      576
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 67,
+    "childGachaIds": [
+      582,
+      583,
+      584,
+      585,
+      586,
+      587
+    ],
+    "seq": 450,
+    "assetbundleName": "ab_gacha_tab_32"
+  },
+  {
+    "id": 68,
+    "childGachaIds": [
+      592,
+      595,
+      596,
+      597
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_2"
+  },
+  {
+    "id": 69,
+    "childGachaIds": [
+      600,
+      601
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 70,
+    "childGachaIds": [
+      604,
+      605,
+      606,
+      607
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_3"
+  },
+  {
+    "id": 71,
+    "childGachaIds": [
+      611,
+      612,
+      613,
+      614
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_4"
+  },
+  {
+    "id": 72,
+    "childGachaIds": [
+      618,
+      619,
+      620,
+      621
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_5"
+  },
+  {
+    "id": 73,
+    "childGachaIds": [
+      616,
+      617
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 74,
+    "childGachaIds": [
+      626,
+      627,
+      628,
+      629
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_6"
+  },
+  {
+    "id": 75,
+    "childGachaIds": [
+      632,
+      633
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 76,
+    "childGachaIds": [
+      635,
+      636,
+      637,
+      638
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_7"
+  },
+  {
+    "id": 77,
+    "childGachaIds": [
+      639,
+      640,
+      641,
+      642
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_8"
+  },
+  {
+    "id": 78,
+    "childGachaIds": [
+      650,
+      651,
+      652,
+      653
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_9"
+  },
+  {
+    "id": 79,
+    "childGachaIds": [
+      655,
+      656
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 80,
+    "childGachaIds": [
+      664,
+      665,
+      666,
+      667
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_10"
+  },
+  {
+    "id": 81,
+    "childGachaIds": [
+      668,
+      669,
+      670,
+      671
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_11"
+  },
+  {
+    "id": 82,
+    "childGachaIds": [
+      674,
+      675,
+      676,
+      677
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_12"
+  },
+  {
+    "id": 83,
+    "childGachaIds": [
+      679,
+      680
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 84,
+    "childGachaIds": [
+      681,
+      682,
+      683,
+      684
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_13"
+  },
+  {
+    "id": 85,
+    "childGachaIds": [
+      690,
+      691,
+      692,
+      693
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_14"
+  },
+  {
+    "id": 86,
+    "childGachaIds": [
+      697,
+      698
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 87,
+    "childGachaIds": [
+      699,
+      700,
+      701,
+      702
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_15"
+  },
+  {
+    "id": 88,
+    "childGachaIds": [
+      714,
+      715
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 89,
+    "childGachaIds": [
+      716,
+      717,
+      718,
+      719
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_16"
+  },
+  {
+    "id": 90,
+    "childGachaIds": [
+      721,
+      722,
+      723,
+      724
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_17"
+  },
+  {
+    "id": 91,
+    "childGachaIds": [
+      728,
+      729,
+      730,
+      731
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_18"
+  },
+  {
+    "id": 92,
+    "childGachaIds": [
+      734,
+      735
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 93,
+    "childGachaIds": [
+      736,
+      737,
+      738,
+      739
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_19"
+  },
+  {
+    "id": 94,
+    "childGachaIds": [
+      741,
+      742,
+      743,
+      744
+    ],
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_20"
+  },
+  {
+    "id": 95,
+    "childGachaIds": [
+      750,
+      751
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
+  },
+  {
+    "id": 96,
+    "childGachaIds": [
+      753,
+      754,
+      755,
+      756
+    ],
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_21"
+  }
 ]

@@ -1,14 +1,14 @@
 [
-    {
-        "id": 1,
-        "mysekaiPhenomenaTimePeriodType": "daytime"
-    },
-    {
-        "id": 2,
-        "mysekaiPhenomenaTimePeriodType": "evening"
-    },
-    {
-        "id": 3,
-        "mysekaiPhenomenaTimePeriodType": "night"
-    }
+  {
+    "id": 1,
+    "mysekaiPhenomenaTimePeriodType": "daytime"
+  },
+  {
+    "id": 2,
+    "mysekaiPhenomenaTimePeriodType": "evening"
+  },
+  {
+    "id": 3,
+    "mysekaiPhenomenaTimePeriodType": "night"
+  }
 ]
