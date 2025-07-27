@@ -6534,6 +6534,12 @@
     "seq": 0
   },
   {
+    "id": 1167,
+    "musicId": 644,
+    "musicTag": "all",
+    "seq": 0
+  },
+  {
     "id": 1169,
     "musicId": 646,
     "musicTag": "all",
@@ -8014,5 +8020,11 @@
     "musicId": 635,
     "musicTag": "idol",
     "seq": 4
+  },
+  {
+    "id": 1593,
+    "musicId": 644,
+    "musicTag": "school_refusal",
+    "seq": 5
   }
 ]
