@@ -11221,7 +11221,7 @@
     "seq": 1140501,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      "original"
     ],
     "title": "Help me, ERINNNNNN!!",
     "pronunciation": "へるぷみーえーりん",
@@ -13380,7 +13380,8 @@
     "seq": 1551501,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      "image",
+      "mv_2d"
     ],
     "title": "とうほう☆ワンダーランド",
     "pronunciation": "とうほうわんだーらんど",
@@ -13405,7 +13406,8 @@
     "seq": 1151401,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      "image",
+      "original"
     ],
     "title": "チルノのパーフェクトさんすう学園",
     "pronunciation": "ちるののぱーふぇくとさんすうがくえん",
@@ -13636,6 +13638,54 @@
     "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
     "publishedAt": 1751868000000,
     "releasedAt": 1742482800000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 638,
+    "seq": 1154001,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "花弁、それにまつわる音声",
+    "pronunciation": "かべんそれにまつわるおんせい",
+    "creatorArtistId": 290,
+    "lyricist": "あばらや",
+    "composer": "あばらや",
+    "arranger": "あばらや",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_638",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1754114400000,
+    "releasedAt": 1740150000000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 639,
+    "seq": 1154101,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "マリオネットダンサー",
+    "pronunciation": "まりおねっとだんさー",
+    "creatorArtistId": 291,
+    "lyricist": "ひらぎ",
+    "composer": "ひらぎ",
+    "arranger": "ひらぎ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_639",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1754200800000,
+    "releasedAt": 1740063600000,
     "liveStageId": 1,
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
