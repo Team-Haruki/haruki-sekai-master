@@ -21,43 +21,43 @@
   },
   {
     "playLevel": 6,
-    "scoreCoefficient": 1.0049999952316284
+    "scoreCoefficient": 1.00499999523162842
   },
   {
     "playLevel": 7,
-    "scoreCoefficient": 1.0099999904632568
+    "scoreCoefficient": 1.00999999046325684
   },
   {
     "playLevel": 8,
-    "scoreCoefficient": 1.0149999856948853
+    "scoreCoefficient": 1.01499998569488525
   },
   {
     "playLevel": 9,
-    "scoreCoefficient": 1.0199999809265137
+    "scoreCoefficient": 1.01999998092651367
   },
   {
     "playLevel": 10,
-    "scoreCoefficient": 1.024999976158142
+    "scoreCoefficient": 1.02499997615814209
   },
   {
     "playLevel": 11,
-    "scoreCoefficient": 1.0299999713897705
+    "scoreCoefficient": 1.02999997138977051
   },
   {
     "playLevel": 12,
-    "scoreCoefficient": 1.034999966621399
+    "scoreCoefficient": 1.03499996662139893
   },
   {
     "playLevel": 13,
-    "scoreCoefficient": 1.0399999618530273
+    "scoreCoefficient": 1.03999996185302734
   },
   {
     "playLevel": 14,
-    "scoreCoefficient": 1.0449999570846558
+    "scoreCoefficient": 1.04499995708465576
   },
   {
     "playLevel": 15,
-    "scoreCoefficient": 1.0499999523162842
+    "scoreCoefficient": 1.04999995231628418
   },
   {
     "playLevel": 16,
@@ -65,11 +65,11 @@
   },
   {
     "playLevel": 17,
-    "scoreCoefficient": 1.059999942779541
+    "scoreCoefficient": 1.05999994277954102
   },
   {
     "playLevel": 18,
-    "scoreCoefficient": 1.065000057220459
+    "scoreCoefficient": 1.06500005722045898
   },
   {
     "playLevel": 19,
@@ -77,43 +77,43 @@
   },
   {
     "playLevel": 20,
-    "scoreCoefficient": 1.0750000476837158
+    "scoreCoefficient": 1.07500004768371582
   },
   {
     "playLevel": 21,
-    "scoreCoefficient": 1.0800000429153442
+    "scoreCoefficient": 1.08000004291534424
   },
   {
     "playLevel": 22,
-    "scoreCoefficient": 1.0850000381469727
+    "scoreCoefficient": 1.08500003814697266
   },
   {
     "playLevel": 23,
-    "scoreCoefficient": 1.090000033378601
+    "scoreCoefficient": 1.09000003337860107
   },
   {
     "playLevel": 24,
-    "scoreCoefficient": 1.0950000286102295
+    "scoreCoefficient": 1.09500002861022949
   },
   {
     "playLevel": 25,
-    "scoreCoefficient": 1.100000023841858
+    "scoreCoefficient": 1.10000002384185791
   },
   {
     "playLevel": 26,
-    "scoreCoefficient": 1.1050000190734863
+    "scoreCoefficient": 1.10500001907348633
   },
   {
     "playLevel": 27,
-    "scoreCoefficient": 1.1100000143051147
+    "scoreCoefficient": 1.11000001430511475
   },
   {
     "playLevel": 28,
-    "scoreCoefficient": 1.1150000095367432
+    "scoreCoefficient": 1.11500000953674316
   },
   {
     "playLevel": 29,
-    "scoreCoefficient": 1.1200000047683716
+    "scoreCoefficient": 1.12000000476837158
   },
   {
     "playLevel": 30,
@@ -121,42 +121,42 @@
   },
   {
     "playLevel": 31,
-    "scoreCoefficient": 1.1299999952316284
+    "scoreCoefficient": 1.12999999523162842
   },
   {
     "playLevel": 32,
-    "scoreCoefficient": 1.1349999904632568
+    "scoreCoefficient": 1.13499999046325684
   },
   {
     "playLevel": 33,
-    "scoreCoefficient": 1.1399999856948853
+    "scoreCoefficient": 1.13999998569488525
   },
   {
     "playLevel": 34,
-    "scoreCoefficient": 1.1449999809265137
+    "scoreCoefficient": 1.14499998092651367
   },
   {
     "playLevel": 35,
-    "scoreCoefficient": 1.149999976158142
+    "scoreCoefficient": 1.14999997615814209
   },
   {
     "playLevel": 36,
-    "scoreCoefficient": 1.1549999713897705
+    "scoreCoefficient": 1.15499997138977051
   },
   {
     "playLevel": 37,
-    "scoreCoefficient": 1.159999966621399
+    "scoreCoefficient": 1.15999996662139893
   },
   {
     "playLevel": 38,
-    "scoreCoefficient": 1.1649999618530273
+    "scoreCoefficient": 1.16499996185302734
   },
   {
     "playLevel": 39,
-    "scoreCoefficient": 1.1699999570846558
+    "scoreCoefficient": 1.16999995708465576
   },
   {
     "playLevel": 40,
-    "scoreCoefficient": 1.1749999523162842
+    "scoreCoefficient": 1.17499995231628418
   }
 ]

@@ -27,7 +27,7 @@
     "id": 105,
     "cardRarityType": "rarity_1",
     "masterRank": 4,
-    "bonusRate": 0.4000000059604645
+    "bonusRate": 0.40000000596046448
   },
   {
     "id": 106,
@@ -51,19 +51,19 @@
     "id": 203,
     "cardRarityType": "rarity_2",
     "masterRank": 2,
-    "bonusRate": 0.4000000059604645
+    "bonusRate": 0.40000000596046448
   },
   {
     "id": 204,
     "cardRarityType": "rarity_2",
     "masterRank": 3,
-    "bonusRate": 0.6000000238418579
+    "bonusRate": 0.60000002384185791
   },
   {
     "id": 205,
     "cardRarityType": "rarity_2",
     "masterRank": 4,
-    "bonusRate": 0.800000011920929
+    "bonusRate": 0.80000001192092896
   },
   {
     "id": 206,
