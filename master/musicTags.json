@@ -6774,6 +6774,12 @@
     "seq": 0
   },
   {
+    "id": 1201,
+    "musicId": 678,
+    "musicTag": "all",
+    "seq": 0
+  },
+  {
     "id": 1324,
     "musicId": 382,
     "musicTag": "vocaloid",
@@ -8512,5 +8518,11 @@
     "musicId": 597,
     "musicTag": "school_refusal",
     "seq": 5
+  },
+  {
+    "id": 1638,
+    "musicId": 678,
+    "musicTag": "vocaloid",
+    "seq": 1
   }
 ]
