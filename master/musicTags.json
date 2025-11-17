@@ -6462,6 +6462,12 @@
     "seq": 0
   },
   {
+    "id": 1123,
+    "musicId": 600,
+    "musicTag": "all",
+    "seq": 0
+  },
+  {
     "id": 1124,
     "musicId": 601,
     "musicTag": "all",
@@ -8524,5 +8530,11 @@
     "musicId": 678,
     "musicTag": "vocaloid",
     "seq": 1
+  },
+  {
+    "id": 1639,
+    "musicId": 600,
+    "musicTag": "theme_park",
+    "seq": 2
   }
 ]
