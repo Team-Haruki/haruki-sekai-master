@@ -6756,6 +6756,12 @@
     "seq": 0
   },
   {
+    "id": 1193,
+    "musicId": 670,
+    "musicTag": "all",
+    "seq": 0
+  },
+  {
     "id": 1194,
     "musicId": 671,
     "musicTag": "all",
@@ -8686,5 +8692,11 @@
     "musicId": 689,
     "musicTag": "other",
     "seq": 7
+  },
+  {
+    "id": 1656,
+    "musicId": 670,
+    "musicTag": "theme_park",
+    "seq": 2
   }
 ]
