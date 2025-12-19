@@ -6852,6 +6852,12 @@
     "seq": 0
   },
   {
+    "id": 1219,
+    "musicId": 696,
+    "musicTag": "all",
+    "seq": 0
+  },
+  {
     "id": 1324,
     "musicId": 382,
     "musicTag": "vocaloid",
@@ -8698,5 +8704,11 @@
     "musicId": 670,
     "musicTag": "theme_park",
     "seq": 2
+  },
+  {
+    "id": 1657,
+    "musicId": 696,
+    "musicTag": "vocaloid",
+    "seq": 1
   }
 ]
