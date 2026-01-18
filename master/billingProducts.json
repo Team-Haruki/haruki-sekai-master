@@ -5,7 +5,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.crystal.0008",
     "price": 160,
-    "unitPrice": 1.06700003147125244
+    "unitPrice": 1.0670000314712524
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.crystal.0008",
     "price": 160,
-    "unitPrice": 1.06700003147125244
+    "unitPrice": 1.0670000314712524
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.crystal.0009",
     "price": 480,
-    "unitPrice": 1.04400002956390381
+    "unitPrice": 1.0440000295639038
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.crystal.0009",
     "price": 480,
-    "unitPrice": 1.04400002956390381
+    "unitPrice": 1.0440000295639038
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.crystal.0010",
     "price": 1000,
-    "unitPrice": 1.03100001811981201
+    "unitPrice": 1.031000018119812
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.crystal.0010",
     "price": 1000,
-    "unitPrice": 1.03100001811981201
+    "unitPrice": 1.031000018119812
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.crystal.0011",
     "price": 1800,
-    "unitPrice": 1.02300000190734863
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.crystal.0011",
     "price": 1800,
-    "unitPrice": 1.02300000190734863
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 9,
@@ -85,7 +85,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.crystal.0013",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.crystal.0013",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.crystal.0014",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.crystal.0014",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.beginnerset.0001",
     "price": 120,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.beginnerset.0001",
     "price": 120,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.beginnerset.0002",
     "price": 3060,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.beginnerset.0002",
     "price": 3060,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.beginnerset.0003",
     "price": 10000,
-    "unitPrice": 1.08700001239776611
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.beginnerset.0003",
     "price": 10000,
-    "unitPrice": 1.08700001239776611
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 21,
@@ -165,7 +165,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.beginnerset.0004",
     "price": 370,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 22,
@@ -173,7 +173,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.beginnerset.0004",
     "price": 370,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.livep.0003",
     "price": 320,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 24,
@@ -189,7 +189,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.livep.0003",
     "price": 320,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 25,
@@ -197,7 +197,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0026",
     "price": 480,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 26,
@@ -205,7 +205,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0026",
     "price": 480,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 27,
@@ -213,7 +213,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0002",
     "price": 490,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 28,
@@ -221,7 +221,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0002",
     "price": 490,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 29,
@@ -229,7 +229,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0003",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 30,
@@ -237,7 +237,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0003",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 31,
@@ -245,7 +245,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0004",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 32,
@@ -253,7 +253,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0004",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 33,
@@ -261,7 +261,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0005",
     "price": 3060,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 34,
@@ -269,7 +269,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0005",
     "price": 3060,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 35,
@@ -277,7 +277,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0001",
     "price": 1840,
-    "unitPrice": 1.02300000190734863
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0001",
     "price": 1840,
-    "unitPrice": 1.02300000190734863
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 37,
@@ -293,7 +293,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0002",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 38,
@@ -301,7 +301,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0002",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 39,
@@ -309,7 +309,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0003",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 40,
@@ -317,7 +317,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0003",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 41,
@@ -325,7 +325,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0006",
     "price": 1480,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 42,
@@ -333,7 +333,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0006",
     "price": 1480,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 45,
@@ -341,7 +341,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.beginnerset.0005",
     "price": 490,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 46,
@@ -349,7 +349,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.beginnerset.0005",
     "price": 490,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 47,
@@ -357,7 +357,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0007",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 48,
@@ -365,7 +365,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0007",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 49,
@@ -373,7 +373,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0008",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50,
@@ -381,7 +381,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0008",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 51,
@@ -389,7 +389,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0009",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 52,
@@ -397,7 +397,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0009",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 53,
@@ -405,7 +405,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0010",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 54,
@@ -413,7 +413,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0010",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 55,
@@ -421,7 +421,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0011",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 56,
@@ -429,7 +429,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0011",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 57,
@@ -437,7 +437,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0012",
     "price": 490,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 58,
@@ -445,7 +445,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0012",
     "price": 490,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 59,
@@ -453,7 +453,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0013",
     "price": 3060,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 60,
@@ -461,7 +461,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0013",
     "price": 3060,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 61,
@@ -469,7 +469,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0014",
     "price": 10000,
-    "unitPrice": 1.08700001239776611
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 62,
@@ -477,7 +477,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0014",
     "price": 10000,
-    "unitPrice": 1.08700001239776611
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 63,
@@ -485,7 +485,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0015",
     "price": 3060,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 64,
@@ -493,7 +493,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0015",
     "price": 3060,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 65,
@@ -501,7 +501,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.livep.0004",
     "price": 1800,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 66,
@@ -509,7 +509,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.livep.0004",
     "price": 1800,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 67,
@@ -517,7 +517,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0016",
     "price": 490,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 68,
@@ -525,7 +525,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0016",
     "price": 490,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 69,
@@ -533,7 +533,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0017",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 70,
@@ -541,7 +541,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0017",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 71,
@@ -549,7 +549,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0018",
     "price": 5020,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 72,
@@ -557,7 +557,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0018",
     "price": 5020,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 73,
@@ -565,7 +565,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0004",
     "price": 1840,
-    "unitPrice": 1.02300000190734863
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 74,
@@ -573,7 +573,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0004",
     "price": 1840,
-    "unitPrice": 1.02300000190734863
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 75,
@@ -581,7 +581,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0005",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 76,
@@ -589,7 +589,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0005",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 77,
@@ -597,7 +597,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0006",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 78,
@@ -605,7 +605,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0006",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 79,
@@ -613,7 +613,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0019",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 80,
@@ -621,7 +621,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0019",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 81,
@@ -629,7 +629,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0020",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 82,
@@ -637,7 +637,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0020",
     "price": 1960,
-    "unitPrice": 1.08899998664855957
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 83,
@@ -645,7 +645,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.crystal.0015",
     "price": 1800,
-    "unitPrice": 1.02300000190734863
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 84,
@@ -653,7 +653,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.crystal.0015",
     "price": 1800,
-    "unitPrice": 1.02300000190734863
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 85,
@@ -661,7 +661,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.crystal.0016",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 86,
@@ -669,7 +669,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.crystal.0016",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 87,
@@ -677,7 +677,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.crystal.0017",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 88,
@@ -685,7 +685,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.crystal.0017",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 89,
@@ -693,7 +693,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0021",
     "price": 120,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 90,
@@ -701,7 +701,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0021",
     "price": 120,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 91,
@@ -709,7 +709,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.beginnerset.0006",
     "price": 480,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 92,
@@ -717,7 +717,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.beginnerset.0006",
     "price": 480,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 93,
@@ -725,7 +725,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.beginnerset.0007",
     "price": 3000,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 94,
@@ -733,7 +733,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.beginnerset.0007",
     "price": 3000,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 95,
@@ -741,7 +741,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.beginnerset.0008",
     "price": 10000,
-    "unitPrice": 1.08700001239776611
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 96,
@@ -749,7 +749,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.beginnerset.0008",
     "price": 10000,
-    "unitPrice": 1.08700001239776611
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 97,
@@ -757,7 +757,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0010",
     "price": 1840,
-    "unitPrice": 1.02300000190734863
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 98,
@@ -765,7 +765,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0010",
     "price": 1840,
-    "unitPrice": 1.02300000190734863
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 99,
@@ -773,7 +773,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0011",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 100,
@@ -781,7 +781,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0011",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 101,
@@ -789,7 +789,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0012",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 102,
@@ -797,7 +797,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0012",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 103,
@@ -805,7 +805,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0013",
     "price": 1840,
-    "unitPrice": 1.02300000190734863
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 104,
@@ -813,7 +813,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0013",
     "price": 1840,
-    "unitPrice": 1.02300000190734863
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 105,
@@ -821,7 +821,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0014",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 106,
@@ -829,7 +829,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0014",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 107,
@@ -837,7 +837,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0015",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 108,
@@ -845,7 +845,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0015",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 109,
@@ -853,7 +853,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0026",
     "price": 160,
-    "unitPrice": 1.06700003147125244
+    "unitPrice": 1.0670000314712524
   },
   {
     "id": 110,
@@ -861,7 +861,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0026",
     "price": 160,
-    "unitPrice": 1.06700003147125244
+    "unitPrice": 1.0670000314712524
   },
   {
     "id": 111,
@@ -869,7 +869,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0027",
     "price": 480,
-    "unitPrice": 1.04400002956390381
+    "unitPrice": 1.0440000295639038
   },
   {
     "id": 112,
@@ -877,7 +877,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0027",
     "price": 480,
-    "unitPrice": 1.04400002956390381
+    "unitPrice": 1.0440000295639038
   },
   {
     "id": 113,
@@ -885,7 +885,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0028",
     "price": 1000,
-    "unitPrice": 1.03100001811981201
+    "unitPrice": 1.031000018119812
   },
   {
     "id": 114,
@@ -893,7 +893,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0028",
     "price": 1000,
-    "unitPrice": 1.03100001811981201
+    "unitPrice": 1.031000018119812
   },
   {
     "id": 115,
@@ -901,7 +901,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0029",
     "price": 1800,
-    "unitPrice": 1.02300000190734863
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 116,
@@ -909,7 +909,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0029",
     "price": 1800,
-    "unitPrice": 1.02300000190734863
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 117,
@@ -933,7 +933,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0031",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 120,
@@ -941,7 +941,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0031",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 121,
@@ -949,7 +949,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0032",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 122,
@@ -957,7 +957,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0032",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 123,
@@ -997,7 +997,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0034",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 128,
@@ -1005,7 +1005,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0034",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 129,
@@ -1013,7 +1013,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0035",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 130,
@@ -1021,7 +1021,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0035",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 131,
@@ -1029,7 +1029,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0028",
     "price": 480,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 132,
@@ -1037,7 +1037,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0028",
     "price": 480,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 133,
@@ -1045,7 +1045,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0029",
     "price": 1500,
-    "unitPrice": 1.08700001239776611
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 134,
@@ -1053,7 +1053,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0029",
     "price": 1500,
-    "unitPrice": 1.08700001239776611
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 135,
@@ -1061,7 +1061,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.set.0030",
     "price": 3000,
-    "unitPrice": 1.08700001239776611
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 136,
@@ -1069,7 +1069,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.set.0030",
     "price": 3000,
-    "unitPrice": 1.08700001239776611
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 137,
@@ -1093,7 +1093,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0037",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 140,
@@ -1101,7 +1101,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0037",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 141,
@@ -1109,7 +1109,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0038",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 142,
@@ -1117,7 +1117,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0038",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 143,
@@ -1141,7 +1141,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0040",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 146,
@@ -1149,7 +1149,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0040",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 147,
@@ -1157,7 +1157,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0041",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 148,
@@ -1165,7 +1165,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0041",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 149,
@@ -1205,7 +1205,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0043",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 154,
@@ -1213,7 +1213,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0043",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 155,
@@ -1221,7 +1221,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0044",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 156,
@@ -1229,7 +1229,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0044",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 157,
@@ -1253,7 +1253,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0046",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 160,
@@ -1261,7 +1261,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0046",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 161,
@@ -1269,7 +1269,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0047",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 162,
@@ -1277,7 +1277,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0047",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 166,
@@ -1285,7 +1285,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.crystal.0008",
     "price": 160,
-    "unitPrice": 1.06700003147125244
+    "unitPrice": 1.0670000314712524
   },
   {
     "id": 167,
@@ -1293,7 +1293,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.crystal.0009",
     "price": 480,
-    "unitPrice": 1.04400002956390381
+    "unitPrice": 1.0440000295639038
   },
   {
     "id": 168,
@@ -1301,7 +1301,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.crystal.0010",
     "price": 1000,
-    "unitPrice": 1.03100001811981201
+    "unitPrice": 1.031000018119812
   },
   {
     "id": 169,
@@ -1309,7 +1309,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.crystal.0011",
     "price": 1800,
-    "unitPrice": 1.02300000190734863
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 170,
@@ -1325,7 +1325,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.crystal.0013",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 172,
@@ -1333,7 +1333,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.crystal.0014",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 173,
@@ -1341,7 +1341,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.crystal.0018",
     "price": 160,
-    "unitPrice": 1.06700003147125244
+    "unitPrice": 1.0670000314712524
   },
   {
     "id": 174,
@@ -1349,7 +1349,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.crystal.0019",
     "price": 480,
-    "unitPrice": 1.04400002956390381
+    "unitPrice": 1.0440000295639038
   },
   {
     "id": 175,
@@ -1357,7 +1357,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.crystal.0020",
     "price": 1000,
-    "unitPrice": 1.03100001811981201
+    "unitPrice": 1.031000018119812
   },
   {
     "id": 176,
@@ -1365,7 +1365,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.crystal.0021",
     "price": 1800,
-    "unitPrice": 1.02300000190734863
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 177,
@@ -1381,7 +1381,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.crystal.0023",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 179,
@@ -1389,7 +1389,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.crystal.0024",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 180,
@@ -1397,7 +1397,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.crystal.0025",
     "price": 30000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 181,
@@ -1405,7 +1405,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.crystal.0026",
     "price": 50000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 182,
@@ -1437,7 +1437,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0059",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 186,
@@ -1445,7 +1445,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0059",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 187,
@@ -1453,7 +1453,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.campaign.0059",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 188,
@@ -1461,7 +1461,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0060",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 189,
@@ -1469,7 +1469,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0060",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 190,
@@ -1477,7 +1477,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.campaign.0060",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 191,
@@ -1509,7 +1509,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0062",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 195,
@@ -1517,7 +1517,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0062",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 196,
@@ -1525,7 +1525,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.campaign.0062",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 197,
@@ -1533,7 +1533,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0063",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 198,
@@ -1541,7 +1541,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0063",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 199,
@@ -1549,7 +1549,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.campaign.0063",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 200,
@@ -1557,7 +1557,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.mysekai.world.pass.0001",
     "price": 1500,
-    "unitPrice": 1.08700001239776611
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 201,
@@ -1565,7 +1565,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.mysekai.world.pass.0001",
     "price": 1500,
-    "unitPrice": 1.08700001239776611
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 202,
@@ -1589,7 +1589,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.mysekai.mission.pass.0002",
     "price": 1500,
-    "unitPrice": 0.81099998950958252
+    "unitPrice": 0.8109999895095825
   },
   {
     "id": 205,
@@ -1597,7 +1597,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.mysekai.mission.pass.0002",
     "price": 1500,
-    "unitPrice": 0.81099998950958252
+    "unitPrice": 0.8109999895095825
   },
   {
     "id": 206,
@@ -1605,7 +1605,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.premium.mission.pass.0002",
     "price": 1500,
-    "unitPrice": 0.81099998950958252
+    "unitPrice": 0.8109999895095825
   },
   {
     "id": 207,
@@ -1613,7 +1613,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.premium.mission.pass.0002",
     "price": 1500,
-    "unitPrice": 0.81099998950958252
+    "unitPrice": 0.8109999895095825
   },
   {
     "id": 208,
@@ -1621,7 +1621,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.mission.pass.set.0001",
     "price": 3500,
-    "unitPrice": 0.94599997997283936
+    "unitPrice": 0.9459999799728394
   },
   {
     "id": 209,
@@ -1629,7 +1629,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.mission.pass.set.0001",
     "price": 3500,
-    "unitPrice": 0.94599997997283936
+    "unitPrice": 0.9459999799728394
   },
   {
     "id": 210,
@@ -1661,7 +1661,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0065",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 214,
@@ -1669,7 +1669,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0065",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 215,
@@ -1677,7 +1677,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.campaign.0065",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 216,
@@ -1685,7 +1685,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0066",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 217,
@@ -1693,7 +1693,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0066",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 218,
@@ -1701,7 +1701,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.campaign.0066",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 219,
@@ -1709,7 +1709,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.mysekai.world.pass.0001",
     "price": 1500,
-    "unitPrice": 1.08700001239776611
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 220,
@@ -1717,7 +1717,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.set.0028",
     "price": 480,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 221,
@@ -1725,7 +1725,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.set.0029",
     "price": 1500,
-    "unitPrice": 1.08700001239776611
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 222,
@@ -1733,7 +1733,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.set.0030",
     "price": 3000,
-    "unitPrice": 1.08700001239776611
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 223,
@@ -1757,7 +1757,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.mysekai.mission.pass.0002",
     "price": 1500,
-    "unitPrice": 0.81099998950958252
+    "unitPrice": 0.8109999895095825
   },
   {
     "id": 226,
@@ -1765,7 +1765,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.premium.mission.pass.0002",
     "price": 1500,
-    "unitPrice": 0.81099998950958252
+    "unitPrice": 0.8109999895095825
   },
   {
     "id": 227,
@@ -1773,7 +1773,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.mission.pass.set.0001",
     "price": 3500,
-    "unitPrice": 0.94599997997283936
+    "unitPrice": 0.9459999799728394
   },
   {
     "id": 228,
@@ -1805,7 +1805,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0068",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 232,
@@ -1813,7 +1813,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0068",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 233,
@@ -1821,7 +1821,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.campaign.0068",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 234,
@@ -1829,7 +1829,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0069",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 235,
@@ -1837,7 +1837,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0069",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 236,
@@ -1845,7 +1845,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.campaign.0069",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 237,
@@ -1877,7 +1877,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0071",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 241,
@@ -1885,7 +1885,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0071",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 242,
@@ -1893,7 +1893,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.campaign.0071",
     "price": 4900,
-    "unitPrice": 0.98000001907348633
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 243,
@@ -1901,7 +1901,7 @@
     "platform": "iOS",
     "productId": "com.sega.pjsekai.campaign.0072",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 244,
@@ -1909,7 +1909,7 @@
     "platform": "Android",
     "productId": "com.sega.pjsekai.campaign.0072",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 245,
@@ -1917,7 +1917,7 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.campaign.0072",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 246,
@@ -1925,6 +1925,6 @@
     "platform": "zenpay",
     "productId": "com.sega.pjsekai.webstorelimited.01",
     "price": 10000,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   }
 ]
