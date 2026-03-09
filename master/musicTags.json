@@ -6900,6 +6900,12 @@
     "seq": 0
   },
   {
+    "id": 1206,
+    "musicId": 683,
+    "musicTag": "all",
+    "seq": 0
+  },
+  {
     "id": 1207,
     "musicId": 684,
     "musicTag": "all",
@@ -6980,6 +6986,12 @@
   {
     "id": 1221,
     "musicId": 698,
+    "musicTag": "all",
+    "seq": 0
+  },
+  {
+    "id": 1222,
+    "musicId": 699,
     "musicTag": "all",
     "seq": 0
   },
@@ -9112,5 +9124,17 @@
     "musicId": 702,
     "musicTag": "light_music_club",
     "seq": 6
+  },
+  {
+    "id": 1693,
+    "musicId": 699,
+    "musicTag": "vocaloid",
+    "seq": 1
+  },
+  {
+    "id": 1694,
+    "musicId": 683,
+    "musicTag": "idol",
+    "seq": 4
   }
 ]
