@@ -418,5 +418,35 @@
     "birthdayPartyId": 14,
     "seq": 5,
     "mysekaiFixtureId": 913
+  },
+  {
+    "id": 71,
+    "birthdayPartyId": 15,
+    "seq": 1,
+    "mysekaiFixtureId": 914
+  },
+  {
+    "id": 72,
+    "birthdayPartyId": 15,
+    "seq": 2,
+    "mysekaiFixtureId": 915
+  },
+  {
+    "id": 73,
+    "birthdayPartyId": 15,
+    "seq": 3,
+    "mysekaiFixtureId": 916
+  },
+  {
+    "id": 74,
+    "birthdayPartyId": 15,
+    "seq": 4,
+    "mysekaiFixtureId": 917
+  },
+  {
+    "id": 75,
+    "birthdayPartyId": 15,
+    "seq": 5,
+    "mysekaiFixtureId": 918
   }
 ]

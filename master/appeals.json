@@ -3168,5 +3168,35 @@
     "endAt": 1775703599000,
     "appealReadConditionType": "transition",
     "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 318,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1775746800000,
+    "endAt": 1776351599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 319,
+    "seq": 2,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1775833200000,
+    "endAt": 1776092399000,
+    "appealReadConditionType": "transition",
+    "text": "みのり BDイベント '26開催中！"
+  },
+  {
+    "id": 320,
+    "seq": 4,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1776092400000,
+    "endAt": 1776697199000,
+    "appealReadConditionType": "transition",
+    "text": "マイセカイ百景「みのりBDパーティー'26」開催中！"
   }
 ]

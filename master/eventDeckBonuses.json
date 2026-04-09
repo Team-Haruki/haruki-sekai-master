@@ -20640,5 +20640,141 @@
     "eventId": 200,
     "cardAttr": "cool",
     "bonusRate": 25.0
+  },
+  {
+    "id": 3204,
+    "eventId": 201,
+    "gameCharacterUnitId": 9,
+    "cardAttr": "mysterious",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 3205,
+    "eventId": 201,
+    "gameCharacterUnitId": 10,
+    "cardAttr": "mysterious",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 3206,
+    "eventId": 201,
+    "gameCharacterUnitId": 11,
+    "cardAttr": "mysterious",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 3207,
+    "eventId": 201,
+    "gameCharacterUnitId": 12,
+    "cardAttr": "mysterious",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 3208,
+    "eventId": 201,
+    "gameCharacterUnitId": 29,
+    "cardAttr": "mysterious",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 3209,
+    "eventId": 201,
+    "gameCharacterUnitId": 34,
+    "cardAttr": "mysterious",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 3210,
+    "eventId": 201,
+    "gameCharacterUnitId": 39,
+    "cardAttr": "mysterious",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 3211,
+    "eventId": 201,
+    "gameCharacterUnitId": 44,
+    "cardAttr": "mysterious",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 3212,
+    "eventId": 201,
+    "gameCharacterUnitId": 49,
+    "cardAttr": "mysterious",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 3213,
+    "eventId": 201,
+    "gameCharacterUnitId": 54,
+    "cardAttr": "mysterious",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 3214,
+    "eventId": 201,
+    "gameCharacterUnitId": 9,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 3215,
+    "eventId": 201,
+    "gameCharacterUnitId": 10,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 3216,
+    "eventId": 201,
+    "gameCharacterUnitId": 11,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 3217,
+    "eventId": 201,
+    "gameCharacterUnitId": 12,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 3218,
+    "eventId": 201,
+    "gameCharacterUnitId": 29,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 3219,
+    "eventId": 201,
+    "gameCharacterUnitId": 34,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 3220,
+    "eventId": 201,
+    "gameCharacterUnitId": 39,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 3221,
+    "eventId": 201,
+    "gameCharacterUnitId": 44,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 3222,
+    "eventId": 201,
+    "gameCharacterUnitId": 49,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 3223,
+    "eventId": 201,
+    "gameCharacterUnitId": 54,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 3224,
+    "eventId": 201,
+    "cardAttr": "mysterious",
+    "bonusRate": 25.0
   }
 ]

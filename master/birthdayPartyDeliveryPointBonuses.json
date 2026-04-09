@@ -418,5 +418,35 @@
     "birthdayPartyId": 14,
     "cardId": 396,
     "rate": 15
+  },
+  {
+    "id": 71,
+    "birthdayPartyId": 15,
+    "cardId": 1373,
+    "rate": 50
+  },
+  {
+    "id": 72,
+    "birthdayPartyId": 15,
+    "cardId": 1155,
+    "rate": 15
+  },
+  {
+    "id": 73,
+    "birthdayPartyId": 15,
+    "cardId": 908,
+    "rate": 15
+  },
+  {
+    "id": 74,
+    "birthdayPartyId": 15,
+    "cardId": 629,
+    "rate": 15
+  },
+  {
+    "id": 75,
+    "birthdayPartyId": 15,
+    "cardId": 415,
+    "rate": 15
   }
 ]

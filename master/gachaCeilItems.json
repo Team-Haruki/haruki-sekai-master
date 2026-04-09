@@ -3478,5 +3478,45 @@
     "assetbundleName": "ceil_item_limited",
     "convertStartAt": 1778295600000,
     "convertResourceBoxId": 2
+  },
+  {
+    "id": 523,
+    "gachaId": 930,
+    "name": "Proof the REDガチャシール",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1779073200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 524,
+    "gachaId": 931,
+    "name": "[花里みのり]HAPPY BIRTHDAYガチャシール",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1778911200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 525,
+    "gachaId": 933,
+    "name": "ワールドリンクイベント Part1 サポートガチャシール",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1780110000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 526,
+    "gachaId": 934,
+    "name": "[復刻]Living With Musicガチャシール",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1779332400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 527,
+    "gachaId": 935,
+    "name": "[復刻]とってもおばけなバケーション！ガチャシール",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1779332400000,
+    "convertResourceBoxId": 2
   }
 ]

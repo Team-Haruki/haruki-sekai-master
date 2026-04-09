@@ -35590,5 +35590,16 @@
     "id": 8096,
     "mysekaiCharacterTalkId": 8096,
     "mysekaiCharacterTalkTweetId": 17579
+  },
+  {
+    "id": 8097,
+    "mysekaiCharacterTalkId": 8097,
+    "mysekaiCharacterTalkTweetId": 17580,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6
+  },
+  {
+    "id": 8098,
+    "mysekaiCharacterTalkId": 8098,
+    "mysekaiCharacterTalkTweetId": 17581
   }
 ]

@@ -864,9 +864,15 @@
     "assetbundleName": "tl_env0007_fixture_highchair1_000"
   },
   {
-    "id": 155,
+    "id": 145,
     "mysekaiFixtureId": 1153,
     "actionPoint": 13,
     "assetbundleName": "tl_env0007_fixture_highchair1_000"
+  },
+  {
+    "id": 146,
+    "mysekaiFixtureId": 918,
+    "actionPoint": 13,
+    "assetbundleName": "tl_ext0001_fixture_chair1_000"
   }
 ]

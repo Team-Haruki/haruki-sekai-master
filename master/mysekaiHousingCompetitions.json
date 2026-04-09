@@ -207,5 +207,16 @@
     "aggregateAt": 1775635200000,
     "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
     "backNumberAccentColorCode": "#F8CDE7"
+  },
+  {
+    "id": 20,
+    "name": "みのりBIRTHDAYパーティー'26",
+    "description": "26年みのり誕生日と連携したマイセカイ百景",
+    "submitStartAt": 1776092400000,
+    "reviewStartAt": 1776092400000,
+    "submitEndAt": 1776697199000,
+    "aggregateAt": 1776697200000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
+    "backNumberAccentColorCode": "#ffccaa"
   }
 ]

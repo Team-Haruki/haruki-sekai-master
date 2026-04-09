@@ -26273,5 +26273,134 @@
         ]
       }
     ]
+  },
+  {
+    "id": 201,
+    "eventId": 201,
+    "outline": "RUSH BEATSに向けて、実践を積みながら腕を磨くVivid BAD SQUAD。しかし、杏を中心に言葉の壁に躓いてしまう。焦る中、予選の日は刻一刻と近づき——！？",
+    "bannerGameCharacterUnitId": 10,
+    "assetbundleName": "event_show_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001627,
+        "eventStoryId": 201,
+        "episodeNo": 1,
+        "title": "予選は目前",
+        "assetbundleName": "event_show_2026_01",
+        "scenarioId": "event_201_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001628,
+        "eventStoryId": 201,
+        "episodeNo": 2,
+        "title": "つのる焦燥",
+        "assetbundleName": "event_show_2026_02",
+        "scenarioId": "event_201_02",
+        "releaseConditionId": 120001,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001629,
+        "eventStoryId": 201,
+        "episodeNo": 3,
+        "title": "悔しさをバネに",
+        "assetbundleName": "event_show_2026_03",
+        "scenarioId": "event_201_03",
+        "releaseConditionId": 120002,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001630,
+        "eventStoryId": 201,
+        "episodeNo": 4,
+        "title": "はやる気持ち",
+        "assetbundleName": "event_show_2026_04",
+        "scenarioId": "event_201_04",
+        "releaseConditionId": 120003,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001631,
+        "eventStoryId": 201,
+        "episodeNo": 5,
+        "title": "見えた光明",
+        "assetbundleName": "event_show_2026_05",
+        "scenarioId": "event_201_05",
+        "releaseConditionId": 120004,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001632,
+        "eventStoryId": 201,
+        "episodeNo": 6,
+        "title": "掴んだ音は",
+        "assetbundleName": "event_show_2026_06",
+        "scenarioId": "event_201_06",
+        "releaseConditionId": 120005,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001633,
+        "eventStoryId": 201,
+        "episodeNo": 7,
+        "title": "準備は万端",
+        "assetbundleName": "event_show_2026_07",
+        "scenarioId": "event_201_07",
+        "releaseConditionId": 120006,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001634,
+        "eventStoryId": 201,
+        "episodeNo": 8,
+        "title": "歌を、言葉を",
+        "assetbundleName": "event_show_2026_08",
+        "scenarioId": "event_201_08",
+        "releaseConditionId": 120007,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 153
+          }
+        ]
+      }
+    ]
   }
 ]

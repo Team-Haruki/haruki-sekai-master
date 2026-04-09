@@ -75029,5 +75029,27 @@
     "assetbundleName": "mysekai/talk/scenario/talk",
     "lua": "mysekai_talk_wonder25_016_001",
     "isEnabledForMulti": true
+  },
+  {
+    "id": 8097,
+    "mysekaiGameCharacterUnitGroupId": 5,
+    "mysekaiCharacterTalkConditionGroupId": 100918,
+    "mysekaiSiteGroupId": 4,
+    "mysekaiCharacterTalkTermId": 1,
+    "characterArchiveMysekaiCharacterTalkGroupId": 7550,
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "lua": "mysekai_talk_birthday2026_005_004",
+    "isEnabledForMulti": true
+  },
+  {
+    "id": 8098,
+    "mysekaiGameCharacterUnitGroupId": 10,
+    "mysekaiCharacterTalkConditionGroupId": 1044,
+    "mysekaiSiteGroupId": 4,
+    "mysekaiCharacterTalkTermId": 1,
+    "characterArchiveMysekaiCharacterTalkGroupId": 7551,
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "lua": "mysekai_talk_street25_010_001",
+    "isEnabledForMulti": true
   }
 ]

@@ -21451,6 +21451,26 @@
     "archivePublishedAt": 1773369000000
   },
   {
+    "id": 794,
+    "musicId": 267,
+    "musicVocalType": "another_vocal",
+    "seq": 311,
+    "releaseConditionId": 9,
+    "caption": "アナザーボーカルver.",
+    "characters": [
+      {
+        "id": 1504,
+        "musicId": 267,
+        "musicVocalId": 794,
+        "characterType": "game_character",
+        "characterId": 11,
+        "seq": 2677
+      }
+    ],
+    "assetbundleName": "an_0267_01",
+    "archivePublishedAt": 1775701800000
+  },
+  {
     "id": 795,
     "musicId": 61,
     "musicVocalType": "another_vocal",
@@ -46990,5 +47010,25 @@
     "specialSeasonId": 5,
     "archiveDisplayType": "none",
     "archivePublishedAt": 1774969200000
+  },
+  {
+    "id": 1791,
+    "musicId": 522,
+    "musicVocalType": "another_vocal",
+    "seq": 310,
+    "releaseConditionId": 9,
+    "caption": "アナザーボーカルver.",
+    "characters": [
+      {
+        "id": 3578,
+        "musicId": 522,
+        "musicVocalId": 1791,
+        "characterType": "game_character",
+        "characterId": 10,
+        "seq": 5226
+      }
+    ],
+    "assetbundleName": "an_0522_01",
+    "archivePublishedAt": 1775701800000
   }
 ]

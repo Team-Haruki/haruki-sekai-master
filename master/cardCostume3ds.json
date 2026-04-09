@@ -10473,5 +10473,50 @@
     "cardId": 1365,
     "costume3dId": 954165,
     "isInitialObtainHair": false
+  },
+  {
+    "cardId": 1368,
+    "costume3dId": 959073,
+    "isInitialObtainHair": false
+  },
+  {
+    "cardId": 1368,
+    "costume3dId": 959074,
+    "isInitialObtainHair": false
+  },
+  {
+    "cardId": 1368,
+    "costume3dId": 959161,
+    "isInitialObtainHair": false
+  },
+  {
+    "cardId": 1369,
+    "costume3dId": 960001,
+    "isInitialObtainHair": false
+  },
+  {
+    "cardId": 1369,
+    "costume3dId": 960002,
+    "isInitialObtainHair": false
+  },
+  {
+    "cardId": 1369,
+    "costume3dId": 960049,
+    "isInitialObtainHair": false
+  },
+  {
+    "cardId": 1370,
+    "costume3dId": 961145,
+    "isInitialObtainHair": false
+  },
+  {
+    "cardId": 1370,
+    "costume3dId": 961146,
+    "isInitialObtainHair": false
+  },
+  {
+    "cardId": 1370,
+    "costume3dId": 961161,
+    "isInitialObtainHair": false
   }
 ]

@@ -9378,6 +9378,48 @@
     "releaseConditionTypeLevel": 30
   },
   {
+    "id": 31368,
+    "sentence": "レベル60・前編を読了で解放可能",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 1368,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 31369,
+    "sentence": "レベル60・前編を読了で解放可能",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 1369,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 31370,
+    "sentence": "レベル60・前編を読了で解放可能",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 1370,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 31371,
+    "sentence": "レベル50・前編を読了で解放可能",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 1371,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 31372,
+    "sentence": "レベル30・前編を読了で解放可能",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 1372,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 31373,
+    "sentence": "レベル60・前編を読了で解放可能",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 1373,
+    "releaseConditionTypeLevel": 60
+  },
+  {
     "id": 40001,
     "sentence": "GOOD以下を7以内でEXPERTクリアで解放",
     "releaseConditionType": "music_difficulty_better_play",
@@ -33855,6 +33897,90 @@
     "releaseConditionTypeLevel": 5
   },
   {
+    "id": 66580,
+    "sentence": "「[垣間見えた牙] 白石杏」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1368,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 66581,
+    "sentence": "「[垣間見えた牙] 白石杏」のマスターランク1で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1368,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 66582,
+    "sentence": "「[垣間見えた牙] 白石杏」のマスターランク3で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1368,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 66583,
+    "sentence": "「[垣間見えた牙] 白石杏」のマスターランク5で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1368,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 66590,
+    "sentence": "「[この壁を越えるために] 東雲彰人」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1369,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 66591,
+    "sentence": "「[この壁を越えるために] 東雲彰人」のマスターランク1で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1369,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 66592,
+    "sentence": "「[この壁を越えるために] 東雲彰人」のマスターランク3で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1369,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 66593,
+    "sentence": "「[この壁を越えるために] 東雲彰人」のマスターランク5で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1369,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 66600,
+    "sentence": "「[応援の気持ちもめちゃ盛りで！] 巡音ルカ」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1370,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 66601,
+    "sentence": "「[応援の気持ちもめちゃ盛りで！] 巡音ルカ」のマスターランク1で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1370,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 66602,
+    "sentence": "「[応援の気持ちもめちゃ盛りで！] 巡音ルカ」のマスターランク3で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1370,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 66603,
+    "sentence": "「[応援の気持ちもめちゃ盛りで！] 巡音ルカ」のマスターランク5で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1370,
+    "releaseConditionTypeLevel": 5
+  },
+  {
     "id": 70001,
     "sentence": "キャラクターランク1で解放",
     "releaseConditionType": "character_rank",
@@ -45405,6 +45531,61 @@
     "sentence": "「残照のInside Direction」の第8話を読む",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1001626
+  },
+  {
+    "id": 120001,
+    "sentence": "イベントPが12000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 201,
+    "releaseConditionTypeQuantity": 12000
+  },
+  {
+    "id": 120002,
+    "sentence": "イベントPが32000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 201,
+    "releaseConditionTypeQuantity": 32000
+  },
+  {
+    "id": 120003,
+    "sentence": "イベントPが52000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 201,
+    "releaseConditionTypeQuantity": 52000
+  },
+  {
+    "id": 120004,
+    "sentence": "イベントPが76000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 201,
+    "releaseConditionTypeQuantity": 76000
+  },
+  {
+    "id": 120005,
+    "sentence": "イベントPが100000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 201,
+    "releaseConditionTypeQuantity": 100000
+  },
+  {
+    "id": 120006,
+    "sentence": "イベントPが125000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 201,
+    "releaseConditionTypeQuantity": 125000
+  },
+  {
+    "id": 120007,
+    "sentence": "イベントPが150000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 201,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 120008,
+    "sentence": "「Show 'em what's up！」の第8話を読む",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1001634
   },
   {
     "id": 800001,

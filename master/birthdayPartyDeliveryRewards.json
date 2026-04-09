@@ -82,5 +82,11 @@
     "birthdayPartyId": 14,
     "seq": 1,
     "requirement": 10000
+  },
+  {
+    "id": 15,
+    "birthdayPartyId": 15,
+    "seq": 1,
+    "requirement": 10000
   }
 ]

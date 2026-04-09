@@ -1452,6 +1452,14 @@
     "materialType": "birthday_party_delivery"
   },
   {
+    "id": 178,
+    "seq": 30005,
+    "name": "祝祭のあまつゆ（アプリコット）",
+    "flavorText": "みのりの誕生日をお祝いする花を育てるためのあまつゆ。\n※2026年バースデーイベントでのみ利用可能",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
     "id": 179,
     "seq": 30006,
     "name": "祝祭のあまつゆ（ストリクトブルー）",

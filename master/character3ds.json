@@ -23398,5 +23398,55 @@
     "headCostume3dId": 590153,
     "hairCostume3dId": 230,
     "bodyCostume3dId": 590154
+  },
+  {
+    "id": 2357,
+    "characterType": "game_character",
+    "characterId": 5,
+    "unit": "idol",
+    "name": "花里みのり（ホープフル・フリルコーデ01）",
+    "headCostume3dId": 142035,
+    "hairCostume3dId": 142161,
+    "bodyCostume3dId": 142036
+  },
+  {
+    "id": 2358,
+    "characterType": "game_character",
+    "characterId": 6,
+    "unit": "idol",
+    "name": "桐谷遥（ホープフル・フリルコーデ03）",
+    "headCostume3dId": 142047,
+    "hairCostume3dId": 206,
+    "bodyCostume3dId": 142048
+  },
+  {
+    "id": 2359,
+    "characterType": "game_character",
+    "characterId": 7,
+    "unit": "idol",
+    "name": "桃井愛莉（ホープフル・フリルコーデ02）",
+    "headCostume3dId": 142053,
+    "hairCostume3dId": 207,
+    "bodyCostume3dId": 142054
+  },
+  {
+    "id": 2360,
+    "characterType": "game_character",
+    "characterId": 8,
+    "unit": "idol",
+    "name": "日野森雫（ホープフル・フリルコーデ）",
+    "headCostume3dId": 142057,
+    "hairCostume3dId": 208,
+    "bodyCostume3dId": 142058
+  },
+  {
+    "id": 2361,
+    "characterType": "game_character",
+    "characterId": 21,
+    "unit": "idol",
+    "name": "モモジャンミク（ホープフル・フリルコーデ）",
+    "headCostume3dId": 142129,
+    "hairCostume3dId": 221,
+    "bodyCostume3dId": 142130
   }
 ]

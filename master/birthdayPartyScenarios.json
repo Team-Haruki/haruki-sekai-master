@@ -250,5 +250,23 @@
     "birthdayPartyId": 14,
     "seq": 3,
     "lua": "mysekai_talk_birthday2026_007_003"
+  },
+  {
+    "id": 43,
+    "birthdayPartyId": 15,
+    "seq": 1,
+    "lua": "mysekai_talk_birthday2026_005_001"
+  },
+  {
+    "id": 44,
+    "birthdayPartyId": 15,
+    "seq": 2,
+    "lua": "mysekai_talk_birthday2026_005_002"
+  },
+  {
+    "id": 45,
+    "birthdayPartyId": 15,
+    "seq": 3,
+    "lua": "mysekai_talk_birthday2026_005_003"
   }
 ]

@@ -10540,6 +10540,18 @@
     "description": "「残照のInside Direction\nアフターライブ」に参加"
   },
   {
+    "id": 942,
+    "stampType": "illustration",
+    "seq": 11740,
+    "name": "[スタンプ]杏：望むところ！",
+    "assetbundleName": "stamp0942",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 10,
+    "gameCharacterUnitId": 10,
+    "archivePublishedAt": 1775714400000,
+    "description": "「Show 'em what's up！\nアフターライブ」に参加"
+  },
+  {
     "id": 101021,
     "stampType": "illustration",
     "seq": 7130,

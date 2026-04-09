@@ -166,5 +166,17 @@
     "mysekaiSiteHarvestSpawnLimitedRelationGroupId": 2607,
     "assetbundleName": "airi_2026",
     "mysekaiSiteHarvestFixtureId": 8014
+  },
+  {
+    "id": 15,
+    "gameCharacterUnitId": 5,
+    "startAt": 1775833200000,
+    "birthdayStartAt": 1776092400000,
+    "closedAt": 1776351599000,
+    "deliveryItemMaterialId": 178,
+    "deliveryRewardMysekaiMaterialId": 71,
+    "mysekaiSiteHarvestSpawnLimitedRelationGroupId": 2605,
+    "assetbundleName": "minori_2026",
+    "mysekaiSiteHarvestFixtureId": 8015
   }
 ]

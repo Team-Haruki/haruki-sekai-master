@@ -24052,6 +24052,13 @@
     "totalNoteCount": 931
   },
   {
+    "id": 4147,
+    "musicId": 522,
+    "musicDifficulty": "append",
+    "playLevel": 30,
+    "totalNoteCount": 1029
+  },
+  {
     "id": 4148,
     "musicId": 735,
     "musicDifficulty": "append",

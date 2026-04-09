@@ -1781,5 +1781,12 @@
     "name": "イベントバッジ",
     "flavorText": "イベント交換所でアイテムと交換できます。",
     "assetbundleName": "badge_cool"
+  },
+  {
+    "id": 262,
+    "eventId": 201,
+    "name": "イベントバッジ",
+    "flavorText": "イベント交換所でアイテムと交換できます。",
+    "assetbundleName": "badge_mysterious"
   }
 ]

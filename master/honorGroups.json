@@ -3456,6 +3456,14 @@
     "frameName": "honor_frame_birthday_01_04"
   },
   {
+    "id": 543,
+    "name": "HAPPY BIRTHDAY みのり 2026.4.14",
+    "pronunciation": "はっぴーばーすでーみのり2026.4.14",
+    "honorType": "birthday",
+    "backgroundAssetbundleName": "honor_bg_birthday_01_05",
+    "frameName": "honor_frame_birthday_01_05"
+  },
+  {
     "id": 544,
     "name": "HAPPY BIRTHDAY 遥 2025.10.5",
     "pronunciation": "はっぴーばーすでーはるか2025.10.5",
@@ -3579,6 +3587,12 @@
     "id": 571,
     "name": "ベストクリエイター 志歩 BDパーティー '26",
     "pronunciation": "べすとくりえいたーしほばーすでーぱーてぃー26",
+    "honorType": "event"
+  },
+  {
+    "id": 572,
+    "name": "ベストクリエイター みのり BDパーティー '26",
+    "pronunciation": "べすとくりえいたーみのりばーすでーぱーてぃー26",
     "honorType": "event"
   },
   {
@@ -3860,5 +3874,12 @@
     "name": "アメジスト",
     "pronunciation": "あめじすと",
     "honorType": "achievement"
+  },
+  {
+    "id": 625,
+    "name": "Show 'em what's up！",
+    "pronunciation": "しょう　えむ　わっつ　あっぷ！",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_show"
   }
 ]

@@ -364,6 +364,12 @@
     "externalId": 14
   },
   {
+    "id": 72,
+    "mysekaiFixtureId": 914,
+    "mysekaiSystemFixtureType": "birthday",
+    "externalId": 15
+  },
+  {
     "id": 84,
     "mysekaiFixtureId": 1016,
     "mysekaiSystemFixtureType": "home"

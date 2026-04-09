@@ -49308,5 +49308,19 @@
     "expressionEyeName": "hohoemi",
     "expressionMouthName": "smile03",
     "text": "ここなら、もっと\nいろいろな演出が……"
+  },
+  {
+    "id": 17580,
+    "motionName": "mov_cw_cute_surprise001",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "normal04",
+    "text": "わ、わたし専用のイス！？"
+  },
+  {
+    "id": 17581,
+    "motionName": "mov_cw_cool_02joy001",
+    "expressionEyeName": "normal_angry",
+    "expressionMouthName": "smile02",
+    "text": "Make some noise！"
   }
 ]

@@ -345,6 +345,11 @@
     "mysekaiCharacterTalkConditionTypeValue": 1001626
   },
   {
+    "id": 1044,
+    "mysekaiCharacterTalkConditionType": "read_event_story_episode_id",
+    "mysekaiCharacterTalkConditionTypeValue": 1001634
+  },
+  {
     "id": 100001,
     "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
     "mysekaiCharacterTalkConditionTypeValue": 1
@@ -4008,6 +4013,31 @@
     "id": 100913,
     "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
     "mysekaiCharacterTalkConditionTypeValue": 913
+  },
+  {
+    "id": 100914,
+    "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+    "mysekaiCharacterTalkConditionTypeValue": 914
+  },
+  {
+    "id": 100915,
+    "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+    "mysekaiCharacterTalkConditionTypeValue": 915
+  },
+  {
+    "id": 100916,
+    "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+    "mysekaiCharacterTalkConditionTypeValue": 916
+  },
+  {
+    "id": 100917,
+    "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+    "mysekaiCharacterTalkConditionTypeValue": 917
+  },
+  {
+    "id": 100918,
+    "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+    "mysekaiCharacterTalkConditionTypeValue": 918
   },
   {
     "id": 100979,

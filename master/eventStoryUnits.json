@@ -2868,5 +2868,12 @@
     "eventStoryId": 200,
     "unit": "theme_park",
     "eventStoryUnitRelation": "main"
+  },
+  {
+    "id": 428,
+    "seq": 428,
+    "eventStoryId": 201,
+    "unit": "street",
+    "eventStoryUnitRelation": "main"
   }
 ]

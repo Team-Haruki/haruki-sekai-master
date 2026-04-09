@@ -17514,6 +17514,41 @@
     "quantity": 200
   },
   {
+    "id": 2513,
+    "mysekaiBlueprintId": 914,
+    "mysekaiMaterialId": 71,
+    "seq": 1,
+    "quantity": 3
+  },
+  {
+    "id": 2514,
+    "mysekaiBlueprintId": 915,
+    "mysekaiMaterialId": 71,
+    "seq": 1,
+    "quantity": 20
+  },
+  {
+    "id": 2515,
+    "mysekaiBlueprintId": 916,
+    "mysekaiMaterialId": 71,
+    "seq": 1,
+    "quantity": 10
+  },
+  {
+    "id": 2516,
+    "mysekaiBlueprintId": 917,
+    "mysekaiMaterialId": 71,
+    "seq": 1,
+    "quantity": 50
+  },
+  {
+    "id": 2517,
+    "mysekaiBlueprintId": 918,
+    "mysekaiMaterialId": 71,
+    "seq": 1,
+    "quantity": 200
+  },
+  {
     "id": 2573,
     "mysekaiBlueprintId": 974,
     "mysekaiMaterialId": 21,

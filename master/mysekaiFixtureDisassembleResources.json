@@ -348,5 +348,30 @@
     "id": 70,
     "mysekaiFixtureId": 913,
     "resourceBoxId": 5
+  },
+  {
+    "id": 71,
+    "mysekaiFixtureId": 914,
+    "resourceBoxId": 1
+  },
+  {
+    "id": 72,
+    "mysekaiFixtureId": 915,
+    "resourceBoxId": 2
+  },
+  {
+    "id": 73,
+    "mysekaiFixtureId": 916,
+    "resourceBoxId": 3
+  },
+  {
+    "id": 74,
+    "mysekaiFixtureId": 917,
+    "resourceBoxId": 4
+  },
+  {
+    "id": 75,
+    "mysekaiFixtureId": 918,
+    "resourceBoxId": 5
   }
 ]

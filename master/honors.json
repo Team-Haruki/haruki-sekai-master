@@ -119051,6 +119051,106 @@
     ]
   },
   {
+    "id": 6826,
+    "seq": 24000,
+    "groupId": 543,
+    "honorRarity": "low",
+    "name": "HAPPY BIRTHDAY みのり 2026.4.14",
+    "assetbundleName": "honor_6826",
+    "levels": [
+      {
+        "honorId": 6826,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「HAPPY BIRTHDAY 花里みのり 2026」でみのりのセレブレーションフラワーを2輪獲得しよう。"
+      },
+      {
+        "honorId": 6826,
+        "level": 2,
+        "bonus": 0,
+        "description": "イベント「HAPPY BIRTHDAY 花里みのり 2026」でみのりのセレブレーションフラワーを10輪獲得しよう。"
+      },
+      {
+        "honorId": 6826,
+        "level": 3,
+        "bonus": 0,
+        "description": "イベント「HAPPY BIRTHDAY 花里みのり 2026」でみのりのセレブレーションフラワーを25輪獲得しよう。"
+      }
+    ]
+  },
+  {
+    "id": 6827,
+    "seq": 24010,
+    "groupId": 543,
+    "honorRarity": "middle",
+    "name": "HAPPY BIRTHDAY みのり 2026.4.14",
+    "assetbundleName": "honor_6827",
+    "levels": [
+      {
+        "honorId": 6827,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「HAPPY BIRTHDAY 花里みのり 2026」でみのりのセレブレーションフラワーを45輪獲得しよう。"
+      },
+      {
+        "honorId": 6827,
+        "level": 2,
+        "bonus": 0,
+        "description": "イベント「HAPPY BIRTHDAY 花里みのり 2026」でみのりのセレブレーションフラワーを70輪獲得しよう。"
+      },
+      {
+        "honorId": 6827,
+        "level": 3,
+        "bonus": 0,
+        "description": "イベント「HAPPY BIRTHDAY 花里みのり 2026」でみのりのセレブレーションフラワーを115輪獲得しよう。"
+      }
+    ]
+  },
+  {
+    "id": 6828,
+    "seq": 24020,
+    "groupId": 543,
+    "honorRarity": "high",
+    "name": "HAPPY BIRTHDAY みのり 2026.4.14",
+    "assetbundleName": "honor_6828",
+    "levels": [
+      {
+        "honorId": 6828,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「HAPPY BIRTHDAY 花里みのり 2026」でみのりのセレブレーションフラワーを165輪獲得しよう。"
+      },
+      {
+        "honorId": 6828,
+        "level": 2,
+        "bonus": 0,
+        "description": "イベント「HAPPY BIRTHDAY 花里みのり 2026」でみのりのセレブレーションフラワーを225輪獲得しよう。"
+      },
+      {
+        "honorId": 6828,
+        "level": 3,
+        "bonus": 0,
+        "description": "イベント「HAPPY BIRTHDAY 花里みのり 2026」でみのりのセレブレーションフラワーを300輪獲得しよう。"
+      }
+    ]
+  },
+  {
+    "id": 6829,
+    "seq": 24030,
+    "groupId": 543,
+    "honorRarity": "highest",
+    "name": "HAPPY BIRTHDAY みのり 2026.4.14",
+    "assetbundleName": "honor_6829",
+    "levels": [
+      {
+        "honorId": 6829,
+        "level": 3,
+        "bonus": 0,
+        "description": "イベント「HAPPY BIRTHDAY 花里みのり 2026」でみのりのセレブレーションフラワーを400輪獲得しよう。"
+      }
+    ]
+  },
+  {
     "id": 6830,
     "seq": 24100,
     "groupId": 544,
@@ -120403,6 +120503,22 @@
         "level": 1,
         "bonus": 0,
         "description": "マイセカイ百景「志歩 BIRTHDAYパーティー '26」で入選しよう。"
+      }
+    ]
+  },
+  {
+    "id": 6922,
+    "seq": 400110,
+    "groupId": 572,
+    "honorRarity": "middle",
+    "name": "ベストクリエイター みのり BDパーティー '26",
+    "assetbundleName": "honor_6922",
+    "levels": [
+      {
+        "honorId": 6922,
+        "level": 1,
+        "bonus": 0,
+        "description": "マイセカイ百景「みのり BIRTHDAYパーティー '26」で入選しよう。"
       }
     ]
   },
@@ -132110,6 +132226,534 @@
         "level": 1,
         "bonus": 10,
         "description": "ランクを900まで上げよう。"
+      }
+    ]
+  },
+  {
+    "id": 7659,
+    "seq": 162501,
+    "groupId": 625,
+    "honorRarity": "highest",
+    "name": "1位",
+    "assetbundleName": "honor_top_000001",
+    "levels": [
+      {
+        "honorId": 7659,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で1位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7660,
+    "seq": 162502,
+    "groupId": 625,
+    "honorRarity": "highest",
+    "name": "2位",
+    "assetbundleName": "honor_top_000002",
+    "levels": [
+      {
+        "honorId": 7660,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で2位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7661,
+    "seq": 162503,
+    "groupId": 625,
+    "honorRarity": "highest",
+    "name": "3位",
+    "assetbundleName": "honor_top_000003",
+    "levels": [
+      {
+        "honorId": 7661,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で3位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7662,
+    "seq": 162504,
+    "groupId": 625,
+    "honorRarity": "highest",
+    "name": "4位",
+    "assetbundleName": "honor_top_000004",
+    "levels": [
+      {
+        "honorId": 7662,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で4位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7663,
+    "seq": 162505,
+    "groupId": 625,
+    "honorRarity": "highest",
+    "name": "5位",
+    "assetbundleName": "honor_top_000005",
+    "levels": [
+      {
+        "honorId": 7663,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で5位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7664,
+    "seq": 162506,
+    "groupId": 625,
+    "honorRarity": "highest",
+    "name": "6位",
+    "assetbundleName": "honor_top_000006",
+    "levels": [
+      {
+        "honorId": 7664,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で6位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7665,
+    "seq": 162507,
+    "groupId": 625,
+    "honorRarity": "highest",
+    "name": "7位",
+    "assetbundleName": "honor_top_000007",
+    "levels": [
+      {
+        "honorId": 7665,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で7位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7666,
+    "seq": 162508,
+    "groupId": 625,
+    "honorRarity": "highest",
+    "name": "8位",
+    "assetbundleName": "honor_top_000008",
+    "levels": [
+      {
+        "honorId": 7666,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で8位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7667,
+    "seq": 162509,
+    "groupId": 625,
+    "honorRarity": "highest",
+    "name": "9位",
+    "assetbundleName": "honor_top_000009",
+    "levels": [
+      {
+        "honorId": 7667,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で9位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7668,
+    "seq": 162510,
+    "groupId": 625,
+    "honorRarity": "highest",
+    "name": "10位",
+    "assetbundleName": "honor_top_000010_v2",
+    "levels": [
+      {
+        "honorId": 7668,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で10位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7669,
+    "seq": 162511,
+    "groupId": 625,
+    "honorRarity": "high",
+    "name": "TOP20",
+    "assetbundleName": "honor_top_000020",
+    "levels": [
+      {
+        "honorId": 7669,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で20位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7670,
+    "seq": 162512,
+    "groupId": 625,
+    "honorRarity": "high",
+    "name": "TOP30",
+    "assetbundleName": "honor_top_000030",
+    "levels": [
+      {
+        "honorId": 7670,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で30位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7671,
+    "seq": 162513,
+    "groupId": 625,
+    "honorRarity": "high",
+    "name": "TOP40",
+    "assetbundleName": "honor_top_000040",
+    "levels": [
+      {
+        "honorId": 7671,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で40位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7672,
+    "seq": 162514,
+    "groupId": 625,
+    "honorRarity": "high",
+    "name": "TOP50",
+    "assetbundleName": "honor_top_000050",
+    "levels": [
+      {
+        "honorId": 7672,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で50位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7673,
+    "seq": 162515,
+    "groupId": 625,
+    "honorRarity": "high",
+    "name": "TOP100",
+    "assetbundleName": "honor_top_000100",
+    "levels": [
+      {
+        "honorId": 7673,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で100位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7674,
+    "seq": 162516,
+    "groupId": 625,
+    "honorRarity": "high",
+    "name": "TOP200",
+    "assetbundleName": "honor_top_000200",
+    "levels": [
+      {
+        "honorId": 7674,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で200位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7675,
+    "seq": 162517,
+    "groupId": 625,
+    "honorRarity": "high",
+    "name": "TOP300",
+    "assetbundleName": "honor_top_000300",
+    "levels": [
+      {
+        "honorId": 7675,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で300位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7676,
+    "seq": 162518,
+    "groupId": 625,
+    "honorRarity": "high",
+    "name": "TOP400",
+    "assetbundleName": "honor_top_000400",
+    "levels": [
+      {
+        "honorId": 7676,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で400位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7677,
+    "seq": 162519,
+    "groupId": 625,
+    "honorRarity": "high",
+    "name": "TOP500",
+    "assetbundleName": "honor_top_000500",
+    "levels": [
+      {
+        "honorId": 7677,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で500位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7678,
+    "seq": 162520,
+    "groupId": 625,
+    "honorRarity": "high",
+    "name": "TOP1000",
+    "assetbundleName": "honor_top_001000",
+    "levels": [
+      {
+        "honorId": 7678,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で1000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7679,
+    "seq": 162521,
+    "groupId": 625,
+    "honorRarity": "middle",
+    "name": "TOP1500",
+    "assetbundleName": "honor_top_001500",
+    "levels": [
+      {
+        "honorId": 7679,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で1500位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7680,
+    "seq": 162522,
+    "groupId": 625,
+    "honorRarity": "middle",
+    "name": "TOP2000",
+    "assetbundleName": "honor_top_002000",
+    "levels": [
+      {
+        "honorId": 7680,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で2000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7681,
+    "seq": 162523,
+    "groupId": 625,
+    "honorRarity": "middle",
+    "name": "TOP2500",
+    "assetbundleName": "honor_top_002500",
+    "levels": [
+      {
+        "honorId": 7681,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で2500位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7682,
+    "seq": 162524,
+    "groupId": 625,
+    "honorRarity": "middle",
+    "name": "TOP3000",
+    "assetbundleName": "honor_top_003000",
+    "levels": [
+      {
+        "honorId": 7682,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で3000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7683,
+    "seq": 162525,
+    "groupId": 625,
+    "honorRarity": "middle",
+    "name": "TOP4000",
+    "assetbundleName": "honor_top_004000",
+    "levels": [
+      {
+        "honorId": 7683,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で4000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7684,
+    "seq": 162526,
+    "groupId": 625,
+    "honorRarity": "middle",
+    "name": "TOP5000",
+    "assetbundleName": "honor_top_005000",
+    "levels": [
+      {
+        "honorId": 7684,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で5000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7685,
+    "seq": 162527,
+    "groupId": 625,
+    "honorRarity": "middle",
+    "name": "TOP10000",
+    "assetbundleName": "honor_top_010000",
+    "levels": [
+      {
+        "honorId": 7685,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で10000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7686,
+    "seq": 162528,
+    "groupId": 625,
+    "honorRarity": "low",
+    "name": "TOP20000",
+    "assetbundleName": "honor_top_020000",
+    "levels": [
+      {
+        "honorId": 7686,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で20000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7687,
+    "seq": 162529,
+    "groupId": 625,
+    "honorRarity": "low",
+    "name": "TOP30000",
+    "assetbundleName": "honor_top_030000",
+    "levels": [
+      {
+        "honorId": 7687,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で30000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7688,
+    "seq": 162530,
+    "groupId": 625,
+    "honorRarity": "low",
+    "name": "TOP40000",
+    "assetbundleName": "honor_top_040000",
+    "levels": [
+      {
+        "honorId": 7688,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で40000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7689,
+    "seq": 162531,
+    "groupId": 625,
+    "honorRarity": "low",
+    "name": "TOP50000",
+    "assetbundleName": "honor_top_050000",
+    "levels": [
+      {
+        "honorId": 7689,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で50000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7690,
+    "seq": 162532,
+    "groupId": 625,
+    "honorRarity": "low",
+    "name": "TOP100000",
+    "assetbundleName": "honor_top_100000",
+    "levels": [
+      {
+        "honorId": 7690,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」で100000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 7691,
+    "seq": 162533,
+    "groupId": 625,
+    "honorRarity": "low",
+    "name": "メモリアル",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 7691,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Show 'em what's up！」のストーリーを全て読もう。"
       }
     ]
   }

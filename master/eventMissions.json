@@ -16933,5 +16933,143 @@
     "eventMissionSelectableRewardGroupId": 2,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 961,
+    "eventId": 201,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "累計8日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 17660,
+        "missionType": "event_mission",
+        "missionId": 961,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 962,
+    "eventId": 201,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 17661,
+        "missionType": "event_mission",
+        "missionId": 962,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 963,
+    "eventId": 201,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 17662,
+        "missionType": "event_mission",
+        "missionId": 963,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 964,
+    "eventId": 201,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 17663,
+        "missionType": "event_mission",
+        "missionId": 964,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 965,
+    "eventId": 201,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Show 'em what's up！」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 17664,
+        "missionType": "event_mission",
+        "missionId": 965,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 966,
+    "eventId": 201,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Show 'em what's up！」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 17665,
+        "missionType": "event_mission",
+        "missionId": 966,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 967,
+    "eventId": 201,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Show 'em what's up！ アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 17666,
+        "missionType": "event_mission",
+        "missionId": 967,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 968,
+    "eventId": 201,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 2,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]
