@@ -6912,6 +6912,12 @@
     "seq": 0
   },
   {
+    "id": 1203,
+    "musicId": 680,
+    "musicTag": "all",
+    "seq": 0
+  },
+  {
     "id": 1206,
     "musicId": 683,
     "musicTag": "all",
@@ -7148,6 +7154,12 @@
   {
     "id": 1258,
     "musicId": 735,
+    "musicTag": "all",
+    "seq": 0
+  },
+  {
+    "id": 1260,
+    "musicId": 737,
     "musicTag": "all",
     "seq": 0
   },
@@ -9322,5 +9334,17 @@
     "musicId": 679,
     "musicTag": "street",
     "seq": 3
+  },
+  {
+    "id": 1713,
+    "musicId": 680,
+    "musicTag": "school_refusal",
+    "seq": 5
+  },
+  {
+    "id": 1714,
+    "musicId": 737,
+    "musicTag": "vocaloid",
+    "seq": 1
   }
 ]
