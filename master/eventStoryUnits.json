@@ -2917,5 +2917,12 @@
     "eventStoryId": 206,
     "unit": "school_refusal",
     "eventStoryUnitRelation": "sub"
+  },
+  {
+    "id": 435,
+    "seq": 435,
+    "eventStoryId": 207,
+    "unit": "none",
+    "eventStoryUnitRelation": "sub"
   }
 ]
