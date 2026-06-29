@@ -188769,5 +188769,25 @@
     "assetbundleName2": "system_bondscp_014_004_second_4",
     "releaseConditionId": 1041403,
     "isLotteryTarget": true
+  },
+  {
+    "id": 16013,
+    "ingameCutinCharacterType": "sp",
+    "priority": 200,
+    "gameCharacterUnitId1": 10,
+    "gameCharacterUnitId2": 13,
+    "assetbundleName1": "system_bondscp_010_013_first_1",
+    "assetbundleName2": "system_bondscp_010_013_second_1",
+    "isLotteryTarget": true
+  },
+  {
+    "id": 16014,
+    "ingameCutinCharacterType": "sp",
+    "priority": 200,
+    "gameCharacterUnitId1": 13,
+    "gameCharacterUnitId2": 10,
+    "assetbundleName1": "system_bondscp_013_010_first_1",
+    "assetbundleName2": "system_bondscp_013_010_second_1",
+    "isLotteryTarget": true
   }
 ]

@@ -217468,5 +217468,5405 @@
         "resourceBoxId": 1849
       }
     ]
+  },
+  {
+    "id": 14767,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 100,
+    "rewards": [
+      {
+        "id": 18587,
+        "missionType": "live_mission",
+        "missionId": 14767,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14768,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 200,
+    "rewards": [
+      {
+        "id": 18588,
+        "missionType": "live_mission",
+        "missionId": 14768,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14769,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 300,
+    "rewards": [
+      {
+        "id": 18589,
+        "missionType": "live_mission",
+        "missionId": 14769,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14770,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 400,
+    "rewards": [
+      {
+        "id": 18590,
+        "missionType": "live_mission",
+        "missionId": 14770,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14771,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 500,
+    "rewards": [
+      {
+        "id": 18591,
+        "missionType": "live_mission",
+        "missionId": 14771,
+        "seq": 1,
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 14772,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 600,
+    "rewards": [
+      {
+        "id": 18592,
+        "missionType": "live_mission",
+        "missionId": 14772,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14773,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 700,
+    "rewards": [
+      {
+        "id": 18593,
+        "missionType": "live_mission",
+        "missionId": 14773,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14774,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 800,
+    "rewards": [
+      {
+        "id": 18594,
+        "missionType": "live_mission",
+        "missionId": 14774,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14775,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 900,
+    "rewards": [
+      {
+        "id": 18595,
+        "missionType": "live_mission",
+        "missionId": 14775,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14776,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 1000,
+    "rewards": [
+      {
+        "id": 18596,
+        "missionType": "live_mission",
+        "missionId": 14776,
+        "seq": 1,
+        "resourceBoxId": 452
+      }
+    ]
+  },
+  {
+    "id": 14777,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 1100,
+    "rewards": [
+      {
+        "id": 18597,
+        "missionType": "live_mission",
+        "missionId": 14777,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14778,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 1200,
+    "rewards": [
+      {
+        "id": 18598,
+        "missionType": "live_mission",
+        "missionId": 14778,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14779,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 1300,
+    "rewards": [
+      {
+        "id": 18599,
+        "missionType": "live_mission",
+        "missionId": 14779,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14780,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 1400,
+    "rewards": [
+      {
+        "id": 18600,
+        "missionType": "live_mission",
+        "missionId": 14780,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14781,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 1500,
+    "rewards": [
+      {
+        "id": 18601,
+        "missionType": "live_mission",
+        "missionId": 14781,
+        "seq": 1,
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 14782,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 1600,
+    "rewards": [
+      {
+        "id": 18602,
+        "missionType": "live_mission",
+        "missionId": 14782,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14783,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 1700,
+    "rewards": [
+      {
+        "id": 18603,
+        "missionType": "live_mission",
+        "missionId": 14783,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14784,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 1800,
+    "rewards": [
+      {
+        "id": 18604,
+        "missionType": "live_mission",
+        "missionId": 14784,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14785,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 1900,
+    "rewards": [
+      {
+        "id": 18605,
+        "missionType": "live_mission",
+        "missionId": 14785,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14786,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 2000,
+    "rewards": [
+      {
+        "id": 18606,
+        "missionType": "live_mission",
+        "missionId": 14786,
+        "seq": 1,
+        "resourceBoxId": 451
+      }
+    ]
+  },
+  {
+    "id": 14787,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 2100,
+    "rewards": [
+      {
+        "id": 18607,
+        "missionType": "live_mission",
+        "missionId": 14787,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14788,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 2200,
+    "rewards": [
+      {
+        "id": 18608,
+        "missionType": "live_mission",
+        "missionId": 14788,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14789,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 2300,
+    "rewards": [
+      {
+        "id": 18609,
+        "missionType": "live_mission",
+        "missionId": 14789,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14790,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 2400,
+    "rewards": [
+      {
+        "id": 18610,
+        "missionType": "live_mission",
+        "missionId": 14790,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14791,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 2500,
+    "rewards": [
+      {
+        "id": 18611,
+        "missionType": "live_mission",
+        "missionId": 14791,
+        "seq": 1,
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 14792,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 2600,
+    "rewards": [
+      {
+        "id": 18612,
+        "missionType": "live_mission",
+        "missionId": 14792,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14793,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 2700,
+    "rewards": [
+      {
+        "id": 18613,
+        "missionType": "live_mission",
+        "missionId": 14793,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14794,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 2800,
+    "rewards": [
+      {
+        "id": 18614,
+        "missionType": "live_mission",
+        "missionId": 14794,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14795,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 2900,
+    "rewards": [
+      {
+        "id": 18615,
+        "missionType": "live_mission",
+        "missionId": 14795,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14796,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 3000,
+    "rewards": [
+      {
+        "id": 18616,
+        "missionType": "live_mission",
+        "missionId": 14796,
+        "seq": 1,
+        "resourceBoxId": 453
+      }
+    ]
+  },
+  {
+    "id": 14797,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 3100,
+    "rewards": [
+      {
+        "id": 18617,
+        "missionType": "live_mission",
+        "missionId": 14797,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14798,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 3200,
+    "rewards": [
+      {
+        "id": 18618,
+        "missionType": "live_mission",
+        "missionId": 14798,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14799,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 3300,
+    "rewards": [
+      {
+        "id": 18619,
+        "missionType": "live_mission",
+        "missionId": 14799,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14800,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 3400,
+    "rewards": [
+      {
+        "id": 18620,
+        "missionType": "live_mission",
+        "missionId": 14800,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14801,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 3500,
+    "rewards": [
+      {
+        "id": 18621,
+        "missionType": "live_mission",
+        "missionId": 14801,
+        "seq": 1,
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 14802,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 3600,
+    "rewards": [
+      {
+        "id": 18622,
+        "missionType": "live_mission",
+        "missionId": 14802,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14803,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 3700,
+    "rewards": [
+      {
+        "id": 18623,
+        "missionType": "live_mission",
+        "missionId": 14803,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14804,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 3800,
+    "rewards": [
+      {
+        "id": 18624,
+        "missionType": "live_mission",
+        "missionId": 14804,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14805,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 3900,
+    "rewards": [
+      {
+        "id": 18625,
+        "missionType": "live_mission",
+        "missionId": 14805,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14806,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 4000,
+    "rewards": [
+      {
+        "id": 18626,
+        "missionType": "live_mission",
+        "missionId": 14806,
+        "seq": 1,
+        "resourceBoxId": 454
+      }
+    ]
+  },
+  {
+    "id": 14807,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 4100,
+    "rewards": [
+      {
+        "id": 18627,
+        "missionType": "live_mission",
+        "missionId": 14807,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14808,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 4200,
+    "rewards": [
+      {
+        "id": 18628,
+        "missionType": "live_mission",
+        "missionId": 14808,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14809,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 4300,
+    "rewards": [
+      {
+        "id": 18629,
+        "missionType": "live_mission",
+        "missionId": 14809,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14810,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 4400,
+    "rewards": [
+      {
+        "id": 18630,
+        "missionType": "live_mission",
+        "missionId": 14810,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14811,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 4500,
+    "rewards": [
+      {
+        "id": 18631,
+        "missionType": "live_mission",
+        "missionId": 14811,
+        "seq": 1,
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 14812,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 4600,
+    "rewards": [
+      {
+        "id": 18632,
+        "missionType": "live_mission",
+        "missionId": 14812,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14813,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 4700,
+    "rewards": [
+      {
+        "id": 18633,
+        "missionType": "live_mission",
+        "missionId": 14813,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14814,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 4800,
+    "rewards": [
+      {
+        "id": 18634,
+        "missionType": "live_mission",
+        "missionId": 14814,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14815,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 4900,
+    "rewards": [
+      {
+        "id": 18635,
+        "missionType": "live_mission",
+        "missionId": 14815,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14816,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 5000,
+    "rewards": [
+      {
+        "id": 18636,
+        "missionType": "live_mission",
+        "missionId": 14816,
+        "seq": 1,
+        "resourceBoxId": 455
+      }
+    ]
+  },
+  {
+    "id": 14817,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 5100,
+    "rewards": [
+      {
+        "id": 18637,
+        "missionType": "live_mission",
+        "missionId": 14817,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14818,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 5200,
+    "rewards": [
+      {
+        "id": 18638,
+        "missionType": "live_mission",
+        "missionId": 14818,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14819,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 5300,
+    "rewards": [
+      {
+        "id": 18639,
+        "missionType": "live_mission",
+        "missionId": 14819,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14820,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 5400,
+    "rewards": [
+      {
+        "id": 18640,
+        "missionType": "live_mission",
+        "missionId": 14820,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14821,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 5500,
+    "rewards": [
+      {
+        "id": 18641,
+        "missionType": "live_mission",
+        "missionId": 14821,
+        "seq": 1,
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 14822,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 5600,
+    "rewards": [
+      {
+        "id": 18642,
+        "missionType": "live_mission",
+        "missionId": 14822,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14823,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 5700,
+    "rewards": [
+      {
+        "id": 18643,
+        "missionType": "live_mission",
+        "missionId": 14823,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14824,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 5800,
+    "rewards": [
+      {
+        "id": 18644,
+        "missionType": "live_mission",
+        "missionId": 14824,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14825,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 5900,
+    "rewards": [
+      {
+        "id": 18645,
+        "missionType": "live_mission",
+        "missionId": 14825,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14826,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 6000,
+    "rewards": [
+      {
+        "id": 18646,
+        "missionType": "live_mission",
+        "missionId": 14826,
+        "seq": 1,
+        "resourceBoxId": 456
+      }
+    ]
+  },
+  {
+    "id": 14827,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 6100,
+    "rewards": [
+      {
+        "id": 18647,
+        "missionType": "live_mission",
+        "missionId": 14827,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14828,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 6200,
+    "rewards": [
+      {
+        "id": 18648,
+        "missionType": "live_mission",
+        "missionId": 14828,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14829,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 6300,
+    "rewards": [
+      {
+        "id": 18649,
+        "missionType": "live_mission",
+        "missionId": 14829,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14830,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 6400,
+    "rewards": [
+      {
+        "id": 18650,
+        "missionType": "live_mission",
+        "missionId": 14830,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14831,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 6500,
+    "rewards": [
+      {
+        "id": 18651,
+        "missionType": "live_mission",
+        "missionId": 14831,
+        "seq": 1,
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 14832,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 6600,
+    "rewards": [
+      {
+        "id": 18652,
+        "missionType": "live_mission",
+        "missionId": 14832,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14833,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 6700,
+    "rewards": [
+      {
+        "id": 18653,
+        "missionType": "live_mission",
+        "missionId": 14833,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14834,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 6800,
+    "rewards": [
+      {
+        "id": 18654,
+        "missionType": "live_mission",
+        "missionId": 14834,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14835,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 6900,
+    "rewards": [
+      {
+        "id": 18655,
+        "missionType": "live_mission",
+        "missionId": 14835,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14836,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 7000,
+    "rewards": [
+      {
+        "id": 18656,
+        "missionType": "live_mission",
+        "missionId": 14836,
+        "seq": 1,
+        "resourceBoxId": 457
+      }
+    ]
+  },
+  {
+    "id": 14837,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 7100,
+    "rewards": [
+      {
+        "id": 18657,
+        "missionType": "live_mission",
+        "missionId": 14837,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14838,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 7200,
+    "rewards": [
+      {
+        "id": 18658,
+        "missionType": "live_mission",
+        "missionId": 14838,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14839,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 7300,
+    "rewards": [
+      {
+        "id": 18659,
+        "missionType": "live_mission",
+        "missionId": 14839,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14840,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 7400,
+    "rewards": [
+      {
+        "id": 18660,
+        "missionType": "live_mission",
+        "missionId": 14840,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14841,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 7500,
+    "rewards": [
+      {
+        "id": 18661,
+        "missionType": "live_mission",
+        "missionId": 14841,
+        "seq": 1,
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 14842,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 7600,
+    "rewards": [
+      {
+        "id": 18662,
+        "missionType": "live_mission",
+        "missionId": 14842,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14843,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 7700,
+    "rewards": [
+      {
+        "id": 18663,
+        "missionType": "live_mission",
+        "missionId": 14843,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14844,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 7800,
+    "rewards": [
+      {
+        "id": 18664,
+        "missionType": "live_mission",
+        "missionId": 14844,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14845,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 7900,
+    "rewards": [
+      {
+        "id": 18665,
+        "missionType": "live_mission",
+        "missionId": 14845,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14846,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 8000,
+    "rewards": [
+      {
+        "id": 18666,
+        "missionType": "live_mission",
+        "missionId": 14846,
+        "seq": 1,
+        "resourceBoxId": 458
+      }
+    ]
+  },
+  {
+    "id": 14847,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 8100,
+    "rewards": [
+      {
+        "id": 18667,
+        "missionType": "live_mission",
+        "missionId": 14847,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14848,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 8200,
+    "rewards": [
+      {
+        "id": 18668,
+        "missionType": "live_mission",
+        "missionId": 14848,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14849,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 8300,
+    "rewards": [
+      {
+        "id": 18669,
+        "missionType": "live_mission",
+        "missionId": 14849,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14850,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 8400,
+    "rewards": [
+      {
+        "id": 18670,
+        "missionType": "live_mission",
+        "missionId": 14850,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14851,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 8500,
+    "rewards": [
+      {
+        "id": 18671,
+        "missionType": "live_mission",
+        "missionId": 14851,
+        "seq": 1,
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 14852,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 8600,
+    "rewards": [
+      {
+        "id": 18672,
+        "missionType": "live_mission",
+        "missionId": 14852,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14853,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 8700,
+    "rewards": [
+      {
+        "id": 18673,
+        "missionType": "live_mission",
+        "missionId": 14853,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14854,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 8800,
+    "rewards": [
+      {
+        "id": 18674,
+        "missionType": "live_mission",
+        "missionId": 14854,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14855,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 8900,
+    "rewards": [
+      {
+        "id": 18675,
+        "missionType": "live_mission",
+        "missionId": 14855,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14856,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 9000,
+    "rewards": [
+      {
+        "id": 18676,
+        "missionType": "live_mission",
+        "missionId": 14856,
+        "seq": 1,
+        "resourceBoxId": 459
+      }
+    ]
+  },
+  {
+    "id": 14857,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 9100,
+    "rewards": [
+      {
+        "id": 18677,
+        "missionType": "live_mission",
+        "missionId": 14857,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14858,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 9200,
+    "rewards": [
+      {
+        "id": 18678,
+        "missionType": "live_mission",
+        "missionId": 14858,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14859,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 9300,
+    "rewards": [
+      {
+        "id": 18679,
+        "missionType": "live_mission",
+        "missionId": 14859,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14860,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 9400,
+    "rewards": [
+      {
+        "id": 18680,
+        "missionType": "live_mission",
+        "missionId": 14860,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14861,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 9500,
+    "rewards": [
+      {
+        "id": 18681,
+        "missionType": "live_mission",
+        "missionId": 14861,
+        "seq": 1,
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 14862,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 9600,
+    "rewards": [
+      {
+        "id": 18682,
+        "missionType": "live_mission",
+        "missionId": 14862,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14863,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 9700,
+    "rewards": [
+      {
+        "id": 18683,
+        "missionType": "live_mission",
+        "missionId": 14863,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14864,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 9800,
+    "rewards": [
+      {
+        "id": 18684,
+        "missionType": "live_mission",
+        "missionId": 14864,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14865,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 9900,
+    "rewards": [
+      {
+        "id": 18685,
+        "missionType": "live_mission",
+        "missionId": 14865,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14866,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 10000,
+    "rewards": [
+      {
+        "id": 18686,
+        "missionType": "live_mission",
+        "missionId": 14866,
+        "seq": 1,
+        "resourceBoxId": 460
+      }
+    ]
+  },
+  {
+    "id": 14867,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 10100,
+    "rewards": [
+      {
+        "id": 18687,
+        "missionType": "live_mission",
+        "missionId": 14867,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14868,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 10200,
+    "rewards": [
+      {
+        "id": 18688,
+        "missionType": "live_mission",
+        "missionId": 14868,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14869,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 10300,
+    "rewards": [
+      {
+        "id": 18689,
+        "missionType": "live_mission",
+        "missionId": 14869,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14870,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 10400,
+    "rewards": [
+      {
+        "id": 18690,
+        "missionType": "live_mission",
+        "missionId": 14870,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14871,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 10500,
+    "rewards": [
+      {
+        "id": 18691,
+        "missionType": "live_mission",
+        "missionId": 14871,
+        "seq": 1,
+        "resourceBoxId": 1838
+      }
+    ]
+  },
+  {
+    "id": 14872,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 10600,
+    "rewards": [
+      {
+        "id": 18692,
+        "missionType": "live_mission",
+        "missionId": 14872,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14873,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 10700,
+    "rewards": [
+      {
+        "id": 18693,
+        "missionType": "live_mission",
+        "missionId": 14873,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14874,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 10800,
+    "rewards": [
+      {
+        "id": 18694,
+        "missionType": "live_mission",
+        "missionId": 14874,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14875,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 10900,
+    "rewards": [
+      {
+        "id": 18695,
+        "missionType": "live_mission",
+        "missionId": 14875,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14876,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 11000,
+    "rewards": [
+      {
+        "id": 18696,
+        "missionType": "live_mission",
+        "missionId": 14876,
+        "seq": 1,
+        "resourceBoxId": 1839
+      }
+    ]
+  },
+  {
+    "id": 14877,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 11100,
+    "rewards": [
+      {
+        "id": 18697,
+        "missionType": "live_mission",
+        "missionId": 14877,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14878,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 11200,
+    "rewards": [
+      {
+        "id": 18698,
+        "missionType": "live_mission",
+        "missionId": 14878,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14879,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 11300,
+    "rewards": [
+      {
+        "id": 18699,
+        "missionType": "live_mission",
+        "missionId": 14879,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14880,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 11400,
+    "rewards": [
+      {
+        "id": 18700,
+        "missionType": "live_mission",
+        "missionId": 14880,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14881,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 11500,
+    "rewards": [
+      {
+        "id": 18701,
+        "missionType": "live_mission",
+        "missionId": 14881,
+        "seq": 1,
+        "resourceBoxId": 458
+      }
+    ]
+  },
+  {
+    "id": 14882,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 11600,
+    "rewards": [
+      {
+        "id": 18702,
+        "missionType": "live_mission",
+        "missionId": 14882,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14883,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 11700,
+    "rewards": [
+      {
+        "id": 18703,
+        "missionType": "live_mission",
+        "missionId": 14883,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14884,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 11800,
+    "rewards": [
+      {
+        "id": 18704,
+        "missionType": "live_mission",
+        "missionId": 14884,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14885,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 11900,
+    "rewards": [
+      {
+        "id": 18705,
+        "missionType": "live_mission",
+        "missionId": 14885,
+        "seq": 1,
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 14886,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "free",
+    "requirement": 12000,
+    "rewards": [
+      {
+        "id": 18706,
+        "missionType": "live_mission",
+        "missionId": 14886,
+        "seq": 1,
+        "resourceBoxId": 1840
+      }
+    ]
+  },
+  {
+    "id": 14887,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 100,
+    "rewards": [
+      {
+        "id": 18707,
+        "missionType": "live_mission",
+        "missionId": 14887,
+        "seq": 1,
+        "resourceBoxId": 2053
+      }
+    ]
+  },
+  {
+    "id": 14888,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 200,
+    "rewards": [
+      {
+        "id": 18708,
+        "missionType": "live_mission",
+        "missionId": 14888,
+        "seq": 1,
+        "resourceBoxId": 461
+      }
+    ]
+  },
+  {
+    "id": 14889,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 300,
+    "rewards": [
+      {
+        "id": 18709,
+        "missionType": "live_mission",
+        "missionId": 14889,
+        "seq": 1,
+        "resourceBoxId": 464
+      }
+    ]
+  },
+  {
+    "id": 14890,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 400,
+    "rewards": [
+      {
+        "id": 18710,
+        "missionType": "live_mission",
+        "missionId": 14890,
+        "seq": 1,
+        "resourceBoxId": 461
+      }
+    ]
+  },
+  {
+    "id": 14891,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 500,
+    "rewards": [
+      {
+        "id": 18711,
+        "missionType": "live_mission",
+        "missionId": 14891,
+        "seq": 1,
+        "resourceBoxId": 464
+      }
+    ]
+  },
+  {
+    "id": 14892,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 600,
+    "rewards": [
+      {
+        "id": 18712,
+        "missionType": "live_mission",
+        "missionId": 14892,
+        "seq": 1,
+        "resourceBoxId": 461
+      }
+    ]
+  },
+  {
+    "id": 14893,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 700,
+    "rewards": [
+      {
+        "id": 18713,
+        "missionType": "live_mission",
+        "missionId": 14893,
+        "seq": 1,
+        "resourceBoxId": 464
+      }
+    ]
+  },
+  {
+    "id": 14894,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 800,
+    "rewards": [
+      {
+        "id": 18714,
+        "missionType": "live_mission",
+        "missionId": 14894,
+        "seq": 1,
+        "resourceBoxId": 461
+      }
+    ]
+  },
+  {
+    "id": 14895,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 900,
+    "rewards": [
+      {
+        "id": 18715,
+        "missionType": "live_mission",
+        "missionId": 14895,
+        "seq": 1,
+        "resourceBoxId": 464
+      }
+    ]
+  },
+  {
+    "id": 14896,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 1000,
+    "rewards": [
+      {
+        "id": 18716,
+        "missionType": "live_mission",
+        "missionId": 14896,
+        "seq": 1,
+        "resourceBoxId": 461
+      }
+    ]
+  },
+  {
+    "id": 14897,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 1100,
+    "rewards": [
+      {
+        "id": 18717,
+        "missionType": "live_mission",
+        "missionId": 14897,
+        "seq": 1,
+        "resourceBoxId": 464
+      }
+    ]
+  },
+  {
+    "id": 14898,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 1200,
+    "rewards": [
+      {
+        "id": 18718,
+        "missionType": "live_mission",
+        "missionId": 14898,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14899,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 1300,
+    "rewards": [
+      {
+        "id": 18719,
+        "missionType": "live_mission",
+        "missionId": 14899,
+        "seq": 1,
+        "resourceBoxId": 464
+      }
+    ]
+  },
+  {
+    "id": 14900,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 1400,
+    "rewards": [
+      {
+        "id": 18720,
+        "missionType": "live_mission",
+        "missionId": 14900,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14901,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 1500,
+    "rewards": [
+      {
+        "id": 18721,
+        "missionType": "live_mission",
+        "missionId": 14901,
+        "seq": 1,
+        "resourceBoxId": 464
+      }
+    ]
+  },
+  {
+    "id": 14902,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 1600,
+    "rewards": [
+      {
+        "id": 18722,
+        "missionType": "live_mission",
+        "missionId": 14902,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14903,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 1700,
+    "rewards": [
+      {
+        "id": 18723,
+        "missionType": "live_mission",
+        "missionId": 14903,
+        "seq": 1,
+        "resourceBoxId": 464
+      }
+    ]
+  },
+  {
+    "id": 14904,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 1800,
+    "rewards": [
+      {
+        "id": 18724,
+        "missionType": "live_mission",
+        "missionId": 14904,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14905,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 1900,
+    "rewards": [
+      {
+        "id": 18725,
+        "missionType": "live_mission",
+        "missionId": 14905,
+        "seq": 1,
+        "resourceBoxId": 464
+      }
+    ]
+  },
+  {
+    "id": 14906,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 2000,
+    "rewards": [
+      {
+        "id": 18726,
+        "missionType": "live_mission",
+        "missionId": 14906,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14907,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 2100,
+    "rewards": [
+      {
+        "id": 18727,
+        "missionType": "live_mission",
+        "missionId": 14907,
+        "seq": 1,
+        "resourceBoxId": 464
+      }
+    ]
+  },
+  {
+    "id": 14908,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 2200,
+    "rewards": [
+      {
+        "id": 18728,
+        "missionType": "live_mission",
+        "missionId": 14908,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14909,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 2300,
+    "rewards": [
+      {
+        "id": 18729,
+        "missionType": "live_mission",
+        "missionId": 14909,
+        "seq": 1,
+        "resourceBoxId": 464
+      }
+    ]
+  },
+  {
+    "id": 14910,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 2400,
+    "rewards": [
+      {
+        "id": 18730,
+        "missionType": "live_mission",
+        "missionId": 14910,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14911,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 2500,
+    "rewards": [
+      {
+        "id": 18731,
+        "missionType": "live_mission",
+        "missionId": 14911,
+        "seq": 1,
+        "resourceBoxId": 464
+      }
+    ]
+  },
+  {
+    "id": 14912,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 2600,
+    "rewards": [
+      {
+        "id": 18732,
+        "missionType": "live_mission",
+        "missionId": 14912,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14913,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 2700,
+    "rewards": [
+      {
+        "id": 18733,
+        "missionType": "live_mission",
+        "missionId": 14913,
+        "seq": 1,
+        "resourceBoxId": 464
+      }
+    ]
+  },
+  {
+    "id": 14914,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 2800,
+    "rewards": [
+      {
+        "id": 18734,
+        "missionType": "live_mission",
+        "missionId": 14914,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14915,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 2900,
+    "rewards": [
+      {
+        "id": 18735,
+        "missionType": "live_mission",
+        "missionId": 14915,
+        "seq": 1,
+        "resourceBoxId": 464
+      }
+    ]
+  },
+  {
+    "id": 14916,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 3000,
+    "rewards": [
+      {
+        "id": 18736,
+        "missionType": "live_mission",
+        "missionId": 14916,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14917,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 3100,
+    "rewards": [
+      {
+        "id": 18737,
+        "missionType": "live_mission",
+        "missionId": 14917,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14918,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 3200,
+    "rewards": [
+      {
+        "id": 18738,
+        "missionType": "live_mission",
+        "missionId": 14918,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14919,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 3300,
+    "rewards": [
+      {
+        "id": 18739,
+        "missionType": "live_mission",
+        "missionId": 14919,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14920,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 3400,
+    "rewards": [
+      {
+        "id": 18740,
+        "missionType": "live_mission",
+        "missionId": 14920,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14921,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 3500,
+    "rewards": [
+      {
+        "id": 18741,
+        "missionType": "live_mission",
+        "missionId": 14921,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14922,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 3600,
+    "rewards": [
+      {
+        "id": 18742,
+        "missionType": "live_mission",
+        "missionId": 14922,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14923,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 3700,
+    "rewards": [
+      {
+        "id": 18743,
+        "missionType": "live_mission",
+        "missionId": 14923,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14924,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 3800,
+    "rewards": [
+      {
+        "id": 18744,
+        "missionType": "live_mission",
+        "missionId": 14924,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14925,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 3900,
+    "rewards": [
+      {
+        "id": 18745,
+        "missionType": "live_mission",
+        "missionId": 14925,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14926,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 4000,
+    "rewards": [
+      {
+        "id": 18746,
+        "missionType": "live_mission",
+        "missionId": 14926,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14927,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 4100,
+    "rewards": [
+      {
+        "id": 18747,
+        "missionType": "live_mission",
+        "missionId": 14927,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14928,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 4200,
+    "rewards": [
+      {
+        "id": 18748,
+        "missionType": "live_mission",
+        "missionId": 14928,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14929,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 4300,
+    "rewards": [
+      {
+        "id": 18749,
+        "missionType": "live_mission",
+        "missionId": 14929,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14930,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 4400,
+    "rewards": [
+      {
+        "id": 18750,
+        "missionType": "live_mission",
+        "missionId": 14930,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14931,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 4500,
+    "rewards": [
+      {
+        "id": 18751,
+        "missionType": "live_mission",
+        "missionId": 14931,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14932,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 4600,
+    "rewards": [
+      {
+        "id": 18752,
+        "missionType": "live_mission",
+        "missionId": 14932,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14933,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 4700,
+    "rewards": [
+      {
+        "id": 18753,
+        "missionType": "live_mission",
+        "missionId": 14933,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14934,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 4800,
+    "rewards": [
+      {
+        "id": 18754,
+        "missionType": "live_mission",
+        "missionId": 14934,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14935,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 4900,
+    "rewards": [
+      {
+        "id": 18755,
+        "missionType": "live_mission",
+        "missionId": 14935,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14936,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 5000,
+    "rewards": [
+      {
+        "id": 18756,
+        "missionType": "live_mission",
+        "missionId": 14936,
+        "seq": 1,
+        "resourceBoxId": 2054
+      }
+    ]
+  },
+  {
+    "id": 14937,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 5100,
+    "rewards": [
+      {
+        "id": 18757,
+        "missionType": "live_mission",
+        "missionId": 14937,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14938,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 5200,
+    "rewards": [
+      {
+        "id": 18758,
+        "missionType": "live_mission",
+        "missionId": 14938,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14939,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 5300,
+    "rewards": [
+      {
+        "id": 18759,
+        "missionType": "live_mission",
+        "missionId": 14939,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14940,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 5400,
+    "rewards": [
+      {
+        "id": 18760,
+        "missionType": "live_mission",
+        "missionId": 14940,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14941,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 5500,
+    "rewards": [
+      {
+        "id": 18761,
+        "missionType": "live_mission",
+        "missionId": 14941,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14942,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 5600,
+    "rewards": [
+      {
+        "id": 18762,
+        "missionType": "live_mission",
+        "missionId": 14942,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14943,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 5700,
+    "rewards": [
+      {
+        "id": 18763,
+        "missionType": "live_mission",
+        "missionId": 14943,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14944,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 5800,
+    "rewards": [
+      {
+        "id": 18764,
+        "missionType": "live_mission",
+        "missionId": 14944,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14945,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 5900,
+    "rewards": [
+      {
+        "id": 18765,
+        "missionType": "live_mission",
+        "missionId": 14945,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14946,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 6000,
+    "rewards": [
+      {
+        "id": 18766,
+        "missionType": "live_mission",
+        "missionId": 14946,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14947,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 6100,
+    "rewards": [
+      {
+        "id": 18767,
+        "missionType": "live_mission",
+        "missionId": 14947,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14948,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 6200,
+    "rewards": [
+      {
+        "id": 18768,
+        "missionType": "live_mission",
+        "missionId": 14948,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14949,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 6300,
+    "rewards": [
+      {
+        "id": 18769,
+        "missionType": "live_mission",
+        "missionId": 14949,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14950,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 6400,
+    "rewards": [
+      {
+        "id": 18770,
+        "missionType": "live_mission",
+        "missionId": 14950,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14951,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 6500,
+    "rewards": [
+      {
+        "id": 18771,
+        "missionType": "live_mission",
+        "missionId": 14951,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14952,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 6600,
+    "rewards": [
+      {
+        "id": 18772,
+        "missionType": "live_mission",
+        "missionId": 14952,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14953,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 6700,
+    "rewards": [
+      {
+        "id": 18773,
+        "missionType": "live_mission",
+        "missionId": 14953,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14954,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 6800,
+    "rewards": [
+      {
+        "id": 18774,
+        "missionType": "live_mission",
+        "missionId": 14954,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14955,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 6900,
+    "rewards": [
+      {
+        "id": 18775,
+        "missionType": "live_mission",
+        "missionId": 14955,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14956,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 7000,
+    "rewards": [
+      {
+        "id": 18776,
+        "missionType": "live_mission",
+        "missionId": 14956,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14957,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 7100,
+    "rewards": [
+      {
+        "id": 18777,
+        "missionType": "live_mission",
+        "missionId": 14957,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14958,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 7200,
+    "rewards": [
+      {
+        "id": 18778,
+        "missionType": "live_mission",
+        "missionId": 14958,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14959,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 7300,
+    "rewards": [
+      {
+        "id": 18779,
+        "missionType": "live_mission",
+        "missionId": 14959,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14960,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 7400,
+    "rewards": [
+      {
+        "id": 18780,
+        "missionType": "live_mission",
+        "missionId": 14960,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14961,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 7500,
+    "rewards": [
+      {
+        "id": 18781,
+        "missionType": "live_mission",
+        "missionId": 14961,
+        "seq": 1,
+        "resourceBoxId": 2055
+      }
+    ]
+  },
+  {
+    "id": 14962,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 7600,
+    "rewards": [
+      {
+        "id": 18782,
+        "missionType": "live_mission",
+        "missionId": 14962,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14963,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 7700,
+    "rewards": [
+      {
+        "id": 18783,
+        "missionType": "live_mission",
+        "missionId": 14963,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14964,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 7800,
+    "rewards": [
+      {
+        "id": 18784,
+        "missionType": "live_mission",
+        "missionId": 14964,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14965,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 7900,
+    "rewards": [
+      {
+        "id": 18785,
+        "missionType": "live_mission",
+        "missionId": 14965,
+        "seq": 1,
+        "resourceBoxId": 465
+      }
+    ]
+  },
+  {
+    "id": 14966,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 8000,
+    "rewards": [
+      {
+        "id": 18786,
+        "missionType": "live_mission",
+        "missionId": 14966,
+        "seq": 1,
+        "resourceBoxId": 462
+      }
+    ]
+  },
+  {
+    "id": 14967,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 8100,
+    "rewards": [
+      {
+        "id": 18787,
+        "missionType": "live_mission",
+        "missionId": 14967,
+        "seq": 1,
+        "resourceBoxId": 466
+      }
+    ]
+  },
+  {
+    "id": 14968,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 8200,
+    "rewards": [
+      {
+        "id": 18788,
+        "missionType": "live_mission",
+        "missionId": 14968,
+        "seq": 1,
+        "resourceBoxId": 463
+      }
+    ]
+  },
+  {
+    "id": 14969,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 8300,
+    "rewards": [
+      {
+        "id": 18789,
+        "missionType": "live_mission",
+        "missionId": 14969,
+        "seq": 1,
+        "resourceBoxId": 466
+      }
+    ]
+  },
+  {
+    "id": 14970,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 8400,
+    "rewards": [
+      {
+        "id": 18790,
+        "missionType": "live_mission",
+        "missionId": 14970,
+        "seq": 1,
+        "resourceBoxId": 463
+      }
+    ]
+  },
+  {
+    "id": 14971,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 8500,
+    "rewards": [
+      {
+        "id": 18791,
+        "missionType": "live_mission",
+        "missionId": 14971,
+        "seq": 1,
+        "resourceBoxId": 466
+      }
+    ]
+  },
+  {
+    "id": 14972,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 8600,
+    "rewards": [
+      {
+        "id": 18792,
+        "missionType": "live_mission",
+        "missionId": 14972,
+        "seq": 1,
+        "resourceBoxId": 463
+      }
+    ]
+  },
+  {
+    "id": 14973,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 8700,
+    "rewards": [
+      {
+        "id": 18793,
+        "missionType": "live_mission",
+        "missionId": 14973,
+        "seq": 1,
+        "resourceBoxId": 466
+      }
+    ]
+  },
+  {
+    "id": 14974,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 8800,
+    "rewards": [
+      {
+        "id": 18794,
+        "missionType": "live_mission",
+        "missionId": 14974,
+        "seq": 1,
+        "resourceBoxId": 463
+      }
+    ]
+  },
+  {
+    "id": 14975,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 8900,
+    "rewards": [
+      {
+        "id": 18795,
+        "missionType": "live_mission",
+        "missionId": 14975,
+        "seq": 1,
+        "resourceBoxId": 466
+      }
+    ]
+  },
+  {
+    "id": 14976,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 9000,
+    "rewards": [
+      {
+        "id": 18796,
+        "missionType": "live_mission",
+        "missionId": 14976,
+        "seq": 1,
+        "resourceBoxId": 463
+      }
+    ]
+  },
+  {
+    "id": 14977,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 9100,
+    "rewards": [
+      {
+        "id": 18797,
+        "missionType": "live_mission",
+        "missionId": 14977,
+        "seq": 1,
+        "resourceBoxId": 466
+      }
+    ]
+  },
+  {
+    "id": 14978,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 9200,
+    "rewards": [
+      {
+        "id": 18798,
+        "missionType": "live_mission",
+        "missionId": 14978,
+        "seq": 1,
+        "resourceBoxId": 463
+      }
+    ]
+  },
+  {
+    "id": 14979,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 9300,
+    "rewards": [
+      {
+        "id": 18799,
+        "missionType": "live_mission",
+        "missionId": 14979,
+        "seq": 1,
+        "resourceBoxId": 466
+      }
+    ]
+  },
+  {
+    "id": 14980,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 9400,
+    "rewards": [
+      {
+        "id": 18800,
+        "missionType": "live_mission",
+        "missionId": 14980,
+        "seq": 1,
+        "resourceBoxId": 463
+      }
+    ]
+  },
+  {
+    "id": 14981,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 9500,
+    "rewards": [
+      {
+        "id": 18801,
+        "missionType": "live_mission",
+        "missionId": 14981,
+        "seq": 1,
+        "resourceBoxId": 466
+      }
+    ]
+  },
+  {
+    "id": 14982,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 9600,
+    "rewards": [
+      {
+        "id": 18802,
+        "missionType": "live_mission",
+        "missionId": 14982,
+        "seq": 1,
+        "resourceBoxId": 463
+      }
+    ]
+  },
+  {
+    "id": 14983,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 9700,
+    "rewards": [
+      {
+        "id": 18803,
+        "missionType": "live_mission",
+        "missionId": 14983,
+        "seq": 1,
+        "resourceBoxId": 466
+      }
+    ]
+  },
+  {
+    "id": 14984,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 9800,
+    "rewards": [
+      {
+        "id": 18804,
+        "missionType": "live_mission",
+        "missionId": 14984,
+        "seq": 1,
+        "resourceBoxId": 463
+      }
+    ]
+  },
+  {
+    "id": 14985,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 9900,
+    "rewards": [
+      {
+        "id": 18805,
+        "missionType": "live_mission",
+        "missionId": 14985,
+        "seq": 1,
+        "resourceBoxId": 466
+      }
+    ]
+  },
+  {
+    "id": 14986,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 10000,
+    "rewards": [
+      {
+        "id": 18806,
+        "missionType": "live_mission",
+        "missionId": 14986,
+        "seq": 1,
+        "resourceBoxId": 2056
+      }
+    ]
+  },
+  {
+    "id": 14987,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 10100,
+    "rewards": [
+      {
+        "id": 18807,
+        "missionType": "live_mission",
+        "missionId": 14987,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 14988,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 10200,
+    "rewards": [
+      {
+        "id": 18808,
+        "missionType": "live_mission",
+        "missionId": 14988,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 14989,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 10300,
+    "rewards": [
+      {
+        "id": 18809,
+        "missionType": "live_mission",
+        "missionId": 14989,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 14990,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 10400,
+    "rewards": [
+      {
+        "id": 18810,
+        "missionType": "live_mission",
+        "missionId": 14990,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 14991,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 10500,
+    "rewards": [
+      {
+        "id": 18811,
+        "missionType": "live_mission",
+        "missionId": 14991,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 14992,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 10600,
+    "rewards": [
+      {
+        "id": 18812,
+        "missionType": "live_mission",
+        "missionId": 14992,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 14993,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 10700,
+    "rewards": [
+      {
+        "id": 18813,
+        "missionType": "live_mission",
+        "missionId": 14993,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 14994,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 10800,
+    "rewards": [
+      {
+        "id": 18814,
+        "missionType": "live_mission",
+        "missionId": 14994,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 14995,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 10900,
+    "rewards": [
+      {
+        "id": 18815,
+        "missionType": "live_mission",
+        "missionId": 14995,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 14996,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 11000,
+    "rewards": [
+      {
+        "id": 18816,
+        "missionType": "live_mission",
+        "missionId": 14996,
+        "seq": 1,
+        "resourceBoxId": 1842
+      }
+    ]
+  },
+  {
+    "id": 14997,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 11100,
+    "rewards": [
+      {
+        "id": 18817,
+        "missionType": "live_mission",
+        "missionId": 14997,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 14998,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 11200,
+    "rewards": [
+      {
+        "id": 18818,
+        "missionType": "live_mission",
+        "missionId": 14998,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 14999,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 11300,
+    "rewards": [
+      {
+        "id": 18819,
+        "missionType": "live_mission",
+        "missionId": 14999,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 15000,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 11400,
+    "rewards": [
+      {
+        "id": 18820,
+        "missionType": "live_mission",
+        "missionId": 15000,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 15001,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 11500,
+    "rewards": [
+      {
+        "id": 18821,
+        "missionType": "live_mission",
+        "missionId": 15001,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 15002,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 11600,
+    "rewards": [
+      {
+        "id": 18822,
+        "missionType": "live_mission",
+        "missionId": 15002,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 15003,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 11700,
+    "rewards": [
+      {
+        "id": 18823,
+        "missionType": "live_mission",
+        "missionId": 15003,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 15004,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 11800,
+    "rewards": [
+      {
+        "id": 18824,
+        "missionType": "live_mission",
+        "missionId": 15004,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 15005,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 11900,
+    "rewards": [
+      {
+        "id": 18825,
+        "missionType": "live_mission",
+        "missionId": 15005,
+        "seq": 1,
+        "resourceBoxId": 1841
+      }
+    ]
+  },
+  {
+    "id": 15006,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "premium",
+    "requirement": 12000,
+    "rewards": [
+      {
+        "id": 18826,
+        "missionType": "live_mission",
+        "missionId": 15006,
+        "seq": 1,
+        "resourceBoxId": 1843
+      }
+    ]
+  },
+  {
+    "id": 15007,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 100,
+    "rewards": [
+      {
+        "id": 18827,
+        "missionType": "live_mission",
+        "missionId": 15007,
+        "seq": 1,
+        "resourceBoxId": 2057
+      }
+    ]
+  },
+  {
+    "id": 15008,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 200,
+    "rewards": [
+      {
+        "id": 18828,
+        "missionType": "live_mission",
+        "missionId": 15008,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15009,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 300,
+    "rewards": [
+      {
+        "id": 18829,
+        "missionType": "live_mission",
+        "missionId": 15009,
+        "seq": 1,
+        "resourceBoxId": 1677
+      }
+    ]
+  },
+  {
+    "id": 15010,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 400,
+    "rewards": [
+      {
+        "id": 18830,
+        "missionType": "live_mission",
+        "missionId": 15010,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15011,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 500,
+    "rewards": [
+      {
+        "id": 18831,
+        "missionType": "live_mission",
+        "missionId": 15011,
+        "seq": 1,
+        "resourceBoxId": 1677
+      }
+    ]
+  },
+  {
+    "id": 15012,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 600,
+    "rewards": [
+      {
+        "id": 18832,
+        "missionType": "live_mission",
+        "missionId": 15012,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15013,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 700,
+    "rewards": [
+      {
+        "id": 18833,
+        "missionType": "live_mission",
+        "missionId": 15013,
+        "seq": 1,
+        "resourceBoxId": 1677
+      }
+    ]
+  },
+  {
+    "id": 15014,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 800,
+    "rewards": [
+      {
+        "id": 18834,
+        "missionType": "live_mission",
+        "missionId": 15014,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15015,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 900,
+    "rewards": [
+      {
+        "id": 18835,
+        "missionType": "live_mission",
+        "missionId": 15015,
+        "seq": 1,
+        "resourceBoxId": 1677
+      }
+    ]
+  },
+  {
+    "id": 15016,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 1000,
+    "rewards": [
+      {
+        "id": 18836,
+        "missionType": "live_mission",
+        "missionId": 15016,
+        "seq": 1,
+        "resourceBoxId": 1680
+      }
+    ]
+  },
+  {
+    "id": 15017,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 1100,
+    "rewards": [
+      {
+        "id": 18837,
+        "missionType": "live_mission",
+        "missionId": 15017,
+        "seq": 1,
+        "resourceBoxId": 1677
+      }
+    ]
+  },
+  {
+    "id": 15018,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 1200,
+    "rewards": [
+      {
+        "id": 18838,
+        "missionType": "live_mission",
+        "missionId": 15018,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15019,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 1300,
+    "rewards": [
+      {
+        "id": 18839,
+        "missionType": "live_mission",
+        "missionId": 15019,
+        "seq": 1,
+        "resourceBoxId": 1677
+      }
+    ]
+  },
+  {
+    "id": 15020,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 1400,
+    "rewards": [
+      {
+        "id": 18840,
+        "missionType": "live_mission",
+        "missionId": 15020,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15021,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 1500,
+    "rewards": [
+      {
+        "id": 18841,
+        "missionType": "live_mission",
+        "missionId": 15021,
+        "seq": 1,
+        "resourceBoxId": 1672
+      }
+    ]
+  },
+  {
+    "id": 15022,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 1600,
+    "rewards": [
+      {
+        "id": 18842,
+        "missionType": "live_mission",
+        "missionId": 15022,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15023,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 1700,
+    "rewards": [
+      {
+        "id": 18843,
+        "missionType": "live_mission",
+        "missionId": 15023,
+        "seq": 1,
+        "resourceBoxId": 1677
+      }
+    ]
+  },
+  {
+    "id": 15024,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 1800,
+    "rewards": [
+      {
+        "id": 18844,
+        "missionType": "live_mission",
+        "missionId": 15024,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15025,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 1900,
+    "rewards": [
+      {
+        "id": 18845,
+        "missionType": "live_mission",
+        "missionId": 15025,
+        "seq": 1,
+        "resourceBoxId": 1677
+      }
+    ]
+  },
+  {
+    "id": 15026,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 2000,
+    "rewards": [
+      {
+        "id": 18846,
+        "missionType": "live_mission",
+        "missionId": 15026,
+        "seq": 1,
+        "resourceBoxId": 1850
+      }
+    ]
+  },
+  {
+    "id": 15027,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 2100,
+    "rewards": [
+      {
+        "id": 18847,
+        "missionType": "live_mission",
+        "missionId": 15027,
+        "seq": 1,
+        "resourceBoxId": 1677
+      }
+    ]
+  },
+  {
+    "id": 15028,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 2200,
+    "rewards": [
+      {
+        "id": 18848,
+        "missionType": "live_mission",
+        "missionId": 15028,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15029,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 2300,
+    "rewards": [
+      {
+        "id": 18849,
+        "missionType": "live_mission",
+        "missionId": 15029,
+        "seq": 1,
+        "resourceBoxId": 1677
+      }
+    ]
+  },
+  {
+    "id": 15030,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 2400,
+    "rewards": [
+      {
+        "id": 18850,
+        "missionType": "live_mission",
+        "missionId": 15030,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15031,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 2500,
+    "rewards": [
+      {
+        "id": 18851,
+        "missionType": "live_mission",
+        "missionId": 15031,
+        "seq": 1,
+        "resourceBoxId": 1673
+      }
+    ]
+  },
+  {
+    "id": 15032,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 2600,
+    "rewards": [
+      {
+        "id": 18852,
+        "missionType": "live_mission",
+        "missionId": 15032,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15033,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 2700,
+    "rewards": [
+      {
+        "id": 18853,
+        "missionType": "live_mission",
+        "missionId": 15033,
+        "seq": 1,
+        "resourceBoxId": 1677
+      }
+    ]
+  },
+  {
+    "id": 15034,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 2800,
+    "rewards": [
+      {
+        "id": 18854,
+        "missionType": "live_mission",
+        "missionId": 15034,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15035,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 2900,
+    "rewards": [
+      {
+        "id": 18855,
+        "missionType": "live_mission",
+        "missionId": 15035,
+        "seq": 1,
+        "resourceBoxId": 1677
+      }
+    ]
+  },
+  {
+    "id": 15036,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 3000,
+    "rewards": [
+      {
+        "id": 18856,
+        "missionType": "live_mission",
+        "missionId": 15036,
+        "seq": 1,
+        "resourceBoxId": 1851
+      }
+    ]
+  },
+  {
+    "id": 15037,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 3100,
+    "rewards": [
+      {
+        "id": 18857,
+        "missionType": "live_mission",
+        "missionId": 15037,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15038,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 3200,
+    "rewards": [
+      {
+        "id": 18858,
+        "missionType": "live_mission",
+        "missionId": 15038,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15039,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 3300,
+    "rewards": [
+      {
+        "id": 18859,
+        "missionType": "live_mission",
+        "missionId": 15039,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15040,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 3400,
+    "rewards": [
+      {
+        "id": 18860,
+        "missionType": "live_mission",
+        "missionId": 15040,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15041,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 3500,
+    "rewards": [
+      {
+        "id": 18861,
+        "missionType": "live_mission",
+        "missionId": 15041,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15042,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 3600,
+    "rewards": [
+      {
+        "id": 18862,
+        "missionType": "live_mission",
+        "missionId": 15042,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15043,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 3700,
+    "rewards": [
+      {
+        "id": 18863,
+        "missionType": "live_mission",
+        "missionId": 15043,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15044,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 3800,
+    "rewards": [
+      {
+        "id": 18864,
+        "missionType": "live_mission",
+        "missionId": 15044,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15045,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 3900,
+    "rewards": [
+      {
+        "id": 18865,
+        "missionType": "live_mission",
+        "missionId": 15045,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15046,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 4000,
+    "rewards": [
+      {
+        "id": 18866,
+        "missionType": "live_mission",
+        "missionId": 15046,
+        "seq": 1,
+        "resourceBoxId": 1674
+      }
+    ]
+  },
+  {
+    "id": 15047,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 4100,
+    "rewards": [
+      {
+        "id": 18867,
+        "missionType": "live_mission",
+        "missionId": 15047,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15048,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 4200,
+    "rewards": [
+      {
+        "id": 18868,
+        "missionType": "live_mission",
+        "missionId": 15048,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15049,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 4300,
+    "rewards": [
+      {
+        "id": 18869,
+        "missionType": "live_mission",
+        "missionId": 15049,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15050,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 4400,
+    "rewards": [
+      {
+        "id": 18870,
+        "missionType": "live_mission",
+        "missionId": 15050,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15051,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 4500,
+    "rewards": [
+      {
+        "id": 18871,
+        "missionType": "live_mission",
+        "missionId": 15051,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15052,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 4600,
+    "rewards": [
+      {
+        "id": 18872,
+        "missionType": "live_mission",
+        "missionId": 15052,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15053,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 4700,
+    "rewards": [
+      {
+        "id": 18873,
+        "missionType": "live_mission",
+        "missionId": 15053,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15054,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 4800,
+    "rewards": [
+      {
+        "id": 18874,
+        "missionType": "live_mission",
+        "missionId": 15054,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15055,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 4900,
+    "rewards": [
+      {
+        "id": 18875,
+        "missionType": "live_mission",
+        "missionId": 15055,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15056,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 5000,
+    "rewards": [
+      {
+        "id": 18876,
+        "missionType": "live_mission",
+        "missionId": 15056,
+        "seq": 1,
+        "resourceBoxId": 2058
+      }
+    ]
+  },
+  {
+    "id": 15057,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 5100,
+    "rewards": [
+      {
+        "id": 18877,
+        "missionType": "live_mission",
+        "missionId": 15057,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15058,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 5200,
+    "rewards": [
+      {
+        "id": 18878,
+        "missionType": "live_mission",
+        "missionId": 15058,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15059,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 5300,
+    "rewards": [
+      {
+        "id": 18879,
+        "missionType": "live_mission",
+        "missionId": 15059,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15060,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 5400,
+    "rewards": [
+      {
+        "id": 18880,
+        "missionType": "live_mission",
+        "missionId": 15060,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15061,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 5500,
+    "rewards": [
+      {
+        "id": 18881,
+        "missionType": "live_mission",
+        "missionId": 15061,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15062,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 5600,
+    "rewards": [
+      {
+        "id": 18882,
+        "missionType": "live_mission",
+        "missionId": 15062,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15063,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 5700,
+    "rewards": [
+      {
+        "id": 18883,
+        "missionType": "live_mission",
+        "missionId": 15063,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15064,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 5800,
+    "rewards": [
+      {
+        "id": 18884,
+        "missionType": "live_mission",
+        "missionId": 15064,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15065,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 5900,
+    "rewards": [
+      {
+        "id": 18885,
+        "missionType": "live_mission",
+        "missionId": 15065,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15066,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 6000,
+    "rewards": [
+      {
+        "id": 18886,
+        "missionType": "live_mission",
+        "missionId": 15066,
+        "seq": 1,
+        "resourceBoxId": 1674
+      }
+    ]
+  },
+  {
+    "id": 15067,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 6100,
+    "rewards": [
+      {
+        "id": 18887,
+        "missionType": "live_mission",
+        "missionId": 15067,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15068,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 6200,
+    "rewards": [
+      {
+        "id": 18888,
+        "missionType": "live_mission",
+        "missionId": 15068,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15069,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 6300,
+    "rewards": [
+      {
+        "id": 18889,
+        "missionType": "live_mission",
+        "missionId": 15069,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15070,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 6400,
+    "rewards": [
+      {
+        "id": 18890,
+        "missionType": "live_mission",
+        "missionId": 15070,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15071,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 6500,
+    "rewards": [
+      {
+        "id": 18891,
+        "missionType": "live_mission",
+        "missionId": 15071,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15072,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 6600,
+    "rewards": [
+      {
+        "id": 18892,
+        "missionType": "live_mission",
+        "missionId": 15072,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15073,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 6700,
+    "rewards": [
+      {
+        "id": 18893,
+        "missionType": "live_mission",
+        "missionId": 15073,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15074,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 6800,
+    "rewards": [
+      {
+        "id": 18894,
+        "missionType": "live_mission",
+        "missionId": 15074,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15075,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 6900,
+    "rewards": [
+      {
+        "id": 18895,
+        "missionType": "live_mission",
+        "missionId": 15075,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15076,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 7000,
+    "rewards": [
+      {
+        "id": 18896,
+        "missionType": "live_mission",
+        "missionId": 15076,
+        "seq": 1,
+        "resourceBoxId": 1680
+      }
+    ]
+  },
+  {
+    "id": 15077,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 7100,
+    "rewards": [
+      {
+        "id": 18897,
+        "missionType": "live_mission",
+        "missionId": 15077,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15078,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 7200,
+    "rewards": [
+      {
+        "id": 18898,
+        "missionType": "live_mission",
+        "missionId": 15078,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15079,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 7300,
+    "rewards": [
+      {
+        "id": 18899,
+        "missionType": "live_mission",
+        "missionId": 15079,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15080,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 7400,
+    "rewards": [
+      {
+        "id": 18900,
+        "missionType": "live_mission",
+        "missionId": 15080,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15081,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 7500,
+    "rewards": [
+      {
+        "id": 18901,
+        "missionType": "live_mission",
+        "missionId": 15081,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15082,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 7600,
+    "rewards": [
+      {
+        "id": 18902,
+        "missionType": "live_mission",
+        "missionId": 15082,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15083,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 7700,
+    "rewards": [
+      {
+        "id": 18903,
+        "missionType": "live_mission",
+        "missionId": 15083,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15084,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 7800,
+    "rewards": [
+      {
+        "id": 18904,
+        "missionType": "live_mission",
+        "missionId": 15084,
+        "seq": 1,
+        "resourceBoxId": 1675
+      }
+    ]
+  },
+  {
+    "id": 15085,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 7900,
+    "rewards": [
+      {
+        "id": 18905,
+        "missionType": "live_mission",
+        "missionId": 15085,
+        "seq": 1,
+        "resourceBoxId": 1678
+      }
+    ]
+  },
+  {
+    "id": 15086,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 8000,
+    "rewards": [
+      {
+        "id": 18906,
+        "missionType": "live_mission",
+        "missionId": 15086,
+        "seq": 1,
+        "resourceBoxId": 1674
+      }
+    ]
+  },
+  {
+    "id": 15087,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 8100,
+    "rewards": [
+      {
+        "id": 18907,
+        "missionType": "live_mission",
+        "missionId": 15087,
+        "seq": 1,
+        "resourceBoxId": 1679
+      }
+    ]
+  },
+  {
+    "id": 15088,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 8200,
+    "rewards": [
+      {
+        "id": 18908,
+        "missionType": "live_mission",
+        "missionId": 15088,
+        "seq": 1,
+        "resourceBoxId": 1676
+      }
+    ]
+  },
+  {
+    "id": 15089,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 8300,
+    "rewards": [
+      {
+        "id": 18909,
+        "missionType": "live_mission",
+        "missionId": 15089,
+        "seq": 1,
+        "resourceBoxId": 1679
+      }
+    ]
+  },
+  {
+    "id": 15090,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 8400,
+    "rewards": [
+      {
+        "id": 18910,
+        "missionType": "live_mission",
+        "missionId": 15090,
+        "seq": 1,
+        "resourceBoxId": 1676
+      }
+    ]
+  },
+  {
+    "id": 15091,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 8500,
+    "rewards": [
+      {
+        "id": 18911,
+        "missionType": "live_mission",
+        "missionId": 15091,
+        "seq": 1,
+        "resourceBoxId": 1679
+      }
+    ]
+  },
+  {
+    "id": 15092,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 8600,
+    "rewards": [
+      {
+        "id": 18912,
+        "missionType": "live_mission",
+        "missionId": 15092,
+        "seq": 1,
+        "resourceBoxId": 1676
+      }
+    ]
+  },
+  {
+    "id": 15093,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 8700,
+    "rewards": [
+      {
+        "id": 18913,
+        "missionType": "live_mission",
+        "missionId": 15093,
+        "seq": 1,
+        "resourceBoxId": 1679
+      }
+    ]
+  },
+  {
+    "id": 15094,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 8800,
+    "rewards": [
+      {
+        "id": 18914,
+        "missionType": "live_mission",
+        "missionId": 15094,
+        "seq": 1,
+        "resourceBoxId": 1676
+      }
+    ]
+  },
+  {
+    "id": 15095,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 8900,
+    "rewards": [
+      {
+        "id": 18915,
+        "missionType": "live_mission",
+        "missionId": 15095,
+        "seq": 1,
+        "resourceBoxId": 1679
+      }
+    ]
+  },
+  {
+    "id": 15096,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 9000,
+    "rewards": [
+      {
+        "id": 18916,
+        "missionType": "live_mission",
+        "missionId": 15096,
+        "seq": 1,
+        "resourceBoxId": 1676
+      }
+    ]
+  },
+  {
+    "id": 15097,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 9100,
+    "rewards": [
+      {
+        "id": 18917,
+        "missionType": "live_mission",
+        "missionId": 15097,
+        "seq": 1,
+        "resourceBoxId": 1679
+      }
+    ]
+  },
+  {
+    "id": 15098,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 9200,
+    "rewards": [
+      {
+        "id": 18918,
+        "missionType": "live_mission",
+        "missionId": 15098,
+        "seq": 1,
+        "resourceBoxId": 1676
+      }
+    ]
+  },
+  {
+    "id": 15099,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 9300,
+    "rewards": [
+      {
+        "id": 18919,
+        "missionType": "live_mission",
+        "missionId": 15099,
+        "seq": 1,
+        "resourceBoxId": 1679
+      }
+    ]
+  },
+  {
+    "id": 15100,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 9400,
+    "rewards": [
+      {
+        "id": 18920,
+        "missionType": "live_mission",
+        "missionId": 15100,
+        "seq": 1,
+        "resourceBoxId": 1676
+      }
+    ]
+  },
+  {
+    "id": 15101,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 9500,
+    "rewards": [
+      {
+        "id": 18921,
+        "missionType": "live_mission",
+        "missionId": 15101,
+        "seq": 1,
+        "resourceBoxId": 1679
+      }
+    ]
+  },
+  {
+    "id": 15102,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 9600,
+    "rewards": [
+      {
+        "id": 18922,
+        "missionType": "live_mission",
+        "missionId": 15102,
+        "seq": 1,
+        "resourceBoxId": 1676
+      }
+    ]
+  },
+  {
+    "id": 15103,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 9700,
+    "rewards": [
+      {
+        "id": 18923,
+        "missionType": "live_mission",
+        "missionId": 15103,
+        "seq": 1,
+        "resourceBoxId": 1679
+      }
+    ]
+  },
+  {
+    "id": 15104,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 9800,
+    "rewards": [
+      {
+        "id": 18924,
+        "missionType": "live_mission",
+        "missionId": 15104,
+        "seq": 1,
+        "resourceBoxId": 1676
+      }
+    ]
+  },
+  {
+    "id": 15105,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 9900,
+    "rewards": [
+      {
+        "id": 18925,
+        "missionType": "live_mission",
+        "missionId": 15105,
+        "seq": 1,
+        "resourceBoxId": 1715
+      }
+    ]
+  },
+  {
+    "id": 15106,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 10000,
+    "rewards": [
+      {
+        "id": 18926,
+        "missionType": "live_mission",
+        "missionId": 15106,
+        "seq": 1,
+        "resourceBoxId": 2059
+      }
+    ]
+  },
+  {
+    "id": 15107,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 10100,
+    "rewards": [
+      {
+        "id": 18927,
+        "missionType": "live_mission",
+        "missionId": 15107,
+        "seq": 1,
+        "resourceBoxId": 1844
+      }
+    ]
+  },
+  {
+    "id": 15108,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 10200,
+    "rewards": [
+      {
+        "id": 18928,
+        "missionType": "live_mission",
+        "missionId": 15108,
+        "seq": 1,
+        "resourceBoxId": 1844
+      }
+    ]
+  },
+  {
+    "id": 15109,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 10300,
+    "rewards": [
+      {
+        "id": 18929,
+        "missionType": "live_mission",
+        "missionId": 15109,
+        "seq": 1,
+        "resourceBoxId": 1844
+      }
+    ]
+  },
+  {
+    "id": 15110,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 10400,
+    "rewards": [
+      {
+        "id": 18930,
+        "missionType": "live_mission",
+        "missionId": 15110,
+        "seq": 1,
+        "resourceBoxId": 1845
+      }
+    ]
+  },
+  {
+    "id": 15111,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 10500,
+    "rewards": [
+      {
+        "id": 18931,
+        "missionType": "live_mission",
+        "missionId": 15111,
+        "seq": 1,
+        "resourceBoxId": 1844
+      }
+    ]
+  },
+  {
+    "id": 15112,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 10600,
+    "rewards": [
+      {
+        "id": 18932,
+        "missionType": "live_mission",
+        "missionId": 15112,
+        "seq": 1,
+        "resourceBoxId": 1844
+      }
+    ]
+  },
+  {
+    "id": 15113,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 10700,
+    "rewards": [
+      {
+        "id": 18933,
+        "missionType": "live_mission",
+        "missionId": 15113,
+        "seq": 1,
+        "resourceBoxId": 1844
+      }
+    ]
+  },
+  {
+    "id": 15114,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 10800,
+    "rewards": [
+      {
+        "id": 18934,
+        "missionType": "live_mission",
+        "missionId": 15114,
+        "seq": 1,
+        "resourceBoxId": 1846
+      }
+    ]
+  },
+  {
+    "id": 15115,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 10900,
+    "rewards": [
+      {
+        "id": 18935,
+        "missionType": "live_mission",
+        "missionId": 15115,
+        "seq": 1,
+        "resourceBoxId": 1844
+      }
+    ]
+  },
+  {
+    "id": 15116,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 11000,
+    "rewards": [
+      {
+        "id": 18936,
+        "missionType": "live_mission",
+        "missionId": 15116,
+        "seq": 1,
+        "resourceBoxId": 1844
+      }
+    ]
+  },
+  {
+    "id": 15117,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 11100,
+    "rewards": [
+      {
+        "id": 18937,
+        "missionType": "live_mission",
+        "missionId": 15117,
+        "seq": 1,
+        "resourceBoxId": 1844
+      }
+    ]
+  },
+  {
+    "id": 15118,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 11200,
+    "rewards": [
+      {
+        "id": 18938,
+        "missionType": "live_mission",
+        "missionId": 15118,
+        "seq": 1,
+        "resourceBoxId": 1847
+      }
+    ]
+  },
+  {
+    "id": 15119,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 11300,
+    "rewards": [
+      {
+        "id": 18939,
+        "missionType": "live_mission",
+        "missionId": 15119,
+        "seq": 1,
+        "resourceBoxId": 1844
+      }
+    ]
+  },
+  {
+    "id": 15120,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 11400,
+    "rewards": [
+      {
+        "id": 18940,
+        "missionType": "live_mission",
+        "missionId": 15120,
+        "seq": 1,
+        "resourceBoxId": 1844
+      }
+    ]
+  },
+  {
+    "id": 15121,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 11500,
+    "rewards": [
+      {
+        "id": 18941,
+        "missionType": "live_mission",
+        "missionId": 15121,
+        "seq": 1,
+        "resourceBoxId": 1844
+      }
+    ]
+  },
+  {
+    "id": 15122,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 11600,
+    "rewards": [
+      {
+        "id": 18942,
+        "missionType": "live_mission",
+        "missionId": 15122,
+        "seq": 1,
+        "resourceBoxId": 1848
+      }
+    ]
+  },
+  {
+    "id": 15123,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 11700,
+    "rewards": [
+      {
+        "id": 18943,
+        "missionType": "live_mission",
+        "missionId": 15123,
+        "seq": 1,
+        "resourceBoxId": 1844
+      }
+    ]
+  },
+  {
+    "id": 15124,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 11800,
+    "rewards": [
+      {
+        "id": 18944,
+        "missionType": "live_mission",
+        "missionId": 15124,
+        "seq": 1,
+        "resourceBoxId": 1844
+      }
+    ]
+  },
+  {
+    "id": 15125,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 11900,
+    "rewards": [
+      {
+        "id": 18945,
+        "missionType": "live_mission",
+        "missionId": 15125,
+        "seq": 1,
+        "resourceBoxId": 1844
+      }
+    ]
+  },
+  {
+    "id": 15126,
+    "liveMissionPeriodId": 72,
+    "liveMissionType": "mysekai",
+    "requirement": 12000,
+    "rewards": [
+      {
+        "id": 18946,
+        "missionType": "live_mission",
+        "missionId": 15126,
+        "seq": 1,
+        "resourceBoxId": 1849
+      }
+    ]
   }
 ]
