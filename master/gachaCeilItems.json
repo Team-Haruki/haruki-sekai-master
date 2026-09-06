@@ -3838,5 +3838,29 @@
     "assetbundleName": "ceil_item_birthday",
     "convertStartAt": 1791698400000,
     "convertResourceBoxId": 2
+  },
+  {
+    "id": 569,
+    "gachaId": 4002,
+    "name": "Shady Stareガチャシール",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1791946800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 570,
+    "gachaId": 4003,
+    "name": "[復刻]絶望の雨すら笑ってガチャシール",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1792551600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 571,
+    "gachaId": 4004,
+    "name": "[復刻]Night sweet mealガチャシール",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1792551600000,
+    "convertResourceBoxId": 2
   }
 ]

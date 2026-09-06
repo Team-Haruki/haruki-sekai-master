@@ -8838,5 +8838,45 @@
     "bonusRate": 0.0,
     "leaderBonusRate": 0.0,
     "isDisplayCardStory": true
+  },
+  {
+    "id": 1107,
+    "cardId": 1465,
+    "eventId": 216,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1108,
+    "cardId": 1466,
+    "eventId": 216,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1109,
+    "cardId": 1467,
+    "eventId": 216,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1110,
+    "cardId": 1468,
+    "eventId": 216,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1111,
+    "cardId": 1469,
+    "eventId": 216,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
   }
 ]

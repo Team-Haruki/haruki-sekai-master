@@ -16470,5 +16470,28 @@
     "isNewlyWrittenMusic": false,
     "isFullLength": false,
     "isAvailableForMusicScoreMaker": true
+  },
+  {
+    "id": 804,
+    "seq": 2468701,
+    "releaseConditionId": 10,
+    "title": "正解",
+    "pronunciation": "せいかい",
+    "creatorArtistId": 317,
+    "lyricist": "雨良 Amala",
+    "composer": "雨良 Amala",
+    "arranger": "雨良 Amala",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_804",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1788674400000,
+    "releasedAt": 1788620400000,
+    "liveStageId": 1,
+    "secForMusicScoreMaker": 121,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false,
+    "isAvailableForMusicScoreMaker": true
   }
 ]

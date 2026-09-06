@@ -808,5 +808,11 @@
     "musicId": 788,
     "seq": 1,
     "releaseConditionId": 1
+  },
+  {
+    "eventId": 216,
+    "musicId": 804,
+    "seq": 1,
+    "releaseConditionId": 1
   }
 ]

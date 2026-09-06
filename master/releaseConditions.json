@@ -10057,6 +10057,41 @@
     "releaseConditionTypeLevel": 60
   },
   {
+    "id": 31465,
+    "sentence": "レベル60・前編を読了で解放可能",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 1465,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 31466,
+    "sentence": "レベル60・前編を読了で解放可能",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 1466,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 31467,
+    "sentence": "レベル60・前編を読了で解放可能",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 1467,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 31468,
+    "sentence": "レベル50・前編を読了で解放可能",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 1468,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 31469,
+    "sentence": "レベル30・前編を読了で解放可能",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 1469,
+    "releaseConditionTypeLevel": 30
+  },
+  {
     "id": 40001,
     "sentence": "GOOD以下を7以内でEXPERTクリアで解放",
     "releaseConditionType": "music_difficulty_better_play",
@@ -36669,6 +36704,90 @@
     "releaseConditionTypeLevel": 5
   },
   {
+    "id": 67230,
+    "sentence": "「[こぼれ落ちた波紋] 東雲彰人」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1465,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 67231,
+    "sentence": "「[こぼれ落ちた波紋] 東雲彰人」のマスターランク1で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1465,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 67232,
+    "sentence": "「[こぼれ落ちた波紋] 東雲彰人」のマスターランク3で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1465,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 67233,
+    "sentence": "「[こぼれ落ちた波紋] 東雲彰人」のマスターランク5で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1465,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 67240,
+    "sentence": "「[初めて分かち合う喜び] 青柳冬弥」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1466,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 67241,
+    "sentence": "「[初めて分かち合う喜び] 青柳冬弥」のマスターランク1で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1466,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 67242,
+    "sentence": "「[初めて分かち合う喜び] 青柳冬弥」のマスターランク3で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1466,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 67243,
+    "sentence": "「[初めて分かち合う喜び] 青柳冬弥」のマスターランク5で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1466,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 67250,
+    "sentence": "「[重なる想いと歌声] 鏡音リン」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1467,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 67251,
+    "sentence": "「[重なる想いと歌声] 鏡音リン」のマスターランク1で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1467,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 67252,
+    "sentence": "「[重なる想いと歌声] 鏡音リン」のマスターランク3で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1467,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 67253,
+    "sentence": "「[重なる想いと歌声] 鏡音リン」のマスターランク5で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1467,
+    "releaseConditionTypeLevel": 5
+  },
+  {
     "id": 70001,
     "sentence": "キャラクターランク1で解放",
     "releaseConditionType": "character_rank",
@@ -49071,6 +49190,61 @@
     "sentence": "「Mix&Make Party Time!!」の第8話を読む",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1001742
+  },
+  {
+    "id": 121501,
+    "sentence": "イベントPが12000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 216,
+    "releaseConditionTypeQuantity": 12000
+  },
+  {
+    "id": 121502,
+    "sentence": "イベントPが32000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 216,
+    "releaseConditionTypeQuantity": 32000
+  },
+  {
+    "id": 121503,
+    "sentence": "イベントPが52000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 216,
+    "releaseConditionTypeQuantity": 52000
+  },
+  {
+    "id": 121504,
+    "sentence": "イベントPが76000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 216,
+    "releaseConditionTypeQuantity": 76000
+  },
+  {
+    "id": 121505,
+    "sentence": "イベントPが100000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 216,
+    "releaseConditionTypeQuantity": 100000
+  },
+  {
+    "id": 121506,
+    "sentence": "イベントPが125000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 216,
+    "releaseConditionTypeQuantity": 125000
+  },
+  {
+    "id": 121507,
+    "sentence": "イベントPが150000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 216,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 121508,
+    "sentence": "「After the Fire」の第8話を読む",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1001750
   },
   {
     "id": 800001,

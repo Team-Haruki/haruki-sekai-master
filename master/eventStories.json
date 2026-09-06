@@ -28169,5 +28169,134 @@
         ]
       }
     ]
+  },
+  {
+    "id": 216,
+    "eventId": 216,
+    "outline": "RUSH BEATSの予選を突破し、しばらく日本に帰ることになったVivid BAD SQUAD。スレイド達が開いてくれた見送りパーティーで、互いに相棒の話や大会への意気込みを語り、楽しい時間を過ごす彰人達だったが……。",
+    "bannerGameCharacterUnitId": 11,
+    "assetbundleName": "event_afterfire_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001743,
+        "eventStoryId": 216,
+        "episodeNo": 1,
+        "title": "気合いは十分",
+        "assetbundleName": "event_afterfire_2026_01",
+        "scenarioId": "event_216_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001744,
+        "eventStoryId": 216,
+        "episodeNo": 2,
+        "title": "予想外の来訪者達",
+        "assetbundleName": "event_afterfire_2026_02",
+        "scenarioId": "event_216_02",
+        "releaseConditionId": 121501,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001745,
+        "eventStoryId": 216,
+        "episodeNo": 3,
+        "title": "それぞれの相棒",
+        "assetbundleName": "event_afterfire_2026_03",
+        "scenarioId": "event_216_03",
+        "releaseConditionId": 121502,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001746,
+        "eventStoryId": 216,
+        "episodeNo": 4,
+        "title": "あの頃の距離",
+        "assetbundleName": "event_afterfire_2026_04",
+        "scenarioId": "event_216_04",
+        "releaseConditionId": 121503,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001747,
+        "eventStoryId": 216,
+        "episodeNo": 5,
+        "title": "たしかな熱を",
+        "assetbundleName": "event_afterfire_2026_05",
+        "scenarioId": "event_216_05",
+        "releaseConditionId": 121504,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001748,
+        "eventStoryId": 216,
+        "episodeNo": 6,
+        "title": "共鳴する想い",
+        "assetbundleName": "event_afterfire_2026_06",
+        "scenarioId": "event_216_06",
+        "releaseConditionId": 121505,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001749,
+        "eventStoryId": 216,
+        "episodeNo": 7,
+        "title": "混乱",
+        "assetbundleName": "event_afterfire_2026_07",
+        "scenarioId": "event_216_07",
+        "releaseConditionId": 121506,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001750,
+        "eventStoryId": 216,
+        "episodeNo": 8,
+        "title": "疑念",
+        "assetbundleName": "event_afterfire_2026_08",
+        "scenarioId": "event_216_08",
+        "releaseConditionId": 121507,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 173
+          }
+        ]
+      }
+    ]
   }
 ]

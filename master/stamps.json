@@ -10732,6 +10732,18 @@
     "description": "「Mix&Make Party Time!!\nアフターライブ」に参加"
   },
   {
+    "id": 958,
+    "stampType": "illustration",
+    "seq": 12560,
+    "name": "[スタンプ]彰人：どうなってんだよ…！",
+    "assetbundleName": "stamp0958",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 11,
+    "gameCharacterUnitId": 11,
+    "archivePublishedAt": 1788674400000,
+    "description": "「After the Fire\nアフターライブ」に参加"
+  },
+  {
     "id": 101021,
     "stampType": "illustration",
     "seq": 7130,

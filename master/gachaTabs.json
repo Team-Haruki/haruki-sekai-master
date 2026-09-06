@@ -1428,5 +1428,14 @@
     ],
     "seq": 570,
     "assetbundleName": "ab_gacha_tab_27"
+  },
+  {
+    "id": 148,
+    "childGachaIds": [
+      4003,
+      4004
+    ],
+    "seq": 560,
+    "assetbundleName": "ab_gacha_tab_30"
   }
 ]

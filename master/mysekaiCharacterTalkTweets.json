@@ -52533,5 +52533,12 @@
     "expressionEyeName": "normal",
     "expressionMouthName": "smile01",
     "text": "ねえねえ、これあたしの\nためのイスなんだよね！"
+  },
+  {
+    "id": 18042,
+    "motionName": "mov_cm_happy_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "ん？　元気がないように\n見えるって？"
   }
 ]

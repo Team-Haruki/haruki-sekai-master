@@ -24560,6 +24560,56 @@
     "bodyCostume3dId": 2038026
   },
   {
+    "id": 2473,
+    "characterType": "game_character",
+    "characterId": 9,
+    "unit": "street",
+    "name": "小豆沢こはね（B:olsterer）",
+    "headCostume3dId": 2047065,
+    "hairCostume3dId": 209,
+    "bodyCostume3dId": 2047066
+  },
+  {
+    "id": 2474,
+    "characterType": "game_character",
+    "characterId": 10,
+    "unit": "street",
+    "name": "白石杏（B:olsterer）",
+    "headCostume3dId": 2047073,
+    "hairCostume3dId": 210,
+    "bodyCostume3dId": 2047074
+  },
+  {
+    "id": 2475,
+    "characterType": "game_character",
+    "characterId": 11,
+    "unit": "street",
+    "name": "東雲彰人（B:attler）",
+    "headCostume3dId": 2045001,
+    "hairCostume3dId": 211,
+    "bodyCostume3dId": 2045002
+  },
+  {
+    "id": 2476,
+    "characterType": "game_character",
+    "characterId": 12,
+    "unit": "street",
+    "name": "青柳冬弥（B:eliever）",
+    "headCostume3dId": 2046009,
+    "hairCostume3dId": 212,
+    "bodyCostume3dId": 2046010
+  },
+  {
+    "id": 2477,
+    "characterType": "game_character",
+    "characterId": 22,
+    "unit": "piapro",
+    "name": "鏡音リン（B:olsterer）",
+    "headCostume3dId": 2047137,
+    "hairCostume3dId": 227,
+    "bodyCostume3dId": 2047138
+  },
+  {
     "id": 2478,
     "characterType": "game_character",
     "characterId": 13,

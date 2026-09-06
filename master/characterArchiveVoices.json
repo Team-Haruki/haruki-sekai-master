@@ -128468,6 +128468,14 @@
     "displayStartAt": 1788404400000
   },
   {
+    "id": 8010044,
+    "groupId": 8010044,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1336,
+    "displayStartAt": 1788663600000
+  },
+  {
     "id": 8020001,
     "groupId": 8020001,
     "gameCharacterId": 2,
@@ -131772,6 +131780,14 @@
     "displayStartAt": 1786935600000
   },
   {
+    "id": 8110044,
+    "groupId": 8110044,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1465,
+    "displayStartAt": 1788663600000
+  },
+  {
     "id": 8120001,
     "groupId": 8120001,
     "gameCharacterId": 12,
@@ -132106,6 +132122,14 @@
     "characterArchiveVoiceType": "collect_card",
     "externalId": 1430,
     "displayStartAt": 1784430000000
+  },
+  {
+    "id": 8120044,
+    "groupId": 8120044,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1466,
+    "displayStartAt": 1788663600000
   },
   {
     "id": 8130001,
@@ -133116,6 +133140,14 @@
     "displayStartAt": 1786935600000
   },
   {
+    "id": 8150041,
+    "groupId": 8150041,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1342,
+    "displayStartAt": 1788663600000
+  },
+  {
     "id": 8160001,
     "groupId": 8160001,
     "gameCharacterId": 16,
@@ -133442,6 +133474,14 @@
     "characterArchiveVoiceType": "collect_card",
     "externalId": 1431,
     "displayStartAt": 1784430000000
+  },
+  {
+    "id": 8160042,
+    "groupId": 8160042,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1330,
+    "displayStartAt": 1788663600000
   },
   {
     "id": 8170001,
@@ -135519,6 +135559,15 @@
     "characterArchiveVoiceType": "collect_card",
     "externalId": 1436,
     "displayStartAt": 1785466800000
+  },
+  {
+    "id": 8220042,
+    "groupId": 8220042,
+    "gameCharacterId": 22,
+    "unit": "street",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1467,
+    "displayStartAt": 1788663600000
   },
   {
     "id": 8230001,

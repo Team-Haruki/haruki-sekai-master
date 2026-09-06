@@ -80111,5 +80111,16 @@
     "assetbundleName": "mysekai/talk/scenario/talk",
     "lua": "mysekai_talk_birthday2026_014_004",
     "isEnabledForMulti": true
+  },
+  {
+    "id": 8559,
+    "mysekaiGameCharacterUnitGroupId": 11,
+    "mysekaiCharacterTalkConditionGroupId": 1059,
+    "mysekaiSiteGroupId": 4,
+    "mysekaiCharacterTalkTermId": 1,
+    "characterArchiveMysekaiCharacterTalkGroupId": 8012,
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "lua": "mysekai_talk_street27_011_001",
+    "isEnabledForMulti": true
   }
 ]

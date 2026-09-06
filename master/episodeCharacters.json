@@ -70012,5 +70012,208 @@
     "character2dId": 31,
     "storyType": "card_story",
     "episodeId": 2798
+  },
+  {
+    "id": 14116,
+    "seq": 1,
+    "character2dId": 11,
+    "storyType": "event_story",
+    "episodeId": 1001743
+  },
+  {
+    "id": 14117,
+    "seq": 2,
+    "character2dId": 12,
+    "storyType": "event_story",
+    "episodeId": 1001743
+  },
+  {
+    "id": 14118,
+    "seq": 3,
+    "character2dId": 27,
+    "storyType": "event_story",
+    "episodeId": 1001743
+  },
+  {
+    "id": 14119,
+    "seq": 4,
+    "character2dId": 28,
+    "storyType": "event_story",
+    "episodeId": 1001743
+  },
+  {
+    "id": 14120,
+    "seq": 1,
+    "character2dId": 9,
+    "storyType": "event_story",
+    "episodeId": 1001744
+  },
+  {
+    "id": 14121,
+    "seq": 2,
+    "character2dId": 10,
+    "storyType": "event_story",
+    "episodeId": 1001744
+  },
+  {
+    "id": 14122,
+    "seq": 3,
+    "character2dId": 11,
+    "storyType": "event_story",
+    "episodeId": 1001744
+  },
+  {
+    "id": 14123,
+    "seq": 4,
+    "character2dId": 12,
+    "storyType": "event_story",
+    "episodeId": 1001744
+  },
+  {
+    "id": 14124,
+    "seq": 1,
+    "character2dId": 11,
+    "storyType": "event_story",
+    "episodeId": 1001745
+  },
+  {
+    "id": 14125,
+    "seq": 1,
+    "character2dId": 11,
+    "storyType": "event_story",
+    "episodeId": 1001746
+  },
+  {
+    "id": 14126,
+    "seq": 2,
+    "character2dId": 12,
+    "storyType": "event_story",
+    "episodeId": 1001746
+  },
+  {
+    "id": 14127,
+    "seq": 1,
+    "character2dId": 11,
+    "storyType": "event_story",
+    "episodeId": 1001747
+  },
+  {
+    "id": 14128,
+    "seq": 2,
+    "character2dId": 12,
+    "storyType": "event_story",
+    "episodeId": 1001747
+  },
+  {
+    "id": 14129,
+    "seq": 3,
+    "character2dId": 27,
+    "storyType": "event_story",
+    "episodeId": 1001747
+  },
+  {
+    "id": 14130,
+    "seq": 4,
+    "character2dId": 28,
+    "storyType": "event_story",
+    "episodeId": 1001747
+  },
+  {
+    "id": 14131,
+    "seq": 1,
+    "character2dId": 9,
+    "storyType": "event_story",
+    "episodeId": 1001748
+  },
+  {
+    "id": 14132,
+    "seq": 2,
+    "character2dId": 10,
+    "storyType": "event_story",
+    "episodeId": 1001748
+  },
+  {
+    "id": 14133,
+    "seq": 3,
+    "character2dId": 11,
+    "storyType": "event_story",
+    "episodeId": 1001748
+  },
+  {
+    "id": 14134,
+    "seq": 4,
+    "character2dId": 12,
+    "storyType": "event_story",
+    "episodeId": 1001748
+  },
+  {
+    "id": 14135,
+    "seq": 5,
+    "character2dId": 27,
+    "storyType": "event_story",
+    "episodeId": 1001748
+  },
+  {
+    "id": 14136,
+    "seq": 6,
+    "character2dId": 28,
+    "storyType": "event_story",
+    "episodeId": 1001748
+  },
+  {
+    "id": 14137,
+    "seq": 1,
+    "character2dId": 9,
+    "storyType": "event_story",
+    "episodeId": 1001749
+  },
+  {
+    "id": 14138,
+    "seq": 2,
+    "character2dId": 10,
+    "storyType": "event_story",
+    "episodeId": 1001749
+  },
+  {
+    "id": 14139,
+    "seq": 3,
+    "character2dId": 11,
+    "storyType": "event_story",
+    "episodeId": 1001749
+  },
+  {
+    "id": 14140,
+    "seq": 4,
+    "character2dId": 12,
+    "storyType": "event_story",
+    "episodeId": 1001749
+  },
+  {
+    "id": 14141,
+    "seq": 1,
+    "character2dId": 9,
+    "storyType": "event_story",
+    "episodeId": 1001750
+  },
+  {
+    "id": 14142,
+    "seq": 2,
+    "character2dId": 10,
+    "storyType": "event_story",
+    "episodeId": 1001750
+  },
+  {
+    "id": 14143,
+    "seq": 3,
+    "character2dId": 11,
+    "storyType": "event_story",
+    "episodeId": 1001750
+  },
+  {
+    "id": 14144,
+    "seq": 4,
+    "character2dId": 12,
+    "storyType": "event_story",
+    "episodeId": 1001750
   }
 ]

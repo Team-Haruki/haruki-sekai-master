@@ -9870,6 +9870,12 @@
     "seq": 0
   },
   {
+    "id": 1760,
+    "musicId": 804,
+    "musicTag": "all",
+    "seq": 0
+  },
+  {
     "id": 1960,
     "musicId": 754,
     "musicTag": "school_refusal",
@@ -10048,5 +10054,11 @@
     "musicId": 550,
     "musicTag": "idol",
     "seq": 4
+  },
+  {
+    "id": 1991,
+    "musicId": 804,
+    "musicTag": "street",
+    "seq": 3
   }
 ]

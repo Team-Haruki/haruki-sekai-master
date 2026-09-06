@@ -70632,5 +70632,279 @@
         }
       }
     ]
+  },
+  {
+    "id": 216,
+    "eventId": 216,
+    "assetbundleName": "event_afterfire_2026",
+    "startAt": 1788674400000,
+    "endAt": 1789905599000,
+    "eventExchanges": [
+      {
+        "id": 4890,
+        "eventExchangeSummaryId": 216,
+        "seq": 1,
+        "resourceBoxId": 548,
+        "exchangeLimit": 1,
+        "eventExchangeCost": {
+          "id": 4890,
+          "eventExchangeId": 4890,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 5000
+        }
+      },
+      {
+        "id": 4891,
+        "eventExchangeSummaryId": 216,
+        "seq": 2,
+        "resourceBoxId": 547,
+        "exchangeLimit": 1,
+        "eventExchangeCost": {
+          "id": 4891,
+          "eventExchangeId": 4891,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 15000
+        }
+      },
+      {
+        "id": 4892,
+        "eventExchangeSummaryId": 216,
+        "seq": 3,
+        "resourceBoxId": 52,
+        "exchangeLimit": 2,
+        "eventExchangeCost": {
+          "id": 4892,
+          "eventExchangeId": 4892,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 15000
+        }
+      },
+      {
+        "id": 4893,
+        "eventExchangeSummaryId": 216,
+        "seq": 4,
+        "resourceBoxId": 3,
+        "exchangeLimit": 5,
+        "eventExchangeCost": {
+          "id": 4893,
+          "eventExchangeId": 4893,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 1000
+        }
+      },
+      {
+        "id": 4894,
+        "eventExchangeSummaryId": 216,
+        "seq": 5,
+        "resourceBoxId": 9000,
+        "exchangeLimit": 20,
+        "eventExchangeCost": {
+          "id": 4894,
+          "eventExchangeId": 4894,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 1000
+        }
+      },
+      {
+        "id": 4895,
+        "eventExchangeSummaryId": 216,
+        "seq": 6,
+        "resourceBoxId": 17,
+        "exchangeLimit": 10,
+        "eventExchangeCost": {
+          "id": 4895,
+          "eventExchangeId": 4895,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 100
+        }
+      },
+      {
+        "id": 4896,
+        "eventExchangeSummaryId": 216,
+        "seq": 7,
+        "resourceBoxId": 7,
+        "exchangeLimit": 1,
+        "eventExchangeCost": {
+          "id": 4896,
+          "eventExchangeId": 4896,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 5000
+        }
+      },
+      {
+        "id": 4897,
+        "eventExchangeSummaryId": 216,
+        "seq": 8,
+        "resourceBoxId": 18,
+        "exchangeLimit": 50,
+        "eventExchangeCost": {
+          "id": 4897,
+          "eventExchangeId": 4897,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 100
+        }
+      },
+      {
+        "id": 4898,
+        "eventExchangeSummaryId": 216,
+        "seq": 9,
+        "resourceBoxId": 13,
+        "exchangeLimit": 10,
+        "eventExchangeCost": {
+          "id": 4898,
+          "eventExchangeId": 4898,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 300
+        }
+      },
+      {
+        "id": 4899,
+        "eventExchangeSummaryId": 216,
+        "seq": 10,
+        "resourceBoxId": 6,
+        "exchangeLimit": 20,
+        "eventExchangeCost": {
+          "id": 4899,
+          "eventExchangeId": 4899,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 1000
+        }
+      },
+      {
+        "id": 4900,
+        "eventExchangeSummaryId": 216,
+        "seq": 11,
+        "resourceBoxId": 9042,
+        "exchangeLimit": 20,
+        "eventExchangeCost": {
+          "id": 4900,
+          "eventExchangeId": 4900,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 500
+        }
+      },
+      {
+        "id": 4901,
+        "eventExchangeSummaryId": 216,
+        "seq": 12,
+        "resourceBoxId": 9041,
+        "exchangeLimit": 10,
+        "eventExchangeCost": {
+          "id": 4901,
+          "eventExchangeId": 4901,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 500
+        }
+      },
+      {
+        "id": 4902,
+        "eventExchangeSummaryId": 216,
+        "seq": 13,
+        "resourceBoxId": 9,
+        "exchangeLimit": 300,
+        "eventExchangeCost": {
+          "id": 4902,
+          "eventExchangeId": 4902,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 50
+        }
+      },
+      {
+        "id": 4903,
+        "eventExchangeSummaryId": 216,
+        "seq": 14,
+        "resourceBoxId": 10,
+        "exchangeLimit": 30,
+        "eventExchangeCost": {
+          "id": 4903,
+          "eventExchangeId": 4903,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 500
+        }
+      },
+      {
+        "id": 4904,
+        "eventExchangeSummaryId": 216,
+        "seq": 15,
+        "resourceBoxId": 11,
+        "exchangeLimit": 10,
+        "eventExchangeCost": {
+          "id": 4904,
+          "eventExchangeId": 4904,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 1000
+        }
+      },
+      {
+        "id": 4905,
+        "eventExchangeSummaryId": 216,
+        "seq": 16,
+        "resourceBoxId": 148,
+        "exchangeLimit": 3,
+        "eventExchangeCost": {
+          "id": 4905,
+          "eventExchangeId": 4905,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 30000
+        }
+      },
+      {
+        "id": 4906,
+        "eventExchangeSummaryId": 216,
+        "seq": 17,
+        "resourceBoxId": 12,
+        "exchangeLimit": 8,
+        "eventExchangeCost": {
+          "id": 4906,
+          "eventExchangeId": 4906,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 5000
+        }
+      },
+      {
+        "id": 4907,
+        "eventExchangeSummaryId": 216,
+        "seq": 18,
+        "resourceBoxId": 16,
+        "exchangeLimit": 1,
+        "eventExchangeCost": {
+          "id": 4907,
+          "eventExchangeId": 4907,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 10000
+        }
+      },
+      {
+        "id": 4908,
+        "eventExchangeSummaryId": 216,
+        "seq": 19,
+        "resourceBoxId": 232,
+        "eventExchangeCost": {
+          "id": 4908,
+          "eventExchangeId": 4908,
+          "resourceType": "event_item",
+          "resourceId": 303,
+          "resourceQuantity": 1
+        }
+      }
+    ]
   }
 ]
