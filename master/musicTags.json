@@ -7482,6 +7482,12 @@
     "seq": 0
   },
   {
+    "id": 1316,
+    "musicId": 793,
+    "musicTag": "all",
+    "seq": 0
+  },
+  {
     "id": 1317,
     "musicId": 794,
     "musicTag": "all",
@@ -9960,6 +9966,12 @@
     "seq": 0
   },
   {
+    "id": 1768,
+    "musicId": 812,
+    "musicTag": "all",
+    "seq": 0
+  },
+  {
     "id": 1769,
     "musicId": 813,
     "musicTag": "all",
@@ -9968,6 +9980,12 @@
   {
     "id": 1770,
     "musicId": 814,
+    "musicTag": "all",
+    "seq": 0
+  },
+  {
+    "id": 1780,
+    "musicId": 824,
     "musicTag": "all",
     "seq": 0
   },
@@ -10288,5 +10306,23 @@
     "musicId": 813,
     "musicTag": "vocaloid",
     "seq": 1
+  },
+  {
+    "id": 2014,
+    "musicId": 812,
+    "musicTag": "light_music_club",
+    "seq": 6
+  },
+  {
+    "id": 2015,
+    "musicId": 824,
+    "musicTag": "vocaloid",
+    "seq": 1
+  },
+  {
+    "id": 2016,
+    "musicId": 793,
+    "musicTag": "theme_park",
+    "seq": 2
   }
 ]
