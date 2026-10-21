@@ -1,12 +1,12 @@
 {
-  "appHash": "23fd5dec-45ce-40c9-88db-1daaa9c1473d",
+  "appHash": "833770f2-7169-40b3-bb69-c0d27f312156",
   "systemProfile": "production",
-  "appVersion": "7.0.0",
+  "appVersion": "7.1.0",
   "multiPlayVersion": "miku",
-  "assetVersion": "7.0.0.30",
+  "assetVersion": "7.1.0.10",
   "appVersionStatus": "available",
-  "dataVersion": "7.0.0.32",
-  "assetHash": "d82d3cd1-054a-4bd2-8403-2a0e827e2289",
+  "dataVersion": "7.1.0.12",
+  "assetHash": "d44d0338-8d55-42e4-895f-65774fb158d0",
   "removeAssetVersion": "1.13.0.30",
   "cdnVersion": 0
 }
