@@ -3127,5 +3127,12 @@
     "eventStoryId": 222,
     "unit": "idol",
     "eventStoryUnitRelation": "sub"
+  },
+  {
+    "id": 465,
+    "seq": 465,
+    "eventStoryId": 223,
+    "unit": "school_refusal",
+    "eventStoryUnitRelation": "main"
   }
 ]
