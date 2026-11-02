@@ -3,10 +3,10 @@
   "systemProfile": "production",
   "appVersion": "7.1.0",
   "multiPlayVersion": "miku",
-  "assetVersion": "7.1.0.40",
+  "assetVersion": "7.1.0.45",
   "appVersionStatus": "available",
-  "dataVersion": "7.1.0.42",
-  "assetHash": "508fe7e0-4bbd-4d5d-b93b-de97b0a83e29",
+  "dataVersion": "7.1.0.45",
+  "assetHash": "edb8d1e2-2939-4015-9e92-1b795e4cd399",
   "removeAssetVersion": "1.13.0.30",
   "cdnVersion": 0
 }
